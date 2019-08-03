@@ -1,0 +1,2485 @@
+year,Area,Item,price
+2000,Canada,Apples,228.9
+2000,Canada,Apricots,734.6
+2000,Canada,Asparagus,2133.2
+2000,Canada,Barley,71.4
+2000,Canada,"Beans, dry",338.7
+2000,Canada,"Beans, green",222.9
+2000,Canada,Blueberries,1184.4
+2000,Canada,Cabbages and other brassicas,148.8
+2000,Canada,Carrots and turnips,131.3
+2000,Canada,Cauliflowers and broccoli,372.4
+2000,Canada,Cherries,2045.6
+2000,Canada,Chick peas,362.9
+2000,Canada,"Chillies and peppers, green",398.6
+2000,Canada,Cucumbers and gherkins,228.9
+2000,Canada,"Eggs, hen, in shell",1062.1
+2000,Canada,Grapes,668.6
+2000,Canada,Lentils,242.4
+2000,Canada,Lettuce and chicory,395.3
+2000,Canada,Linseed,138.7
+2000,Canada,Maize,90.2
+2000,Canada,"Maize, green",113.1
+2000,Canada,"Meat live weight, cattle",1376.3
+2000,Canada,"Meat live weight, chicken",1019.5
+2000,Canada,"Meat live weight, pig",940.7
+2000,Canada,"Meat live weight, turkey",1162.2
+2000,Canada,"Meat, pig",1147.2
+2000,Canada,"Melons, other (inc.cantaloupes)",334
+2000,Canada,"Milk, whole fresh cow",361.6
+2000,Canada,Mustard seed,195.3
+2000,Canada,Oats,59.3
+2000,Canada,Peaches and nectarines,655.8
+2000,Canada,Pears,360.9
+2000,Canada,"Peas, dry",84.2
+2000,Canada,"Peas, green",198.6
+2000,Canada,Plums and sloes,738
+2000,Canada,Potatoes,122.5
+2000,Canada,Rapeseed,154.9
+2000,Canada,Raspberries,946.7
+2000,Canada,Rye,47.1
+2000,Canada,Soybeans,177.1
+2000,Canada,Spinach,740.7
+2000,Canada,Strawberries,1395.9
+2000,Canada,Sunflower seed,195.9
+2000,Canada,"Tobacco, unmanufactured",3259
+2000,Canada,Tomatoes,101
+2000,Canada,Wheat,91.6
+2000,Mexico,Apples,372.3
+2000,Mexico,Apricots,740.3
+2000,Mexico,Asparagus,1964.3
+2000,Mexico,Barley,156.9
+2000,Mexico,"Beans, dry",552.5
+2000,Mexico,"Beans, green",369.2
+2000,Mexico,Blueberries,645.7
+2000,Mexico,Cabbages and other brassicas,153.7
+2000,Mexico,Carrots and turnips,149.6
+2000,Mexico,Cauliflowers and broccoli,263.2
+2000,Mexico,Cherries,687.4
+2000,Mexico,Chick peas,510.7
+2000,Mexico,"Chillies and peppers, green",445.6
+2000,Mexico,Cucumbers and gherkins,173.1
+2000,Mexico,"Eggs, hen, in shell",771
+2000,Mexico,Grapes,537.4
+2000,Mexico,Lentils,332.3
+2000,Mexico,Lettuce and chicory,207.6
+2000,Mexico,Linseed,951.8
+2000,Mexico,Maize,159.5
+2000,Mexico,"Maize, green",106.3
+2000,Mexico,"Meat live weight, cattle",1292.4
+2000,Mexico,"Meat live weight, chicken",1185.5
+2000,Mexico,"Meat live weight, pig",1271.2
+2000,Mexico,"Meat live weight, turkey",1957.6
+2000,Mexico,"Meat, pig",2135.3
+2000,Mexico,"Melons, other (inc.cantaloupes)",225.4
+2000,Mexico,"Milk, whole fresh cow",337.4
+2000,Mexico,Mustard seed,835.5
+2000,Mexico,Oats,212.1
+2000,Mexico,Peaches and nectarines,610.1
+2000,Mexico,Pears,241.5
+2000,Mexico,"Peas, dry",572.5
+2000,Mexico,"Peas, green",356.7
+2000,Mexico,Plums and sloes,224.6
+2000,Mexico,Potatoes,351.1
+2000,Mexico,Rapeseed,237.8
+2000,Mexico,Raspberries,1633.2
+2000,Mexico,Rye,225.6
+2000,Mexico,Soybeans,190.7
+2000,Mexico,Spinach,298.9
+2000,Mexico,Strawberries,572.5
+2000,Mexico,Sunflower seed,445.4
+2000,Mexico,"Tobacco, unmanufactured",1380.6
+2000,Mexico,Tomatoes,405.7
+2000,Mexico,Wheat,155.2
+2000,United States of America,Apples,282
+2000,United States of America,Apricots,407
+2000,United States of America,Asparagus,2579
+2000,United States of America,Barley,97
+2000,United States of America,"Beans, dry",342
+2000,United States of America,"Beans, green",476
+2000,United States of America,Blueberries,2143
+2000,United States of America,Cabbages and other brassicas,271
+2000,United States of America,Carrots and turnips,289
+2000,United States of America,Cauliflowers and broccoli,708
+2000,United States of America,Cherries,1477
+2000,United States of America,Chick peas,354
+2000,United States of America,"Chillies and peppers, green",694
+2000,United States of America,Cucumbers and gherkins,439
+2000,United States of America,"Eggs, hen, in shell",629.9
+2000,United States of America,Grapes,444
+2000,United States of America,Lentils,220
+2000,United States of America,Lettuce and chicory,381
+2000,United States of America,Linseed,130
+2000,United States of America,Maize,73
+2000,United States of America,"Maize, green",408
+2000,United States of America,"Meat live weight, cattle",1512
+2000,United States of America,"Meat live weight, chicken",750
+2000,United States of America,"Meat live weight, pig",946
+2000,United States of America,"Meat live weight, turkey",895
+2000,United States of America,"Meat, pig",1332.4
+2000,United States of America,"Melons, other (inc.cantaloupes)",377
+2000,United States of America,"Milk, whole fresh cow",273
+2000,United States of America,Mustard seed,223
+2000,United States of America,Oats,76
+2000,United States of America,Peaches and nectarines,421
+2000,United States of America,Pears,291
+2000,United States of America,"Peas, dry",117
+2000,United States of America,"Peas, green",273
+2000,United States of America,Plums and sloes,487
+2000,United States of America,Potatoes,112
+2000,United States of America,Rapeseed,215
+2000,United States of America,Raspberries,4189
+2000,United States of America,Rye,102
+2000,United States of America,Soybeans,167
+2000,United States of America,Spinach,728
+2000,United States of America,Strawberries,1431
+2000,United States of America,Sunflower seed,152
+2000,United States of America,"Tobacco, unmanufactured",4211
+2000,United States of America,Tomatoes,677
+2000,United States of America,Wheat,96
+2001,Canada,Apples,231.2
+2001,Canada,Apricots,692.8
+2001,Canada,Asparagus,2084.9
+2001,Canada,Barley,82
+2001,Canada,"Beans, dry",390
+2001,Canada,"Beans, green",240.2
+2001,Canada,Blueberries,800
+2001,Canada,Cabbages and other brassicas,169.8
+2001,Canada,Carrots and turnips,121.4
+2001,Canada,Cauliflowers and broccoli,350.6
+2001,Canada,Cherries,1696.8
+2001,Canada,Chick peas,383.5
+2001,Canada,"Chillies and peppers, green",418.4
+2001,Canada,Cucumbers and gherkins,251.2
+2001,Canada,"Eggs, hen, in shell",1056.9
+2001,Canada,Grapes,716.7
+2001,Canada,Lentils,201.5
+2001,Canada,Lettuce and chicory,335.1
+2001,Canada,Linseed,177.6
+2001,Canada,Maize,97.5
+2001,Canada,"Maize, green",107.8
+2001,Canada,"Meat live weight, cattle",1417.9
+2001,Canada,"Meat live weight, chicken",1033.1
+2001,Canada,"Meat live weight, pig",969.8
+2001,Canada,"Meat live weight, turkey",1135.1
+2001,Canada,"Meat, pig",1182.7
+2001,Canada,"Melons, other (inc.cantaloupes)",317.7
+2001,Canada,"Milk, whole fresh cow",353.8
+2001,Canada,Mustard seed,251.8
+2001,Canada,Oats,82
+2001,Canada,Peaches and nectarines,680.5
+2001,Canada,Pears,334.5
+2001,Canada,"Peas, dry",109.1
+2001,Canada,"Peas, green",204
+2001,Canada,Plums and sloes,976.3
+2001,Canada,Potatoes,123.3
+2001,Canada,Rapeseed,176.9
+2001,Canada,Raspberries,1174.5
+2001,Canada,Rye,62
+2001,Canada,Soybeans,167.9
+2001,Canada,Spinach,696.7
+2001,Canada,Strawberries,1377.2
+2001,Canada,Sunflower seed,214.4
+2001,Canada,"Tobacco, unmanufactured",3221.9
+2001,Canada,Tomatoes,98.1
+2001,Canada,Wheat,100.7
+2001,Mexico,Apples,300.8
+2001,Mexico,Apricots,406.8
+2001,Mexico,Asparagus,1865.4
+2001,Mexico,Barley,174.2
+2001,Mexico,"Beans, dry",668.8
+2001,Mexico,"Beans, green",387.1
+2001,Mexico,Blueberries,642.2
+2001,Mexico,Cabbages and other brassicas,129.6
+2001,Mexico,Carrots and turnips,175.8
+2001,Mexico,Cauliflowers and broccoli,326.7
+2001,Mexico,Cherries,695.8
+2001,Mexico,Chick peas,494.8
+2001,Mexico,"Chillies and peppers, green",389.6
+2001,Mexico,Cucumbers and gherkins,209
+2001,Mexico,"Eggs, hen, in shell",843.5
+2001,Mexico,Grapes,620.2
+2001,Mexico,Lentils,264.9
+2001,Mexico,Lettuce and chicory,208.2
+2001,Mexico,Linseed,856.3
+2001,Mexico,Maize,155.3
+2001,Mexico,"Maize, green",113.9
+2001,Mexico,"Meat live weight, cattle",1365.8
+2001,Mexico,"Meat live weight, chicken",1245.9
+2001,Mexico,"Meat live weight, pig",1392.6
+2001,Mexico,"Meat live weight, turkey",2118.3
+2001,Mexico,"Meat, pig",2358.1
+2001,Mexico,"Melons, other (inc.cantaloupes)",238.9
+2001,Mexico,"Milk, whole fresh cow",342.5
+2001,Mexico,Mustard seed,760
+2001,Mexico,Oats,181.7
+2001,Mexico,Peaches and nectarines,542.8
+2001,Mexico,Pears,238.9
+2001,Mexico,"Peas, dry",403.4
+2001,Mexico,"Peas, green",414.2
+2001,Mexico,Plums and sloes,318.8
+2001,Mexico,Potatoes,352
+2001,Mexico,Rapeseed,155.6
+2001,Mexico,Raspberries,3368.1
+2001,Mexico,Rye,301.5
+2001,Mexico,Soybeans,197.7
+2001,Mexico,Spinach,369.7
+2001,Mexico,Strawberries,648.5
+2001,Mexico,Sunflower seed,160.3
+2001,Mexico,"Tobacco, unmanufactured",1811.3
+2001,Mexico,Tomatoes,326.2
+2001,Mexico,Wheat,131.1
+2001,United States of America,Apples,348
+2001,United States of America,Apricots,389
+2001,United States of America,Asparagus,3086
+2001,United States of America,Barley,102
+2001,United States of America,"Beans, dry",487
+2001,United States of America,"Beans, green",506
+2001,United States of America,Blueberries,1916
+2001,United States of America,Cabbages and other brassicas,295
+2001,United States of America,Carrots and turnips,377
+2001,United States of America,Cauliflowers and broccoli,644
+2001,United States of America,Cherries,1356
+2001,United States of America,Chick peas,410
+2001,United States of America,"Chillies and peppers, green",633
+2001,United States of America,Cucumbers and gherkins,437
+2001,United States of America,"Eggs, hen, in shell",641.2
+2001,United States of America,Grapes,495
+2001,United States of America,Lentils,211
+2001,United States of America,Lettuce and chicory,395
+2001,United States of America,Linseed,169
+2001,United States of America,Maize,78
+2001,United States of America,"Maize, green",430
+2001,United States of America,"Meat live weight, cattle",1572
+2001,United States of America,"Meat live weight, chicken",860
+2001,United States of America,"Meat live weight, pig",972
+2001,United States of America,"Meat live weight, turkey",860
+2001,United States of America,"Meat, pig",1376.1
+2001,United States of America,"Melons, other (inc.cantaloupes)",419
+2001,United States of America,"Milk, whole fresh cow",331
+2001,United States of America,Mustard seed,267
+2001,United States of America,Oats,110
+2001,United States of America,Peaches and nectarines,461
+2001,United States of America,Pears,293
+2001,United States of America,"Peas, dry",122
+2001,United States of America,"Peas, green",291
+2001,United States of America,Plums and sloes,337
+2001,United States of America,Potatoes,154
+2001,United States of America,Rapeseed,238
+2001,United States of America,Raspberries,3660
+2001,United States of America,Rye,113
+2001,United States of America,Soybeans,161
+2001,United States of America,Spinach,714
+2001,United States of America,Strawberries,1671
+2001,United States of America,Sunflower seed,212
+2001,United States of America,"Tobacco, unmanufactured",4312
+2001,United States of America,Tomatoes,661
+2001,United States of America,Wheat,102
+2002,Canada,Apples,244.7
+2002,Canada,Apricots,755.7
+2002,Canada,Asparagus,2022.5
+2002,Canada,Barley,96.2
+2002,Canada,"Beans, dry",330.1
+2002,Canada,"Beans, green",283.6
+2002,Canada,Blueberries,917
+2002,Canada,Cabbages and other brassicas,196.9
+2002,Canada,Carrots and turnips,135.1
+2002,Canada,Cauliflowers and broccoli,391.9
+2002,Canada,Cherries,1873.4
+2002,Canada,Chick peas,307.1
+2002,Canada,"Chillies and peppers, green",376.6
+2002,Canada,Cucumbers and gherkins,238.3
+2002,Canada,"Eggs, hen, in shell",1062.1
+2002,Canada,Grapes,698.4
+2002,Canada,Lentils,231.9
+2002,Canada,Lettuce and chicory,320.5
+2002,Canada,Linseed,226.2
+2002,Canada,Maize,116
+2002,Canada,"Maize, green",114.7
+2002,Canada,"Meat live weight, cattle",1317.8
+2002,Canada,"Meat live weight, chicken",968.6
+2002,Canada,"Meat live weight, pig",763.4
+2002,Canada,"Meat live weight, turkey",1127.2
+2002,Canada,"Meat, pig",931
+2002,Canada,"Melons, other (inc.cantaloupes)",321.8
+2002,Canada,"Milk, whole fresh cow",357.5
+2002,Canada,Mustard seed,323.1
+2002,Canada,Oats,117.2
+2002,Canada,Peaches and nectarines,709.9
+2002,Canada,Pears,378.5
+2002,Canada,"Peas, dry",134.5
+2002,Canada,"Peas, green",198.8
+2002,Canada,Plums and sloes,648.1
+2002,Canada,Potatoes,151.7
+2002,Canada,Rapeseed,228.1
+2002,Canada,Raspberries,1276.4
+2002,Canada,Rye,85.4
+2002,Canada,Soybeans,187.3
+2002,Canada,Spinach,745.5
+2002,Canada,Strawberries,1331.8
+2002,Canada,Sunflower seed,273.4
+2002,Canada,"Tobacco, unmanufactured",3167
+2002,Canada,Tomatoes,90.5
+2002,Canada,Wheat,114.1
+2002,Mexico,Apples,319.7
+2002,Mexico,Apricots,828.5
+2002,Mexico,Asparagus,2540
+2002,Mexico,Barley,162.7
+2002,Mexico,"Beans, dry",593.3
+2002,Mexico,"Beans, green",362.5
+2002,Mexico,Blueberries,517.8
+2002,Mexico,Cabbages and other brassicas,119.2
+2002,Mexico,Carrots and turnips,151.8
+2002,Mexico,Cauliflowers and broccoli,309.1
+2002,Mexico,Cherries,671.9
+2002,Mexico,Chick peas,405.1
+2002,Mexico,"Chillies and peppers, green",354.8
+2002,Mexico,Cucumbers and gherkins,214.9
+2002,Mexico,"Eggs, hen, in shell",777.8
+2002,Mexico,Grapes,881.6
+2002,Mexico,Lentils,161.8
+2002,Mexico,Lettuce and chicory,190.3
+2002,Mexico,Linseed,1035.6
+2002,Mexico,Maize,155.4
+2002,Mexico,"Maize, green",121.3
+2002,Mexico,"Meat live weight, cattle",1276.9
+2002,Mexico,"Meat live weight, chicken",1194.1
+2002,Mexico,"Meat live weight, pig",1216.9
+2002,Mexico,"Meat live weight, turkey",2009.1
+2002,Mexico,"Meat, pig",2103.4
+2002,Mexico,"Melons, other (inc.cantaloupes)",235.4
+2002,Mexico,"Milk, whole fresh cow",326.2
+2002,Mexico,Mustard seed,420.4
+2002,Mexico,Oats,194.4
+2002,Mexico,Peaches and nectarines,448.3
+2002,Mexico,Pears,251.2
+2002,Mexico,"Peas, dry",415.9
+2002,Mexico,"Peas, green",401.1
+2002,Mexico,Plums and sloes,287.3
+2002,Mexico,Potatoes,455.9
+2002,Mexico,Rapeseed,225.8
+2002,Mexico,Raspberries,6443.9
+2002,Mexico,Rye,362.5
+2002,Mexico,Soybeans,210.4
+2002,Mexico,Spinach,310.7
+2002,Mexico,Strawberries,753.5
+2002,Mexico,Sunflower seed,206.3
+2002,Mexico,"Tobacco, unmanufactured",1905.3
+2002,Mexico,Tomatoes,323.5
+2002,Mexico,Wheat,125.8
+2002,United States of America,Apples,417
+2002,United States of America,Apricots,394
+2002,United States of America,Asparagus,2425
+2002,United States of America,Barley,125
+2002,United States of America,"Beans, dry",377
+2002,United States of America,"Beans, green",474
+2002,United States of America,Blueberries,2271
+2002,United States of America,Cabbages and other brassicas,284
+2002,United States of America,Carrots and turnips,421
+2002,United States of America,Cauliflowers and broccoli,710
+2002,United States of America,Cherries,1709
+2002,United States of America,Chick peas,505
+2002,United States of America,"Chillies and peppers, green",653
+2002,United States of America,Cucumbers and gherkins,419
+2002,United States of America,"Eggs, hen, in shell",579.8
+2002,United States of America,Grapes,427
+2002,United States of America,Lentils,315
+2002,United States of America,Lettuce and chicory,465
+2002,United States of America,Linseed,227
+2002,United States of America,Maize,91
+2002,United States of America,"Maize, green",423
+2002,United States of America,"Meat live weight, cattle",1466
+2002,United States of America,"Meat live weight, chicken",683
+2002,United States of America,"Meat live weight, pig",734
+2002,United States of America,"Meat live weight, turkey",805
+2002,United States of America,"Meat, pig",1036.6
+2002,United States of America,"Melons, other (inc.cantaloupes)",390
+2002,United States of America,"Milk, whole fresh cow",269
+2002,United States of America,Mustard seed,340
+2002,United States of America,Oats,125
+2002,United States of America,Peaches and nectarines,441
+2002,United States of America,Pears,327
+2002,United States of America,"Peas, dry",172
+2002,United States of America,"Peas, green",279
+2002,United States of America,Plums and sloes,425
+2002,United States of America,Potatoes,147
+2002,United States of America,Rapeseed,215
+2002,United States of America,Raspberries,3086
+2002,United States of America,Rye,131
+2002,United States of America,Soybeans,203
+2002,United States of America,Spinach,754
+2002,United States of America,Strawberries,1572
+2002,United States of America,Sunflower seed,267
+2002,United States of America,"Tobacco, unmanufactured",4268
+2002,United States of America,Tomatoes,697
+2002,United States of America,Wheat,131
+2003,Canada,Apples,271.9
+2003,Canada,Apricots,870.8
+2003,Canada,Asparagus,2177.6
+2003,Canada,Barley,93.5
+2003,Canada,"Beans, dry",342.6
+2003,Canada,"Beans, green",274.1
+2003,Canada,Blueberries,1048.5
+2003,Canada,Cabbages and other brassicas,194.1
+2003,Canada,Carrots and turnips,139.9
+2003,Canada,Cauliflowers and broccoli,427.5
+2003,Canada,Cherries,2041.3
+2003,Canada,Chick peas,319.8
+2003,Canada,"Chillies and peppers, green",490.3
+2003,Canada,Cucumbers and gherkins,264.1
+2003,Canada,"Eggs, hen, in shell",1200.2
+2003,Canada,Grapes,720.9
+2003,Canada,Lentils,315.5
+2003,Canada,Lettuce and chicory,414.7
+2003,Canada,Linseed,235.5
+2003,Canada,Maize,102.1
+2003,Canada,"Maize, green",116.3
+2003,Canada,"Meat live weight, cattle",1268.3
+2003,Canada,"Meat live weight, chicken",1142
+2003,Canada,"Meat live weight, pig",845.8
+2003,Canada,"Meat live weight, turkey",1259.8
+2003,Canada,"Meat, pig",1031.5
+2003,Canada,"Melons, other (inc.cantaloupes)",395.4
+2003,Canada,"Milk, whole fresh cow",425.4
+2003,Canada,Mustard seed,367.6
+2003,Canada,Oats,102.1
+2003,Canada,Peaches and nectarines,812.2
+2003,Canada,Pears,483.2
+2003,Canada,"Peas, dry",121.3
+2003,Canada,"Peas, green",226.3
+2003,Canada,Plums and sloes,897.9
+2003,Canada,Potatoes,143.5
+2003,Canada,Rapeseed,243.4
+2003,Canada,Raspberries,1351.1
+2003,Canada,Rye,94.2
+2003,Canada,Soybeans,233.4
+2003,Canada,Spinach,865.8
+2003,Canada,Strawberries,1556
+2003,Canada,Sunflower seed,284.8
+2003,Canada,"Tobacco, unmanufactured",3511.6
+2003,Canada,Tomatoes,102.8
+2003,Canada,Wheat,122.1
+2003,Mexico,Apples,309.2
+2003,Mexico,Apricots,741.5
+2003,Mexico,Asparagus,1973.8
+2003,Mexico,Barley,153.1
+2003,Mexico,"Beans, dry",470.6
+2003,Mexico,"Beans, green",323.2
+2003,Mexico,Blueberries,556.1
+2003,Mexico,Cabbages and other brassicas,105.3
+2003,Mexico,Carrots and turnips,160.8
+2003,Mexico,Cauliflowers and broccoli,297.3
+2003,Mexico,Cherries,649.8
+2003,Mexico,Chick peas,375.8
+2003,Mexico,"Chillies and peppers, green",385.9
+2003,Mexico,Cucumbers and gherkins,252.9
+2003,Mexico,"Eggs, hen, in shell",816.6
+2003,Mexico,Grapes,1002.9
+2003,Mexico,Lentils,239
+2003,Mexico,Lettuce and chicory,168.7
+2003,Mexico,Linseed,1555.6
+2003,Mexico,Maize,150
+2003,Mexico,"Maize, green",113.8
+2003,Mexico,"Meat live weight, cattle",1146.5
+2003,Mexico,"Meat live weight, chicken",1045.5
+2003,Mexico,"Meat live weight, pig",1147.5
+2003,Mexico,"Meat live weight, turkey",1784.2
+2003,Mexico,"Meat, pig",1979.8
+2003,Mexico,"Melons, other (inc.cantaloupes)",236.3
+2003,Mexico,"Milk, whole fresh cow",298.5
+2003,Mexico,Mustard seed,94.4
+2003,Mexico,Oats,170.4
+2003,Mexico,Peaches and nectarines,507.8
+2003,Mexico,Pears,205.1
+2003,Mexico,"Peas, dry",469.6
+2003,Mexico,"Peas, green",375.9
+2003,Mexico,Plums and sloes,240.3
+2003,Mexico,Potatoes,405.7
+2003,Mexico,Rapeseed,319.1
+2003,Mexico,Raspberries,3660.8
+2003,Mexico,Rye,148.3
+2003,Mexico,Soybeans,277.9
+2003,Mexico,Spinach,303
+2003,Mexico,Strawberries,656.6
+2003,Mexico,Sunflower seed,385.4
+2003,Mexico,"Tobacco, unmanufactured",1698.5
+2003,Mexico,Tomatoes,391.7
+2003,Mexico,Wheat,131.4
+2003,United States of America,Apples,414
+2003,United States of America,Apricots,417
+2003,United States of America,Asparagus,2315
+2003,United States of America,Barley,130
+2003,United States of America,"Beans, dry",406
+2003,United States of America,"Beans, green",487
+2003,United States of America,Blueberries,2579
+2003,United States of America,Cabbages and other brassicas,293
+2003,United States of America,Carrots and turnips,419
+2003,United States of America,Cauliflowers and broccoli,774
+2003,United States of America,Cherries,1554
+2003,United States of America,Chick peas,478
+2003,United States of America,"Chillies and peppers, green",677
+2003,United States of America,Cucumbers and gherkins,439
+2003,United States of America,"Eggs, hen, in shell",810.6
+2003,United States of America,Grapes,443
+2003,United States of America,Lentils,379
+2003,United States of America,Lettuce and chicory,399
+2003,United States of America,Linseed,231
+2003,United States of America,Maize,95
+2003,United States of America,"Maize, green",423
+2003,United States of America,"Meat live weight, cattle",1757
+2003,United States of America,"Meat live weight, chicken",772
+2003,United States of America,"Meat live weight, pig",827
+2003,United States of America,"Meat live weight, turkey",763
+2003,United States of America,"Meat, pig",1164.8
+2003,United States of America,"Melons, other (inc.cantaloupes)",370
+2003,United States of America,"Milk, whole fresh cow",277
+2003,United States of America,Mustard seed,353
+2003,United States of America,Oats,102
+2003,United States of America,Peaches and nectarines,416
+2003,United States of America,Pears,324
+2003,United States of America,"Peas, dry",168
+2003,United States of America,"Peas, green",277
+2003,United States of America,Plums and sloes,461
+2003,United States of America,Potatoes,130
+2003,United States of America,Rapeseed,243
+2003,United States of America,Raspberries,4586
+2003,United States of America,Rye,115
+2003,United States of America,Soybeans,270
+2003,United States of America,Spinach,814
+2003,United States of America,Strawberries,1651
+2003,United States of America,Sunflower seed,267
+2003,United States of America,"Tobacco, unmanufactured",4330
+2003,United States of America,Tomatoes,827
+2003,United States of America,Wheat,125
+2004,Canada,Apples,286.7
+2004,Canada,Apricots,898.5
+2004,Canada,Asparagus,2378.9
+2004,Canada,Barley,94.5
+2004,Canada,"Beans, dry",422.7
+2004,Canada,"Beans, green",295.2
+2004,Canada,Blueberries,1238.5
+2004,Canada,Cabbages and other brassicas,182.9
+2004,Canada,Carrots and turnips,168.3
+2004,Canada,Cauliflowers and broccoli,430.4
+2004,Canada,Cherries,2212.9
+2004,Canada,Chick peas,405.1
+2004,Canada,"Chillies and peppers, green",563.4
+2004,Canada,Cucumbers and gherkins,303.6
+2004,Canada,"Eggs, hen, in shell",1338.3
+2004,Canada,Grapes,810.9
+2004,Canada,Lentils,311.3
+2004,Canada,Lettuce and chicory,436.6
+2004,Canada,Linseed,295.9
+2004,Canada,Maize,109.1
+2004,Canada,"Maize, green",136.8
+2004,Canada,"Meat live weight, cattle",1192.1
+2004,Canada,"Meat live weight, chicken",1252.9
+2004,Canada,"Meat live weight, pig",1093
+2004,Canada,"Meat live weight, turkey",1419.7
+2004,Canada,"Meat, pig",1332.9
+2004,Canada,"Melons, other (inc.cantaloupes)",379.7
+2004,Canada,"Milk, whole fresh cow",461.2
+2004,Canada,Mustard seed,322.1
+2004,Canada,Oats,93.8
+2004,Canada,Peaches and nectarines,834
+2004,Canada,Pears,553.4
+2004,Canada,"Peas, dry",118.4
+2004,Canada,"Peas, green",236
+2004,Canada,Plums and sloes,970.8
+2004,Canada,Potatoes,138.4
+2004,Canada,Rapeseed,263.6
+2004,Canada,Raspberries,1797.1
+2004,Canada,Rye,100.7
+2004,Canada,Soybeans,265.9
+2004,Canada,Spinach,730.2
+2004,Canada,Strawberries,1860.8
+2004,Canada,Sunflower seed,241.3
+2004,Canada,"Tobacco, unmanufactured",3781.7
+2004,Canada,Tomatoes,100.7
+2004,Canada,Wheat,117.6
+2004,Mexico,Apples,314.8
+2004,Mexico,Apricots,708.8
+2004,Mexico,Asparagus,2318.2
+2004,Mexico,Barley,158.6
+2004,Mexico,"Beans, dry",507.4
+2004,Mexico,"Beans, green",325.8
+2004,Mexico,Blueberries,708.8
+2004,Mexico,Cabbages and other brassicas,105.6
+2004,Mexico,Carrots and turnips,116.6
+2004,Mexico,Cauliflowers and broccoli,281
+2004,Mexico,Cherries,686.6
+2004,Mexico,Chick peas,643.3
+2004,Mexico,"Chillies and peppers, green",524.6
+2004,Mexico,Cucumbers and gherkins,233.7
+2004,Mexico,"Eggs, hen, in shell",877.2
+2004,Mexico,Grapes,696.4
+2004,Mexico,Lentils,239.6
+2004,Mexico,Lettuce and chicory,165.3
+2004,Mexico,Linseed,1157.4
+2004,Mexico,Maize,148.8
+2004,Mexico,"Maize, green",114
+2004,Mexico,"Meat live weight, cattle",1290.1
+2004,Mexico,"Meat live weight, chicken",1121.7
+2004,Mexico,"Meat live weight, pig",1292.8
+2004,Mexico,"Meat live weight, turkey",1821.7
+2004,Mexico,"Meat, pig",2191.2
+2004,Mexico,"Melons, other (inc.cantaloupes)",274.3
+2004,Mexico,"Milk, whole fresh cow",310.1
+2004,Mexico,Mustard seed,104.5
+2004,Mexico,Oats,195.6
+2004,Mexico,Peaches and nectarines,490.1
+2004,Mexico,Pears,258.2
+2004,Mexico,"Peas, dry",393.4
+2004,Mexico,"Peas, green",444.7
+2004,Mexico,Plums and sloes,254
+2004,Mexico,Potatoes,384.3
+2004,Mexico,Rapeseed,309.1
+2004,Mexico,Raspberries,7046.7
+2004,Mexico,Rye,141.8
+2004,Mexico,Soybeans,240.9
+2004,Mexico,Spinach,232.9
+2004,Mexico,Strawberries,601.1
+2004,Mexico,Sunflower seed,277.3
+2004,Mexico,"Tobacco, unmanufactured",1529.6
+2004,Mexico,Tomatoes,550.3
+2004,Mexico,Wheat,147
+2004,United States of America,Apples,300
+2004,United States of America,Apricots,392
+2004,United States of America,Asparagus,1792
+2004,United States of America,Barley,114
+2004,United States of America,"Beans, dry",567
+2004,United States of America,"Beans, green",478
+2004,United States of America,Blueberries,2668
+2004,United States of America,Cabbages and other brassicas,289
+2004,United States of America,Carrots and turnips,448
+2004,United States of America,Cauliflowers and broccoli,679
+2004,United States of America,Cherries,1731
+2004,United States of America,Chick peas,551
+2004,United States of America,"Chillies and peppers, green",694
+2004,United States of America,Cucumbers and gherkins,445
+2004,United States of America,"Eggs, hen, in shell",786.6
+2004,United States of America,Grapes,532
+2004,United States of America,Lentils,317
+2004,United States of America,Lettuce and chicory,373
+2004,United States of America,Linseed,318
+2004,United States of America,Maize,81
+2004,United States of America,"Maize, green",423
+2004,United States of America,"Meat live weight, cattle",1892
+2004,United States of America,"Meat live weight, chicken",992
+2004,United States of America,"Meat live weight, pig",1129
+2004,United States of America,"Meat live weight, turkey",915
+2004,United States of America,"Meat, pig",1590.1
+2004,United States of America,"Melons, other (inc.cantaloupes)",324
+2004,United States of America,"Milk, whole fresh cow",356
+2004,United States of America,Mustard seed,335
+2004,United States of America,Oats,102
+2004,United States of America,Peaches and nectarines,413
+2004,United States of America,Pears,369
+2004,United States of America,"Peas, dry",131
+2004,United States of America,"Peas, green",281
+2004,United States of America,Plums and sloes,627
+2004,United States of America,Potatoes,125
+2004,United States of America,Rapeseed,311
+2004,United States of America,Raspberries,4608
+2004,United States of America,Rye,127
+2004,United States of America,Soybeans,211
+2004,United States of America,Spinach,489
+2004,United States of America,Strawberries,1508
+2004,United States of America,Sunflower seed,302
+2004,United States of America,"Tobacco, unmanufactured",4374
+2004,United States of America,Tomatoes,825
+2004,United States of America,Wheat,125
+2005,Canada,Apples,302.9
+2005,Canada,Apricots,969.7
+2005,Canada,Asparagus,2451
+2005,Canada,Barley,75.1
+2005,Canada,"Beans, dry",450.6
+2005,Canada,"Beans, green",353.2
+2005,Canada,Blueberries,1528.4
+2005,Canada,Cabbages and other brassicas,213.7
+2005,Canada,Carrots and turnips,192.3
+2005,Canada,Cauliflowers and broccoli,498.4
+2005,Canada,Cherries,2789.3
+2005,Canada,Chick peas,385.4
+2005,Canada,"Chillies and peppers, green",581.8
+2005,Canada,Cucumbers and gherkins,302.9
+2005,Canada,"Eggs, hen, in shell",1301.7
+2005,Canada,Grapes,997.7
+2005,Canada,Lentils,245.9
+2005,Canada,Lettuce and chicory,468.7
+2005,Canada,Linseed,300.4
+2005,Canada,Maize,90
+2005,Canada,"Maize, green",159.3
+2005,Canada,"Meat live weight, cattle",1446.7
+2005,Canada,"Meat live weight, chicken",1336.9
+2005,Canada,"Meat live weight, pig",1095.1
+2005,Canada,"Meat live weight, turkey",1442.5
+2005,Canada,"Meat, pig",1335.5
+2005,Canada,"Melons, other (inc.cantaloupes)",396.9
+2005,Canada,"Milk, whole fresh cow",528.2
+2005,Canada,Mustard seed,288
+2005,Canada,Oats,95.7
+2005,Canada,Peaches and nectarines,988.6
+2005,Canada,Pears,600.8
+2005,Canada,"Peas, dry",101.5
+2005,Canada,"Peas, green",243.4
+2005,Canada,Plums and sloes,1224.7
+2005,Canada,Potatoes,155.1
+2005,Canada,Rapeseed,213.7
+2005,Canada,Raspberries,1731.4
+2005,Canada,Rye,95.7
+2005,Canada,Soybeans,226.9
+2005,Canada,Spinach,1127.3
+2005,Canada,Strawberries,2172
+2005,Canada,Sunflower seed,283.9
+2005,Canada,"Tobacco, unmanufactured",3938.1
+2005,Canada,Tomatoes,111.4
+2005,Canada,Wheat,98.2
+2005,Mexico,Apples,329.3
+2005,Mexico,Apricots,763
+2005,Mexico,Asparagus,2383.9
+2005,Mexico,Barley,163.6
+2005,Mexico,"Beans, dry",633.4
+2005,Mexico,"Beans, green",471.9
+2005,Mexico,Blueberries,1835.2
+2005,Mexico,Cabbages and other brassicas,124.7
+2005,Mexico,Carrots and turnips,149.2
+2005,Mexico,Cauliflowers and broccoli,302.8
+2005,Mexico,Cherries,719.1
+2005,Mexico,Chick peas,652.8
+2005,Mexico,"Chillies and peppers, green",446.8
+2005,Mexico,Cucumbers and gherkins,240.2
+2005,Mexico,"Eggs, hen, in shell",769
+2005,Mexico,Grapes,837.9
+2005,Mexico,Lentils,277
+2005,Mexico,Lettuce and chicory,179.1
+2005,Mexico,Linseed,1073
+2005,Mexico,Maize,144.8
+2005,Mexico,"Maize, green",128
+2005,Mexico,"Meat live weight, cattle",1526.9
+2005,Mexico,"Meat live weight, chicken",1201.1
+2005,Mexico,"Meat live weight, pig",1463.6
+2005,Mexico,"Meat live weight, turkey",1896.7
+2005,Mexico,"Meat, pig",2450
+2005,Mexico,"Melons, other (inc.cantaloupes)",273.1
+2005,Mexico,"Milk, whole fresh cow",345
+2005,Mexico,Mustard seed,122.9
+2005,Mexico,Oats,199.3
+2005,Mexico,Peaches and nectarines,527.6
+2005,Mexico,Pears,318.2
+2005,Mexico,"Peas, dry",502.9
+2005,Mexico,"Peas, green",450.8
+2005,Mexico,Plums and sloes,261.3
+2005,Mexico,Potatoes,423.9
+2005,Mexico,Rapeseed,285.9
+2005,Mexico,Raspberries,2786.6
+2005,Mexico,Rye,275.3
+2005,Mexico,Soybeans,210.7
+2005,Mexico,Spinach,285.3
+2005,Mexico,Strawberries,817.6
+2005,Mexico,Sunflower seed,221.9
+2005,Mexico,"Tobacco, unmanufactured",1648.4
+2005,Mexico,Tomatoes,405
+2005,Mexico,Wheat,149
+2005,United States of America,Apples,381
+2005,United States of America,Apricots,573
+2005,United States of America,Asparagus,1927
+2005,United States of America,Barley,116
+2005,United States of America,"Beans, dry",408
+2005,United States of America,"Beans, green",464
+2005,United States of America,Blueberries,3175
+2005,United States of America,Cabbages and other brassicas,300
+2005,United States of America,Carrots and turnips,463
+2005,United States of America,Cauliflowers and broccoli,710
+2005,United States of America,Cherries,2194
+2005,United States of America,Chick peas,560
+2005,United States of America,"Chillies and peppers, green",734
+2005,United States of America,Cucumbers and gherkins,509
+2005,United States of America,"Eggs, hen, in shell",489.7
+2005,United States of America,Grapes,493
+2005,United States of America,Lentils,243
+2005,United States of America,Lettuce and chicory,342
+2005,United States of America,Linseed,234
+2005,United States of America,Maize,79
+2005,United States of America,"Maize, green",487
+2005,United States of America,"Meat live weight, cattle",1978
+2005,United States of America,"Meat live weight, chicken",970
+2005,United States of America,"Meat live weight, pig",1093
+2005,United States of America,"Meat live weight, turkey",981
+2005,United States of America,"Meat, pig",1539.4
+2005,United States of America,"Melons, other (inc.cantaloupes)",351
+2005,United States of America,"Milk, whole fresh cow",335
+2005,United States of America,Mustard seed,298
+2005,United States of America,Oats,112
+2005,United States of America,Peaches and nectarines,493
+2005,United States of America,Pears,395
+2005,United States of America,"Peas, dry",105
+2005,United States of America,"Peas, green",298
+2005,United States of America,Plums and sloes,596
+2005,United States of America,Potatoes,155
+2005,United States of America,Rapeseed,315
+2005,United States of America,Raspberries,4387
+2005,United States of America,Rye,130
+2005,United States of America,Soybeans,208
+2005,United States of America,Spinach,503
+2005,United States of America,Strawberries,1519
+2005,United States of America,Sunflower seed,267
+2005,United States of America,"Tobacco, unmanufactured",3620
+2005,United States of America,Tomatoes,917
+2005,United States of America,Wheat,126
+2006,Canada,Apples,323.9
+2006,Canada,Apricots,981.9
+2006,Canada,Asparagus,2520.4
+2006,Canada,Barley,88.2
+2006,Canada,"Beans, dry",468.1
+2006,Canada,"Beans, green",468.1
+2006,Canada,Blueberries,2458.7
+2006,Canada,Cabbages and other brassicas,233.6
+2006,Canada,Carrots and turnips,194.8
+2006,Canada,Cauliflowers and broccoli,588
+2006,Canada,Cherries,3485.1
+2006,Canada,Chick peas,454.9
+2006,Canada,"Chillies and peppers, green",2850.2
+2006,Canada,Cucumbers and gherkins,414.3
+2006,Canada,"Eggs, hen, in shell",1412.5
+2006,Canada,Grapes,1041.3
+2006,Canada,Lentils,210.9
+2006,Canada,Lettuce and chicory,654.1
+2006,Canada,Linseed,205.8
+2006,Canada,Maize,106.8
+2006,Canada,"Maize, green",193.9
+2006,Canada,"Meat live weight, cattle",1547
+2006,Canada,"Meat live weight, chicken",1366.4
+2006,Canada,"Meat live weight, pig",1021.1
+2006,Canada,"Meat live weight, turkey",1507.5
+2006,Canada,"Meat, pig",1245.3
+2006,Canada,"Melons, other (inc.cantaloupes)",473.4
+2006,Canada,"Milk, whole fresh cow",574.2
+2006,Canada,Mustard seed,258
+2006,Canada,Oats,112.6
+2006,Canada,Peaches and nectarines,1040.9
+2006,Canada,Pears,654.1
+2006,Canada,"Peas, dry",118.3
+2006,Canada,"Peas, green",246
+2006,Canada,Plums and sloes,1260.4
+2006,Canada,Potatoes,194.2
+2006,Canada,Rapeseed,239.1
+2006,Canada,Raspberries,1834.2
+2006,Canada,Rye,91.3
+2006,Canada,Soybeans,268.2
+2006,Canada,Spinach,1078.1
+2006,Canada,Strawberries,2383.1
+2006,Canada,Sunflower seed,300.6
+2006,Canada,"Tobacco, unmanufactured",4019.9
+2006,Canada,Tomatoes,124.3
+2006,Canada,Wheat,107.5
+2006,Mexico,Apples,433.2
+2006,Mexico,Apricots,786.7
+2006,Mexico,Asparagus,2541.4
+2006,Mexico,Barley,175.4
+2006,Mexico,"Beans, dry",578.2
+2006,Mexico,"Beans, green",558.1
+2006,Mexico,Blueberries,1835
+2006,Mexico,Cabbages and other brassicas,130.7
+2006,Mexico,Carrots and turnips,147.4
+2006,Mexico,Cauliflowers and broccoli,263.7
+2006,Mexico,Cherries,741.4
+2006,Mexico,Chick peas,648.7
+2006,Mexico,"Chillies and peppers, green",359.9
+2006,Mexico,Cucumbers and gherkins,255.9
+2006,Mexico,"Eggs, hen, in shell",807.4
+2006,Mexico,Grapes,995.4
+2006,Mexico,Lentils,399.9
+2006,Mexico,Lettuce and chicory,166.5
+2006,Mexico,Linseed,1180.9
+2006,Mexico,Maize,184.5
+2006,Mexico,"Maize, green",136.3
+2006,Mexico,"Meat live weight, cattle",1534.1
+2006,Mexico,"Meat live weight, chicken",1145
+2006,Mexico,"Meat live weight, pig",1417.5
+2006,Mexico,"Meat live weight, turkey",1924.9
+2006,Mexico,"Meat, pig",2396.5
+2006,Mexico,"Melons, other (inc.cantaloupes)",262.2
+2006,Mexico,"Milk, whole fresh cow",347.7
+2006,Mexico,Mustard seed,137.6
+2006,Mexico,Oats,191.1
+2006,Mexico,Peaches and nectarines,543.9
+2006,Mexico,Pears,309.2
+2006,Mexico,"Peas, dry",536.4
+2006,Mexico,"Peas, green",497.5
+2006,Mexico,Plums and sloes,269.7
+2006,Mexico,Potatoes,438.4
+2006,Mexico,Rapeseed,264.5
+2006,Mexico,Raspberries,2873.1
+2006,Mexico,Rye,229.4
+2006,Mexico,Soybeans,239.2
+2006,Mexico,Spinach,274.9
+2006,Mexico,Strawberries,834.9
+2006,Mexico,Sunflower seed,451.7
+2006,Mexico,"Tobacco, unmanufactured",1688.1
+2006,Mexico,Tomatoes,539.7
+2006,Mexico,Wheat,153.8
+2006,United States of America,Apples,500
+2006,United States of America,Apricots,733
+2006,United States of America,Asparagus,1960
+2006,United States of America,Barley,131
+2006,United States of America,"Beans, dry",487
+2006,United States of America,"Beans, green",272
+2006,United States of America,Blueberries,3880
+2006,United States of America,Cabbages and other brassicas,712
+2006,United States of America,Carrots and turnips,454
+2006,United States of America,Cauliflowers and broccoli,712
+2006,United States of America,Cherries,1786
+2006,United States of America,Chick peas,560
+2006,United States of America,"Chillies and peppers, green",743
+2006,United States of America,Cucumbers and gherkins,373
+2006,United States of America,"Eggs, hen, in shell",567.1
+2006,United States of America,Grapes,572
+2006,United States of America,Lentils,273
+2006,United States of America,Lettuce and chicory,311
+2006,United States of America,Linseed,228
+2006,United States of America,Maize,120
+2006,United States of America,"Maize, green",507
+2006,United States of America,"Meat live weight, cattle",1922
+2006,United States of America,"Meat live weight, chicken",794
+2006,United States of America,"Meat live weight, pig",1014
+2006,United States of America,"Meat live weight, turkey",1058
+2006,United States of America,"Meat, pig",1428.2
+2006,United States of America,"Melons, other (inc.cantaloupes)",379
+2006,United States of America,"Milk, whole fresh cow",286
+2006,United States of America,Mustard seed,302
+2006,United States of America,Oats,129
+2006,United States of America,Peaches and nectarines,573
+2006,United States of America,Pears,438
+2006,United States of America,"Peas, dry",145
+2006,United States of America,"Peas, green",558
+2006,United States of America,Plums and sloes,758
+2006,United States of America,Potatoes,161
+2006,United States of America,Rapeseed,328
+2006,United States of America,Raspberries,4740
+2006,United States of America,Rye,131
+2006,United States of America,Soybeans,236
+2006,United States of America,Spinach,659
+2006,United States of America,Strawberries,1393
+2006,United States of America,Sunflower seed,320
+2006,United States of America,"Tobacco, unmanufactured",3671
+2006,United States of America,Tomatoes,963
+2006,United States of America,Wheat,157
+2007,Canada,Apples,359.1
+2007,Canada,Apricots,1083.9
+2007,Canada,Asparagus,2783.7
+2007,Canada,Barley,153.6
+2007,Canada,"Beans, dry",486.3
+2007,Canada,"Beans, green",486.3
+2007,Canada,Blueberries,2380.5
+2007,Canada,Cabbages and other brassicas,268.1
+2007,Canada,Carrots and turnips,207.9
+2007,Canada,Cauliflowers and broccoli,625.8
+2007,Canada,Cherries,3220.4
+2007,Canada,Chick peas,509.4
+2007,Canada,"Chillies and peppers, green",704.1
+2007,Canada,Cucumbers and gherkins,409.1
+2007,Canada,"Eggs, hen, in shell",1560.2
+2007,Canada,Grapes,1322.2
+2007,Canada,Lentils,344.1
+2007,Canada,Lettuce and chicory,574
+2007,Canada,Linseed,328.6
+2007,Canada,Maize,147.9
+2007,Canada,"Maize, green",192.7
+2007,Canada,"Meat live weight, cattle",1621.1
+2007,Canada,"Meat live weight, chicken",1582.7
+2007,Canada,"Meat live weight, pig",1035.5
+2007,Canada,"Meat live weight, turkey",1787.5
+2007,Canada,"Meat, pig",1262.8
+2007,Canada,"Melons, other (inc.cantaloupes)",428.6
+2007,Canada,"Milk, whole fresh cow",639
+2007,Canada,Mustard seed,411.5
+2007,Canada,Oats,150.4
+2007,Canada,Peaches and nectarines,1054
+2007,Canada,Pears,752.8
+2007,Canada,"Peas, dry",203.5
+2007,Canada,"Peas, green",277.3
+2007,Canada,Plums and sloes,1269.6
+2007,Canada,Potatoes,186.4
+2007,Canada,Rapeseed,346.3
+2007,Canada,Raspberries,1650.9
+2007,Canada,Rye,135.2
+2007,Canada,Soybeans,283.2
+2007,Canada,Spinach,1025.5
+2007,Canada,Strawberries,2360
+2007,Canada,Sunflower seed,383.9
+2007,Canada,"Tobacco, unmanufactured",4413
+2007,Canada,Tomatoes,128.2
+2007,Canada,Wheat,178.7
+2007,Mexico,Apples,514
+2007,Mexico,Apricots,816.1
+2007,Mexico,Asparagus,2516.6
+2007,Mexico,Barley,198.4
+2007,Mexico,"Beans, dry",639.1
+2007,Mexico,"Beans, green",591.2
+2007,Mexico,Blueberries,1856.1
+2007,Mexico,Cabbages and other brassicas,132.1
+2007,Mexico,Carrots and turnips,175.7
+2007,Mexico,Cauliflowers and broccoli,260.3
+2007,Mexico,Cherries,783.6
+2007,Mexico,Chick peas,728.8
+2007,Mexico,"Chillies and peppers, green",551.7
+2007,Mexico,Cucumbers and gherkins,219.1
+2007,Mexico,"Eggs, hen, in shell",887.6
+2007,Mexico,Grapes,1160.6
+2007,Mexico,Lentils,280.7
+2007,Mexico,Lettuce and chicory,191
+2007,Mexico,Linseed,1380.3
+2007,Mexico,Maize,223.5
+2007,Mexico,"Maize, green",140.2
+2007,Mexico,"Meat live weight, cattle",1537.3
+2007,Mexico,"Meat live weight, chicken",1248.1
+2007,Mexico,"Meat live weight, pig",1331.4
+2007,Mexico,"Meat live weight, turkey",2144.9
+2007,Mexico,"Meat, pig",2349.9
+2007,Mexico,"Melons, other (inc.cantaloupes)",269.1
+2007,Mexico,"Milk, whole fresh cow",368.8
+2007,Mexico,Mustard seed,163.9
+2007,Mexico,Oats,187.5
+2007,Mexico,Peaches and nectarines,564.3
+2007,Mexico,Pears,400.1
+2007,Mexico,"Peas, dry",486.2
+2007,Mexico,"Peas, green",471.3
+2007,Mexico,Plums and sloes,285.1
+2007,Mexico,Potatoes,405.7
+2007,Mexico,Rapeseed,327.2
+2007,Mexico,Raspberries,2490.2
+2007,Mexico,Rye,201.3
+2007,Mexico,Soybeans,333.3
+2007,Mexico,Spinach,269.2
+2007,Mexico,Strawberries,914.9
+2007,Mexico,Sunflower seed,591.6
+2007,Mexico,"Tobacco, unmanufactured",1829.9
+2007,Mexico,Tomatoes,434.9
+2007,Mexico,Wheat,189.7
+2007,United States of America,Apples,635
+2007,United States of America,Apricots,526
+2007,United States of America,Asparagus,2180
+2007,United States of America,Barley,185
+2007,United States of America,"Beans, dry",635
+2007,United States of America,"Beans, green",453
+2007,United States of America,Blueberries,4079
+2007,United States of America,Cabbages and other brassicas,362
+2007,United States of America,Carrots and turnips,487
+2007,United States of America,Cauliflowers and broccoli,758
+2007,United States of America,Cherries,2006
+2007,United States of America,Chick peas,639
+2007,United States of America,"Chillies and peppers, green",730
+2007,United States of America,Cucumbers and gherkins,542
+2007,United States of America,"Eggs, hen, in shell",1203
+2007,United States of America,Grapes,539
+2007,United States of America,Lentils,573
+2007,United States of America,Lettuce and chicory,478
+2007,United States of America,Linseed,512
+2007,United States of America,Maize,165
+2007,United States of America,"Maize, green",500
+2007,United States of America,"Meat live weight, cattle",1982
+2007,United States of America,"Meat live weight, chicken",961
+2007,United States of America,"Meat live weight, pig",1027
+2007,United States of America,"Meat live weight, turkey",1153
+2007,United States of America,"Meat, pig",1446.5
+2007,United States of America,"Melons, other (inc.cantaloupes)",326
+2007,United States of America,"Milk, whole fresh cow",424
+2007,United States of America,Mustard seed,617
+2007,United States of America,Oats,181
+2007,United States of America,Peaches and nectarines,496
+2007,United States of America,Pears,459
+2007,United States of America,"Peas, dry",289
+2007,United States of America,"Peas, green",286
+2007,United States of America,Plums and sloes,733
+2007,United States of America,Potatoes,166
+2007,United States of America,Rapeseed,390
+2007,United States of America,Raspberries,6349
+2007,United States of America,Rye,197
+2007,United States of America,Soybeans,371
+2007,United States of America,Spinach,712
+2007,United States of America,Strawberries,1579
+2007,United States of America,Sunflower seed,478
+2007,United States of America,"Tobacco, unmanufactured",3732
+2007,United States of America,Tomatoes,767
+2007,United States of America,Wheat,238
+2008,Canada,Apples,383.8
+2008,Canada,Apricots,1404.8
+2008,Canada,Asparagus,2770.2
+2008,Canada,Barley,207.1
+2008,Canada,"Beans, dry",740.7
+2008,Canada,"Beans, green",467.7
+2008,Canada,Blueberries,1611.8
+2008,Canada,Cabbages and other brassicas,295.4
+2008,Canada,Carrots and turnips,236.4
+2008,Canada,Cauliflowers and broccoli,672.7
+2008,Canada,Cherries,3408.5
+2008,Canada,Chick peas,530.5
+2008,Canada,"Chillies and peppers, green",640.8
+2008,Canada,Cucumbers and gherkins,451.9
+2008,Canada,"Eggs, hen, in shell",1763.4
+2008,Canada,Grapes,1382.8
+2008,Canada,Lentils,656.5
+2008,Canada,Lettuce and chicory,618
+2008,Canada,Linseed,577.3
+2008,Canada,Maize,186.8
+2008,Canada,"Maize, green",255.1
+2008,Canada,"Meat live weight, cattle",1622.9
+2008,Canada,"Meat live weight, chicken",1799.4
+2008,Canada,"Meat live weight, pig",1016.9
+2008,Canada,"Meat live weight, turkey",2024.3
+2008,Canada,"Meat, pig",1240.2
+2008,Canada,"Melons, other (inc.cantaloupes)",424.6
+2008,Canada,"Milk, whole fresh cow",655.6
+2008,Canada,Mustard seed,835.3
+2008,Canada,Oats,184.9
+2008,Canada,Peaches and nectarines,1253.5
+2008,Canada,Pears,821.3
+2008,Canada,"Peas, dry",287.8
+2008,Canada,"Peas, green",312.5
+2008,Canada,Plums and sloes,1316.7
+2008,Canada,Potatoes,209.7
+2008,Canada,Rapeseed,466.9
+2008,Canada,Raspberries,2639.9
+2008,Canada,Rye,243.5
+2008,Canada,Soybeans,389.5
+2008,Canada,Spinach,1254.6
+2008,Canada,Strawberries,2818.5
+2008,Canada,Sunflower seed,535.2
+2008,Canada,"Tobacco, unmanufactured",4339.1
+2008,Canada,Tomatoes,126.3
+2008,Canada,Wheat,273.9
+2008,Mexico,Apples,478.1
+2008,Mexico,Apricots,805.4
+2008,Mexico,Asparagus,2831.9
+2008,Mexico,Barley,293
+2008,Mexico,"Beans, dry",823.2
+2008,Mexico,"Beans, green",581.7
+2008,Mexico,Blueberries,1806
+2008,Mexico,Cabbages and other brassicas,143.4
+2008,Mexico,Carrots and turnips,194.1
+2008,Mexico,Cauliflowers and broccoli,261.1
+2008,Mexico,Cherries,773.4
+2008,Mexico,Chick peas,699.6
+2008,Mexico,"Chillies and peppers, green",319.4
+2008,Mexico,Cucumbers and gherkins,262.3
+2008,Mexico,"Eggs, hen, in shell",1115.8
+2008,Mexico,Grapes,1168.1
+2008,Mexico,Lentils,447.8
+2008,Mexico,Lettuce and chicory,206.7
+2008,Mexico,Linseed,1280.1
+2008,Mexico,Maize,253.1
+2008,Mexico,"Maize, green",154.5
+2008,Mexico,"Meat live weight, cattle",1539.9
+2008,Mexico,"Meat live weight, chicken",1339.6
+2008,Mexico,"Meat live weight, pig",1419
+2008,Mexico,"Meat live weight, turkey",2269.8
+2008,Mexico,"Meat, pig",2489
+2008,Mexico,"Melons, other (inc.cantaloupes)",264.5
+2008,Mexico,"Milk, whole fresh cow",388.4
+2008,Mexico,Mustard seed,341.4
+2008,Mexico,Oats,189.6
+2008,Mexico,Peaches and nectarines,556.9
+2008,Mexico,Pears,302.3
+2008,Mexico,"Peas, dry",438.4
+2008,Mexico,"Peas, green",609.6
+2008,Mexico,Plums and sloes,325.7
+2008,Mexico,Potatoes,422
+2008,Mexico,Rapeseed,427.2
+2008,Mexico,Raspberries,2414.4
+2008,Mexico,Rye,269.5
+2008,Mexico,Soybeans,409.1
+2008,Mexico,Spinach,293.3
+2008,Mexico,Strawberries,637.7
+2008,Mexico,Sunflower seed,541.5
+2008,Mexico,"Tobacco, unmanufactured",2073.6
+2008,Mexico,Tomatoes,504.2
+2008,Mexico,Wheat,330.6
+2008,United States of America,Apples,511
+2008,United States of America,Apricots,586
+2008,United States of America,Asparagus,2271
+2008,United States of America,Barley,247
+2008,United States of America,"Beans, dry",763
+2008,United States of America,"Beans, green",551
+2008,United States of America,Blueberries,3395
+2008,United States of America,Cabbages and other brassicas,324
+2008,United States of America,Carrots and turnips,540
+2008,United States of America,Cauliflowers and broccoli,897
+2008,United States of America,Cherries,2635
+2008,United States of America,Chick peas,730
+2008,United States of America,"Chillies and peppers, green",884
+2008,United States of America,Cucumbers and gherkins,547
+2008,United States of America,"Eggs, hen, in shell",1541
+2008,United States of America,Grapes,503
+2008,United States of America,Lentils,745
+2008,United States of America,Lettuce and chicory,443
+2008,United States of America,Linseed,500
+2008,United States of America,Maize,160
+2008,United States of America,"Maize, green",571
+2008,United States of America,"Meat live weight, cattle",1964
+2008,United States of America,"Meat live weight, chicken",1010
+2008,United States of America,"Meat live weight, pig",1036
+2008,United States of America,"Meat live weight, turkey",1252
+2008,United States of America,"Meat, pig",1459.2
+2008,United States of America,"Melons, other (inc.cantaloupes)",408
+2008,United States of America,"Milk, whole fresh cow",407
+2008,United States of America,Mustard seed,966
+2008,United States of America,Oats,217
+2008,United States of America,Peaches and nectarines,540
+2008,United States of America,Pears,503
+2008,United States of America,"Peas, dry",295
+2008,United States of America,"Peas, green",397
+2008,United States of America,Plums and sloes,392
+2008,United States of America,Potatoes,200
+2008,United States of America,Rapeseed,558
+2008,United States of America,Raspberries,6614
+2008,United States of America,Rye,249
+2008,United States of America,Soybeans,366
+2008,United States of America,Spinach,743
+2008,United States of America,Strawberries,1671
+2008,United States of America,Sunflower seed,481
+2008,United States of America,"Tobacco, unmanufactured",4098
+2008,United States of America,Tomatoes,1003
+2008,United States of America,Wheat,249
+2009,Canada,Apples,361.3
+2009,Canada,Apricots,1165.6
+2009,Canada,Asparagus,2694.8
+2009,Canada,Barley,164.5
+2009,Canada,"Beans, dry",659
+2009,Canada,"Beans, green",484
+2009,Canada,Blueberries,947.9
+2009,Canada,Cabbages and other brassicas,266.2
+2009,Canada,Carrots and turnips,221.1
+2009,Canada,Cauliflowers and broccoli,629.8
+2009,Canada,Cherries,2346.7
+2009,Canada,Chick peas,504.6
+2009,Canada,"Chillies and peppers, green",633.6
+2009,Canada,Cucumbers and gherkins,446.2
+2009,Canada,"Eggs, hen, in shell",1658.9
+2009,Canada,Grapes,1275
+2009,Canada,Lentils,587.8
+2009,Canada,Lettuce and chicory,715.6
+2009,Canada,Linseed,358
+2009,Canada,Maize,159.1
+2009,Canada,"Maize, green",288.3
+2009,Canada,"Meat live weight, cattle",1489.3
+2009,Canada,"Meat live weight, chicken",1705.9
+2009,Canada,"Meat live weight, pig",910.7
+2009,Canada,"Meat live weight, turkey",1889.6
+2009,Canada,"Meat, pig",1111.5
+2009,Canada,"Melons, other (inc.cantaloupes)",391.9
+2009,Canada,"Milk, whole fresh cow",623
+2009,Canada,Mustard seed,730.1
+2009,Canada,Oats,128.2
+2009,Canada,Peaches and nectarines,1022.7
+2009,Canada,Pears,755.3
+2009,Canada,"Peas, dry",195.9
+2009,Canada,"Peas, green",350.6
+2009,Canada,Plums and sloes,1486
+2009,Canada,Potatoes,234.7
+2009,Canada,Rapeseed,374.3
+2009,Canada,Raspberries,2139.5
+2009,Canada,Rye,153.5
+2009,Canada,Soybeans,359.3
+2009,Canada,Spinach,1238.2
+2009,Canada,Strawberries,3098.5
+2009,Canada,Sunflower seed,508.3
+2009,Canada,"Tobacco, unmanufactured",4067.9
+2009,Canada,Tomatoes,151.3
+2009,Canada,Wheat,191.4
+2009,Mexico,Apples,307.5
+2009,Mexico,Apricots,721.5
+2009,Mexico,Asparagus,2622.1
+2009,Mexico,Barley,236.6
+2009,Mexico,"Beans, dry",890.9
+2009,Mexico,"Beans, green",418.9
+2009,Mexico,Blueberries,498.6
+2009,Mexico,Cabbages and other brassicas,117.2
+2009,Mexico,Carrots and turnips,176.3
+2009,Mexico,Cauliflowers and broccoli,222.8
+2009,Mexico,Cherries,551.9
+2009,Mexico,Chick peas,570.9
+2009,Mexico,"Chillies and peppers, green",317.9
+2009,Mexico,Cucumbers and gherkins,239.7
+2009,Mexico,"Eggs, hen, in shell",963.8
+2009,Mexico,Grapes,1323.2
+2009,Mexico,Lentils,594.4
+2009,Mexico,Lettuce and chicory,180.1
+2009,Mexico,Linseed,1426.1
+2009,Mexico,Maize,207.4
+2009,Mexico,"Maize, green",129
+2009,Mexico,"Meat live weight, cattle",1300.9
+2009,Mexico,"Meat live weight, chicken",1169.4
+2009,Mexico,"Meat live weight, pig",1284.9
+2009,Mexico,"Meat live weight, turkey",2128
+2009,Mexico,"Meat, pig",2138
+2009,Mexico,"Melons, other (inc.cantaloupes)",236.6
+2009,Mexico,"Milk, whole fresh cow",350.8
+2009,Mexico,Mustard seed,1739
+2009,Mexico,Oats,236.9
+2009,Mexico,Peaches and nectarines,498.9
+2009,Mexico,Pears,205.8
+2009,Mexico,"Peas, dry",331.1
+2009,Mexico,"Peas, green",431.3
+2009,Mexico,Plums and sloes,232.4
+2009,Mexico,Potatoes,559
+2009,Mexico,Rapeseed,384.8
+2009,Mexico,Raspberries,3221.4
+2009,Mexico,Rye,222
+2009,Mexico,Soybeans,364.7
+2009,Mexico,Spinach,218.3
+2009,Mexico,Strawberries,620.3
+2009,Mexico,Sunflower seed,274.7
+2009,Mexico,"Tobacco, unmanufactured",1800.8
+2009,Mexico,Tomatoes,442.9
+2009,Mexico,Wheat,214
+2009,United States of America,Apples,509
+2009,United States of America,Apricots,721
+2009,United States of America,Asparagus,2381
+2009,United States of America,Barley,214
+2009,United States of America,"Beans, dry",661
+2009,United States of America,"Beans, green",572
+2009,United States of America,Blueberries,2932
+2009,United States of America,Cabbages and other brassicas,342
+2009,United States of America,Carrots and turnips,556
+2009,United States of America,Cauliflowers and broccoli,977
+2009,United States of America,Cherries,1466
+2009,United States of America,Chick peas,597
+2009,United States of America,"Chillies and peppers, green",758
+2009,United States of America,Cucumbers and gherkins,564
+2009,United States of America,"Eggs, hen, in shell",1157
+2009,United States of America,Grapes,557
+2009,United States of America,Lentils,591
+2009,United States of America,Lettuce and chicory,494
+2009,United States of America,Linseed,321
+2009,United States of America,Maize,140
+2009,United States of America,"Maize, green",646
+2009,United States of America,"Meat live weight, cattle",1770
+2009,United States of America,"Meat live weight, chicken",999
+2009,United States of America,"Meat live weight, pig",917
+2009,United States of America,"Meat live weight, turkey",1102
+2009,United States of America,"Meat, pig",1294.4
+2009,United States of America,"Melons, other (inc.cantaloupes)",401
+2009,United States of America,"Milk, whole fresh cow",285
+2009,United States of America,Mustard seed,670
+2009,United States of America,Oats,139
+2009,United States of America,Peaches and nectarines,604
+2009,United States of America,Pears,410
+2009,United States of America,"Peas, dry",198
+2009,United States of America,"Peas, green",352
+2009,United States of America,Plums and sloes,567
+2009,United States of America,Potatoes,182
+2009,United States of America,Rapeseed,580
+2009,United States of America,Raspberries,6393
+2009,United States of America,Rye,194
+2009,United States of America,Soybeans,352
+2009,United States of America,Spinach,871
+2009,United States of America,Strawberries,1676
+2009,United States of America,Sunflower seed,333
+2009,United States of America,"Tobacco, unmanufactured",4050
+2009,United States of America,Tomatoes,891
+2009,United States of America,Wheat,179
+2010,Canada,Apples,397.8
+2010,Canada,Apricots,1363.4
+2010,Canada,Asparagus,3355.5
+2010,Canada,Barley,141.7
+2010,Canada,"Beans, dry",636.7
+2010,Canada,"Beans, green",648.6
+2010,Canada,Blueberries,1721.5
+2010,Canada,Cabbages and other brassicas,310
+2010,Canada,Carrots and turnips,235.5
+2010,Canada,Cauliflowers and broccoli,725.1
+2010,Canada,Cherries,3439
+2010,Canada,Chick peas,591.1
+2010,Canada,"Chillies and peppers, green",718.9
+2010,Canada,Cucumbers and gherkins,468.2
+2010,Canada,"Eggs, hen, in shell",1798
+2010,Canada,Grapes,1492.3
+2010,Canada,Lentils,590.6
+2010,Canada,Lettuce and chicory,830.6
+2010,Canada,Linseed,395.5
+2010,Canada,Maize,166.8
+2010,Canada,"Maize, green",296.7
+2010,Canada,"Meat live weight, cattle",1736.7
+2010,Canada,"Meat live weight, chicken",1815.2
+2010,Canada,"Meat live weight, pig",1203.8
+2010,Canada,"Meat live weight, turkey",1970.6
+2010,Canada,"Meat, pig",1469.8
+2010,Canada,"Melons, other (inc.cantaloupes)",454.2
+2010,Canada,"Milk, whole fresh cow",699.5
+2010,Canada,Mustard seed,570.4
+2010,Canada,Oats,145.7
+2010,Canada,Peaches and nectarines,1062.8
+2010,Canada,Pears,718.5
+2010,Canada,"Peas, dry",186
+2010,Canada,"Peas, green",354.4
+2010,Canada,Plums and sloes,1482.1
+2010,Canada,Potatoes,246.7
+2010,Canada,Rapeseed,405.9
+2010,Canada,Raspberries,2358
+2010,Canada,Rye,156.2
+2010,Canada,Soybeans,372.8
+2010,Canada,Spinach,1421.6
+2010,Canada,Strawberries,3460.6
+2010,Canada,Sunflower seed,436.5
+2010,Canada,"Tobacco, unmanufactured",4630.3
+2010,Canada,Tomatoes,156.7
+2010,Canada,Wheat,177.1
+2010,Mexico,Apples,440.3
+2010,Mexico,Apricots,769.4
+2010,Mexico,Asparagus,2556.6
+2010,Mexico,Barley,246.6
+2010,Mexico,"Beans, dry",695.4
+2010,Mexico,"Beans, green",471.2
+2010,Mexico,Blueberries,1548.6
+2010,Mexico,Cabbages and other brassicas,125.6
+2010,Mexico,Carrots and turnips,198.3
+2010,Mexico,Cauliflowers and broccoli,254.1
+2010,Mexico,Cherries,1978.5
+2010,Mexico,Chick peas,621.8
+2010,Mexico,"Chillies and peppers, green",268
+2010,Mexico,Cucumbers and gherkins,333.2
+2010,Mexico,"Eggs, hen, in shell",1027.1
+2010,Mexico,Grapes,1087.4
+2010,Mexico,Lentils,405.4
+2010,Mexico,Lettuce and chicory,215.5
+2010,Mexico,Linseed,2104.7
+2010,Mexico,Maize,222.9
+2010,Mexico,"Maize, green",144.4
+2010,Mexico,"Meat live weight, cattle",1406.7
+2010,Mexico,"Meat live weight, chicken",1306.6
+2010,Mexico,"Meat live weight, pig",1472.5
+2010,Mexico,"Meat live weight, turkey",2392.9
+2010,Mexico,"Meat, pig",2414.8
+2010,Mexico,"Melons, other (inc.cantaloupes)",257.2
+2010,Mexico,"Milk, whole fresh cow",376.6
+2010,Mexico,Mustard seed,1661.9
+2010,Mexico,Oats,223.4
+2010,Mexico,Peaches and nectarines,532
+2010,Mexico,Pears,246.5
+2010,Mexico,"Peas, dry",386.9
+2010,Mexico,"Peas, green",481.2
+2010,Mexico,Plums and sloes,254.6
+2010,Mexico,Potatoes,598.6
+2010,Mexico,Rapeseed,411.9
+2010,Mexico,Raspberries,3653.8
+2010,Mexico,Rye,213.3
+2010,Mexico,Soybeans,433.3
+2010,Mexico,Spinach,386.2
+2010,Mexico,Strawberries,734.2
+2010,Mexico,Sunflower seed,372.4
+2010,Mexico,"Tobacco, unmanufactured",2071.5
+2010,Mexico,Tomatoes,517.2
+2010,Mexico,Wheat,213.3
+2010,United States of America,Apples,553
+2010,United States of America,Apricots,796
+2010,United States of America,Asparagus,2690
+2010,United States of America,Barley,177
+2010,United States of America,"Beans, dry",617
+2010,United States of America,"Beans, green",521
+2010,United States of America,Blueberries,3175
+2010,United States of America,Cabbages and other brassicas,381
+2010,United States of America,Carrots and turnips,586
+2010,United States of America,Cauliflowers and broccoli,922
+2010,United States of America,Cherries,2568
+2010,United States of America,Chick peas,622
+2010,United States of America,"Chillies and peppers, green",886
+2010,United States of America,Cucumbers and gherkins,505
+2010,United States of America,"Eggs, hen, in shell",985
+2010,United States of America,Grapes,537
+2010,United States of America,Lentils,567
+2010,United States of America,Lettuce and chicory,465
+2010,United States of America,Linseed,480
+2010,United States of America,Maize,204
+2010,United States of America,"Maize, green",564
+2010,United States of America,"Meat live weight, cattle",2033
+2010,United States of America,"Meat live weight, chicken",1080
+2010,United States of America,"Meat live weight, pig",1193
+2010,United States of America,"Meat live weight, turkey",1356
+2010,United States of America,"Meat, pig",1680.3
+2010,United States of America,"Melons, other (inc.cantaloupes)",366
+2010,United States of America,"Milk, whole fresh cow",360
+2010,United States of America,Mustard seed,571
+2010,United States of America,Oats,174
+2010,United States of America,Peaches and nectarines,603
+2010,United States of America,Pears,525
+2010,United States of America,"Peas, dry",215
+2010,United States of America,"Peas, green",316
+2010,United States of America,Plums and sloes,612
+2010,United States of America,Potatoes,203
+2010,United States of America,Rapeseed,516
+2010,United States of America,Raspberries,5445
+2010,United States of America,Rye,204
+2010,United States of America,Soybeans,415
+2010,United States of America,Spinach,941
+2010,United States of America,Strawberries,1748
+2010,United States of America,Sunflower seed,514
+2010,United States of America,"Tobacco, unmanufactured",3904
+2010,United States of America,Tomatoes,1067
+2010,United States of America,Wheat,209
+2011,Canada,Apples,408
+2011,Canada,Apricots,1585.6
+2011,Canada,Asparagus,3440.6
+2011,Canada,Barley,195
+2011,Canada,"Beans, dry",843
+2011,Canada,"Beans, green",703.8
+2011,Canada,Blueberries,1951.7
+2011,Canada,Cabbages and other brassicas,374.3
+2011,Canada,Carrots and turnips,240.2
+2011,Canada,Cauliflowers and broccoli,778.4
+2011,Canada,Cherries,3322.6
+2011,Canada,Chick peas,707.2
+2011,Canada,"Chillies and peppers, green",737.1
+2011,Canada,Cucumbers and gherkins,544
+2011,Canada,"Eggs, hen, in shell",2050.1
+2011,Canada,Grapes,1429.7
+2011,Canada,Lentils,498.5
+2011,Canada,Lettuce and chicory,775
+2011,Canada,Linseed,559.9
+2011,Canada,Maize,238.6
+2011,Canada,"Maize, green",340.8
+2011,Canada,"Meat live weight, cattle",2148.4
+2011,Canada,"Meat live weight, chicken",2172.7
+2011,Canada,"Meat live weight, pig",1443.9
+2011,Canada,"Meat live weight, turkey",2233.4
+2011,Canada,"Meat, pig",1755.7
+2011,Canada,"Melons, other (inc.cantaloupes)",469.9
+2011,Canada,"Milk, whole fresh cow",756.9
+2011,Canada,Mustard seed,599.2
+2011,Canada,Oats,206.3
+2011,Canada,Peaches and nectarines,1422.3
+2011,Canada,Pears,915.3
+2011,Canada,"Peas, dry",286.7
+2011,Canada,"Peas, green",407
+2011,Canada,Plums and sloes,1855.6
+2011,Canada,Potatoes,266.5
+2011,Canada,Rapeseed,537.5
+2011,Canada,Raspberries,2357.4
+2011,Canada,Rye,218.2
+2011,Canada,Soybeans,446.5
+2011,Canada,Spinach,1681
+2011,Canada,Strawberries,3550.4
+2011,Canada,Sunflower seed,582.1
+2011,Canada,"Tobacco, unmanufactured",4992.3
+2011,Canada,Tomatoes,173.2
+2011,Canada,Wheat,237
+2011,Mexico,Apples,398.6
+2011,Mexico,Apricots,839.3
+2011,Mexico,Asparagus,2643.3
+2011,Mexico,Barley,289.1
+2011,Mexico,"Beans, dry",976.8
+2011,Mexico,"Beans, green",530.5
+2011,Mexico,Blueberries,1875.2
+2011,Mexico,Cabbages and other brassicas,174.7
+2011,Mexico,Carrots and turnips,175.9
+2011,Mexico,Cauliflowers and broccoli,294.3
+2011,Mexico,Cherries,1408.6
+2011,Mexico,Chick peas,721.9
+2011,Mexico,"Chillies and peppers, green",480.4
+2011,Mexico,Cucumbers and gherkins,402.7
+2011,Mexico,"Eggs, hen, in shell",1064.2
+2011,Mexico,Grapes,1356.2
+2011,Mexico,Lentils,803.2
+2011,Mexico,Lettuce and chicory,228.3
+2011,Mexico,Linseed,2185.7
+2011,Mexico,Maize,328.2
+2011,Mexico,"Maize, green",162.3
+2011,Mexico,"Meat live weight, cattle",1454.8
+2011,Mexico,"Meat live weight, chicken",1412.8
+2011,Mexico,"Meat live weight, pig",1559.4
+2011,Mexico,"Meat live weight, turkey",2510
+2011,Mexico,"Meat, pig",2527.2
+2011,Mexico,"Melons, other (inc.cantaloupes)",254.5
+2011,Mexico,"Milk, whole fresh cow",398
+2011,Mexico,Mustard seed,821.6
+2011,Mexico,Oats,330
+2011,Mexico,Peaches and nectarines,580.3
+2011,Mexico,Pears,282.2
+2011,Mexico,"Peas, dry",464.4
+2011,Mexico,"Peas, green",492.5
+2011,Mexico,Plums and sloes,337.8
+2011,Mexico,Potatoes,509.4
+2011,Mexico,Rapeseed,433.3
+2011,Mexico,Raspberries,2798.4
+2011,Mexico,Rye,144.9
+2011,Mexico,Soybeans,505.7
+2011,Mexico,Spinach,346.1
+2011,Mexico,Strawberries,884.3
+2011,Mexico,Sunflower seed,434
+2011,Mexico,"Tobacco, unmanufactured",2503.9
+2011,Mexico,Tomatoes,444.4
+2011,Mexico,Wheat,289.4
+2011,United States of America,Apples,668
+2011,United States of America,Apricots,679
+2011,United States of America,Asparagus,2690
+2011,United States of America,Barley,246
+2011,United States of America,"Beans, dry",928
+2011,United States of America,"Beans, green",579
+2011,United States of America,Blueberries,4079
+2011,United States of America,Cabbages and other brassicas,386
+2011,United States of America,Carrots and turnips,717
+2011,United States of America,Cauliflowers and broccoli,1014
+2011,United States of America,Cherries,2789
+2011,United States of America,Chick peas,822
+2011,United States of America,"Chillies and peppers, green",772
+2011,United States of America,Cucumbers and gherkins,589
+2011,United States of America,"Eggs, hen, in shell",1362
+2011,United States of America,Grapes,635
+2011,United States of America,Lentils,551
+2011,United States of America,Lettuce and chicory,507
+2011,United States of America,Linseed,547
+2011,United States of America,Maize,245
+2011,United States of America,"Maize, green",589
+2011,United States of America,"Meat live weight, cattle",2491
+2011,United States of America,"Meat live weight, chicken",1012
+2011,United States of America,"Meat live weight, pig",1440
+2011,United States of America,"Meat live weight, turkey",1499
+2011,United States of America,"Meat, pig",2028.2
+2011,United States of America,"Melons, other (inc.cantaloupes)",406
+2011,United States of America,"Milk, whole fresh cow",446
+2011,United States of America,Mustard seed,741
+2011,United States of America,Oats,240
+2011,United States of America,Peaches and nectarines,621
+2011,United States of America,Pears,419
+2011,United States of America,"Peas, dry",337
+2011,United States of America,"Peas, green",459
+2011,United States of America,Plums and sloes,443
+2011,United States of America,Potatoes,207
+2011,United States of America,Rapeseed,595
+2011,United States of America,Raspberries,4564
+2011,United States of America,Rye,307
+2011,United States of America,Soybeans,459
+2011,United States of America,Spinach,891
+2011,United States of America,Strawberries,1817
+2011,United States of America,Sunflower seed,642
+2011,United States of America,"Tobacco, unmanufactured",4094
+2011,United States of America,Tomatoes,796
+2011,United States of America,Wheat,266
+2012,Canada,Apples,529.5
+2012,Canada,Apricots,1390.6
+2012,Canada,Asparagus,3673.9
+2012,Canada,Barley,224.9
+2012,Canada,"Beans, dry",946.6
+2012,Canada,"Beans, green",505.5
+2012,Canada,Blueberries,1994.8
+2012,Canada,Cabbages and other brassicas,383.2
+2012,Canada,Carrots and turnips,226.2
+2012,Canada,Cauliflowers and broccoli,782.3
+2012,Canada,Cherries,2992.3
+2012,Canada,Chick peas,690.2
+2012,Canada,"Chillies and peppers, green",775.6
+2012,Canada,Cucumbers and gherkins,486
+2012,Canada,"Eggs, hen, in shell",2162.7
+2012,Canada,Grapes,1586.4
+2012,Canada,Lentils,434.5
+2012,Canada,Lettuce and chicory,803
+2012,Canada,Linseed,548.4
+2012,Canada,Maize,258.7
+2012,Canada,"Maize, green",336.5
+2012,Canada,"Meat live weight, cattle",2296
+2012,Canada,"Meat live weight, chicken",2231.8
+2012,Canada,"Meat live weight, pig",1382.3
+2012,Canada,"Meat live weight, turkey",2341.9
+2012,Canada,"Meat, pig",1681.7
+2012,Canada,"Melons, other (inc.cantaloupes)",390.9
+2012,Canada,"Milk, whole fresh cow",743.6
+2012,Canada,Mustard seed,716.1
+2012,Canada,Oats,203.7
+2012,Canada,Peaches and nectarines,1828.1
+2012,Canada,Pears,742.6
+2012,Canada,"Peas, dry",315.8
+2012,Canada,"Peas, green",409.8
+2012,Canada,Plums and sloes,2327.9
+2012,Canada,Potatoes,271.4
+2012,Canada,Rapeseed,565.7
+2012,Canada,Raspberries,2173.9
+2012,Canada,Rye,236.1
+2012,Canada,Soybeans,494.9
+2012,Canada,Spinach,1686.5
+2012,Canada,Strawberries,3564.2
+2012,Canada,Sunflower seed,665.1
+2012,Canada,"Tobacco, unmanufactured",4613.7
+2012,Canada,Tomatoes,167.3
+2012,Canada,Wheat,253.9
+2012,Mexico,Apples,609.2
+2012,Mexico,Apricots,801.3
+2012,Mexico,Asparagus,2316.4
+2012,Mexico,Barley,290.4
+2012,Mexico,"Beans, dry",968.4
+2012,Mexico,"Beans, green",449.8
+2012,Mexico,Blueberries,3368.1
+2012,Mexico,Cabbages and other brassicas,154.9
+2012,Mexico,Carrots and turnips,172.3
+2012,Mexico,Cauliflowers and broccoli,297.5
+2012,Mexico,Cherries,759.3
+2012,Mexico,Chick peas,803.6
+2012,Mexico,"Chillies and peppers, green",432
+2012,Mexico,Cucumbers and gherkins,287.1
+2012,Mexico,"Eggs, hen, in shell",1250.1
+2012,Mexico,Grapes,1435.3
+2012,Mexico,Lentils,445.4
+2012,Mexico,Lettuce and chicory,217.6
+2012,Mexico,Linseed,1918.6
+2012,Mexico,Maize,304.5
+2012,Mexico,"Maize, green",164.4
+2012,Mexico,"Meat live weight, cattle",1455.7
+2012,Mexico,"Meat live weight, chicken",1443
+2012,Mexico,"Meat live weight, pig",1552.4
+2012,Mexico,"Meat live weight, turkey",2444.2
+2012,Mexico,"Meat, pig",2482.2
+2012,Mexico,"Melons, other (inc.cantaloupes)",301.4
+2012,Mexico,"Milk, whole fresh cow",393.9
+2012,Mexico,Mustard seed,2050.2
+2012,Mexico,Oats,382.4
+2012,Mexico,Peaches and nectarines,554.1
+2012,Mexico,Pears,221.1
+2012,Mexico,"Peas, dry",475.4
+2012,Mexico,"Peas, green",471.4
+2012,Mexico,Plums and sloes,303.1
+2012,Mexico,Potatoes,450.1
+2012,Mexico,Rapeseed,401
+2012,Mexico,Raspberries,3047.8
+2012,Mexico,Rye,318.9
+2012,Mexico,Soybeans,535.5
+2012,Mexico,Spinach,386
+2012,Mexico,Strawberries,913.6
+2012,Mexico,Sunflower seed,488.6
+2012,Mexico,"Tobacco, unmanufactured",1711
+2012,Mexico,Tomatoes,351.7
+2012,Mexico,Wheat,274
+2012,United States of America,Apples,818
+2012,United States of America,Apricots,742
+2012,United States of America,Asparagus,2579
+2012,United States of America,Barley,295
+2012,United States of America,"Beans, dry",838
+2012,United States of America,"Beans, green",578
+2012,United States of America,Blueberries,3748
+2012,United States of America,Cabbages and other brassicas,408
+2012,United States of America,Carrots and turnips,586
+2012,United States of America,Cauliflowers and broccoli,789
+2012,United States of America,Cherries,2227
+2012,United States of America,Chick peas,769
+2012,United States of America,"Chillies and peppers, green",798
+2012,United States of America,Cucumbers and gherkins,551
+2012,United States of America,"Eggs, hen, in shell",1404
+2012,United States of America,Grapes,829
+2012,United States of America,Lentils,456
+2012,United States of America,Lettuce and chicory,390
+2012,United States of America,Linseed,543
+2012,United States of America,Maize,271
+2012,United States of America,"Maize, green",580
+2012,United States of America,"Meat live weight, cattle",2668
+2012,United States of America,"Meat live weight, chicken",1127
+2012,United States of America,"Meat live weight, pig",1415
+2012,United States of America,"Meat live weight, turkey",1585
+2012,United States of America,"Meat, pig",1993
+2012,United States of America,"Melons, other (inc.cantaloupes)",421
+2012,United States of America,"Milk, whole fresh cow",409
+2012,United States of America,Mustard seed,789
+2012,United States of America,Oats,268
+2012,United States of America,Peaches and nectarines,713
+2012,United States of America,Pears,561
+2012,United States of America,"Peas, dry",346
+2012,United States of America,"Peas, green",478
+2012,United States of America,Plums and sloes,766
+2012,United States of America,Potatoes,190
+2012,United States of America,Rapeseed,575
+2012,United States of America,Raspberries,3792
+2012,United States of America,Rye,303
+2012,United States of America,Soybeans,529
+2012,United States of America,Spinach,930
+2012,United States of America,Strawberries,1773
+2012,United States of America,Sunflower seed,560
+2012,United States of America,"Tobacco, unmanufactured",4469
+2012,United States of America,Tomatoes,672
+2012,United States of America,Wheat,286
+2013,Canada,Apples,553
+2013,Canada,Apricots,1657.1
+2013,Canada,Asparagus,3479
+2013,Canada,Barley,237.3
+2013,Canada,"Beans, dry",817.5
+2013,Canada,"Beans, green",566.2
+2013,Canada,Blueberries,1667.8
+2013,Canada,Cabbages and other brassicas,451.7
+2013,Canada,Carrots and turnips,250
+2013,Canada,Cauliflowers and broccoli,765.9
+2013,Canada,Cherries,3726.4
+2013,Canada,Chick peas,571.2
+2013,Canada,"Chillies and peppers, green",778.9
+2013,Canada,Cucumbers and gherkins,526.9
+2013,Canada,"Eggs, hen, in shell",2212.6
+2013,Canada,Grapes,1460
+2013,Canada,Lentils,455.3
+2013,Canada,Lettuce and chicory,799.5
+2013,Canada,Linseed,558
+2013,Canada,Maize,224.8
+2013,Canada,"Maize, green",351.4
+2013,Canada,"Meat live weight, cattle",2296.4
+2013,Canada,"Meat live weight, chicken",2214
+2013,Canada,"Meat live weight, pig",1439.9
+2013,Canada,"Meat live weight, turkey",2282
+2013,Canada,"Meat, pig",1759.6
+2013,Canada,"Melons, other (inc.cantaloupes)",430.4
+2013,Canada,"Milk, whole fresh cow",732.8
+2013,Canada,Mustard seed,761
+2013,Canada,Oats,213.3
+2013,Canada,Peaches and nectarines,1458.1
+2013,Canada,Pears,882.3
+2013,Canada,"Peas, dry",288.9
+2013,Canada,"Peas, green",471.5
+2013,Canada,Plums and sloes,1929.8
+2013,Canada,Potatoes,258.4
+2013,Canada,Rapeseed,546.3
+2013,Canada,Raspberries,2432.1
+2013,Canada,Rye,236
+2013,Canada,Soybeans,486.2
+2013,Canada,Spinach,1748.6
+2013,Canada,Strawberries,3539.6
+2013,Canada,Sunflower seed,623.3
+2013,Canada,"Tobacco, unmanufactured",4583.4
+2013,Canada,Tomatoes,163
+2013,Canada,Wheat,252.9
+2013,Mexico,Apples,389
+2013,Mexico,Apricots,905.7
+2013,Mexico,Asparagus,2745.1
+2013,Mexico,Barley,283.6
+2013,Mexico,"Beans, dry",776.1
+2013,Mexico,"Beans, green",498.1
+2013,Mexico,Blueberries,3592.9
+2013,Mexico,Cabbages and other brassicas,155.7
+2013,Mexico,Carrots and turnips,202.7
+2013,Mexico,Cauliflowers and broccoli,299.8
+2013,Mexico,Cherries,834.9
+2013,Mexico,Chick peas,978.1
+2013,Mexico,"Chillies and peppers, green",524.6
+2013,Mexico,Cucumbers and gherkins,413.2
+2013,Mexico,"Eggs, hen, in shell",1564.7
+2013,Mexico,Grapes,1326.5
+2013,Mexico,Lentils,529.4
+2013,Mexico,Lettuce and chicory,234.3
+2013,Mexico,Linseed,2181.3
+2013,Mexico,Maize,263.5
+2013,Mexico,"Maize, green",177.6
+2013,Mexico,"Meat live weight, cattle",1648.4
+2013,Mexico,"Meat live weight, chicken",1613.9
+2013,Mexico,"Meat live weight, pig",1691.6
+2013,Mexico,"Meat live weight, turkey",2712.2
+2013,Mexico,"Meat, pig",2767.5
+2013,Mexico,"Melons, other (inc.cantaloupes)",302.6
+2013,Mexico,"Milk, whole fresh cow",433.3
+2013,Mexico,Mustard seed,2192.3
+2013,Mexico,Oats,276.9
+2013,Mexico,Peaches and nectarines,626.2
+2013,Mexico,Pears,315.2
+2013,Mexico,"Peas, dry",475.1
+2013,Mexico,"Peas, green",525.2
+2013,Mexico,Plums and sloes,319.6
+2013,Mexico,Potatoes,545.9
+2013,Mexico,Rapeseed,422.6
+2013,Mexico,Raspberries,2749.7
+2013,Mexico,Rye,297.5
+2013,Mexico,Soybeans,493.8
+2013,Mexico,Spinach,497
+2013,Mexico,Strawberries,861.1
+2013,Mexico,Sunflower seed,476.1
+2013,Mexico,"Tobacco, unmanufactured",2285.6
+2013,Mexico,Tomatoes,437.2
+2013,Mexico,Wheat,278.1
+2013,United States of America,Apples,668
+2013,United States of America,Apricots,812
+2013,United States of America,Asparagus,2888
+2013,United States of America,Barley,278
+2013,United States of America,"Beans, dry",862
+2013,United States of America,"Beans, green",642
+2013,United States of America,Blueberries,3086
+2013,United States of America,Cabbages and other brassicas,443
+2013,United States of America,Carrots and turnips,631
+2013,United States of America,Cauliflowers and broccoli,977
+2013,United States of America,Cherries,2877
+2013,United States of America,Chick peas,661
+2013,United States of America,"Chillies and peppers, green",880
+2013,United States of America,Cucumbers and gherkins,591
+2013,United States of America,"Eggs, hen, in shell",1533
+2013,United States of America,Grapes,785
+2013,United States of America,Lentils,437
+2013,United States of America,Lettuce and chicory,589
+2013,United States of America,Linseed,543
+2013,United States of America,Maize,176
+2013,United States of America,"Maize, green",622
+2013,United States of America,"Meat live weight, cattle",2756
+2013,United States of America,"Meat live weight, chicken",1332
+2013,United States of America,"Meat live weight, pig",1482
+2013,United States of America,"Meat live weight, turkey",1466
+2013,United States of America,"Meat, pig",2087.3
+2013,United States of America,"Melons, other (inc.cantaloupes)",388
+2013,United States of America,"Milk, whole fresh cow",443
+2013,United States of America,Mustard seed,820
+2013,United States of America,Oats,258
+2013,United States of America,Peaches and nectarines,680
+2013,United States of America,Pears,541
+2013,United States of America,"Peas, dry",322
+2013,United States of America,"Peas, green",471
+2013,United States of America,Plums and sloes,732
+2013,United States of America,Potatoes,215
+2013,United States of America,Rapeseed,553
+2013,United States of America,Raspberries,4123
+2013,United States of America,Rye,313
+2013,United States of America,Soybeans,478
+2013,United States of America,Spinach,952
+2013,United States of America,Strawberries,1887
+2013,United States of America,Sunflower seed,472
+2013,United States of America,"Tobacco, unmanufactured",4799
+2013,United States of America,Tomatoes,983
+2013,United States of America,Wheat,252
+2014,Canada,Apples,475.2
+2014,Canada,Apricots,1317
+2014,Canada,Asparagus,3425.4
+2014,Canada,Barley,169
+2014,Canada,"Beans, dry",793.6
+2014,Canada,"Beans, green",513.8
+2014,Canada,Blueberries,1456.6
+2014,Canada,Cabbages and other brassicas,455.1
+2014,Canada,Carrots and turnips,284.6
+2014,Canada,Cauliflowers and broccoli,782.3
+2014,Canada,Cherries,2971.8
+2014,Canada,Chick peas,448.8
+2014,Canada,"Chillies and peppers, green",717.2
+2014,Canada,Cucumbers and gherkins,501.1
+2014,Canada,"Eggs, hen, in shell",2006.8
+2014,Canada,Grapes,1306.3
+2014,Canada,Lentils,453
+2014,Canada,Lettuce and chicory,732.1
+2014,Canada,Linseed,463.8
+2014,Canada,Maize,167.8
+2014,Canada,"Maize, green",314.9
+2014,Canada,"Meat live weight, cattle",2900.2
+2014,Canada,"Meat live weight, chicken",1961.8
+2014,Canada,"Meat live weight, pig",1691
+2014,Canada,"Meat live weight, turkey",2088.4
+2014,Canada,"Meat, pig",2060
+2014,Canada,"Melons, other (inc.cantaloupes)",366.5
+2014,Canada,"Milk, whole fresh cow",702.9
+2014,Canada,Mustard seed,662.4
+2014,Canada,Oats,166
+2014,Canada,Peaches and nectarines,1433.7
+2014,Canada,Pears,862.3
+2014,Canada,"Peas, dry",218.4
+2014,Canada,"Peas, green",361.3
+2014,Canada,Plums and sloes,1676.7
+2014,Canada,Potatoes,250.5
+2014,Canada,Rapeseed,403
+2014,Canada,Raspberries,2287.7
+2014,Canada,Rye,201.8
+2014,Canada,Soybeans,414.2
+2014,Canada,Spinach,1671.9
+2014,Canada,Strawberries,3515.5
+2014,Canada,Sunflower seed,574.8
+2014,Canada,"Tobacco, unmanufactured",4113.5
+2014,Canada,Tomatoes,175.9
+2014,Canada,Wheat,192.3
+2014,Mexico,Apples,441.3
+2014,Mexico,Apricots,834.2
+2014,Mexico,Asparagus,2585.8
+2014,Mexico,Barley,262.5
+2014,Mexico,"Beans, dry",655.2
+2014,Mexico,"Beans, green",416.4
+2014,Mexico,Blueberries,3909.5
+2014,Mexico,Cabbages and other brassicas,168.6
+2014,Mexico,Carrots and turnips,183.6
+2014,Mexico,Cauliflowers and broccoli,323.7
+2014,Mexico,Cherries,5617.2
+2014,Mexico,Chick peas,673.1
+2014,Mexico,"Chillies and peppers, green",506.5
+2014,Mexico,Cucumbers and gherkins,379.4
+2014,Mexico,"Eggs, hen, in shell",1537
+2014,Mexico,Grapes,1015.5
+2014,Mexico,Lentils,452
+2014,Mexico,Lettuce and chicory,226.9
+2014,Mexico,Linseed,752.3
+2014,Mexico,Maize,234.4
+2014,Mexico,"Maize, green",163.5
+2014,Mexico,"Meat live weight, cattle",1967.8
+2014,Mexico,"Meat live weight, chicken",1620.8
+2014,Mexico,"Meat live weight, pig",1837
+2014,Mexico,"Meat live weight, turkey",2633.8
+2014,Mexico,"Meat, pig",2857.8
+2014,Mexico,"Melons, other (inc.cantaloupes)",363.3
+2014,Mexico,"Milk, whole fresh cow",439.3
+2014,Mexico,Mustard seed,2407.4
+2014,Mexico,Oats,264
+2014,Mexico,Peaches and nectarines,576.8
+2014,Mexico,Pears,268.9
+2014,Mexico,"Peas, dry",436.9
+2014,Mexico,"Peas, green",504.6
+2014,Mexico,Plums and sloes,341.9
+2014,Mexico,Potatoes,537
+2014,Mexico,Rapeseed,464.7
+2014,Mexico,Raspberries,2962
+2014,Mexico,Rye,225.7
+2014,Mexico,Soybeans,406.6
+2014,Mexico,Spinach,308.7
+2014,Mexico,Strawberries,897
+2014,Mexico,Sunflower seed,448.4
+2014,Mexico,"Tobacco, unmanufactured",2414.3
+2014,Mexico,Tomatoes,411.7
+2014,Mexico,Wheat,255.3
+2014,United States of America,Apples,567
+2014,United States of America,Apricots,902
+2014,United States of America,Asparagus,2337
+2014,United States of America,Barley,243
+2014,United States of America,"Beans, dry",712
+2014,United States of America,"Beans, green",639
+2014,United States of America,Blueberries,3219
+2014,United States of America,Cabbages and other brassicas,450
+2014,United States of America,Carrots and turnips,597
+2014,United States of America,Cauliflowers and broccoli,1098
+2014,United States of America,Cherries,2359
+2014,United States of America,Chick peas,593
+2014,United States of America,"Chillies and peppers, green",1030
+2014,United States of America,Cucumbers and gherkins,538
+2014,United States of America,"Eggs, hen, in shell",1759
+2014,United States of America,Grapes,816
+2014,United States of America,Lentils,538
+2014,United States of America,Lettuce and chicory,538
+2014,United States of America,Linseed,465
+2014,United States of America,Maize,146
+2014,United States of America,"Maize, green",633
+2014,United States of America,"Meat live weight, cattle",3351
+2014,United States of America,"Meat live weight, chicken",1407
+2014,United States of America,"Meat live weight, pig",1687
+2014,United States of America,"Meat live weight, turkey",1614
+2014,United States of America,"Meat, pig",2376.1
+2014,United States of America,"Melons, other (inc.cantaloupes)",487
+2014,United States of America,"Milk, whole fresh cow",531
+2014,United States of America,Mustard seed,767
+2014,United States of America,Oats,221
+2014,United States of America,Peaches and nectarines,828
+2014,United States of America,Pears,620
+2014,United States of America,"Peas, dry",265
+2014,United States of America,"Peas, green",405
+2014,United States of America,Plums and sloes,1006
+2014,United States of America,Potatoes,196
+2014,United States of America,Rapeseed,769
+2014,United States of America,Raspberries,5203
+2014,United States of America,Rye,305
+2014,United States of America,Soybeans,371
+2014,United States of America,Spinach,968
+2014,United States of America,Strawberries,2057
+2014,United States of America,Sunflower seed,478
+2014,United States of America,"Tobacco, unmanufactured",4616
+2014,United States of America,Tomatoes,915
+2014,United States of America,Wheat,220
+2015,Canada,Apples,414.8
+2015,Canada,Apricots,1328.9
+2015,Canada,Asparagus,3133.3
+2015,Canada,Barley,174.1
+2015,Canada,"Beans, dry",726.4
+2015,Canada,"Beans, green",526.2
+2015,Canada,Blueberries,1265
+2015,Canada,Cabbages and other brassicas,378.7
+2015,Canada,Carrots and turnips,282
+2015,Canada,Cauliflowers and broccoli,749
+2015,Canada,Cherries,2823.5
+2015,Canada,Chick peas,425.6
+2015,Canada,"Chillies and peppers, green",663.4
+2015,Canada,Cucumbers and gherkins,530.3
+2015,Canada,"Eggs, hen, in shell",1781.3
+2015,Canada,Grapes,1189
+2015,Canada,Lentils,618.9
+2015,Canada,Lettuce and chicory,690.2
+2015,Canada,Linseed,399.4
+2015,Canada,Maize,150.4
+2015,Canada,"Maize, green",281.2
+2015,Canada,"Meat live weight, cattle",3031.9
+2015,Canada,"Meat live weight, chicken",1649.6
+2015,Canada,"Meat live weight, pig",1142.7
+2015,Canada,"Meat live weight, turkey",1806
+2015,Canada,"Meat, pig",1390.8
+2015,Canada,"Melons, other (inc.cantaloupes)",344.9
+2015,Canada,"Milk, whole fresh cow",577.6
+2015,Canada,Mustard seed,579.7
+2015,Canada,Oats,142.2
+2015,Canada,Peaches and nectarines,1320.8
+2015,Canada,Pears,833.9
+2015,Canada,"Peas, dry",239.1
+2015,Canada,"Peas, green",332.2
+2015,Canada,Plums and sloes,1574.4
+2015,Canada,Potatoes,220.8
+2015,Canada,Rapeseed,360.8
+2015,Canada,Raspberries,2407.8
+2015,Canada,Rye,174.7
+2015,Canada,Soybeans,329.6
+2015,Canada,Spinach,1521.5
+2015,Canada,Strawberries,3185.6
+2015,Canada,Sunflower seed,473
+2015,Canada,"Tobacco, unmanufactured",4088.8
+2015,Canada,Tomatoes,162.4
+2015,Canada,Wheat,181.4
+2015,Mexico,Apples,363.5
+2015,Mexico,Apricots,405.1
+2015,Mexico,Asparagus,2065.8
+2015,Mexico,Barley,235.8
+2015,Mexico,"Beans, dry",616.5
+2015,Mexico,"Beans, green",398.5
+2015,Mexico,Blueberries,3544.1
+2015,Mexico,Cabbages and other brassicas,142.9
+2015,Mexico,Carrots and turnips,156.4
+2015,Mexico,Cauliflowers and broccoli,244.9
+2015,Mexico,Cherries,5504.1
+2015,Mexico,Chick peas,677.6
+2015,Mexico,"Chillies and peppers, green",564.4
+2015,Mexico,Cucumbers and gherkins,308.6
+2015,Mexico,"Eggs, hen, in shell",1166.4
+2015,Mexico,Grapes,906.1
+2015,Mexico,Lentils,368.3
+2015,Mexico,Lettuce and chicory,196.3
+2015,Mexico,Linseed,652
+2015,Mexico,Maize,216
+2015,Mexico,"Maize, green",153.1
+2015,Mexico,"Meat live weight, cattle",2070.1
+2015,Mexico,"Meat live weight, chicken",1292.5
+2015,Mexico,"Meat live weight, pig",1574
+2015,Mexico,"Meat live weight, turkey",2280.6
+2015,Mexico,"Meat, pig",2580.2
+2015,Mexico,"Melons, other (inc.cantaloupes)",260.7
+2015,Mexico,"Milk, whole fresh cow",370.8
+2015,Mexico,Mustard seed,2271.5
+2015,Mexico,Oats,256.2
+2015,Mexico,Peaches and nectarines,494.2
+2015,Mexico,Pears,259.4
+2015,Mexico,"Peas, dry",467.8
+2015,Mexico,"Peas, green",397.9
+2015,Mexico,Plums and sloes,316.7
+2015,Mexico,Potatoes,426.3
+2015,Mexico,Rapeseed,356.1
+2015,Mexico,Raspberries,2376
+2015,Mexico,Rye,227.2
+2015,Mexico,Soybeans,366
+2015,Mexico,Spinach,349.2
+2015,Mexico,Strawberries,928.7
+2015,Mexico,Sunflower seed,364.3
+2015,Mexico,"Tobacco, unmanufactured",2008.2
+2015,Mexico,Tomatoes,420.3
+2015,Mexico,Wheat,240.9
+2015,United States of America,Apples,741
+2015,United States of America,Apricots,1113
+2015,United States of America,Asparagus,2557
+2015,United States of America,Barley,254
+2015,United States of America,"Beans, dry",602
+2015,United States of America,"Beans, green",657
+2015,United States of America,Blueberries,3241
+2015,United States of America,Cabbages and other brassicas,425
+2015,United States of America,Carrots and turnips,672
+2015,United States of America,Cauliflowers and broccoli,1351
+2015,United States of America,Cherries,2480
+2015,United States of America,Chick peas,633
+2015,United States of America,"Chillies and peppers, green",741
+2015,United States of America,Cucumbers and gherkins,575
+2015,United States of America,"Eggs, hen, in shell",2322
+2015,United States of America,Grapes,855
+2015,United States of America,Lentils,683
+2015,United States of America,Lettuce and chicory,642
+2015,United States of America,Linseed,352
+2015,United States of America,Maize,142
+2015,United States of America,"Maize, green",622
+2015,United States of America,"Meat live weight, cattle",3241
+2015,United States of America,"Meat live weight, chicken",1166
+2015,United States of America,"Meat live weight, pig",1219
+2015,United States of America,"Meat live weight, turkey",1788
+2015,United States of America,"Meat, pig",1716.9
+2015,United States of America,"Melons, other (inc.cantaloupes)",430
+2015,United States of America,"Milk, whole fresh cow",379
+2015,United States of America,Mustard seed,701
+2015,United States of America,Oats,146
+2015,United States of America,Peaches and nectarines,809
+2015,United States of America,Pears,678
+2015,United States of America,"Peas, dry",282
+2015,United States of America,"Peas, green",353
+2015,United States of America,Plums and sloes,1100
+2015,United States of America,Potatoes,193
+2015,United States of America,Rapeseed,952
+2015,United States of America,Raspberries,5115
+2015,United States of America,Rye,256
+2015,United States of America,Soybeans,329
+2015,United States of America,Spinach,1246
+2015,United States of America,Strawberries,1609
+2015,United States of America,Sunflower seed,432
+2015,United States of America,"Tobacco, unmanufactured",4416
+2015,United States of America,Tomatoes,1021
+2015,United States of America,Wheat,180
+2016,Canada,Apples,429.4
+2016,Canada,Apricots,1426.6
+2016,Canada,Asparagus,3105.6
+2016,Canada,Barley,166.3
+2016,Canada,"Beans, dry",656.7
+2016,Canada,"Beans, green",501
+2016,Canada,Blueberries,916.1
+2016,Canada,Cabbages and other brassicas,358.1
+2016,Canada,Carrots and turnips,262.4
+2016,Canada,Cauliflowers and broccoli,711.3
+2016,Canada,Cherries,2727.7
+2016,Canada,Chick peas,652.1
+2016,Canada,"Chillies and peppers, green",684.7
+2016,Canada,Cucumbers and gherkins,475.6
+2016,Canada,"Eggs, hen, in shell",1719.1
+2016,Canada,Grapes,1154.1
+2016,Canada,Lentils,624.7
+2016,Canada,Lettuce and chicory,695.7
+2016,Canada,Linseed,347.1
+2016,Canada,Maize,146.2
+2016,Canada,"Maize, green",291.1
+2016,Canada,"Meat live weight, cattle",2322.2
+2016,Canada,"Meat live weight, chicken",1576.9
+2016,Canada,"Meat live weight, pig",1069.2
+2016,Canada,"Meat live weight, turkey",1697.6
+2016,Canada,"Meat, pig",1304.1
+2016,Canada,"Melons, other (inc.cantaloupes)",368.3
+2016,Canada,"Milk, whole fresh cow",551.9
+2016,Canada,Mustard seed,675.2
+2016,Canada,Oats,132.4
+2016,Canada,Peaches and nectarines,1123.4
+2016,Canada,Pears,814.3
+2016,Canada,"Peas, dry",265.2
+2016,Canada,"Peas, green",331.7
+2016,Canada,Plums and sloes,1311.7
+2016,Canada,Potatoes,216.4
+2016,Canada,Rapeseed,357.8
+2016,Canada,Raspberries,2455.7
+2016,Canada,Rye,148.1
+2016,Canada,Soybeans,341.7
+2016,Canada,Spinach,1614.3
+2016,Canada,Strawberries,3084.5
+2016,Canada,Sunflower seed,433.7
+2016,Canada,"Tobacco, unmanufactured",4285.5
+2016,Canada,Tomatoes,168.2
+2016,Canada,Wheat,174.4
+2016,Mexico,Apples,348.2
+2016,Mexico,Apricots,340.7
+2016,Mexico,Asparagus,1969.2
+2016,Mexico,Barley,225.1
+2016,Mexico,"Beans, dry",653.1
+2016,Mexico,"Beans, green",335.1
+2016,Mexico,Blueberries,3047.2
+2016,Mexico,Cabbages and other brassicas,125
+2016,Mexico,Carrots and turnips,154.8
+2016,Mexico,Cauliflowers and broccoli,218.6
+2016,Mexico,Cherries,3717.7
+2016,Mexico,Chick peas,618.5
+2016,Mexico,"Chillies and peppers, green",465.5
+2016,Mexico,Cucumbers and gherkins,291.1
+2016,Mexico,"Eggs, hen, in shell",960.6
+2016,Mexico,Grapes,870
+2016,Mexico,Lentils,470.4
+2016,Mexico,Lettuce and chicory,180.2
+2016,Mexico,Linseed,401.8
+2016,Mexico,Maize,189.2
+2016,Mexico,"Maize, green",116.3
+2016,Mexico,"Meat live weight, cattle",1771.1
+2016,Mexico,"Meat live weight, chicken",1130.9
+2016,Mexico,"Meat live weight, pig",1361.3
+2016,Mexico,"Meat live weight, turkey",1957.3
+2016,Mexico,"Meat, pig",2215
+2016,Mexico,"Melons, other (inc.cantaloupes)",266.5
+2016,Mexico,"Milk, whole fresh cow",312.7
+2016,Mexico,Mustard seed,2143.2
+2016,Mexico,Oats,224.8
+2016,Mexico,Peaches and nectarines,422.7
+2016,Mexico,Pears,241
+2016,Mexico,"Peas, dry",390.9
+2016,Mexico,"Peas, green",412.1
+2016,Mexico,Plums and sloes,245.6
+2016,Mexico,Potatoes,322.7
+2016,Mexico,Rapeseed,305.6
+2016,Mexico,Raspberries,1860.1
+2016,Mexico,Rye,193.5
+2016,Mexico,Soybeans,365.5
+2016,Mexico,Spinach,255
+2016,Mexico,Strawberries,895.7
+2016,Mexico,Sunflower seed,308.3
+2016,Mexico,"Tobacco, unmanufactured",1735.8
+2016,Mexico,Tomatoes,381.9
+2016,Mexico,Wheat,196.1
+2016,United States of America,Apples,705
+2016,United States of America,Apricots,990
+2016,United States of America,Asparagus,2535
+2016,United States of America,Barley,228
+2016,United States of America,"Beans, dry",644
+2016,United States of America,"Beans, green",569
+2016,United States of America,Blueberries,2690
+2016,United States of America,Cabbages and other brassicas,476
+2016,United States of America,Carrots and turnips,710
+2016,United States of America,Cauliflowers and broccoli,1246
+2016,United States of America,Cherries,2480
+2016,United States of America,Chick peas,635
+2016,United States of America,"Chillies and peppers, green",765
+2016,United States of America,Cucumbers and gherkins,571
+2016,United States of America,"Eggs, hen, in shell",1077
+2016,United States of America,Grapes,899
+2016,United States of America,Lentils,628
+2016,United States of America,Lettuce and chicory,602
+2016,United States of America,Linseed,315
+2016,United States of America,Maize,132
+2016,United States of America,"Maize, green",626
+2016,United States of America,"Meat live weight, cattle",2624
+2016,United States of America,"Meat live weight, chicken",1054
+2016,United States of America,"Meat live weight, pig",1087
+2016,United States of America,"Meat live weight, turkey",1819
+2016,United States of America,"Meat, pig",1531
+2016,United States of America,"Melons, other (inc.cantaloupes)",379
+2016,United States of America,"Milk, whole fresh cow",360
+2016,United States of America,Mustard seed,721
+2016,United States of America,Oats,142
+2016,United States of America,Peaches and nectarines,890
+2016,United States of America,Pears,712
+2016,United States of America,"Peas, dry",243
+2016,United States of America,"Peas, green",281
+2016,United States of America,Plums and sloes,896
+2016,United States of America,Potatoes,200
+2016,United States of America,Rapeseed,556
+2016,United States of America,Raspberries,3329
+2016,United States of America,Rye,202
+2016,United States of America,Soybeans,348
+2016,United States of America,Spinach,1149
+2016,United States of America,Strawberries,2447
+2016,United States of America,Sunflower seed,384
+2016,United States of America,"Tobacco, unmanufactured",4425
+2016,United States of America,Tomatoes,937
+2016,United States of America,Wheat,143
+2017,Canada,Apples,471.8
+2017,Canada,Apricots,1459.1
+2017,Canada,Asparagus,3516.5
+2017,Canada,Barley,148.8
+2017,Canada,"Beans, dry",622.5
+2017,Canada,"Beans, green",536.2
+2017,Canada,Blueberries,978.5
+2017,Canada,Cabbages and other brassicas,
+2017,Canada,Carrots and turnips,260.5
+2017,Canada,Cauliflowers and broccoli,695
+2017,Canada,Cherries,2792.7
+2017,Canada,Chick peas,
+2017,Canada,"Chillies and peppers, green",765
+2017,Canada,Cucumbers and gherkins,452.4
+2017,Canada,"Eggs, hen, in shell",1767.1
+2017,Canada,Grapes,1367.3
+2017,Canada,Lentils,483.1
+2017,Canada,Lettuce and chicory,698.1
+2017,Canada,Linseed,367.9
+2017,Canada,Maize,146.7
+2017,Canada,"Maize, green",305.4
+2017,Canada,"Meat live weight, cattle",2350.3
+2017,Canada,"Meat live weight, chicken",1587.4
+2017,Canada,"Meat live weight, pig",1179.5
+2017,Canada,"Meat live weight, turkey",1733.8
+2017,Canada,"Meat, pig",
+2017,Canada,"Melons, other (inc.cantaloupes)",332.6
+2017,Canada,"Milk, whole fresh cow",564.2
+2017,Canada,Mustard seed,
+2017,Canada,Oats,146
+2017,Canada,Peaches and nectarines,1264.4
+2017,Canada,Pears,911.2
+2017,Canada,"Peas, dry",237.1
+2017,Canada,"Peas, green",411.6
+2017,Canada,Plums and sloes,1631.7
+2017,Canada,Potatoes,227
+2017,Canada,Rapeseed,383.9
+2017,Canada,Raspberries,2816.2
+2017,Canada,Rye,120.3
+2017,Canada,Soybeans,344.9
+2017,Canada,Spinach,1656.6
+2017,Canada,Strawberries,3481.5
+2017,Canada,Sunflower seed,
+2017,Canada,"Tobacco, unmanufactured",4415.4
+2017,Canada,Tomatoes,177.1
+2017,Canada,Wheat,180.7
+2017,Mexico,Apples,461
+2017,Mexico,Apricots,323.9
+2017,Mexico,Asparagus,2154.6
+2017,Mexico,Barley,222.8
+2017,Mexico,"Beans, dry",730.8
+2017,Mexico,"Beans, green",369.5
+2017,Mexico,Blueberries,3095.6
+2017,Mexico,Cabbages and other brassicas,129.7
+2017,Mexico,Carrots and turnips,166.7
+2017,Mexico,Cauliflowers and broccoli,229
+2017,Mexico,Cherries,3607.2
+2017,Mexico,Chick peas,949.1
+2017,Mexico,"Chillies and peppers, green",575.9
+2017,Mexico,Cucumbers and gherkins,304.1
+2017,Mexico,"Eggs, hen, in shell",1004.2
+2017,Mexico,Grapes,924.8
+2017,Mexico,Lentils,592.8
+2017,Mexico,Lettuce and chicory,202.6
+2017,Mexico,Linseed,528.4
+2017,Mexico,Maize,190.7
+2017,Mexico,"Maize, green",120.9
+2017,Mexico,"Meat live weight, cattle",1803.6
+2017,Mexico,"Meat live weight, chicken",1159.1
+2017,Mexico,"Meat live weight, pig",1404
+2017,Mexico,"Meat live weight, turkey",2011
+2017,Mexico,"Meat, pig",2279
+2017,Mexico,"Melons, other (inc.cantaloupes)",257.3
+2017,Mexico,"Milk, whole fresh cow",317.3
+2017,Mexico,Mustard seed,
+2017,Mexico,Oats,211.9
+2017,Mexico,Peaches and nectarines,432.5
+2017,Mexico,Pears,242.1
+2017,Mexico,"Peas, dry",422.6
+2017,Mexico,"Peas, green",429.4
+2017,Mexico,Plums and sloes,274.8
+2017,Mexico,Potatoes,347.2
+2017,Mexico,Rapeseed,365.1
+2017,Mexico,Raspberries,1976.8
+2017,Mexico,Rye,181.8
+2017,Mexico,Soybeans,370.5
+2017,Mexico,Spinach,259.8
+2017,Mexico,Strawberries,1014.5
+2017,Mexico,Sunflower seed,289.4
+2017,Mexico,"Tobacco, unmanufactured",1717.1
+2017,Mexico,Tomatoes,388.1
+2017,Mexico,Wheat,200.4
+2017,United States of America,Apples,
+2017,United States of America,Apricots,
+2017,United States of America,Asparagus,2601
+2017,United States of America,Barley,204
+2017,United States of America,"Beans, dry",613
+2017,United States of America,"Beans, green",622
+2017,United States of America,Blueberries,
+2017,United States of America,Cabbages and other brassicas,443
+2017,United States of America,Carrots and turnips,664
+2017,United States of America,Cauliflowers and broccoli,1016
+2017,United States of America,Cherries,
+2017,United States of America,Chick peas,679
+2017,United States of America,"Chillies and peppers, green",745
+2017,United States of America,Cucumbers and gherkins,650
+2017,United States of America,"Eggs, hen, in shell",1214
+2017,United States of America,Grapes,
+2017,United States of America,Lentils,582
+2017,United States of America,Lettuce and chicory,802
+2017,United States of America,Linseed,364
+2017,United States of America,Maize,130
+2017,United States of America,"Maize, green",642
+2017,United States of America,"Meat live weight, cattle",2601
+2017,United States of America,"Meat live weight, chicken",1204
+2017,United States of America,"Meat live weight, pig",1171
+2017,United States of America,"Meat live weight, turkey",1422
+2017,United States of America,"Meat, pig",
+2017,United States of America,"Melons, other (inc.cantaloupes)",425
+2017,United States of America,"Milk, whole fresh cow",390
+2017,United States of America,Mustard seed,721
+2017,United States of America,Oats,179
+2017,United States of America,Peaches and nectarines,
+2017,United States of America,Pears,
+2017,United States of America,"Peas, dry",265
+2017,United States of America,"Peas, green",274
+2017,United States of America,Plums and sloes,
+2017,United States of America,Potatoes,227
+2017,United States of America,Rapeseed,441
+2017,United States of America,Raspberries,
+2017,United States of America,Rye,187
+2017,United States of America,Soybeans,342
+2017,United States of America,Spinach,1422
+2017,United States of America,Strawberries,2403
+2017,United States of America,Sunflower seed,388
+2017,United States of America,"Tobacco, unmanufactured",4562
+2017,United States of America,Tomatoes,822
+2017,United States of America,Wheat,169
