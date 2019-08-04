@@ -1,139 +1,2485 @@
-Area_Code,Area,Item_Code,Item,Element_Code,Element,Unit,Y2000,Y2001,Y2002,Y2003,Y2004,Y2005,Y2006,Y2007,Y2008,Y2009,Y2010,Y2011,Y2012,Y2013,Y2014,Y2015,Y2016,Y2017
-33,Canada,515,Apples,5532,Producer Price (USD/tonne),USD,228.9,231.2,244.7,271.9,286.7,302.9,323.9,359.1,383.8,361.3,397.8,408,529.5,553,475.2,414.8,429.4,471.8
-33,Canada,526,Apricots,5532,Producer Price (USD/tonne),USD,734.6,692.8,755.7,870.8,898.5,969.7,981.9,1083.9,1404.8,1165.6,1363.4,1585.6,1390.6,1657.1,1317,1328.9,1426.6,1459.1
-33,Canada,367,Asparagus,5532,Producer Price (USD/tonne),USD,2133.2,2084.9,2022.5,2177.6,2378.9,2451,2520.4,2783.7,2770.2,2694.8,3355.5,3440.6,3673.9,3479,3425.4,3133.3,3105.6,3516.5
-33,Canada,44,Barley,5532,Producer Price (USD/tonne),USD,71.4,82,96.2,93.5,94.5,75.1,88.2,153.6,207.1,164.5,141.7,195,224.9,237.3,169,174.1,166.3,148.8
-33,Canada,176,"Beans, dry",5532,Producer Price (USD/tonne),USD,338.7,390,330.1,342.6,422.7,450.6,468.1,486.3,740.7,659,636.7,843,946.6,817.5,793.6,726.4,656.7,622.5
-33,Canada,414,"Beans, green",5532,Producer Price (USD/tonne),USD,222.9,240.2,283.6,274.1,295.2,353.2,468.1,486.3,467.7,484,648.6,703.8,505.5,566.2,513.8,526.2,501,536.2
-33,Canada,552,Blueberries,5532,Producer Price (USD/tonne),USD,1184.4,800,917,1048.5,1238.5,1528.4,2458.7,2380.5,1611.8,947.9,1721.5,1951.7,1994.8,1667.8,1456.6,1265,916.1,978.5
-33,Canada,358,Cabbages and other brassicas,5532,Producer Price (USD/tonne),USD,148.8,169.8,196.9,194.1,182.9,213.7,233.6,268.1,295.4,266.2,310,374.3,383.2,451.7,455.1,378.7,358.1,
-33,Canada,426,Carrots and turnips,5532,Producer Price (USD/tonne),USD,131.3,121.4,135.1,139.9,168.3,192.3,194.8,207.9,236.4,221.1,235.5,240.2,226.2,250,284.6,282,262.4,260.5
-33,Canada,393,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),USD,372.4,350.6,391.9,427.5,430.4,498.4,588,625.8,672.7,629.8,725.1,778.4,782.3,765.9,782.3,749,711.3,695
-33,Canada,531,Cherries,5532,Producer Price (USD/tonne),USD,2045.6,1696.8,1873.4,2041.3,2212.9,2789.3,3485.1,3220.4,3408.5,2346.7,3439,3322.6,2992.3,3726.4,2971.8,2823.5,2727.7,2792.7
-33,Canada,191,Chick peas,5532,Producer Price (USD/tonne),USD,362.9,383.5,307.1,319.8,405.1,385.4,454.9,509.4,530.5,504.6,591.1,707.2,690.2,571.2,448.8,425.6,652.1,
-33,Canada,401,"Chillies and peppers, green",5532,Producer Price (USD/tonne),USD,398.6,418.4,376.6,490.3,563.4,581.8,2850.2,704.1,640.8,633.6,718.9,737.1,775.6,778.9,717.2,663.4,684.7,765
-33,Canada,397,Cucumbers and gherkins,5532,Producer Price (USD/tonne),USD,228.9,251.2,238.3,264.1,303.6,302.9,414.3,409.1,451.9,446.2,468.2,544,486,526.9,501.1,530.3,475.6,452.4
-33,Canada,1062,"Eggs, hen, in shell",5532,Producer Price (USD/tonne),USD,1062.1,1056.9,1062.1,1200.2,1338.3,1301.7,1412.5,1560.2,1763.4,1658.9,1798,2050.1,2162.7,2212.6,2006.8,1781.3,1719.1,1767.1
-33,Canada,560,Grapes,5532,Producer Price (USD/tonne),USD,668.6,716.7,698.4,720.9,810.9,997.7,1041.3,1322.2,1382.8,1275,1492.3,1429.7,1586.4,1460,1306.3,1189,1154.1,1367.3
-33,Canada,201,Lentils,5532,Producer Price (USD/tonne),USD,242.4,201.5,231.9,315.5,311.3,245.9,210.9,344.1,656.5,587.8,590.6,498.5,434.5,455.3,453,618.9,624.7,483.1
-33,Canada,372,Lettuce and chicory,5532,Producer Price (USD/tonne),USD,395.3,335.1,320.5,414.7,436.6,468.7,654.1,574,618,715.6,830.6,775,803,799.5,732.1,690.2,695.7,698.1
-33,Canada,333,Linseed,5532,Producer Price (USD/tonne),USD,138.7,177.6,226.2,235.5,295.9,300.4,205.8,328.6,577.3,358,395.5,559.9,548.4,558,463.8,399.4,347.1,367.9
-33,Canada,56,Maize,5532,Producer Price (USD/tonne),USD,90.2,97.5,116,102.1,109.1,90,106.8,147.9,186.8,159.1,166.8,238.6,258.7,224.8,167.8,150.4,146.2,146.7
-33,Canada,446,"Maize, green",5532,Producer Price (USD/tonne),USD,113.1,107.8,114.7,116.3,136.8,159.3,193.9,192.7,255.1,288.3,296.7,340.8,336.5,351.4,314.9,281.2,291.1,305.4
-33,Canada,945,"Meat live weight, cattle",5532,Producer Price (USD/tonne),USD,1376.3,1417.9,1317.8,1268.3,1192.1,1446.7,1547,1621.1,1622.9,1489.3,1736.7,2148.4,2296,2296.4,2900.2,3031.9,2322.2,2350.3
-33,Canada,1095,"Meat live weight, chicken",5532,Producer Price (USD/tonne),USD,1019.5,1033.1,968.6,1142,1252.9,1336.9,1366.4,1582.7,1799.4,1705.9,1815.2,2172.7,2231.8,2214,1961.8,1649.6,1576.9,1587.4
-33,Canada,1056,"Meat live weight, pig",5532,Producer Price (USD/tonne),USD,940.7,969.8,763.4,845.8,1093,1095.1,1021.1,1035.5,1016.9,910.7,1203.8,1443.9,1382.3,1439.9,1691,1142.7,1069.2,1179.5
-33,Canada,1088,"Meat live weight, turkey",5532,Producer Price (USD/tonne),USD,1162.2,1135.1,1127.2,1259.8,1419.7,1442.5,1507.5,1787.5,2024.3,1889.6,1970.6,2233.4,2341.9,2282,2088.4,1806,1697.6,1733.8
-33,Canada,1035,"Meat, pig",5532,Producer Price (USD/tonne),USD,1147.2,1182.7,931,1031.5,1332.9,1335.5,1245.3,1262.8,1240.2,1111.5,1469.8,1755.7,1681.7,1759.6,2060,1390.8,1304.1,
-33,Canada,568,"Melons, other (inc.cantaloupes)",5532,Producer Price (USD/tonne),USD,334,317.7,321.8,395.4,379.7,396.9,473.4,428.6,424.6,391.9,454.2,469.9,390.9,430.4,366.5,344.9,368.3,332.6
-33,Canada,882,"Milk, whole fresh cow",5532,Producer Price (USD/tonne),USD,361.6,353.8,357.5,425.4,461.2,528.2,574.2,639,655.6,623,699.5,756.9,743.6,732.8,702.9,577.6,551.9,564.2
-33,Canada,292,Mustard seed,5532,Producer Price (USD/tonne),USD,195.3,251.8,323.1,367.6,322.1,288,258,411.5,835.3,730.1,570.4,599.2,716.1,761,662.4,579.7,675.2,
-33,Canada,75,Oats,5532,Producer Price (USD/tonne),USD,59.3,82,117.2,102.1,93.8,95.7,112.6,150.4,184.9,128.2,145.7,206.3,203.7,213.3,166,142.2,132.4,146
-33,Canada,534,Peaches and nectarines,5532,Producer Price (USD/tonne),USD,655.8,680.5,709.9,812.2,834,988.6,1040.9,1054,1253.5,1022.7,1062.8,1422.3,1828.1,1458.1,1433.7,1320.8,1123.4,1264.4
-33,Canada,521,Pears,5532,Producer Price (USD/tonne),USD,360.9,334.5,378.5,483.2,553.4,600.8,654.1,752.8,821.3,755.3,718.5,915.3,742.6,882.3,862.3,833.9,814.3,911.2
-33,Canada,187,"Peas, dry",5532,Producer Price (USD/tonne),USD,84.2,109.1,134.5,121.3,118.4,101.5,118.3,203.5,287.8,195.9,186,286.7,315.8,288.9,218.4,239.1,265.2,237.1
-33,Canada,417,"Peas, green",5532,Producer Price (USD/tonne),USD,198.6,204,198.8,226.3,236,243.4,246,277.3,312.5,350.6,354.4,407,409.8,471.5,361.3,332.2,331.7,411.6
-33,Canada,536,Plums and sloes,5532,Producer Price (USD/tonne),USD,738,976.3,648.1,897.9,970.8,1224.7,1260.4,1269.6,1316.7,1486,1482.1,1855.6,2327.9,1929.8,1676.7,1574.4,1311.7,1631.7
-33,Canada,116,Potatoes,5532,Producer Price (USD/tonne),USD,122.5,123.3,151.7,143.5,138.4,155.1,194.2,186.4,209.7,234.7,246.7,266.5,271.4,258.4,250.5,220.8,216.4,227
-33,Canada,270,Rapeseed,5532,Producer Price (USD/tonne),USD,154.9,176.9,228.1,243.4,263.6,213.7,239.1,346.3,466.9,374.3,405.9,537.5,565.7,546.3,403,360.8,357.8,383.9
-33,Canada,547,Raspberries,5532,Producer Price (USD/tonne),USD,946.7,1174.5,1276.4,1351.1,1797.1,1731.4,1834.2,1650.9,2639.9,2139.5,2358,2357.4,2173.9,2432.1,2287.7,2407.8,2455.7,2816.2
-33,Canada,71,Rye,5532,Producer Price (USD/tonne),USD,47.1,62,85.4,94.2,100.7,95.7,91.3,135.2,243.5,153.5,156.2,218.2,236.1,236,201.8,174.7,148.1,120.3
-33,Canada,236,Soybeans,5532,Producer Price (USD/tonne),USD,177.1,167.9,187.3,233.4,265.9,226.9,268.2,283.2,389.5,359.3,372.8,446.5,494.9,486.2,414.2,329.6,341.7,344.9
-33,Canada,373,Spinach,5532,Producer Price (USD/tonne),USD,740.7,696.7,745.5,865.8,730.2,1127.3,1078.1,1025.5,1254.6,1238.2,1421.6,1681,1686.5,1748.6,1671.9,1521.5,1614.3,1656.6
-33,Canada,544,Strawberries,5532,Producer Price (USD/tonne),USD,1395.9,1377.2,1331.8,1556,1860.8,2172,2383.1,2360,2818.5,3098.5,3460.6,3550.4,3564.2,3539.6,3515.5,3185.6,3084.5,3481.5
-33,Canada,267,Sunflower seed,5532,Producer Price (USD/tonne),USD,195.9,214.4,273.4,284.8,241.3,283.9,300.6,383.9,535.2,508.3,436.5,582.1,665.1,623.3,574.8,473,433.7,
-33,Canada,826,"Tobacco, unmanufactured",5532,Producer Price (USD/tonne),USD,3259,3221.9,3167,3511.6,3781.7,3938.1,4019.9,4413,4339.1,4067.9,4630.3,4992.3,4613.7,4583.4,4113.5,4088.8,4285.5,4415.4
-33,Canada,388,Tomatoes,5532,Producer Price (USD/tonne),USD,101,98.1,90.5,102.8,100.7,111.4,124.3,128.2,126.3,151.3,156.7,173.2,167.3,163,175.9,162.4,168.2,177.1
-33,Canada,15,Wheat,5532,Producer Price (USD/tonne),USD,91.6,100.7,114.1,122.1,117.6,98.2,107.5,178.7,273.9,191.4,177.1,237,253.9,252.9,192.3,181.4,174.4,180.7
-138,Mexico,515,Apples,5532,Producer Price (USD/tonne),USD,372.3,300.8,319.7,309.2,314.8,329.3,433.2,514,478.1,307.5,440.3,398.6,609.2,389,441.3,363.5,348.2,461
-138,Mexico,526,Apricots,5532,Producer Price (USD/tonne),USD,740.3,406.8,828.5,741.5,708.8,763,786.7,816.1,805.4,721.5,769.4,839.3,801.3,905.7,834.2,405.1,340.7,323.9
-138,Mexico,367,Asparagus,5532,Producer Price (USD/tonne),USD,1964.3,1865.4,2540,1973.8,2318.2,2383.9,2541.4,2516.6,2831.9,2622.1,2556.6,2643.3,2316.4,2745.1,2585.8,2065.8,1969.2,2154.6
-138,Mexico,44,Barley,5532,Producer Price (USD/tonne),USD,156.9,174.2,162.7,153.1,158.6,163.6,175.4,198.4,293,236.6,246.6,289.1,290.4,283.6,262.5,235.8,225.1,222.8
-138,Mexico,176,"Beans, dry",5532,Producer Price (USD/tonne),USD,552.5,668.8,593.3,470.6,507.4,633.4,578.2,639.1,823.2,890.9,695.4,976.8,968.4,776.1,655.2,616.5,653.1,730.8
-138,Mexico,414,"Beans, green",5532,Producer Price (USD/tonne),USD,369.2,387.1,362.5,323.2,325.8,471.9,558.1,591.2,581.7,418.9,471.2,530.5,449.8,498.1,416.4,398.5,335.1,369.5
-138,Mexico,552,Blueberries,5532,Producer Price (USD/tonne),USD,645.7,642.2,517.8,556.1,708.8,1835.2,1835,1856.1,1806,498.6,1548.6,1875.2,3368.1,3592.9,3909.5,3544.1,3047.2,3095.6
-138,Mexico,358,Cabbages and other brassicas,5532,Producer Price (USD/tonne),USD,153.7,129.6,119.2,105.3,105.6,124.7,130.7,132.1,143.4,117.2,125.6,174.7,154.9,155.7,168.6,142.9,125,129.7
-138,Mexico,426,Carrots and turnips,5532,Producer Price (USD/tonne),USD,149.6,175.8,151.8,160.8,116.6,149.2,147.4,175.7,194.1,176.3,198.3,175.9,172.3,202.7,183.6,156.4,154.8,166.7
-138,Mexico,393,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),USD,263.2,326.7,309.1,297.3,281,302.8,263.7,260.3,261.1,222.8,254.1,294.3,297.5,299.8,323.7,244.9,218.6,229
-138,Mexico,531,Cherries,5532,Producer Price (USD/tonne),USD,687.4,695.8,671.9,649.8,686.6,719.1,741.4,783.6,773.4,551.9,1978.5,1408.6,759.3,834.9,5617.2,5504.1,3717.7,3607.2
-138,Mexico,191,Chick peas,5532,Producer Price (USD/tonne),USD,510.7,494.8,405.1,375.8,643.3,652.8,648.7,728.8,699.6,570.9,621.8,721.9,803.6,978.1,673.1,677.6,618.5,949.1
-138,Mexico,401,"Chillies and peppers, green",5532,Producer Price (USD/tonne),USD,445.6,389.6,354.8,385.9,524.6,446.8,359.9,551.7,319.4,317.9,268,480.4,432,524.6,506.5,564.4,465.5,575.9
-138,Mexico,397,Cucumbers and gherkins,5532,Producer Price (USD/tonne),USD,173.1,209,214.9,252.9,233.7,240.2,255.9,219.1,262.3,239.7,333.2,402.7,287.1,413.2,379.4,308.6,291.1,304.1
-138,Mexico,1062,"Eggs, hen, in shell",5532,Producer Price (USD/tonne),USD,771,843.5,777.8,816.6,877.2,769,807.4,887.6,1115.8,963.8,1027.1,1064.2,1250.1,1564.7,1537,1166.4,960.6,1004.2
-138,Mexico,560,Grapes,5532,Producer Price (USD/tonne),USD,537.4,620.2,881.6,1002.9,696.4,837.9,995.4,1160.6,1168.1,1323.2,1087.4,1356.2,1435.3,1326.5,1015.5,906.1,870,924.8
-138,Mexico,201,Lentils,5532,Producer Price (USD/tonne),USD,332.3,264.9,161.8,239,239.6,277,399.9,280.7,447.8,594.4,405.4,803.2,445.4,529.4,452,368.3,470.4,592.8
-138,Mexico,372,Lettuce and chicory,5532,Producer Price (USD/tonne),USD,207.6,208.2,190.3,168.7,165.3,179.1,166.5,191,206.7,180.1,215.5,228.3,217.6,234.3,226.9,196.3,180.2,202.6
-138,Mexico,333,Linseed,5532,Producer Price (USD/tonne),USD,951.8,856.3,1035.6,1555.6,1157.4,1073,1180.9,1380.3,1280.1,1426.1,2104.7,2185.7,1918.6,2181.3,752.3,652,401.8,528.4
-138,Mexico,56,Maize,5532,Producer Price (USD/tonne),USD,159.5,155.3,155.4,150,148.8,144.8,184.5,223.5,253.1,207.4,222.9,328.2,304.5,263.5,234.4,216,189.2,190.7
-138,Mexico,446,"Maize, green",5532,Producer Price (USD/tonne),USD,106.3,113.9,121.3,113.8,114,128,136.3,140.2,154.5,129,144.4,162.3,164.4,177.6,163.5,153.1,116.3,120.9
-138,Mexico,945,"Meat live weight, cattle",5532,Producer Price (USD/tonne),USD,1292.4,1365.8,1276.9,1146.5,1290.1,1526.9,1534.1,1537.3,1539.9,1300.9,1406.7,1454.8,1455.7,1648.4,1967.8,2070.1,1771.1,1803.6
-138,Mexico,1095,"Meat live weight, chicken",5532,Producer Price (USD/tonne),USD,1185.5,1245.9,1194.1,1045.5,1121.7,1201.1,1145,1248.1,1339.6,1169.4,1306.6,1412.8,1443,1613.9,1620.8,1292.5,1130.9,1159.1
-138,Mexico,1056,"Meat live weight, pig",5532,Producer Price (USD/tonne),USD,1271.2,1392.6,1216.9,1147.5,1292.8,1463.6,1417.5,1331.4,1419,1284.9,1472.5,1559.4,1552.4,1691.6,1837,1574,1361.3,1404
-138,Mexico,1088,"Meat live weight, turkey",5532,Producer Price (USD/tonne),USD,1957.6,2118.3,2009.1,1784.2,1821.7,1896.7,1924.9,2144.9,2269.8,2128,2392.9,2510,2444.2,2712.2,2633.8,2280.6,1957.3,2011
-138,Mexico,1035,"Meat, pig",5532,Producer Price (USD/tonne),USD,2135.3,2358.1,2103.4,1979.8,2191.2,2450,2396.5,2349.9,2489,2138,2414.8,2527.2,2482.2,2767.5,2857.8,2580.2,2215,2279
-138,Mexico,568,"Melons, other (inc.cantaloupes)",5532,Producer Price (USD/tonne),USD,225.4,238.9,235.4,236.3,274.3,273.1,262.2,269.1,264.5,236.6,257.2,254.5,301.4,302.6,363.3,260.7,266.5,257.3
-138,Mexico,882,"Milk, whole fresh cow",5532,Producer Price (USD/tonne),USD,337.4,342.5,326.2,298.5,310.1,345,347.7,368.8,388.4,350.8,376.6,398,393.9,433.3,439.3,370.8,312.7,317.3
-138,Mexico,292,Mustard seed,5532,Producer Price (USD/tonne),USD,835.5,760,420.4,94.4,104.5,122.9,137.6,163.9,341.4,1739,1661.9,821.6,2050.2,2192.3,2407.4,2271.5,2143.2,
-138,Mexico,75,Oats,5532,Producer Price (USD/tonne),USD,212.1,181.7,194.4,170.4,195.6,199.3,191.1,187.5,189.6,236.9,223.4,330,382.4,276.9,264,256.2,224.8,211.9
-138,Mexico,534,Peaches and nectarines,5532,Producer Price (USD/tonne),USD,610.1,542.8,448.3,507.8,490.1,527.6,543.9,564.3,556.9,498.9,532,580.3,554.1,626.2,576.8,494.2,422.7,432.5
-138,Mexico,521,Pears,5532,Producer Price (USD/tonne),USD,241.5,238.9,251.2,205.1,258.2,318.2,309.2,400.1,302.3,205.8,246.5,282.2,221.1,315.2,268.9,259.4,241,242.1
-138,Mexico,187,"Peas, dry",5532,Producer Price (USD/tonne),USD,572.5,403.4,415.9,469.6,393.4,502.9,536.4,486.2,438.4,331.1,386.9,464.4,475.4,475.1,436.9,467.8,390.9,422.6
-138,Mexico,417,"Peas, green",5532,Producer Price (USD/tonne),USD,356.7,414.2,401.1,375.9,444.7,450.8,497.5,471.3,609.6,431.3,481.2,492.5,471.4,525.2,504.6,397.9,412.1,429.4
-138,Mexico,536,Plums and sloes,5532,Producer Price (USD/tonne),USD,224.6,318.8,287.3,240.3,254,261.3,269.7,285.1,325.7,232.4,254.6,337.8,303.1,319.6,341.9,316.7,245.6,274.8
-138,Mexico,116,Potatoes,5532,Producer Price (USD/tonne),USD,351.1,352,455.9,405.7,384.3,423.9,438.4,405.7,422,559,598.6,509.4,450.1,545.9,537,426.3,322.7,347.2
-138,Mexico,270,Rapeseed,5532,Producer Price (USD/tonne),USD,237.8,155.6,225.8,319.1,309.1,285.9,264.5,327.2,427.2,384.8,411.9,433.3,401,422.6,464.7,356.1,305.6,365.1
-138,Mexico,547,Raspberries,5532,Producer Price (USD/tonne),USD,1633.2,3368.1,6443.9,3660.8,7046.7,2786.6,2873.1,2490.2,2414.4,3221.4,3653.8,2798.4,3047.8,2749.7,2962,2376,1860.1,1976.8
-138,Mexico,71,Rye,5532,Producer Price (USD/tonne),USD,225.6,301.5,362.5,148.3,141.8,275.3,229.4,201.3,269.5,222,213.3,144.9,318.9,297.5,225.7,227.2,193.5,181.8
-138,Mexico,236,Soybeans,5532,Producer Price (USD/tonne),USD,190.7,197.7,210.4,277.9,240.9,210.7,239.2,333.3,409.1,364.7,433.3,505.7,535.5,493.8,406.6,366,365.5,370.5
-138,Mexico,373,Spinach,5532,Producer Price (USD/tonne),USD,298.9,369.7,310.7,303,232.9,285.3,274.9,269.2,293.3,218.3,386.2,346.1,386,497,308.7,349.2,255,259.8
-138,Mexico,544,Strawberries,5532,Producer Price (USD/tonne),USD,572.5,648.5,753.5,656.6,601.1,817.6,834.9,914.9,637.7,620.3,734.2,884.3,913.6,861.1,897,928.7,895.7,1014.5
-138,Mexico,267,Sunflower seed,5532,Producer Price (USD/tonne),USD,445.4,160.3,206.3,385.4,277.3,221.9,451.7,591.6,541.5,274.7,372.4,434,488.6,476.1,448.4,364.3,308.3,289.4
-138,Mexico,826,"Tobacco, unmanufactured",5532,Producer Price (USD/tonne),USD,1380.6,1811.3,1905.3,1698.5,1529.6,1648.4,1688.1,1829.9,2073.6,1800.8,2071.5,2503.9,1711,2285.6,2414.3,2008.2,1735.8,1717.1
-138,Mexico,388,Tomatoes,5532,Producer Price (USD/tonne),USD,405.7,326.2,323.5,391.7,550.3,405,539.7,434.9,504.2,442.9,517.2,444.4,351.7,437.2,411.7,420.3,381.9,388.1
-138,Mexico,15,Wheat,5532,Producer Price (USD/tonne),USD,155.2,131.1,125.8,131.4,147,149,153.8,189.7,330.6,214,213.3,289.4,274,278.1,255.3,240.9,196.1,200.4
-231,United States of America,515,Apples,5532,Producer Price (USD/tonne),USD,282,348,417,414,300,381,500,635,511,509,553,668,818,668,567,741,705,
-231,United States of America,526,Apricots,5532,Producer Price (USD/tonne),USD,407,389,394,417,392,573,733,526,586,721,796,679,742,812,902,1113,990,
-231,United States of America,367,Asparagus,5532,Producer Price (USD/tonne),USD,2579,3086,2425,2315,1792,1927,1960,2180,2271,2381,2690,2690,2579,2888,2337,2557,2535,2601
-231,United States of America,44,Barley,5532,Producer Price (USD/tonne),USD,97,102,125,130,114,116,131,185,247,214,177,246,295,278,243,254,228,204
-231,United States of America,176,"Beans, dry",5532,Producer Price (USD/tonne),USD,342,487,377,406,567,408,487,635,763,661,617,928,838,862,712,602,644,613
-231,United States of America,414,"Beans, green",5532,Producer Price (USD/tonne),USD,476,506,474,487,478,464,272,453,551,572,521,579,578,642,639,657,569,622
-231,United States of America,552,Blueberries,5532,Producer Price (USD/tonne),USD,2143,1916,2271,2579,2668,3175,3880,4079,3395,2932,3175,4079,3748,3086,3219,3241,2690,
-231,United States of America,358,Cabbages and other brassicas,5532,Producer Price (USD/tonne),USD,271,295,284,293,289,300,712,362,324,342,381,386,408,443,450,425,476,443
-231,United States of America,426,Carrots and turnips,5532,Producer Price (USD/tonne),USD,289,377,421,419,448,463,454,487,540,556,586,717,586,631,597,672,710,664
-231,United States of America,393,Cauliflowers and broccoli,5532,Producer Price (USD/tonne),USD,708,644,710,774,679,710,712,758,897,977,922,1014,789,977,1098,1351,1246,1016
-231,United States of America,531,Cherries,5532,Producer Price (USD/tonne),USD,1477,1356,1709,1554,1731,2194,1786,2006,2635,1466,2568,2789,2227,2877,2359,2480,2480,
-231,United States of America,191,Chick peas,5532,Producer Price (USD/tonne),USD,354,410,505,478,551,560,560,639,730,597,622,822,769,661,593,633,635,679
-231,United States of America,401,"Chillies and peppers, green",5532,Producer Price (USD/tonne),USD,694,633,653,677,694,734,743,730,884,758,886,772,798,880,1030,741,765,745
-231,United States of America,397,Cucumbers and gherkins,5532,Producer Price (USD/tonne),USD,439,437,419,439,445,509,373,542,547,564,505,589,551,591,538,575,571,650
-231,United States of America,1062,"Eggs, hen, in shell",5532,Producer Price (USD/tonne),USD,629.9,641.2,579.8,810.6,786.6,489.7,567.1,1203,1541,1157,985,1362,1404,1533,1759,2322,1077,1214
-231,United States of America,560,Grapes,5532,Producer Price (USD/tonne),USD,444,495,427,443,532,493,572,539,503,557,537,635,829,785,816,855,899,
-231,United States of America,201,Lentils,5532,Producer Price (USD/tonne),USD,220,211,315,379,317,243,273,573,745,591,567,551,456,437,538,683,628,582
-231,United States of America,372,Lettuce and chicory,5532,Producer Price (USD/tonne),USD,381,395,465,399,373,342,311,478,443,494,465,507,390,589,538,642,602,802
-231,United States of America,333,Linseed,5532,Producer Price (USD/tonne),USD,130,169,227,231,318,234,228,512,500,321,480,547,543,543,465,352,315,364
-231,United States of America,56,Maize,5532,Producer Price (USD/tonne),USD,73,78,91,95,81,79,120,165,160,140,204,245,271,176,146,142,132,130
-231,United States of America,446,"Maize, green",5532,Producer Price (USD/tonne),USD,408,430,423,423,423,487,507,500,571,646,564,589,580,622,633,622,626,642
-231,United States of America,945,"Meat live weight, cattle",5532,Producer Price (USD/tonne),USD,1512,1572,1466,1757,1892,1978,1922,1982,1964,1770,2033,2491,2668,2756,3351,3241,2624,2601
-231,United States of America,1095,"Meat live weight, chicken",5532,Producer Price (USD/tonne),USD,750,860,683,772,992,970,794,961,1010,999,1080,1012,1127,1332,1407,1166,1054,1204
-231,United States of America,1056,"Meat live weight, pig",5532,Producer Price (USD/tonne),USD,946,972,734,827,1129,1093,1014,1027,1036,917,1193,1440,1415,1482,1687,1219,1087,1171
-231,United States of America,1088,"Meat live weight, turkey",5532,Producer Price (USD/tonne),USD,895,860,805,763,915,981,1058,1153,1252,1102,1356,1499,1585,1466,1614,1788,1819,1422
-231,United States of America,1035,"Meat, pig",5532,Producer Price (USD/tonne),USD,1332.4,1376.1,1036.6,1164.8,1590.1,1539.4,1428.2,1446.5,1459.2,1294.4,1680.3,2028.2,1993,2087.3,2376.1,1716.9,1531,
-231,United States of America,568,"Melons, other (inc.cantaloupes)",5532,Producer Price (USD/tonne),USD,377,419,390,370,324,351,379,326,408,401,366,406,421,388,487,430,379,425
-231,United States of America,882,"Milk, whole fresh cow",5532,Producer Price (USD/tonne),USD,273,331,269,277,356,335,286,424,407,285,360,446,409,443,531,379,360,390
-231,United States of America,292,Mustard seed,5532,Producer Price (USD/tonne),USD,223,267,340,353,335,298,302,617,966,670,571,741,789,820,767,701,721,721
-231,United States of America,75,Oats,5532,Producer Price (USD/tonne),USD,76,110,125,102,102,112,129,181,217,139,174,240,268,258,221,146,142,179
-231,United States of America,534,Peaches and nectarines,5532,Producer Price (USD/tonne),USD,421,461,441,416,413,493,573,496,540,604,603,621,713,680,828,809,890,
-231,United States of America,521,Pears,5532,Producer Price (USD/tonne),USD,291,293,327,324,369,395,438,459,503,410,525,419,561,541,620,678,712,
-231,United States of America,187,"Peas, dry",5532,Producer Price (USD/tonne),USD,117,122,172,168,131,105,145,289,295,198,215,337,346,322,265,282,243,265
-231,United States of America,417,"Peas, green",5532,Producer Price (USD/tonne),USD,273,291,279,277,281,298,558,286,397,352,316,459,478,471,405,353,281,274
-231,United States of America,536,Plums and sloes,5532,Producer Price (USD/tonne),USD,487,337,425,461,627,596,758,733,392,567,612,443,766,732,1006,1100,896,
-231,United States of America,116,Potatoes,5532,Producer Price (USD/tonne),USD,112,154,147,130,125,155,161,166,200,182,203,207,190,215,196,193,200,227
-231,United States of America,270,Rapeseed,5532,Producer Price (USD/tonne),USD,215,238,215,243,311,315,328,390,558,580,516,595,575,553,769,952,556,441
-231,United States of America,547,Raspberries,5532,Producer Price (USD/tonne),USD,4189,3660,3086,4586,4608,4387,4740,6349,6614,6393,5445,4564,3792,4123,5203,5115,3329,
-231,United States of America,71,Rye,5532,Producer Price (USD/tonne),USD,102,113,131,115,127,130,131,197,249,194,204,307,303,313,305,256,202,187
-231,United States of America,236,Soybeans,5532,Producer Price (USD/tonne),USD,167,161,203,270,211,208,236,371,366,352,415,459,529,478,371,329,348,342
-231,United States of America,373,Spinach,5532,Producer Price (USD/tonne),USD,728,714,754,814,489,503,659,712,743,871,941,891,930,952,968,1246,1149,1422
-231,United States of America,544,Strawberries,5532,Producer Price (USD/tonne),USD,1431,1671,1572,1651,1508,1519,1393,1579,1671,1676,1748,1817,1773,1887,2057,1609,2447,2403
-231,United States of America,267,Sunflower seed,5532,Producer Price (USD/tonne),USD,152,212,267,267,302,267,320,478,481,333,514,642,560,472,478,432,384,388
-231,United States of America,826,"Tobacco, unmanufactured",5532,Producer Price (USD/tonne),USD,4211,4312,4268,4330,4374,3620,3671,3732,4098,4050,3904,4094,4469,4799,4616,4416,4425,4562
-231,United States of America,388,Tomatoes,5532,Producer Price (USD/tonne),USD,677,661,697,827,825,917,963,767,1003,891,1067,796,672,983,915,1021,937,822
-231,United States of America,15,Wheat,5532,Producer Price (USD/tonne),USD,96,102,131,125,125,126,157,238,249,179,209,266,286,252,220,180,143,169
+Area,Group,Item,Year,Price
+Canada,Fruit and nuts,Apples,2000,228.9
+Canada,Fruit and nuts,Apricots,2000,734.6
+Canada,Vegetables,Asparagus,2000,2133.2
+Canada,Cereals,Barley,2000,71.4
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2000,338.7
+Canada,Vegetables,"Beans, green",2000,222.9
+Canada,Fruit and nuts,Blueberries,2000,1184.4
+Canada,Vegetables,Cabbages and other brassicas,2000,148.8
+Canada,Vegetables,Carrots and turnips,2000,131.3
+Canada,Vegetables,Cauliflowers and broccoli,2000,372.4
+Canada,Fruit and nuts,Cherries,2000,2045.6
+Canada,Pulses (dried leguminous vegetables),Chick peas,2000,362.9
+Canada,Vegetables,"Chillies and peppers, green",2000,398.6
+Canada,Vegetables,Cucumbers and gherkins,2000,228.9
+Canada,"Eggs, fresh","Eggs, hen, in shell",2000,1062.1
+Canada,Fruit and nuts,Grapes,2000,668.6
+Canada,Pulses (dried leguminous vegetables),Lentils,2000,242.4
+Canada,Vegetables,Lettuce and chicory,2000,395.3
+Canada,Oilseeds and oleaginous fruits,Linseed,2000,138.7
+Canada,Cereals,Maize,2000,90.2
+Canada,Vegetables,"Maize, green",2000,113.1
+Canada,Natural rubber,"Meat live weight, cattle",2000,1376.3
+Canada,Natural rubber,"Meat live weight, chicken",2000,1019.5
+Canada,Natural rubber,"Meat live weight, pig",2000,940.7
+Canada,Natural rubber,"Meat live weight, turkey",2000,1162.2
+Canada,Natural rubber,"Meat, pig",2000,1147.2
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2000,334
+Canada,,"Milk, whole fresh cow",2000,361.6
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2000,195.3
+Canada,Cereals,Oats,2000,59.3
+Canada,Fruit and nuts,Peaches and nectarines,2000,655.8
+Canada,Fruit and nuts,Pears,2000,360.9
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2000,84.2
+Canada,Vegetables,"Peas, green",2000,198.6
+Canada,Fruit and nuts,Plums and sloes,2000,738
+Canada,Edible roots and tubers,Potatoes,2000,122.5
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2000,154.9
+Canada,Fruit and nuts,Raspberries,2000,946.7
+Canada,Cereals,Rye,2000,47.1
+Canada,Oilseeds and oleaginous fruits,Soybeans,2000,177.1
+Canada,Vegetables,Spinach,2000,740.7
+Canada,Fruit and nuts,Strawberries,2000,1395.9
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2000,195.9
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2000,3259
+Canada,Vegetables,Tomatoes,2000,101
+Canada,Cereals,Wheat,2000,91.6
+Mexico,Fruit and nuts,Apples,2000,372.3
+Mexico,Fruit and nuts,Apricots,2000,740.3
+Mexico,Vegetables,Asparagus,2000,1964.3
+Mexico,Cereals,Barley,2000,156.9
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2000,552.5
+Mexico,Vegetables,"Beans, green",2000,369.2
+Mexico,Fruit and nuts,Blueberries,2000,645.7
+Mexico,Vegetables,Cabbages and other brassicas,2000,153.7
+Mexico,Vegetables,Carrots and turnips,2000,149.6
+Mexico,Vegetables,Cauliflowers and broccoli,2000,263.2
+Mexico,Fruit and nuts,Cherries,2000,687.4
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2000,510.7
+Mexico,Vegetables,"Chillies and peppers, green",2000,445.6
+Mexico,Vegetables,Cucumbers and gherkins,2000,173.1
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2000,771
+Mexico,Fruit and nuts,Grapes,2000,537.4
+Mexico,Pulses (dried leguminous vegetables),Lentils,2000,332.3
+Mexico,Vegetables,Lettuce and chicory,2000,207.6
+Mexico,Oilseeds and oleaginous fruits,Linseed,2000,951.8
+Mexico,Cereals,Maize,2000,159.5
+Mexico,Vegetables,"Maize, green",2000,106.3
+Mexico,Natural rubber,"Meat live weight, cattle",2000,1292.4
+Mexico,Natural rubber,"Meat live weight, chicken",2000,1185.5
+Mexico,Natural rubber,"Meat live weight, pig",2000,1271.2
+Mexico,Natural rubber,"Meat live weight, turkey",2000,1957.6
+Mexico,Natural rubber,"Meat, pig",2000,2135.3
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2000,225.4
+Mexico,,"Milk, whole fresh cow",2000,337.4
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2000,835.5
+Mexico,Cereals,Oats,2000,212.1
+Mexico,Fruit and nuts,Peaches and nectarines,2000,610.1
+Mexico,Fruit and nuts,Pears,2000,241.5
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2000,572.5
+Mexico,Vegetables,"Peas, green",2000,356.7
+Mexico,Fruit and nuts,Plums and sloes,2000,224.6
+Mexico,Edible roots and tubers,Potatoes,2000,351.1
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2000,237.8
+Mexico,Fruit and nuts,Raspberries,2000,1633.2
+Mexico,Cereals,Rye,2000,225.6
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2000,190.7
+Mexico,Vegetables,Spinach,2000,298.9
+Mexico,Fruit and nuts,Strawberries,2000,572.5
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2000,445.4
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2000,1380.6
+Mexico,Vegetables,Tomatoes,2000,405.7
+Mexico,Cereals,Wheat,2000,155.2
+United States of America,Fruit and nuts,Apples,2000,282
+United States of America,Fruit and nuts,Apricots,2000,407
+United States of America,Vegetables,Asparagus,2000,2579
+United States of America,Cereals,Barley,2000,97
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2000,342
+United States of America,Vegetables,"Beans, green",2000,476
+United States of America,Fruit and nuts,Blueberries,2000,2143
+United States of America,Vegetables,Cabbages and other brassicas,2000,271
+United States of America,Vegetables,Carrots and turnips,2000,289
+United States of America,Vegetables,Cauliflowers and broccoli,2000,708
+United States of America,Fruit and nuts,Cherries,2000,1477
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2000,354
+United States of America,Vegetables,"Chillies and peppers, green",2000,694
+United States of America,Vegetables,Cucumbers and gherkins,2000,439
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2000,629.9
+United States of America,Fruit and nuts,Grapes,2000,444
+United States of America,Pulses (dried leguminous vegetables),Lentils,2000,220
+United States of America,Vegetables,Lettuce and chicory,2000,381
+United States of America,Oilseeds and oleaginous fruits,Linseed,2000,130
+United States of America,Cereals,Maize,2000,73
+United States of America,Vegetables,"Maize, green",2000,408
+United States of America,Natural rubber,"Meat live weight, cattle",2000,1512
+United States of America,Natural rubber,"Meat live weight, chicken",2000,750
+United States of America,Natural rubber,"Meat live weight, pig",2000,946
+United States of America,Natural rubber,"Meat live weight, turkey",2000,895
+United States of America,Natural rubber,"Meat, pig",2000,1332.4
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2000,377
+United States of America,,"Milk, whole fresh cow",2000,273
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2000,223
+United States of America,Cereals,Oats,2000,76
+United States of America,Fruit and nuts,Peaches and nectarines,2000,421
+United States of America,Fruit and nuts,Pears,2000,291
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2000,117
+United States of America,Vegetables,"Peas, green",2000,273
+United States of America,Fruit and nuts,Plums and sloes,2000,487
+United States of America,Edible roots and tubers,Potatoes,2000,112
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2000,215
+United States of America,Fruit and nuts,Raspberries,2000,4189
+United States of America,Cereals,Rye,2000,102
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2000,167
+United States of America,Vegetables,Spinach,2000,728
+United States of America,Fruit and nuts,Strawberries,2000,1431
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2000,152
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2000,4211
+United States of America,Vegetables,Tomatoes,2000,677
+United States of America,Cereals,Wheat,2000,96
+Canada,Fruit and nuts,Apples,2001,231.2
+Canada,Fruit and nuts,Apricots,2001,692.8
+Canada,Vegetables,Asparagus,2001,2084.9
+Canada,Cereals,Barley,2001,82
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2001,390
+Canada,Vegetables,"Beans, green",2001,240.2
+Canada,Fruit and nuts,Blueberries,2001,800
+Canada,Vegetables,Cabbages and other brassicas,2001,169.8
+Canada,Vegetables,Carrots and turnips,2001,121.4
+Canada,Vegetables,Cauliflowers and broccoli,2001,350.6
+Canada,Fruit and nuts,Cherries,2001,1696.8
+Canada,Pulses (dried leguminous vegetables),Chick peas,2001,383.5
+Canada,Vegetables,"Chillies and peppers, green",2001,418.4
+Canada,Vegetables,Cucumbers and gherkins,2001,251.2
+Canada,"Eggs, fresh","Eggs, hen, in shell",2001,1056.9
+Canada,Fruit and nuts,Grapes,2001,716.7
+Canada,Pulses (dried leguminous vegetables),Lentils,2001,201.5
+Canada,Vegetables,Lettuce and chicory,2001,335.1
+Canada,Oilseeds and oleaginous fruits,Linseed,2001,177.6
+Canada,Cereals,Maize,2001,97.5
+Canada,Vegetables,"Maize, green",2001,107.8
+Canada,Natural rubber,"Meat live weight, cattle",2001,1417.9
+Canada,Natural rubber,"Meat live weight, chicken",2001,1033.1
+Canada,Natural rubber,"Meat live weight, pig",2001,969.8
+Canada,Natural rubber,"Meat live weight, turkey",2001,1135.1
+Canada,Natural rubber,"Meat, pig",2001,1182.7
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2001,317.7
+Canada,,"Milk, whole fresh cow",2001,353.8
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2001,251.8
+Canada,Cereals,Oats,2001,82
+Canada,Fruit and nuts,Peaches and nectarines,2001,680.5
+Canada,Fruit and nuts,Pears,2001,334.5
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2001,109.1
+Canada,Vegetables,"Peas, green",2001,204
+Canada,Fruit and nuts,Plums and sloes,2001,976.3
+Canada,Edible roots and tubers,Potatoes,2001,123.3
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2001,176.9
+Canada,Fruit and nuts,Raspberries,2001,1174.5
+Canada,Cereals,Rye,2001,62
+Canada,Oilseeds and oleaginous fruits,Soybeans,2001,167.9
+Canada,Vegetables,Spinach,2001,696.7
+Canada,Fruit and nuts,Strawberries,2001,1377.2
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2001,214.4
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2001,3221.9
+Canada,Vegetables,Tomatoes,2001,98.1
+Canada,Cereals,Wheat,2001,100.7
+Mexico,Fruit and nuts,Apples,2001,300.8
+Mexico,Fruit and nuts,Apricots,2001,406.8
+Mexico,Vegetables,Asparagus,2001,1865.4
+Mexico,Cereals,Barley,2001,174.2
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2001,668.8
+Mexico,Vegetables,"Beans, green",2001,387.1
+Mexico,Fruit and nuts,Blueberries,2001,642.2
+Mexico,Vegetables,Cabbages and other brassicas,2001,129.6
+Mexico,Vegetables,Carrots and turnips,2001,175.8
+Mexico,Vegetables,Cauliflowers and broccoli,2001,326.7
+Mexico,Fruit and nuts,Cherries,2001,695.8
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2001,494.8
+Mexico,Vegetables,"Chillies and peppers, green",2001,389.6
+Mexico,Vegetables,Cucumbers and gherkins,2001,209
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2001,843.5
+Mexico,Fruit and nuts,Grapes,2001,620.2
+Mexico,Pulses (dried leguminous vegetables),Lentils,2001,264.9
+Mexico,Vegetables,Lettuce and chicory,2001,208.2
+Mexico,Oilseeds and oleaginous fruits,Linseed,2001,856.3
+Mexico,Cereals,Maize,2001,155.3
+Mexico,Vegetables,"Maize, green",2001,113.9
+Mexico,Natural rubber,"Meat live weight, cattle",2001,1365.8
+Mexico,Natural rubber,"Meat live weight, chicken",2001,1245.9
+Mexico,Natural rubber,"Meat live weight, pig",2001,1392.6
+Mexico,Natural rubber,"Meat live weight, turkey",2001,2118.3
+Mexico,Natural rubber,"Meat, pig",2001,2358.1
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2001,238.9
+Mexico,,"Milk, whole fresh cow",2001,342.5
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2001,760
+Mexico,Cereals,Oats,2001,181.7
+Mexico,Fruit and nuts,Peaches and nectarines,2001,542.8
+Mexico,Fruit and nuts,Pears,2001,238.9
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2001,403.4
+Mexico,Vegetables,"Peas, green",2001,414.2
+Mexico,Fruit and nuts,Plums and sloes,2001,318.8
+Mexico,Edible roots and tubers,Potatoes,2001,352
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2001,155.6
+Mexico,Fruit and nuts,Raspberries,2001,3368.1
+Mexico,Cereals,Rye,2001,301.5
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2001,197.7
+Mexico,Vegetables,Spinach,2001,369.7
+Mexico,Fruit and nuts,Strawberries,2001,648.5
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2001,160.3
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2001,1811.3
+Mexico,Vegetables,Tomatoes,2001,326.2
+Mexico,Cereals,Wheat,2001,131.1
+United States of America,Fruit and nuts,Apples,2001,348
+United States of America,Fruit and nuts,Apricots,2001,389
+United States of America,Vegetables,Asparagus,2001,3086
+United States of America,Cereals,Barley,2001,102
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2001,487
+United States of America,Vegetables,"Beans, green",2001,506
+United States of America,Fruit and nuts,Blueberries,2001,1916
+United States of America,Vegetables,Cabbages and other brassicas,2001,295
+United States of America,Vegetables,Carrots and turnips,2001,377
+United States of America,Vegetables,Cauliflowers and broccoli,2001,644
+United States of America,Fruit and nuts,Cherries,2001,1356
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2001,410
+United States of America,Vegetables,"Chillies and peppers, green",2001,633
+United States of America,Vegetables,Cucumbers and gherkins,2001,437
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2001,641.2
+United States of America,Fruit and nuts,Grapes,2001,495
+United States of America,Pulses (dried leguminous vegetables),Lentils,2001,211
+United States of America,Vegetables,Lettuce and chicory,2001,395
+United States of America,Oilseeds and oleaginous fruits,Linseed,2001,169
+United States of America,Cereals,Maize,2001,78
+United States of America,Vegetables,"Maize, green",2001,430
+United States of America,Natural rubber,"Meat live weight, cattle",2001,1572
+United States of America,Natural rubber,"Meat live weight, chicken",2001,860
+United States of America,Natural rubber,"Meat live weight, pig",2001,972
+United States of America,Natural rubber,"Meat live weight, turkey",2001,860
+United States of America,Natural rubber,"Meat, pig",2001,1376.1
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2001,419
+United States of America,,"Milk, whole fresh cow",2001,331
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2001,267
+United States of America,Cereals,Oats,2001,110
+United States of America,Fruit and nuts,Peaches and nectarines,2001,461
+United States of America,Fruit and nuts,Pears,2001,293
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2001,122
+United States of America,Vegetables,"Peas, green",2001,291
+United States of America,Fruit and nuts,Plums and sloes,2001,337
+United States of America,Edible roots and tubers,Potatoes,2001,154
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2001,238
+United States of America,Fruit and nuts,Raspberries,2001,3660
+United States of America,Cereals,Rye,2001,113
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2001,161
+United States of America,Vegetables,Spinach,2001,714
+United States of America,Fruit and nuts,Strawberries,2001,1671
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2001,212
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2001,4312
+United States of America,Vegetables,Tomatoes,2001,661
+United States of America,Cereals,Wheat,2001,102
+Canada,Fruit and nuts,Apples,2002,244.7
+Canada,Fruit and nuts,Apricots,2002,755.7
+Canada,Vegetables,Asparagus,2002,2022.5
+Canada,Cereals,Barley,2002,96.2
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2002,330.1
+Canada,Vegetables,"Beans, green",2002,283.6
+Canada,Fruit and nuts,Blueberries,2002,917
+Canada,Vegetables,Cabbages and other brassicas,2002,196.9
+Canada,Vegetables,Carrots and turnips,2002,135.1
+Canada,Vegetables,Cauliflowers and broccoli,2002,391.9
+Canada,Fruit and nuts,Cherries,2002,1873.4
+Canada,Pulses (dried leguminous vegetables),Chick peas,2002,307.1
+Canada,Vegetables,"Chillies and peppers, green",2002,376.6
+Canada,Vegetables,Cucumbers and gherkins,2002,238.3
+Canada,"Eggs, fresh","Eggs, hen, in shell",2002,1062.1
+Canada,Fruit and nuts,Grapes,2002,698.4
+Canada,Pulses (dried leguminous vegetables),Lentils,2002,231.9
+Canada,Vegetables,Lettuce and chicory,2002,320.5
+Canada,Oilseeds and oleaginous fruits,Linseed,2002,226.2
+Canada,Cereals,Maize,2002,116
+Canada,Vegetables,"Maize, green",2002,114.7
+Canada,Natural rubber,"Meat live weight, cattle",2002,1317.8
+Canada,Natural rubber,"Meat live weight, chicken",2002,968.6
+Canada,Natural rubber,"Meat live weight, pig",2002,763.4
+Canada,Natural rubber,"Meat live weight, turkey",2002,1127.2
+Canada,Natural rubber,"Meat, pig",2002,931
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2002,321.8
+Canada,,"Milk, whole fresh cow",2002,357.5
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2002,323.1
+Canada,Cereals,Oats,2002,117.2
+Canada,Fruit and nuts,Peaches and nectarines,2002,709.9
+Canada,Fruit and nuts,Pears,2002,378.5
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2002,134.5
+Canada,Vegetables,"Peas, green",2002,198.8
+Canada,Fruit and nuts,Plums and sloes,2002,648.1
+Canada,Edible roots and tubers,Potatoes,2002,151.7
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2002,228.1
+Canada,Fruit and nuts,Raspberries,2002,1276.4
+Canada,Cereals,Rye,2002,85.4
+Canada,Oilseeds and oleaginous fruits,Soybeans,2002,187.3
+Canada,Vegetables,Spinach,2002,745.5
+Canada,Fruit and nuts,Strawberries,2002,1331.8
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2002,273.4
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2002,3167
+Canada,Vegetables,Tomatoes,2002,90.5
+Canada,Cereals,Wheat,2002,114.1
+Mexico,Fruit and nuts,Apples,2002,319.7
+Mexico,Fruit and nuts,Apricots,2002,828.5
+Mexico,Vegetables,Asparagus,2002,2540
+Mexico,Cereals,Barley,2002,162.7
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2002,593.3
+Mexico,Vegetables,"Beans, green",2002,362.5
+Mexico,Fruit and nuts,Blueberries,2002,517.8
+Mexico,Vegetables,Cabbages and other brassicas,2002,119.2
+Mexico,Vegetables,Carrots and turnips,2002,151.8
+Mexico,Vegetables,Cauliflowers and broccoli,2002,309.1
+Mexico,Fruit and nuts,Cherries,2002,671.9
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2002,405.1
+Mexico,Vegetables,"Chillies and peppers, green",2002,354.8
+Mexico,Vegetables,Cucumbers and gherkins,2002,214.9
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2002,777.8
+Mexico,Fruit and nuts,Grapes,2002,881.6
+Mexico,Pulses (dried leguminous vegetables),Lentils,2002,161.8
+Mexico,Vegetables,Lettuce and chicory,2002,190.3
+Mexico,Oilseeds and oleaginous fruits,Linseed,2002,1035.6
+Mexico,Cereals,Maize,2002,155.4
+Mexico,Vegetables,"Maize, green",2002,121.3
+Mexico,Natural rubber,"Meat live weight, cattle",2002,1276.9
+Mexico,Natural rubber,"Meat live weight, chicken",2002,1194.1
+Mexico,Natural rubber,"Meat live weight, pig",2002,1216.9
+Mexico,Natural rubber,"Meat live weight, turkey",2002,2009.1
+Mexico,Natural rubber,"Meat, pig",2002,2103.4
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2002,235.4
+Mexico,,"Milk, whole fresh cow",2002,326.2
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2002,420.4
+Mexico,Cereals,Oats,2002,194.4
+Mexico,Fruit and nuts,Peaches and nectarines,2002,448.3
+Mexico,Fruit and nuts,Pears,2002,251.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2002,415.9
+Mexico,Vegetables,"Peas, green",2002,401.1
+Mexico,Fruit and nuts,Plums and sloes,2002,287.3
+Mexico,Edible roots and tubers,Potatoes,2002,455.9
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2002,225.8
+Mexico,Fruit and nuts,Raspberries,2002,6443.9
+Mexico,Cereals,Rye,2002,362.5
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2002,210.4
+Mexico,Vegetables,Spinach,2002,310.7
+Mexico,Fruit and nuts,Strawberries,2002,753.5
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2002,206.3
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2002,1905.3
+Mexico,Vegetables,Tomatoes,2002,323.5
+Mexico,Cereals,Wheat,2002,125.8
+United States of America,Fruit and nuts,Apples,2002,417
+United States of America,Fruit and nuts,Apricots,2002,394
+United States of America,Vegetables,Asparagus,2002,2425
+United States of America,Cereals,Barley,2002,125
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2002,377
+United States of America,Vegetables,"Beans, green",2002,474
+United States of America,Fruit and nuts,Blueberries,2002,2271
+United States of America,Vegetables,Cabbages and other brassicas,2002,284
+United States of America,Vegetables,Carrots and turnips,2002,421
+United States of America,Vegetables,Cauliflowers and broccoli,2002,710
+United States of America,Fruit and nuts,Cherries,2002,1709
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2002,505
+United States of America,Vegetables,"Chillies and peppers, green",2002,653
+United States of America,Vegetables,Cucumbers and gherkins,2002,419
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2002,579.8
+United States of America,Fruit and nuts,Grapes,2002,427
+United States of America,Pulses (dried leguminous vegetables),Lentils,2002,315
+United States of America,Vegetables,Lettuce and chicory,2002,465
+United States of America,Oilseeds and oleaginous fruits,Linseed,2002,227
+United States of America,Cereals,Maize,2002,91
+United States of America,Vegetables,"Maize, green",2002,423
+United States of America,Natural rubber,"Meat live weight, cattle",2002,1466
+United States of America,Natural rubber,"Meat live weight, chicken",2002,683
+United States of America,Natural rubber,"Meat live weight, pig",2002,734
+United States of America,Natural rubber,"Meat live weight, turkey",2002,805
+United States of America,Natural rubber,"Meat, pig",2002,1036.6
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2002,390
+United States of America,,"Milk, whole fresh cow",2002,269
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2002,340
+United States of America,Cereals,Oats,2002,125
+United States of America,Fruit and nuts,Peaches and nectarines,2002,441
+United States of America,Fruit and nuts,Pears,2002,327
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2002,172
+United States of America,Vegetables,"Peas, green",2002,279
+United States of America,Fruit and nuts,Plums and sloes,2002,425
+United States of America,Edible roots and tubers,Potatoes,2002,147
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2002,215
+United States of America,Fruit and nuts,Raspberries,2002,3086
+United States of America,Cereals,Rye,2002,131
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2002,203
+United States of America,Vegetables,Spinach,2002,754
+United States of America,Fruit and nuts,Strawberries,2002,1572
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2002,267
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2002,4268
+United States of America,Vegetables,Tomatoes,2002,697
+United States of America,Cereals,Wheat,2002,131
+Canada,Fruit and nuts,Apples,2003,271.9
+Canada,Fruit and nuts,Apricots,2003,870.8
+Canada,Vegetables,Asparagus,2003,2177.6
+Canada,Cereals,Barley,2003,93.5
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2003,342.6
+Canada,Vegetables,"Beans, green",2003,274.1
+Canada,Fruit and nuts,Blueberries,2003,1048.5
+Canada,Vegetables,Cabbages and other brassicas,2003,194.1
+Canada,Vegetables,Carrots and turnips,2003,139.9
+Canada,Vegetables,Cauliflowers and broccoli,2003,427.5
+Canada,Fruit and nuts,Cherries,2003,2041.3
+Canada,Pulses (dried leguminous vegetables),Chick peas,2003,319.8
+Canada,Vegetables,"Chillies and peppers, green",2003,490.3
+Canada,Vegetables,Cucumbers and gherkins,2003,264.1
+Canada,"Eggs, fresh","Eggs, hen, in shell",2003,1200.2
+Canada,Fruit and nuts,Grapes,2003,720.9
+Canada,Pulses (dried leguminous vegetables),Lentils,2003,315.5
+Canada,Vegetables,Lettuce and chicory,2003,414.7
+Canada,Oilseeds and oleaginous fruits,Linseed,2003,235.5
+Canada,Cereals,Maize,2003,102.1
+Canada,Vegetables,"Maize, green",2003,116.3
+Canada,Natural rubber,"Meat live weight, cattle",2003,1268.3
+Canada,Natural rubber,"Meat live weight, chicken",2003,1142
+Canada,Natural rubber,"Meat live weight, pig",2003,845.8
+Canada,Natural rubber,"Meat live weight, turkey",2003,1259.8
+Canada,Natural rubber,"Meat, pig",2003,1031.5
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2003,395.4
+Canada,,"Milk, whole fresh cow",2003,425.4
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2003,367.6
+Canada,Cereals,Oats,2003,102.1
+Canada,Fruit and nuts,Peaches and nectarines,2003,812.2
+Canada,Fruit and nuts,Pears,2003,483.2
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2003,121.3
+Canada,Vegetables,"Peas, green",2003,226.3
+Canada,Fruit and nuts,Plums and sloes,2003,897.9
+Canada,Edible roots and tubers,Potatoes,2003,143.5
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2003,243.4
+Canada,Fruit and nuts,Raspberries,2003,1351.1
+Canada,Cereals,Rye,2003,94.2
+Canada,Oilseeds and oleaginous fruits,Soybeans,2003,233.4
+Canada,Vegetables,Spinach,2003,865.8
+Canada,Fruit and nuts,Strawberries,2003,1556
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2003,284.8
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2003,3511.6
+Canada,Vegetables,Tomatoes,2003,102.8
+Canada,Cereals,Wheat,2003,122.1
+Mexico,Fruit and nuts,Apples,2003,309.2
+Mexico,Fruit and nuts,Apricots,2003,741.5
+Mexico,Vegetables,Asparagus,2003,1973.8
+Mexico,Cereals,Barley,2003,153.1
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2003,470.6
+Mexico,Vegetables,"Beans, green",2003,323.2
+Mexico,Fruit and nuts,Blueberries,2003,556.1
+Mexico,Vegetables,Cabbages and other brassicas,2003,105.3
+Mexico,Vegetables,Carrots and turnips,2003,160.8
+Mexico,Vegetables,Cauliflowers and broccoli,2003,297.3
+Mexico,Fruit and nuts,Cherries,2003,649.8
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2003,375.8
+Mexico,Vegetables,"Chillies and peppers, green",2003,385.9
+Mexico,Vegetables,Cucumbers and gherkins,2003,252.9
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2003,816.6
+Mexico,Fruit and nuts,Grapes,2003,1002.9
+Mexico,Pulses (dried leguminous vegetables),Lentils,2003,239
+Mexico,Vegetables,Lettuce and chicory,2003,168.7
+Mexico,Oilseeds and oleaginous fruits,Linseed,2003,1555.6
+Mexico,Cereals,Maize,2003,150
+Mexico,Vegetables,"Maize, green",2003,113.8
+Mexico,Natural rubber,"Meat live weight, cattle",2003,1146.5
+Mexico,Natural rubber,"Meat live weight, chicken",2003,1045.5
+Mexico,Natural rubber,"Meat live weight, pig",2003,1147.5
+Mexico,Natural rubber,"Meat live weight, turkey",2003,1784.2
+Mexico,Natural rubber,"Meat, pig",2003,1979.8
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2003,236.3
+Mexico,,"Milk, whole fresh cow",2003,298.5
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2003,94.4
+Mexico,Cereals,Oats,2003,170.4
+Mexico,Fruit and nuts,Peaches and nectarines,2003,507.8
+Mexico,Fruit and nuts,Pears,2003,205.1
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2003,469.6
+Mexico,Vegetables,"Peas, green",2003,375.9
+Mexico,Fruit and nuts,Plums and sloes,2003,240.3
+Mexico,Edible roots and tubers,Potatoes,2003,405.7
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2003,319.1
+Mexico,Fruit and nuts,Raspberries,2003,3660.8
+Mexico,Cereals,Rye,2003,148.3
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2003,277.9
+Mexico,Vegetables,Spinach,2003,303
+Mexico,Fruit and nuts,Strawberries,2003,656.6
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2003,385.4
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2003,1698.5
+Mexico,Vegetables,Tomatoes,2003,391.7
+Mexico,Cereals,Wheat,2003,131.4
+United States of America,Fruit and nuts,Apples,2003,414
+United States of America,Fruit and nuts,Apricots,2003,417
+United States of America,Vegetables,Asparagus,2003,2315
+United States of America,Cereals,Barley,2003,130
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2003,406
+United States of America,Vegetables,"Beans, green",2003,487
+United States of America,Fruit and nuts,Blueberries,2003,2579
+United States of America,Vegetables,Cabbages and other brassicas,2003,293
+United States of America,Vegetables,Carrots and turnips,2003,419
+United States of America,Vegetables,Cauliflowers and broccoli,2003,774
+United States of America,Fruit and nuts,Cherries,2003,1554
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2003,478
+United States of America,Vegetables,"Chillies and peppers, green",2003,677
+United States of America,Vegetables,Cucumbers and gherkins,2003,439
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2003,810.6
+United States of America,Fruit and nuts,Grapes,2003,443
+United States of America,Pulses (dried leguminous vegetables),Lentils,2003,379
+United States of America,Vegetables,Lettuce and chicory,2003,399
+United States of America,Oilseeds and oleaginous fruits,Linseed,2003,231
+United States of America,Cereals,Maize,2003,95
+United States of America,Vegetables,"Maize, green",2003,423
+United States of America,Natural rubber,"Meat live weight, cattle",2003,1757
+United States of America,Natural rubber,"Meat live weight, chicken",2003,772
+United States of America,Natural rubber,"Meat live weight, pig",2003,827
+United States of America,Natural rubber,"Meat live weight, turkey",2003,763
+United States of America,Natural rubber,"Meat, pig",2003,1164.8
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2003,370
+United States of America,,"Milk, whole fresh cow",2003,277
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2003,353
+United States of America,Cereals,Oats,2003,102
+United States of America,Fruit and nuts,Peaches and nectarines,2003,416
+United States of America,Fruit and nuts,Pears,2003,324
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2003,168
+United States of America,Vegetables,"Peas, green",2003,277
+United States of America,Fruit and nuts,Plums and sloes,2003,461
+United States of America,Edible roots and tubers,Potatoes,2003,130
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2003,243
+United States of America,Fruit and nuts,Raspberries,2003,4586
+United States of America,Cereals,Rye,2003,115
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2003,270
+United States of America,Vegetables,Spinach,2003,814
+United States of America,Fruit and nuts,Strawberries,2003,1651
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2003,267
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2003,4330
+United States of America,Vegetables,Tomatoes,2003,827
+United States of America,Cereals,Wheat,2003,125
+Canada,Fruit and nuts,Apples,2004,286.7
+Canada,Fruit and nuts,Apricots,2004,898.5
+Canada,Vegetables,Asparagus,2004,2378.9
+Canada,Cereals,Barley,2004,94.5
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2004,422.7
+Canada,Vegetables,"Beans, green",2004,295.2
+Canada,Fruit and nuts,Blueberries,2004,1238.5
+Canada,Vegetables,Cabbages and other brassicas,2004,182.9
+Canada,Vegetables,Carrots and turnips,2004,168.3
+Canada,Vegetables,Cauliflowers and broccoli,2004,430.4
+Canada,Fruit and nuts,Cherries,2004,2212.9
+Canada,Pulses (dried leguminous vegetables),Chick peas,2004,405.1
+Canada,Vegetables,"Chillies and peppers, green",2004,563.4
+Canada,Vegetables,Cucumbers and gherkins,2004,303.6
+Canada,"Eggs, fresh","Eggs, hen, in shell",2004,1338.3
+Canada,Fruit and nuts,Grapes,2004,810.9
+Canada,Pulses (dried leguminous vegetables),Lentils,2004,311.3
+Canada,Vegetables,Lettuce and chicory,2004,436.6
+Canada,Oilseeds and oleaginous fruits,Linseed,2004,295.9
+Canada,Cereals,Maize,2004,109.1
+Canada,Vegetables,"Maize, green",2004,136.8
+Canada,Natural rubber,"Meat live weight, cattle",2004,1192.1
+Canada,Natural rubber,"Meat live weight, chicken",2004,1252.9
+Canada,Natural rubber,"Meat live weight, pig",2004,1093
+Canada,Natural rubber,"Meat live weight, turkey",2004,1419.7
+Canada,Natural rubber,"Meat, pig",2004,1332.9
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2004,379.7
+Canada,,"Milk, whole fresh cow",2004,461.2
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2004,322.1
+Canada,Cereals,Oats,2004,93.8
+Canada,Fruit and nuts,Peaches and nectarines,2004,834
+Canada,Fruit and nuts,Pears,2004,553.4
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2004,118.4
+Canada,Vegetables,"Peas, green",2004,236
+Canada,Fruit and nuts,Plums and sloes,2004,970.8
+Canada,Edible roots and tubers,Potatoes,2004,138.4
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2004,263.6
+Canada,Fruit and nuts,Raspberries,2004,1797.1
+Canada,Cereals,Rye,2004,100.7
+Canada,Oilseeds and oleaginous fruits,Soybeans,2004,265.9
+Canada,Vegetables,Spinach,2004,730.2
+Canada,Fruit and nuts,Strawberries,2004,1860.8
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2004,241.3
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2004,3781.7
+Canada,Vegetables,Tomatoes,2004,100.7
+Canada,Cereals,Wheat,2004,117.6
+Mexico,Fruit and nuts,Apples,2004,314.8
+Mexico,Fruit and nuts,Apricots,2004,708.8
+Mexico,Vegetables,Asparagus,2004,2318.2
+Mexico,Cereals,Barley,2004,158.6
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2004,507.4
+Mexico,Vegetables,"Beans, green",2004,325.8
+Mexico,Fruit and nuts,Blueberries,2004,708.8
+Mexico,Vegetables,Cabbages and other brassicas,2004,105.6
+Mexico,Vegetables,Carrots and turnips,2004,116.6
+Mexico,Vegetables,Cauliflowers and broccoli,2004,281
+Mexico,Fruit and nuts,Cherries,2004,686.6
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2004,643.3
+Mexico,Vegetables,"Chillies and peppers, green",2004,524.6
+Mexico,Vegetables,Cucumbers and gherkins,2004,233.7
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2004,877.2
+Mexico,Fruit and nuts,Grapes,2004,696.4
+Mexico,Pulses (dried leguminous vegetables),Lentils,2004,239.6
+Mexico,Vegetables,Lettuce and chicory,2004,165.3
+Mexico,Oilseeds and oleaginous fruits,Linseed,2004,1157.4
+Mexico,Cereals,Maize,2004,148.8
+Mexico,Vegetables,"Maize, green",2004,114
+Mexico,Natural rubber,"Meat live weight, cattle",2004,1290.1
+Mexico,Natural rubber,"Meat live weight, chicken",2004,1121.7
+Mexico,Natural rubber,"Meat live weight, pig",2004,1292.8
+Mexico,Natural rubber,"Meat live weight, turkey",2004,1821.7
+Mexico,Natural rubber,"Meat, pig",2004,2191.2
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2004,274.3
+Mexico,,"Milk, whole fresh cow",2004,310.1
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2004,104.5
+Mexico,Cereals,Oats,2004,195.6
+Mexico,Fruit and nuts,Peaches and nectarines,2004,490.1
+Mexico,Fruit and nuts,Pears,2004,258.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2004,393.4
+Mexico,Vegetables,"Peas, green",2004,444.7
+Mexico,Fruit and nuts,Plums and sloes,2004,254
+Mexico,Edible roots and tubers,Potatoes,2004,384.3
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2004,309.1
+Mexico,Fruit and nuts,Raspberries,2004,7046.7
+Mexico,Cereals,Rye,2004,141.8
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2004,240.9
+Mexico,Vegetables,Spinach,2004,232.9
+Mexico,Fruit and nuts,Strawberries,2004,601.1
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2004,277.3
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2004,1529.6
+Mexico,Vegetables,Tomatoes,2004,550.3
+Mexico,Cereals,Wheat,2004,147
+United States of America,Fruit and nuts,Apples,2004,300
+United States of America,Fruit and nuts,Apricots,2004,392
+United States of America,Vegetables,Asparagus,2004,1792
+United States of America,Cereals,Barley,2004,114
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2004,567
+United States of America,Vegetables,"Beans, green",2004,478
+United States of America,Fruit and nuts,Blueberries,2004,2668
+United States of America,Vegetables,Cabbages and other brassicas,2004,289
+United States of America,Vegetables,Carrots and turnips,2004,448
+United States of America,Vegetables,Cauliflowers and broccoli,2004,679
+United States of America,Fruit and nuts,Cherries,2004,1731
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2004,551
+United States of America,Vegetables,"Chillies and peppers, green",2004,694
+United States of America,Vegetables,Cucumbers and gherkins,2004,445
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2004,786.6
+United States of America,Fruit and nuts,Grapes,2004,532
+United States of America,Pulses (dried leguminous vegetables),Lentils,2004,317
+United States of America,Vegetables,Lettuce and chicory,2004,373
+United States of America,Oilseeds and oleaginous fruits,Linseed,2004,318
+United States of America,Cereals,Maize,2004,81
+United States of America,Vegetables,"Maize, green",2004,423
+United States of America,Natural rubber,"Meat live weight, cattle",2004,1892
+United States of America,Natural rubber,"Meat live weight, chicken",2004,992
+United States of America,Natural rubber,"Meat live weight, pig",2004,1129
+United States of America,Natural rubber,"Meat live weight, turkey",2004,915
+United States of America,Natural rubber,"Meat, pig",2004,1590.1
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2004,324
+United States of America,,"Milk, whole fresh cow",2004,356
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2004,335
+United States of America,Cereals,Oats,2004,102
+United States of America,Fruit and nuts,Peaches and nectarines,2004,413
+United States of America,Fruit and nuts,Pears,2004,369
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2004,131
+United States of America,Vegetables,"Peas, green",2004,281
+United States of America,Fruit and nuts,Plums and sloes,2004,627
+United States of America,Edible roots and tubers,Potatoes,2004,125
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2004,311
+United States of America,Fruit and nuts,Raspberries,2004,4608
+United States of America,Cereals,Rye,2004,127
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2004,211
+United States of America,Vegetables,Spinach,2004,489
+United States of America,Fruit and nuts,Strawberries,2004,1508
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2004,302
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2004,4374
+United States of America,Vegetables,Tomatoes,2004,825
+United States of America,Cereals,Wheat,2004,125
+Canada,Fruit and nuts,Apples,2005,302.9
+Canada,Fruit and nuts,Apricots,2005,969.7
+Canada,Vegetables,Asparagus,2005,2451
+Canada,Cereals,Barley,2005,75.1
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2005,450.6
+Canada,Vegetables,"Beans, green",2005,353.2
+Canada,Fruit and nuts,Blueberries,2005,1528.4
+Canada,Vegetables,Cabbages and other brassicas,2005,213.7
+Canada,Vegetables,Carrots and turnips,2005,192.3
+Canada,Vegetables,Cauliflowers and broccoli,2005,498.4
+Canada,Fruit and nuts,Cherries,2005,2789.3
+Canada,Pulses (dried leguminous vegetables),Chick peas,2005,385.4
+Canada,Vegetables,"Chillies and peppers, green",2005,581.8
+Canada,Vegetables,Cucumbers and gherkins,2005,302.9
+Canada,"Eggs, fresh","Eggs, hen, in shell",2005,1301.7
+Canada,Fruit and nuts,Grapes,2005,997.7
+Canada,Pulses (dried leguminous vegetables),Lentils,2005,245.9
+Canada,Vegetables,Lettuce and chicory,2005,468.7
+Canada,Oilseeds and oleaginous fruits,Linseed,2005,300.4
+Canada,Cereals,Maize,2005,90
+Canada,Vegetables,"Maize, green",2005,159.3
+Canada,Natural rubber,"Meat live weight, cattle",2005,1446.7
+Canada,Natural rubber,"Meat live weight, chicken",2005,1336.9
+Canada,Natural rubber,"Meat live weight, pig",2005,1095.1
+Canada,Natural rubber,"Meat live weight, turkey",2005,1442.5
+Canada,Natural rubber,"Meat, pig",2005,1335.5
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2005,396.9
+Canada,,"Milk, whole fresh cow",2005,528.2
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2005,288
+Canada,Cereals,Oats,2005,95.7
+Canada,Fruit and nuts,Peaches and nectarines,2005,988.6
+Canada,Fruit and nuts,Pears,2005,600.8
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2005,101.5
+Canada,Vegetables,"Peas, green",2005,243.4
+Canada,Fruit and nuts,Plums and sloes,2005,1224.7
+Canada,Edible roots and tubers,Potatoes,2005,155.1
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2005,213.7
+Canada,Fruit and nuts,Raspberries,2005,1731.4
+Canada,Cereals,Rye,2005,95.7
+Canada,Oilseeds and oleaginous fruits,Soybeans,2005,226.9
+Canada,Vegetables,Spinach,2005,1127.3
+Canada,Fruit and nuts,Strawberries,2005,2172
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2005,283.9
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2005,3938.1
+Canada,Vegetables,Tomatoes,2005,111.4
+Canada,Cereals,Wheat,2005,98.2
+Mexico,Fruit and nuts,Apples,2005,329.3
+Mexico,Fruit and nuts,Apricots,2005,763
+Mexico,Vegetables,Asparagus,2005,2383.9
+Mexico,Cereals,Barley,2005,163.6
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2005,633.4
+Mexico,Vegetables,"Beans, green",2005,471.9
+Mexico,Fruit and nuts,Blueberries,2005,1835.2
+Mexico,Vegetables,Cabbages and other brassicas,2005,124.7
+Mexico,Vegetables,Carrots and turnips,2005,149.2
+Mexico,Vegetables,Cauliflowers and broccoli,2005,302.8
+Mexico,Fruit and nuts,Cherries,2005,719.1
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2005,652.8
+Mexico,Vegetables,"Chillies and peppers, green",2005,446.8
+Mexico,Vegetables,Cucumbers and gherkins,2005,240.2
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2005,769
+Mexico,Fruit and nuts,Grapes,2005,837.9
+Mexico,Pulses (dried leguminous vegetables),Lentils,2005,277
+Mexico,Vegetables,Lettuce and chicory,2005,179.1
+Mexico,Oilseeds and oleaginous fruits,Linseed,2005,1073
+Mexico,Cereals,Maize,2005,144.8
+Mexico,Vegetables,"Maize, green",2005,128
+Mexico,Natural rubber,"Meat live weight, cattle",2005,1526.9
+Mexico,Natural rubber,"Meat live weight, chicken",2005,1201.1
+Mexico,Natural rubber,"Meat live weight, pig",2005,1463.6
+Mexico,Natural rubber,"Meat live weight, turkey",2005,1896.7
+Mexico,Natural rubber,"Meat, pig",2005,2450
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2005,273.1
+Mexico,,"Milk, whole fresh cow",2005,345
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2005,122.9
+Mexico,Cereals,Oats,2005,199.3
+Mexico,Fruit and nuts,Peaches and nectarines,2005,527.6
+Mexico,Fruit and nuts,Pears,2005,318.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2005,502.9
+Mexico,Vegetables,"Peas, green",2005,450.8
+Mexico,Fruit and nuts,Plums and sloes,2005,261.3
+Mexico,Edible roots and tubers,Potatoes,2005,423.9
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2005,285.9
+Mexico,Fruit and nuts,Raspberries,2005,2786.6
+Mexico,Cereals,Rye,2005,275.3
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2005,210.7
+Mexico,Vegetables,Spinach,2005,285.3
+Mexico,Fruit and nuts,Strawberries,2005,817.6
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2005,221.9
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2005,1648.4
+Mexico,Vegetables,Tomatoes,2005,405
+Mexico,Cereals,Wheat,2005,149
+United States of America,Fruit and nuts,Apples,2005,381
+United States of America,Fruit and nuts,Apricots,2005,573
+United States of America,Vegetables,Asparagus,2005,1927
+United States of America,Cereals,Barley,2005,116
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2005,408
+United States of America,Vegetables,"Beans, green",2005,464
+United States of America,Fruit and nuts,Blueberries,2005,3175
+United States of America,Vegetables,Cabbages and other brassicas,2005,300
+United States of America,Vegetables,Carrots and turnips,2005,463
+United States of America,Vegetables,Cauliflowers and broccoli,2005,710
+United States of America,Fruit and nuts,Cherries,2005,2194
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2005,560
+United States of America,Vegetables,"Chillies and peppers, green",2005,734
+United States of America,Vegetables,Cucumbers and gherkins,2005,509
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2005,489.7
+United States of America,Fruit and nuts,Grapes,2005,493
+United States of America,Pulses (dried leguminous vegetables),Lentils,2005,243
+United States of America,Vegetables,Lettuce and chicory,2005,342
+United States of America,Oilseeds and oleaginous fruits,Linseed,2005,234
+United States of America,Cereals,Maize,2005,79
+United States of America,Vegetables,"Maize, green",2005,487
+United States of America,Natural rubber,"Meat live weight, cattle",2005,1978
+United States of America,Natural rubber,"Meat live weight, chicken",2005,970
+United States of America,Natural rubber,"Meat live weight, pig",2005,1093
+United States of America,Natural rubber,"Meat live weight, turkey",2005,981
+United States of America,Natural rubber,"Meat, pig",2005,1539.4
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2005,351
+United States of America,,"Milk, whole fresh cow",2005,335
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2005,298
+United States of America,Cereals,Oats,2005,112
+United States of America,Fruit and nuts,Peaches and nectarines,2005,493
+United States of America,Fruit and nuts,Pears,2005,395
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2005,105
+United States of America,Vegetables,"Peas, green",2005,298
+United States of America,Fruit and nuts,Plums and sloes,2005,596
+United States of America,Edible roots and tubers,Potatoes,2005,155
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2005,315
+United States of America,Fruit and nuts,Raspberries,2005,4387
+United States of America,Cereals,Rye,2005,130
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2005,208
+United States of America,Vegetables,Spinach,2005,503
+United States of America,Fruit and nuts,Strawberries,2005,1519
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2005,267
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2005,3620
+United States of America,Vegetables,Tomatoes,2005,917
+United States of America,Cereals,Wheat,2005,126
+Canada,Fruit and nuts,Apples,2006,323.9
+Canada,Fruit and nuts,Apricots,2006,981.9
+Canada,Vegetables,Asparagus,2006,2520.4
+Canada,Cereals,Barley,2006,88.2
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2006,468.1
+Canada,Vegetables,"Beans, green",2006,468.1
+Canada,Fruit and nuts,Blueberries,2006,2458.7
+Canada,Vegetables,Cabbages and other brassicas,2006,233.6
+Canada,Vegetables,Carrots and turnips,2006,194.8
+Canada,Vegetables,Cauliflowers and broccoli,2006,588
+Canada,Fruit and nuts,Cherries,2006,3485.1
+Canada,Pulses (dried leguminous vegetables),Chick peas,2006,454.9
+Canada,Vegetables,"Chillies and peppers, green",2006,2850.2
+Canada,Vegetables,Cucumbers and gherkins,2006,414.3
+Canada,"Eggs, fresh","Eggs, hen, in shell",2006,1412.5
+Canada,Fruit and nuts,Grapes,2006,1041.3
+Canada,Pulses (dried leguminous vegetables),Lentils,2006,210.9
+Canada,Vegetables,Lettuce and chicory,2006,654.1
+Canada,Oilseeds and oleaginous fruits,Linseed,2006,205.8
+Canada,Cereals,Maize,2006,106.8
+Canada,Vegetables,"Maize, green",2006,193.9
+Canada,Natural rubber,"Meat live weight, cattle",2006,1547
+Canada,Natural rubber,"Meat live weight, chicken",2006,1366.4
+Canada,Natural rubber,"Meat live weight, pig",2006,1021.1
+Canada,Natural rubber,"Meat live weight, turkey",2006,1507.5
+Canada,Natural rubber,"Meat, pig",2006,1245.3
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2006,473.4
+Canada,,"Milk, whole fresh cow",2006,574.2
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2006,258
+Canada,Cereals,Oats,2006,112.6
+Canada,Fruit and nuts,Peaches and nectarines,2006,1040.9
+Canada,Fruit and nuts,Pears,2006,654.1
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2006,118.3
+Canada,Vegetables,"Peas, green",2006,246
+Canada,Fruit and nuts,Plums and sloes,2006,1260.4
+Canada,Edible roots and tubers,Potatoes,2006,194.2
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2006,239.1
+Canada,Fruit and nuts,Raspberries,2006,1834.2
+Canada,Cereals,Rye,2006,91.3
+Canada,Oilseeds and oleaginous fruits,Soybeans,2006,268.2
+Canada,Vegetables,Spinach,2006,1078.1
+Canada,Fruit and nuts,Strawberries,2006,2383.1
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2006,300.6
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2006,4019.9
+Canada,Vegetables,Tomatoes,2006,124.3
+Canada,Cereals,Wheat,2006,107.5
+Mexico,Fruit and nuts,Apples,2006,433.2
+Mexico,Fruit and nuts,Apricots,2006,786.7
+Mexico,Vegetables,Asparagus,2006,2541.4
+Mexico,Cereals,Barley,2006,175.4
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2006,578.2
+Mexico,Vegetables,"Beans, green",2006,558.1
+Mexico,Fruit and nuts,Blueberries,2006,1835
+Mexico,Vegetables,Cabbages and other brassicas,2006,130.7
+Mexico,Vegetables,Carrots and turnips,2006,147.4
+Mexico,Vegetables,Cauliflowers and broccoli,2006,263.7
+Mexico,Fruit and nuts,Cherries,2006,741.4
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2006,648.7
+Mexico,Vegetables,"Chillies and peppers, green",2006,359.9
+Mexico,Vegetables,Cucumbers and gherkins,2006,255.9
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2006,807.4
+Mexico,Fruit and nuts,Grapes,2006,995.4
+Mexico,Pulses (dried leguminous vegetables),Lentils,2006,399.9
+Mexico,Vegetables,Lettuce and chicory,2006,166.5
+Mexico,Oilseeds and oleaginous fruits,Linseed,2006,1180.9
+Mexico,Cereals,Maize,2006,184.5
+Mexico,Vegetables,"Maize, green",2006,136.3
+Mexico,Natural rubber,"Meat live weight, cattle",2006,1534.1
+Mexico,Natural rubber,"Meat live weight, chicken",2006,1145
+Mexico,Natural rubber,"Meat live weight, pig",2006,1417.5
+Mexico,Natural rubber,"Meat live weight, turkey",2006,1924.9
+Mexico,Natural rubber,"Meat, pig",2006,2396.5
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2006,262.2
+Mexico,,"Milk, whole fresh cow",2006,347.7
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2006,137.6
+Mexico,Cereals,Oats,2006,191.1
+Mexico,Fruit and nuts,Peaches and nectarines,2006,543.9
+Mexico,Fruit and nuts,Pears,2006,309.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2006,536.4
+Mexico,Vegetables,"Peas, green",2006,497.5
+Mexico,Fruit and nuts,Plums and sloes,2006,269.7
+Mexico,Edible roots and tubers,Potatoes,2006,438.4
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2006,264.5
+Mexico,Fruit and nuts,Raspberries,2006,2873.1
+Mexico,Cereals,Rye,2006,229.4
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2006,239.2
+Mexico,Vegetables,Spinach,2006,274.9
+Mexico,Fruit and nuts,Strawberries,2006,834.9
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2006,451.7
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2006,1688.1
+Mexico,Vegetables,Tomatoes,2006,539.7
+Mexico,Cereals,Wheat,2006,153.8
+United States of America,Fruit and nuts,Apples,2006,500
+United States of America,Fruit and nuts,Apricots,2006,733
+United States of America,Vegetables,Asparagus,2006,1960
+United States of America,Cereals,Barley,2006,131
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2006,487
+United States of America,Vegetables,"Beans, green",2006,272
+United States of America,Fruit and nuts,Blueberries,2006,3880
+United States of America,Vegetables,Cabbages and other brassicas,2006,712
+United States of America,Vegetables,Carrots and turnips,2006,454
+United States of America,Vegetables,Cauliflowers and broccoli,2006,712
+United States of America,Fruit and nuts,Cherries,2006,1786
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2006,560
+United States of America,Vegetables,"Chillies and peppers, green",2006,743
+United States of America,Vegetables,Cucumbers and gherkins,2006,373
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2006,567.1
+United States of America,Fruit and nuts,Grapes,2006,572
+United States of America,Pulses (dried leguminous vegetables),Lentils,2006,273
+United States of America,Vegetables,Lettuce and chicory,2006,311
+United States of America,Oilseeds and oleaginous fruits,Linseed,2006,228
+United States of America,Cereals,Maize,2006,120
+United States of America,Vegetables,"Maize, green",2006,507
+United States of America,Natural rubber,"Meat live weight, cattle",2006,1922
+United States of America,Natural rubber,"Meat live weight, chicken",2006,794
+United States of America,Natural rubber,"Meat live weight, pig",2006,1014
+United States of America,Natural rubber,"Meat live weight, turkey",2006,1058
+United States of America,Natural rubber,"Meat, pig",2006,1428.2
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2006,379
+United States of America,,"Milk, whole fresh cow",2006,286
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2006,302
+United States of America,Cereals,Oats,2006,129
+United States of America,Fruit and nuts,Peaches and nectarines,2006,573
+United States of America,Fruit and nuts,Pears,2006,438
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2006,145
+United States of America,Vegetables,"Peas, green",2006,558
+United States of America,Fruit and nuts,Plums and sloes,2006,758
+United States of America,Edible roots and tubers,Potatoes,2006,161
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2006,328
+United States of America,Fruit and nuts,Raspberries,2006,4740
+United States of America,Cereals,Rye,2006,131
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2006,236
+United States of America,Vegetables,Spinach,2006,659
+United States of America,Fruit and nuts,Strawberries,2006,1393
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2006,320
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2006,3671
+United States of America,Vegetables,Tomatoes,2006,963
+United States of America,Cereals,Wheat,2006,157
+Canada,Fruit and nuts,Apples,2007,359.1
+Canada,Fruit and nuts,Apricots,2007,1083.9
+Canada,Vegetables,Asparagus,2007,2783.7
+Canada,Cereals,Barley,2007,153.6
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2007,486.3
+Canada,Vegetables,"Beans, green",2007,486.3
+Canada,Fruit and nuts,Blueberries,2007,2380.5
+Canada,Vegetables,Cabbages and other brassicas,2007,268.1
+Canada,Vegetables,Carrots and turnips,2007,207.9
+Canada,Vegetables,Cauliflowers and broccoli,2007,625.8
+Canada,Fruit and nuts,Cherries,2007,3220.4
+Canada,Pulses (dried leguminous vegetables),Chick peas,2007,509.4
+Canada,Vegetables,"Chillies and peppers, green",2007,704.1
+Canada,Vegetables,Cucumbers and gherkins,2007,409.1
+Canada,"Eggs, fresh","Eggs, hen, in shell",2007,1560.2
+Canada,Fruit and nuts,Grapes,2007,1322.2
+Canada,Pulses (dried leguminous vegetables),Lentils,2007,344.1
+Canada,Vegetables,Lettuce and chicory,2007,574
+Canada,Oilseeds and oleaginous fruits,Linseed,2007,328.6
+Canada,Cereals,Maize,2007,147.9
+Canada,Vegetables,"Maize, green",2007,192.7
+Canada,Natural rubber,"Meat live weight, cattle",2007,1621.1
+Canada,Natural rubber,"Meat live weight, chicken",2007,1582.7
+Canada,Natural rubber,"Meat live weight, pig",2007,1035.5
+Canada,Natural rubber,"Meat live weight, turkey",2007,1787.5
+Canada,Natural rubber,"Meat, pig",2007,1262.8
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2007,428.6
+Canada,,"Milk, whole fresh cow",2007,639
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2007,411.5
+Canada,Cereals,Oats,2007,150.4
+Canada,Fruit and nuts,Peaches and nectarines,2007,1054
+Canada,Fruit and nuts,Pears,2007,752.8
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2007,203.5
+Canada,Vegetables,"Peas, green",2007,277.3
+Canada,Fruit and nuts,Plums and sloes,2007,1269.6
+Canada,Edible roots and tubers,Potatoes,2007,186.4
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2007,346.3
+Canada,Fruit and nuts,Raspberries,2007,1650.9
+Canada,Cereals,Rye,2007,135.2
+Canada,Oilseeds and oleaginous fruits,Soybeans,2007,283.2
+Canada,Vegetables,Spinach,2007,1025.5
+Canada,Fruit and nuts,Strawberries,2007,2360
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2007,383.9
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2007,4413
+Canada,Vegetables,Tomatoes,2007,128.2
+Canada,Cereals,Wheat,2007,178.7
+Mexico,Fruit and nuts,Apples,2007,514
+Mexico,Fruit and nuts,Apricots,2007,816.1
+Mexico,Vegetables,Asparagus,2007,2516.6
+Mexico,Cereals,Barley,2007,198.4
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2007,639.1
+Mexico,Vegetables,"Beans, green",2007,591.2
+Mexico,Fruit and nuts,Blueberries,2007,1856.1
+Mexico,Vegetables,Cabbages and other brassicas,2007,132.1
+Mexico,Vegetables,Carrots and turnips,2007,175.7
+Mexico,Vegetables,Cauliflowers and broccoli,2007,260.3
+Mexico,Fruit and nuts,Cherries,2007,783.6
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2007,728.8
+Mexico,Vegetables,"Chillies and peppers, green",2007,551.7
+Mexico,Vegetables,Cucumbers and gherkins,2007,219.1
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2007,887.6
+Mexico,Fruit and nuts,Grapes,2007,1160.6
+Mexico,Pulses (dried leguminous vegetables),Lentils,2007,280.7
+Mexico,Vegetables,Lettuce and chicory,2007,191
+Mexico,Oilseeds and oleaginous fruits,Linseed,2007,1380.3
+Mexico,Cereals,Maize,2007,223.5
+Mexico,Vegetables,"Maize, green",2007,140.2
+Mexico,Natural rubber,"Meat live weight, cattle",2007,1537.3
+Mexico,Natural rubber,"Meat live weight, chicken",2007,1248.1
+Mexico,Natural rubber,"Meat live weight, pig",2007,1331.4
+Mexico,Natural rubber,"Meat live weight, turkey",2007,2144.9
+Mexico,Natural rubber,"Meat, pig",2007,2349.9
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2007,269.1
+Mexico,,"Milk, whole fresh cow",2007,368.8
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2007,163.9
+Mexico,Cereals,Oats,2007,187.5
+Mexico,Fruit and nuts,Peaches and nectarines,2007,564.3
+Mexico,Fruit and nuts,Pears,2007,400.1
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2007,486.2
+Mexico,Vegetables,"Peas, green",2007,471.3
+Mexico,Fruit and nuts,Plums and sloes,2007,285.1
+Mexico,Edible roots and tubers,Potatoes,2007,405.7
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2007,327.2
+Mexico,Fruit and nuts,Raspberries,2007,2490.2
+Mexico,Cereals,Rye,2007,201.3
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2007,333.3
+Mexico,Vegetables,Spinach,2007,269.2
+Mexico,Fruit and nuts,Strawberries,2007,914.9
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2007,591.6
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2007,1829.9
+Mexico,Vegetables,Tomatoes,2007,434.9
+Mexico,Cereals,Wheat,2007,189.7
+United States of America,Fruit and nuts,Apples,2007,635
+United States of America,Fruit and nuts,Apricots,2007,526
+United States of America,Vegetables,Asparagus,2007,2180
+United States of America,Cereals,Barley,2007,185
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2007,635
+United States of America,Vegetables,"Beans, green",2007,453
+United States of America,Fruit and nuts,Blueberries,2007,4079
+United States of America,Vegetables,Cabbages and other brassicas,2007,362
+United States of America,Vegetables,Carrots and turnips,2007,487
+United States of America,Vegetables,Cauliflowers and broccoli,2007,758
+United States of America,Fruit and nuts,Cherries,2007,2006
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2007,639
+United States of America,Vegetables,"Chillies and peppers, green",2007,730
+United States of America,Vegetables,Cucumbers and gherkins,2007,542
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2007,1203
+United States of America,Fruit and nuts,Grapes,2007,539
+United States of America,Pulses (dried leguminous vegetables),Lentils,2007,573
+United States of America,Vegetables,Lettuce and chicory,2007,478
+United States of America,Oilseeds and oleaginous fruits,Linseed,2007,512
+United States of America,Cereals,Maize,2007,165
+United States of America,Vegetables,"Maize, green",2007,500
+United States of America,Natural rubber,"Meat live weight, cattle",2007,1982
+United States of America,Natural rubber,"Meat live weight, chicken",2007,961
+United States of America,Natural rubber,"Meat live weight, pig",2007,1027
+United States of America,Natural rubber,"Meat live weight, turkey",2007,1153
+United States of America,Natural rubber,"Meat, pig",2007,1446.5
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2007,326
+United States of America,,"Milk, whole fresh cow",2007,424
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2007,617
+United States of America,Cereals,Oats,2007,181
+United States of America,Fruit and nuts,Peaches and nectarines,2007,496
+United States of America,Fruit and nuts,Pears,2007,459
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2007,289
+United States of America,Vegetables,"Peas, green",2007,286
+United States of America,Fruit and nuts,Plums and sloes,2007,733
+United States of America,Edible roots and tubers,Potatoes,2007,166
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2007,390
+United States of America,Fruit and nuts,Raspberries,2007,6349
+United States of America,Cereals,Rye,2007,197
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2007,371
+United States of America,Vegetables,Spinach,2007,712
+United States of America,Fruit and nuts,Strawberries,2007,1579
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2007,478
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2007,3732
+United States of America,Vegetables,Tomatoes,2007,767
+United States of America,Cereals,Wheat,2007,238
+Canada,Fruit and nuts,Apples,2008,383.8
+Canada,Fruit and nuts,Apricots,2008,1404.8
+Canada,Vegetables,Asparagus,2008,2770.2
+Canada,Cereals,Barley,2008,207.1
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2008,740.7
+Canada,Vegetables,"Beans, green",2008,467.7
+Canada,Fruit and nuts,Blueberries,2008,1611.8
+Canada,Vegetables,Cabbages and other brassicas,2008,295.4
+Canada,Vegetables,Carrots and turnips,2008,236.4
+Canada,Vegetables,Cauliflowers and broccoli,2008,672.7
+Canada,Fruit and nuts,Cherries,2008,3408.5
+Canada,Pulses (dried leguminous vegetables),Chick peas,2008,530.5
+Canada,Vegetables,"Chillies and peppers, green",2008,640.8
+Canada,Vegetables,Cucumbers and gherkins,2008,451.9
+Canada,"Eggs, fresh","Eggs, hen, in shell",2008,1763.4
+Canada,Fruit and nuts,Grapes,2008,1382.8
+Canada,Pulses (dried leguminous vegetables),Lentils,2008,656.5
+Canada,Vegetables,Lettuce and chicory,2008,618
+Canada,Oilseeds and oleaginous fruits,Linseed,2008,577.3
+Canada,Cereals,Maize,2008,186.8
+Canada,Vegetables,"Maize, green",2008,255.1
+Canada,Natural rubber,"Meat live weight, cattle",2008,1622.9
+Canada,Natural rubber,"Meat live weight, chicken",2008,1799.4
+Canada,Natural rubber,"Meat live weight, pig",2008,1016.9
+Canada,Natural rubber,"Meat live weight, turkey",2008,2024.3
+Canada,Natural rubber,"Meat, pig",2008,1240.2
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2008,424.6
+Canada,,"Milk, whole fresh cow",2008,655.6
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2008,835.3
+Canada,Cereals,Oats,2008,184.9
+Canada,Fruit and nuts,Peaches and nectarines,2008,1253.5
+Canada,Fruit and nuts,Pears,2008,821.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2008,287.8
+Canada,Vegetables,"Peas, green",2008,312.5
+Canada,Fruit and nuts,Plums and sloes,2008,1316.7
+Canada,Edible roots and tubers,Potatoes,2008,209.7
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2008,466.9
+Canada,Fruit and nuts,Raspberries,2008,2639.9
+Canada,Cereals,Rye,2008,243.5
+Canada,Oilseeds and oleaginous fruits,Soybeans,2008,389.5
+Canada,Vegetables,Spinach,2008,1254.6
+Canada,Fruit and nuts,Strawberries,2008,2818.5
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2008,535.2
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2008,4339.1
+Canada,Vegetables,Tomatoes,2008,126.3
+Canada,Cereals,Wheat,2008,273.9
+Mexico,Fruit and nuts,Apples,2008,478.1
+Mexico,Fruit and nuts,Apricots,2008,805.4
+Mexico,Vegetables,Asparagus,2008,2831.9
+Mexico,Cereals,Barley,2008,293
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2008,823.2
+Mexico,Vegetables,"Beans, green",2008,581.7
+Mexico,Fruit and nuts,Blueberries,2008,1806
+Mexico,Vegetables,Cabbages and other brassicas,2008,143.4
+Mexico,Vegetables,Carrots and turnips,2008,194.1
+Mexico,Vegetables,Cauliflowers and broccoli,2008,261.1
+Mexico,Fruit and nuts,Cherries,2008,773.4
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2008,699.6
+Mexico,Vegetables,"Chillies and peppers, green",2008,319.4
+Mexico,Vegetables,Cucumbers and gherkins,2008,262.3
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2008,1115.8
+Mexico,Fruit and nuts,Grapes,2008,1168.1
+Mexico,Pulses (dried leguminous vegetables),Lentils,2008,447.8
+Mexico,Vegetables,Lettuce and chicory,2008,206.7
+Mexico,Oilseeds and oleaginous fruits,Linseed,2008,1280.1
+Mexico,Cereals,Maize,2008,253.1
+Mexico,Vegetables,"Maize, green",2008,154.5
+Mexico,Natural rubber,"Meat live weight, cattle",2008,1539.9
+Mexico,Natural rubber,"Meat live weight, chicken",2008,1339.6
+Mexico,Natural rubber,"Meat live weight, pig",2008,1419
+Mexico,Natural rubber,"Meat live weight, turkey",2008,2269.8
+Mexico,Natural rubber,"Meat, pig",2008,2489
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2008,264.5
+Mexico,,"Milk, whole fresh cow",2008,388.4
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2008,341.4
+Mexico,Cereals,Oats,2008,189.6
+Mexico,Fruit and nuts,Peaches and nectarines,2008,556.9
+Mexico,Fruit and nuts,Pears,2008,302.3
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2008,438.4
+Mexico,Vegetables,"Peas, green",2008,609.6
+Mexico,Fruit and nuts,Plums and sloes,2008,325.7
+Mexico,Edible roots and tubers,Potatoes,2008,422
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2008,427.2
+Mexico,Fruit and nuts,Raspberries,2008,2414.4
+Mexico,Cereals,Rye,2008,269.5
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2008,409.1
+Mexico,Vegetables,Spinach,2008,293.3
+Mexico,Fruit and nuts,Strawberries,2008,637.7
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2008,541.5
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2008,2073.6
+Mexico,Vegetables,Tomatoes,2008,504.2
+Mexico,Cereals,Wheat,2008,330.6
+United States of America,Fruit and nuts,Apples,2008,511
+United States of America,Fruit and nuts,Apricots,2008,586
+United States of America,Vegetables,Asparagus,2008,2271
+United States of America,Cereals,Barley,2008,247
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2008,763
+United States of America,Vegetables,"Beans, green",2008,551
+United States of America,Fruit and nuts,Blueberries,2008,3395
+United States of America,Vegetables,Cabbages and other brassicas,2008,324
+United States of America,Vegetables,Carrots and turnips,2008,540
+United States of America,Vegetables,Cauliflowers and broccoli,2008,897
+United States of America,Fruit and nuts,Cherries,2008,2635
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2008,730
+United States of America,Vegetables,"Chillies and peppers, green",2008,884
+United States of America,Vegetables,Cucumbers and gherkins,2008,547
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2008,1541
+United States of America,Fruit and nuts,Grapes,2008,503
+United States of America,Pulses (dried leguminous vegetables),Lentils,2008,745
+United States of America,Vegetables,Lettuce and chicory,2008,443
+United States of America,Oilseeds and oleaginous fruits,Linseed,2008,500
+United States of America,Cereals,Maize,2008,160
+United States of America,Vegetables,"Maize, green",2008,571
+United States of America,Natural rubber,"Meat live weight, cattle",2008,1964
+United States of America,Natural rubber,"Meat live weight, chicken",2008,1010
+United States of America,Natural rubber,"Meat live weight, pig",2008,1036
+United States of America,Natural rubber,"Meat live weight, turkey",2008,1252
+United States of America,Natural rubber,"Meat, pig",2008,1459.2
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2008,408
+United States of America,,"Milk, whole fresh cow",2008,407
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2008,966
+United States of America,Cereals,Oats,2008,217
+United States of America,Fruit and nuts,Peaches and nectarines,2008,540
+United States of America,Fruit and nuts,Pears,2008,503
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2008,295
+United States of America,Vegetables,"Peas, green",2008,397
+United States of America,Fruit and nuts,Plums and sloes,2008,392
+United States of America,Edible roots and tubers,Potatoes,2008,200
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2008,558
+United States of America,Fruit and nuts,Raspberries,2008,6614
+United States of America,Cereals,Rye,2008,249
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2008,366
+United States of America,Vegetables,Spinach,2008,743
+United States of America,Fruit and nuts,Strawberries,2008,1671
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2008,481
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2008,4098
+United States of America,Vegetables,Tomatoes,2008,1003
+United States of America,Cereals,Wheat,2008,249
+Canada,Fruit and nuts,Apples,2009,361.3
+Canada,Fruit and nuts,Apricots,2009,1165.6
+Canada,Vegetables,Asparagus,2009,2694.8
+Canada,Cereals,Barley,2009,164.5
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2009,659
+Canada,Vegetables,"Beans, green",2009,484
+Canada,Fruit and nuts,Blueberries,2009,947.9
+Canada,Vegetables,Cabbages and other brassicas,2009,266.2
+Canada,Vegetables,Carrots and turnips,2009,221.1
+Canada,Vegetables,Cauliflowers and broccoli,2009,629.8
+Canada,Fruit and nuts,Cherries,2009,2346.7
+Canada,Pulses (dried leguminous vegetables),Chick peas,2009,504.6
+Canada,Vegetables,"Chillies and peppers, green",2009,633.6
+Canada,Vegetables,Cucumbers and gherkins,2009,446.2
+Canada,"Eggs, fresh","Eggs, hen, in shell",2009,1658.9
+Canada,Fruit and nuts,Grapes,2009,1275
+Canada,Pulses (dried leguminous vegetables),Lentils,2009,587.8
+Canada,Vegetables,Lettuce and chicory,2009,715.6
+Canada,Oilseeds and oleaginous fruits,Linseed,2009,358
+Canada,Cereals,Maize,2009,159.1
+Canada,Vegetables,"Maize, green",2009,288.3
+Canada,Natural rubber,"Meat live weight, cattle",2009,1489.3
+Canada,Natural rubber,"Meat live weight, chicken",2009,1705.9
+Canada,Natural rubber,"Meat live weight, pig",2009,910.7
+Canada,Natural rubber,"Meat live weight, turkey",2009,1889.6
+Canada,Natural rubber,"Meat, pig",2009,1111.5
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2009,391.9
+Canada,,"Milk, whole fresh cow",2009,623
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2009,730.1
+Canada,Cereals,Oats,2009,128.2
+Canada,Fruit and nuts,Peaches and nectarines,2009,1022.7
+Canada,Fruit and nuts,Pears,2009,755.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2009,195.9
+Canada,Vegetables,"Peas, green",2009,350.6
+Canada,Fruit and nuts,Plums and sloes,2009,1486
+Canada,Edible roots and tubers,Potatoes,2009,234.7
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2009,374.3
+Canada,Fruit and nuts,Raspberries,2009,2139.5
+Canada,Cereals,Rye,2009,153.5
+Canada,Oilseeds and oleaginous fruits,Soybeans,2009,359.3
+Canada,Vegetables,Spinach,2009,1238.2
+Canada,Fruit and nuts,Strawberries,2009,3098.5
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2009,508.3
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2009,4067.9
+Canada,Vegetables,Tomatoes,2009,151.3
+Canada,Cereals,Wheat,2009,191.4
+Mexico,Fruit and nuts,Apples,2009,307.5
+Mexico,Fruit and nuts,Apricots,2009,721.5
+Mexico,Vegetables,Asparagus,2009,2622.1
+Mexico,Cereals,Barley,2009,236.6
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2009,890.9
+Mexico,Vegetables,"Beans, green",2009,418.9
+Mexico,Fruit and nuts,Blueberries,2009,498.6
+Mexico,Vegetables,Cabbages and other brassicas,2009,117.2
+Mexico,Vegetables,Carrots and turnips,2009,176.3
+Mexico,Vegetables,Cauliflowers and broccoli,2009,222.8
+Mexico,Fruit and nuts,Cherries,2009,551.9
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2009,570.9
+Mexico,Vegetables,"Chillies and peppers, green",2009,317.9
+Mexico,Vegetables,Cucumbers and gherkins,2009,239.7
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2009,963.8
+Mexico,Fruit and nuts,Grapes,2009,1323.2
+Mexico,Pulses (dried leguminous vegetables),Lentils,2009,594.4
+Mexico,Vegetables,Lettuce and chicory,2009,180.1
+Mexico,Oilseeds and oleaginous fruits,Linseed,2009,1426.1
+Mexico,Cereals,Maize,2009,207.4
+Mexico,Vegetables,"Maize, green",2009,129
+Mexico,Natural rubber,"Meat live weight, cattle",2009,1300.9
+Mexico,Natural rubber,"Meat live weight, chicken",2009,1169.4
+Mexico,Natural rubber,"Meat live weight, pig",2009,1284.9
+Mexico,Natural rubber,"Meat live weight, turkey",2009,2128
+Mexico,Natural rubber,"Meat, pig",2009,2138
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2009,236.6
+Mexico,,"Milk, whole fresh cow",2009,350.8
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2009,1739
+Mexico,Cereals,Oats,2009,236.9
+Mexico,Fruit and nuts,Peaches and nectarines,2009,498.9
+Mexico,Fruit and nuts,Pears,2009,205.8
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2009,331.1
+Mexico,Vegetables,"Peas, green",2009,431.3
+Mexico,Fruit and nuts,Plums and sloes,2009,232.4
+Mexico,Edible roots and tubers,Potatoes,2009,559
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2009,384.8
+Mexico,Fruit and nuts,Raspberries,2009,3221.4
+Mexico,Cereals,Rye,2009,222
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2009,364.7
+Mexico,Vegetables,Spinach,2009,218.3
+Mexico,Fruit and nuts,Strawberries,2009,620.3
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2009,274.7
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2009,1800.8
+Mexico,Vegetables,Tomatoes,2009,442.9
+Mexico,Cereals,Wheat,2009,214
+United States of America,Fruit and nuts,Apples,2009,509
+United States of America,Fruit and nuts,Apricots,2009,721
+United States of America,Vegetables,Asparagus,2009,2381
+United States of America,Cereals,Barley,2009,214
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2009,661
+United States of America,Vegetables,"Beans, green",2009,572
+United States of America,Fruit and nuts,Blueberries,2009,2932
+United States of America,Vegetables,Cabbages and other brassicas,2009,342
+United States of America,Vegetables,Carrots and turnips,2009,556
+United States of America,Vegetables,Cauliflowers and broccoli,2009,977
+United States of America,Fruit and nuts,Cherries,2009,1466
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2009,597
+United States of America,Vegetables,"Chillies and peppers, green",2009,758
+United States of America,Vegetables,Cucumbers and gherkins,2009,564
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2009,1157
+United States of America,Fruit and nuts,Grapes,2009,557
+United States of America,Pulses (dried leguminous vegetables),Lentils,2009,591
+United States of America,Vegetables,Lettuce and chicory,2009,494
+United States of America,Oilseeds and oleaginous fruits,Linseed,2009,321
+United States of America,Cereals,Maize,2009,140
+United States of America,Vegetables,"Maize, green",2009,646
+United States of America,Natural rubber,"Meat live weight, cattle",2009,1770
+United States of America,Natural rubber,"Meat live weight, chicken",2009,999
+United States of America,Natural rubber,"Meat live weight, pig",2009,917
+United States of America,Natural rubber,"Meat live weight, turkey",2009,1102
+United States of America,Natural rubber,"Meat, pig",2009,1294.4
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2009,401
+United States of America,,"Milk, whole fresh cow",2009,285
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2009,670
+United States of America,Cereals,Oats,2009,139
+United States of America,Fruit and nuts,Peaches and nectarines,2009,604
+United States of America,Fruit and nuts,Pears,2009,410
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2009,198
+United States of America,Vegetables,"Peas, green",2009,352
+United States of America,Fruit and nuts,Plums and sloes,2009,567
+United States of America,Edible roots and tubers,Potatoes,2009,182
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2009,580
+United States of America,Fruit and nuts,Raspberries,2009,6393
+United States of America,Cereals,Rye,2009,194
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2009,352
+United States of America,Vegetables,Spinach,2009,871
+United States of America,Fruit and nuts,Strawberries,2009,1676
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2009,333
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2009,4050
+United States of America,Vegetables,Tomatoes,2009,891
+United States of America,Cereals,Wheat,2009,179
+Canada,Fruit and nuts,Apples,2010,397.8
+Canada,Fruit and nuts,Apricots,2010,1363.4
+Canada,Vegetables,Asparagus,2010,3355.5
+Canada,Cereals,Barley,2010,141.7
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2010,636.7
+Canada,Vegetables,"Beans, green",2010,648.6
+Canada,Fruit and nuts,Blueberries,2010,1721.5
+Canada,Vegetables,Cabbages and other brassicas,2010,310
+Canada,Vegetables,Carrots and turnips,2010,235.5
+Canada,Vegetables,Cauliflowers and broccoli,2010,725.1
+Canada,Fruit and nuts,Cherries,2010,3439
+Canada,Pulses (dried leguminous vegetables),Chick peas,2010,591.1
+Canada,Vegetables,"Chillies and peppers, green",2010,718.9
+Canada,Vegetables,Cucumbers and gherkins,2010,468.2
+Canada,"Eggs, fresh","Eggs, hen, in shell",2010,1798
+Canada,Fruit and nuts,Grapes,2010,1492.3
+Canada,Pulses (dried leguminous vegetables),Lentils,2010,590.6
+Canada,Vegetables,Lettuce and chicory,2010,830.6
+Canada,Oilseeds and oleaginous fruits,Linseed,2010,395.5
+Canada,Cereals,Maize,2010,166.8
+Canada,Vegetables,"Maize, green",2010,296.7
+Canada,Natural rubber,"Meat live weight, cattle",2010,1736.7
+Canada,Natural rubber,"Meat live weight, chicken",2010,1815.2
+Canada,Natural rubber,"Meat live weight, pig",2010,1203.8
+Canada,Natural rubber,"Meat live weight, turkey",2010,1970.6
+Canada,Natural rubber,"Meat, pig",2010,1469.8
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2010,454.2
+Canada,,"Milk, whole fresh cow",2010,699.5
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2010,570.4
+Canada,Cereals,Oats,2010,145.7
+Canada,Fruit and nuts,Peaches and nectarines,2010,1062.8
+Canada,Fruit and nuts,Pears,2010,718.5
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2010,186
+Canada,Vegetables,"Peas, green",2010,354.4
+Canada,Fruit and nuts,Plums and sloes,2010,1482.1
+Canada,Edible roots and tubers,Potatoes,2010,246.7
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2010,405.9
+Canada,Fruit and nuts,Raspberries,2010,2358
+Canada,Cereals,Rye,2010,156.2
+Canada,Oilseeds and oleaginous fruits,Soybeans,2010,372.8
+Canada,Vegetables,Spinach,2010,1421.6
+Canada,Fruit and nuts,Strawberries,2010,3460.6
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2010,436.5
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2010,4630.3
+Canada,Vegetables,Tomatoes,2010,156.7
+Canada,Cereals,Wheat,2010,177.1
+Mexico,Fruit and nuts,Apples,2010,440.3
+Mexico,Fruit and nuts,Apricots,2010,769.4
+Mexico,Vegetables,Asparagus,2010,2556.6
+Mexico,Cereals,Barley,2010,246.6
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2010,695.4
+Mexico,Vegetables,"Beans, green",2010,471.2
+Mexico,Fruit and nuts,Blueberries,2010,1548.6
+Mexico,Vegetables,Cabbages and other brassicas,2010,125.6
+Mexico,Vegetables,Carrots and turnips,2010,198.3
+Mexico,Vegetables,Cauliflowers and broccoli,2010,254.1
+Mexico,Fruit and nuts,Cherries,2010,1978.5
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2010,621.8
+Mexico,Vegetables,"Chillies and peppers, green",2010,268
+Mexico,Vegetables,Cucumbers and gherkins,2010,333.2
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2010,1027.1
+Mexico,Fruit and nuts,Grapes,2010,1087.4
+Mexico,Pulses (dried leguminous vegetables),Lentils,2010,405.4
+Mexico,Vegetables,Lettuce and chicory,2010,215.5
+Mexico,Oilseeds and oleaginous fruits,Linseed,2010,2104.7
+Mexico,Cereals,Maize,2010,222.9
+Mexico,Vegetables,"Maize, green",2010,144.4
+Mexico,Natural rubber,"Meat live weight, cattle",2010,1406.7
+Mexico,Natural rubber,"Meat live weight, chicken",2010,1306.6
+Mexico,Natural rubber,"Meat live weight, pig",2010,1472.5
+Mexico,Natural rubber,"Meat live weight, turkey",2010,2392.9
+Mexico,Natural rubber,"Meat, pig",2010,2414.8
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2010,257.2
+Mexico,,"Milk, whole fresh cow",2010,376.6
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2010,1661.9
+Mexico,Cereals,Oats,2010,223.4
+Mexico,Fruit and nuts,Peaches and nectarines,2010,532
+Mexico,Fruit and nuts,Pears,2010,246.5
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2010,386.9
+Mexico,Vegetables,"Peas, green",2010,481.2
+Mexico,Fruit and nuts,Plums and sloes,2010,254.6
+Mexico,Edible roots and tubers,Potatoes,2010,598.6
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2010,411.9
+Mexico,Fruit and nuts,Raspberries,2010,3653.8
+Mexico,Cereals,Rye,2010,213.3
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2010,433.3
+Mexico,Vegetables,Spinach,2010,386.2
+Mexico,Fruit and nuts,Strawberries,2010,734.2
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2010,372.4
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2010,2071.5
+Mexico,Vegetables,Tomatoes,2010,517.2
+Mexico,Cereals,Wheat,2010,213.3
+United States of America,Fruit and nuts,Apples,2010,553
+United States of America,Fruit and nuts,Apricots,2010,796
+United States of America,Vegetables,Asparagus,2010,2690
+United States of America,Cereals,Barley,2010,177
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2010,617
+United States of America,Vegetables,"Beans, green",2010,521
+United States of America,Fruit and nuts,Blueberries,2010,3175
+United States of America,Vegetables,Cabbages and other brassicas,2010,381
+United States of America,Vegetables,Carrots and turnips,2010,586
+United States of America,Vegetables,Cauliflowers and broccoli,2010,922
+United States of America,Fruit and nuts,Cherries,2010,2568
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2010,622
+United States of America,Vegetables,"Chillies and peppers, green",2010,886
+United States of America,Vegetables,Cucumbers and gherkins,2010,505
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2010,985
+United States of America,Fruit and nuts,Grapes,2010,537
+United States of America,Pulses (dried leguminous vegetables),Lentils,2010,567
+United States of America,Vegetables,Lettuce and chicory,2010,465
+United States of America,Oilseeds and oleaginous fruits,Linseed,2010,480
+United States of America,Cereals,Maize,2010,204
+United States of America,Vegetables,"Maize, green",2010,564
+United States of America,Natural rubber,"Meat live weight, cattle",2010,2033
+United States of America,Natural rubber,"Meat live weight, chicken",2010,1080
+United States of America,Natural rubber,"Meat live weight, pig",2010,1193
+United States of America,Natural rubber,"Meat live weight, turkey",2010,1356
+United States of America,Natural rubber,"Meat, pig",2010,1680.3
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2010,366
+United States of America,,"Milk, whole fresh cow",2010,360
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2010,571
+United States of America,Cereals,Oats,2010,174
+United States of America,Fruit and nuts,Peaches and nectarines,2010,603
+United States of America,Fruit and nuts,Pears,2010,525
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2010,215
+United States of America,Vegetables,"Peas, green",2010,316
+United States of America,Fruit and nuts,Plums and sloes,2010,612
+United States of America,Edible roots and tubers,Potatoes,2010,203
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2010,516
+United States of America,Fruit and nuts,Raspberries,2010,5445
+United States of America,Cereals,Rye,2010,204
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2010,415
+United States of America,Vegetables,Spinach,2010,941
+United States of America,Fruit and nuts,Strawberries,2010,1748
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2010,514
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2010,3904
+United States of America,Vegetables,Tomatoes,2010,1067
+United States of America,Cereals,Wheat,2010,209
+Canada,Fruit and nuts,Apples,2011,408
+Canada,Fruit and nuts,Apricots,2011,1585.6
+Canada,Vegetables,Asparagus,2011,3440.6
+Canada,Cereals,Barley,2011,195
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2011,843
+Canada,Vegetables,"Beans, green",2011,703.8
+Canada,Fruit and nuts,Blueberries,2011,1951.7
+Canada,Vegetables,Cabbages and other brassicas,2011,374.3
+Canada,Vegetables,Carrots and turnips,2011,240.2
+Canada,Vegetables,Cauliflowers and broccoli,2011,778.4
+Canada,Fruit and nuts,Cherries,2011,3322.6
+Canada,Pulses (dried leguminous vegetables),Chick peas,2011,707.2
+Canada,Vegetables,"Chillies and peppers, green",2011,737.1
+Canada,Vegetables,Cucumbers and gherkins,2011,544
+Canada,"Eggs, fresh","Eggs, hen, in shell",2011,2050.1
+Canada,Fruit and nuts,Grapes,2011,1429.7
+Canada,Pulses (dried leguminous vegetables),Lentils,2011,498.5
+Canada,Vegetables,Lettuce and chicory,2011,775
+Canada,Oilseeds and oleaginous fruits,Linseed,2011,559.9
+Canada,Cereals,Maize,2011,238.6
+Canada,Vegetables,"Maize, green",2011,340.8
+Canada,Natural rubber,"Meat live weight, cattle",2011,2148.4
+Canada,Natural rubber,"Meat live weight, chicken",2011,2172.7
+Canada,Natural rubber,"Meat live weight, pig",2011,1443.9
+Canada,Natural rubber,"Meat live weight, turkey",2011,2233.4
+Canada,Natural rubber,"Meat, pig",2011,1755.7
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2011,469.9
+Canada,,"Milk, whole fresh cow",2011,756.9
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2011,599.2
+Canada,Cereals,Oats,2011,206.3
+Canada,Fruit and nuts,Peaches and nectarines,2011,1422.3
+Canada,Fruit and nuts,Pears,2011,915.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2011,286.7
+Canada,Vegetables,"Peas, green",2011,407
+Canada,Fruit and nuts,Plums and sloes,2011,1855.6
+Canada,Edible roots and tubers,Potatoes,2011,266.5
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2011,537.5
+Canada,Fruit and nuts,Raspberries,2011,2357.4
+Canada,Cereals,Rye,2011,218.2
+Canada,Oilseeds and oleaginous fruits,Soybeans,2011,446.5
+Canada,Vegetables,Spinach,2011,1681
+Canada,Fruit and nuts,Strawberries,2011,3550.4
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2011,582.1
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2011,4992.3
+Canada,Vegetables,Tomatoes,2011,173.2
+Canada,Cereals,Wheat,2011,237
+Mexico,Fruit and nuts,Apples,2011,398.6
+Mexico,Fruit and nuts,Apricots,2011,839.3
+Mexico,Vegetables,Asparagus,2011,2643.3
+Mexico,Cereals,Barley,2011,289.1
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2011,976.8
+Mexico,Vegetables,"Beans, green",2011,530.5
+Mexico,Fruit and nuts,Blueberries,2011,1875.2
+Mexico,Vegetables,Cabbages and other brassicas,2011,174.7
+Mexico,Vegetables,Carrots and turnips,2011,175.9
+Mexico,Vegetables,Cauliflowers and broccoli,2011,294.3
+Mexico,Fruit and nuts,Cherries,2011,1408.6
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2011,721.9
+Mexico,Vegetables,"Chillies and peppers, green",2011,480.4
+Mexico,Vegetables,Cucumbers and gherkins,2011,402.7
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2011,1064.2
+Mexico,Fruit and nuts,Grapes,2011,1356.2
+Mexico,Pulses (dried leguminous vegetables),Lentils,2011,803.2
+Mexico,Vegetables,Lettuce and chicory,2011,228.3
+Mexico,Oilseeds and oleaginous fruits,Linseed,2011,2185.7
+Mexico,Cereals,Maize,2011,328.2
+Mexico,Vegetables,"Maize, green",2011,162.3
+Mexico,Natural rubber,"Meat live weight, cattle",2011,1454.8
+Mexico,Natural rubber,"Meat live weight, chicken",2011,1412.8
+Mexico,Natural rubber,"Meat live weight, pig",2011,1559.4
+Mexico,Natural rubber,"Meat live weight, turkey",2011,2510
+Mexico,Natural rubber,"Meat, pig",2011,2527.2
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2011,254.5
+Mexico,,"Milk, whole fresh cow",2011,398
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2011,821.6
+Mexico,Cereals,Oats,2011,330
+Mexico,Fruit and nuts,Peaches and nectarines,2011,580.3
+Mexico,Fruit and nuts,Pears,2011,282.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2011,464.4
+Mexico,Vegetables,"Peas, green",2011,492.5
+Mexico,Fruit and nuts,Plums and sloes,2011,337.8
+Mexico,Edible roots and tubers,Potatoes,2011,509.4
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2011,433.3
+Mexico,Fruit and nuts,Raspberries,2011,2798.4
+Mexico,Cereals,Rye,2011,144.9
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2011,505.7
+Mexico,Vegetables,Spinach,2011,346.1
+Mexico,Fruit and nuts,Strawberries,2011,884.3
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2011,434
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2011,2503.9
+Mexico,Vegetables,Tomatoes,2011,444.4
+Mexico,Cereals,Wheat,2011,289.4
+United States of America,Fruit and nuts,Apples,2011,668
+United States of America,Fruit and nuts,Apricots,2011,679
+United States of America,Vegetables,Asparagus,2011,2690
+United States of America,Cereals,Barley,2011,246
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2011,928
+United States of America,Vegetables,"Beans, green",2011,579
+United States of America,Fruit and nuts,Blueberries,2011,4079
+United States of America,Vegetables,Cabbages and other brassicas,2011,386
+United States of America,Vegetables,Carrots and turnips,2011,717
+United States of America,Vegetables,Cauliflowers and broccoli,2011,1014
+United States of America,Fruit and nuts,Cherries,2011,2789
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2011,822
+United States of America,Vegetables,"Chillies and peppers, green",2011,772
+United States of America,Vegetables,Cucumbers and gherkins,2011,589
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2011,1362
+United States of America,Fruit and nuts,Grapes,2011,635
+United States of America,Pulses (dried leguminous vegetables),Lentils,2011,551
+United States of America,Vegetables,Lettuce and chicory,2011,507
+United States of America,Oilseeds and oleaginous fruits,Linseed,2011,547
+United States of America,Cereals,Maize,2011,245
+United States of America,Vegetables,"Maize, green",2011,589
+United States of America,Natural rubber,"Meat live weight, cattle",2011,2491
+United States of America,Natural rubber,"Meat live weight, chicken",2011,1012
+United States of America,Natural rubber,"Meat live weight, pig",2011,1440
+United States of America,Natural rubber,"Meat live weight, turkey",2011,1499
+United States of America,Natural rubber,"Meat, pig",2011,2028.2
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2011,406
+United States of America,,"Milk, whole fresh cow",2011,446
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2011,741
+United States of America,Cereals,Oats,2011,240
+United States of America,Fruit and nuts,Peaches and nectarines,2011,621
+United States of America,Fruit and nuts,Pears,2011,419
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2011,337
+United States of America,Vegetables,"Peas, green",2011,459
+United States of America,Fruit and nuts,Plums and sloes,2011,443
+United States of America,Edible roots and tubers,Potatoes,2011,207
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2011,595
+United States of America,Fruit and nuts,Raspberries,2011,4564
+United States of America,Cereals,Rye,2011,307
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2011,459
+United States of America,Vegetables,Spinach,2011,891
+United States of America,Fruit and nuts,Strawberries,2011,1817
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2011,642
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2011,4094
+United States of America,Vegetables,Tomatoes,2011,796
+United States of America,Cereals,Wheat,2011,266
+Canada,Fruit and nuts,Apples,2012,529.5
+Canada,Fruit and nuts,Apricots,2012,1390.6
+Canada,Vegetables,Asparagus,2012,3673.9
+Canada,Cereals,Barley,2012,224.9
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2012,946.6
+Canada,Vegetables,"Beans, green",2012,505.5
+Canada,Fruit and nuts,Blueberries,2012,1994.8
+Canada,Vegetables,Cabbages and other brassicas,2012,383.2
+Canada,Vegetables,Carrots and turnips,2012,226.2
+Canada,Vegetables,Cauliflowers and broccoli,2012,782.3
+Canada,Fruit and nuts,Cherries,2012,2992.3
+Canada,Pulses (dried leguminous vegetables),Chick peas,2012,690.2
+Canada,Vegetables,"Chillies and peppers, green",2012,775.6
+Canada,Vegetables,Cucumbers and gherkins,2012,486
+Canada,"Eggs, fresh","Eggs, hen, in shell",2012,2162.7
+Canada,Fruit and nuts,Grapes,2012,1586.4
+Canada,Pulses (dried leguminous vegetables),Lentils,2012,434.5
+Canada,Vegetables,Lettuce and chicory,2012,803
+Canada,Oilseeds and oleaginous fruits,Linseed,2012,548.4
+Canada,Cereals,Maize,2012,258.7
+Canada,Vegetables,"Maize, green",2012,336.5
+Canada,Natural rubber,"Meat live weight, cattle",2012,2296
+Canada,Natural rubber,"Meat live weight, chicken",2012,2231.8
+Canada,Natural rubber,"Meat live weight, pig",2012,1382.3
+Canada,Natural rubber,"Meat live weight, turkey",2012,2341.9
+Canada,Natural rubber,"Meat, pig",2012,1681.7
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2012,390.9
+Canada,,"Milk, whole fresh cow",2012,743.6
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2012,716.1
+Canada,Cereals,Oats,2012,203.7
+Canada,Fruit and nuts,Peaches and nectarines,2012,1828.1
+Canada,Fruit and nuts,Pears,2012,742.6
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2012,315.8
+Canada,Vegetables,"Peas, green",2012,409.8
+Canada,Fruit and nuts,Plums and sloes,2012,2327.9
+Canada,Edible roots and tubers,Potatoes,2012,271.4
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2012,565.7
+Canada,Fruit and nuts,Raspberries,2012,2173.9
+Canada,Cereals,Rye,2012,236.1
+Canada,Oilseeds and oleaginous fruits,Soybeans,2012,494.9
+Canada,Vegetables,Spinach,2012,1686.5
+Canada,Fruit and nuts,Strawberries,2012,3564.2
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2012,665.1
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2012,4613.7
+Canada,Vegetables,Tomatoes,2012,167.3
+Canada,Cereals,Wheat,2012,253.9
+Mexico,Fruit and nuts,Apples,2012,609.2
+Mexico,Fruit and nuts,Apricots,2012,801.3
+Mexico,Vegetables,Asparagus,2012,2316.4
+Mexico,Cereals,Barley,2012,290.4
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2012,968.4
+Mexico,Vegetables,"Beans, green",2012,449.8
+Mexico,Fruit and nuts,Blueberries,2012,3368.1
+Mexico,Vegetables,Cabbages and other brassicas,2012,154.9
+Mexico,Vegetables,Carrots and turnips,2012,172.3
+Mexico,Vegetables,Cauliflowers and broccoli,2012,297.5
+Mexico,Fruit and nuts,Cherries,2012,759.3
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2012,803.6
+Mexico,Vegetables,"Chillies and peppers, green",2012,432
+Mexico,Vegetables,Cucumbers and gherkins,2012,287.1
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2012,1250.1
+Mexico,Fruit and nuts,Grapes,2012,1435.3
+Mexico,Pulses (dried leguminous vegetables),Lentils,2012,445.4
+Mexico,Vegetables,Lettuce and chicory,2012,217.6
+Mexico,Oilseeds and oleaginous fruits,Linseed,2012,1918.6
+Mexico,Cereals,Maize,2012,304.5
+Mexico,Vegetables,"Maize, green",2012,164.4
+Mexico,Natural rubber,"Meat live weight, cattle",2012,1455.7
+Mexico,Natural rubber,"Meat live weight, chicken",2012,1443
+Mexico,Natural rubber,"Meat live weight, pig",2012,1552.4
+Mexico,Natural rubber,"Meat live weight, turkey",2012,2444.2
+Mexico,Natural rubber,"Meat, pig",2012,2482.2
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2012,301.4
+Mexico,,"Milk, whole fresh cow",2012,393.9
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2012,2050.2
+Mexico,Cereals,Oats,2012,382.4
+Mexico,Fruit and nuts,Peaches and nectarines,2012,554.1
+Mexico,Fruit and nuts,Pears,2012,221.1
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2012,475.4
+Mexico,Vegetables,"Peas, green",2012,471.4
+Mexico,Fruit and nuts,Plums and sloes,2012,303.1
+Mexico,Edible roots and tubers,Potatoes,2012,450.1
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2012,401
+Mexico,Fruit and nuts,Raspberries,2012,3047.8
+Mexico,Cereals,Rye,2012,318.9
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2012,535.5
+Mexico,Vegetables,Spinach,2012,386
+Mexico,Fruit and nuts,Strawberries,2012,913.6
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2012,488.6
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2012,1711
+Mexico,Vegetables,Tomatoes,2012,351.7
+Mexico,Cereals,Wheat,2012,274
+United States of America,Fruit and nuts,Apples,2012,818
+United States of America,Fruit and nuts,Apricots,2012,742
+United States of America,Vegetables,Asparagus,2012,2579
+United States of America,Cereals,Barley,2012,295
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2012,838
+United States of America,Vegetables,"Beans, green",2012,578
+United States of America,Fruit and nuts,Blueberries,2012,3748
+United States of America,Vegetables,Cabbages and other brassicas,2012,408
+United States of America,Vegetables,Carrots and turnips,2012,586
+United States of America,Vegetables,Cauliflowers and broccoli,2012,789
+United States of America,Fruit and nuts,Cherries,2012,2227
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2012,769
+United States of America,Vegetables,"Chillies and peppers, green",2012,798
+United States of America,Vegetables,Cucumbers and gherkins,2012,551
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2012,1404
+United States of America,Fruit and nuts,Grapes,2012,829
+United States of America,Pulses (dried leguminous vegetables),Lentils,2012,456
+United States of America,Vegetables,Lettuce and chicory,2012,390
+United States of America,Oilseeds and oleaginous fruits,Linseed,2012,543
+United States of America,Cereals,Maize,2012,271
+United States of America,Vegetables,"Maize, green",2012,580
+United States of America,Natural rubber,"Meat live weight, cattle",2012,2668
+United States of America,Natural rubber,"Meat live weight, chicken",2012,1127
+United States of America,Natural rubber,"Meat live weight, pig",2012,1415
+United States of America,Natural rubber,"Meat live weight, turkey",2012,1585
+United States of America,Natural rubber,"Meat, pig",2012,1993
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2012,421
+United States of America,,"Milk, whole fresh cow",2012,409
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2012,789
+United States of America,Cereals,Oats,2012,268
+United States of America,Fruit and nuts,Peaches and nectarines,2012,713
+United States of America,Fruit and nuts,Pears,2012,561
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2012,346
+United States of America,Vegetables,"Peas, green",2012,478
+United States of America,Fruit and nuts,Plums and sloes,2012,766
+United States of America,Edible roots and tubers,Potatoes,2012,190
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2012,575
+United States of America,Fruit and nuts,Raspberries,2012,3792
+United States of America,Cereals,Rye,2012,303
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2012,529
+United States of America,Vegetables,Spinach,2012,930
+United States of America,Fruit and nuts,Strawberries,2012,1773
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2012,560
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2012,4469
+United States of America,Vegetables,Tomatoes,2012,672
+United States of America,Cereals,Wheat,2012,286
+Canada,Fruit and nuts,Apples,2013,553
+Canada,Fruit and nuts,Apricots,2013,1657.1
+Canada,Vegetables,Asparagus,2013,3479
+Canada,Cereals,Barley,2013,237.3
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2013,817.5
+Canada,Vegetables,"Beans, green",2013,566.2
+Canada,Fruit and nuts,Blueberries,2013,1667.8
+Canada,Vegetables,Cabbages and other brassicas,2013,451.7
+Canada,Vegetables,Carrots and turnips,2013,250
+Canada,Vegetables,Cauliflowers and broccoli,2013,765.9
+Canada,Fruit and nuts,Cherries,2013,3726.4
+Canada,Pulses (dried leguminous vegetables),Chick peas,2013,571.2
+Canada,Vegetables,"Chillies and peppers, green",2013,778.9
+Canada,Vegetables,Cucumbers and gherkins,2013,526.9
+Canada,"Eggs, fresh","Eggs, hen, in shell",2013,2212.6
+Canada,Fruit and nuts,Grapes,2013,1460
+Canada,Pulses (dried leguminous vegetables),Lentils,2013,455.3
+Canada,Vegetables,Lettuce and chicory,2013,799.5
+Canada,Oilseeds and oleaginous fruits,Linseed,2013,558
+Canada,Cereals,Maize,2013,224.8
+Canada,Vegetables,"Maize, green",2013,351.4
+Canada,Natural rubber,"Meat live weight, cattle",2013,2296.4
+Canada,Natural rubber,"Meat live weight, chicken",2013,2214
+Canada,Natural rubber,"Meat live weight, pig",2013,1439.9
+Canada,Natural rubber,"Meat live weight, turkey",2013,2282
+Canada,Natural rubber,"Meat, pig",2013,1759.6
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2013,430.4
+Canada,,"Milk, whole fresh cow",2013,732.8
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2013,761
+Canada,Cereals,Oats,2013,213.3
+Canada,Fruit and nuts,Peaches and nectarines,2013,1458.1
+Canada,Fruit and nuts,Pears,2013,882.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2013,288.9
+Canada,Vegetables,"Peas, green",2013,471.5
+Canada,Fruit and nuts,Plums and sloes,2013,1929.8
+Canada,Edible roots and tubers,Potatoes,2013,258.4
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2013,546.3
+Canada,Fruit and nuts,Raspberries,2013,2432.1
+Canada,Cereals,Rye,2013,236
+Canada,Oilseeds and oleaginous fruits,Soybeans,2013,486.2
+Canada,Vegetables,Spinach,2013,1748.6
+Canada,Fruit and nuts,Strawberries,2013,3539.6
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2013,623.3
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2013,4583.4
+Canada,Vegetables,Tomatoes,2013,163
+Canada,Cereals,Wheat,2013,252.9
+Mexico,Fruit and nuts,Apples,2013,389
+Mexico,Fruit and nuts,Apricots,2013,905.7
+Mexico,Vegetables,Asparagus,2013,2745.1
+Mexico,Cereals,Barley,2013,283.6
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2013,776.1
+Mexico,Vegetables,"Beans, green",2013,498.1
+Mexico,Fruit and nuts,Blueberries,2013,3592.9
+Mexico,Vegetables,Cabbages and other brassicas,2013,155.7
+Mexico,Vegetables,Carrots and turnips,2013,202.7
+Mexico,Vegetables,Cauliflowers and broccoli,2013,299.8
+Mexico,Fruit and nuts,Cherries,2013,834.9
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2013,978.1
+Mexico,Vegetables,"Chillies and peppers, green",2013,524.6
+Mexico,Vegetables,Cucumbers and gherkins,2013,413.2
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2013,1564.7
+Mexico,Fruit and nuts,Grapes,2013,1326.5
+Mexico,Pulses (dried leguminous vegetables),Lentils,2013,529.4
+Mexico,Vegetables,Lettuce and chicory,2013,234.3
+Mexico,Oilseeds and oleaginous fruits,Linseed,2013,2181.3
+Mexico,Cereals,Maize,2013,263.5
+Mexico,Vegetables,"Maize, green",2013,177.6
+Mexico,Natural rubber,"Meat live weight, cattle",2013,1648.4
+Mexico,Natural rubber,"Meat live weight, chicken",2013,1613.9
+Mexico,Natural rubber,"Meat live weight, pig",2013,1691.6
+Mexico,Natural rubber,"Meat live weight, turkey",2013,2712.2
+Mexico,Natural rubber,"Meat, pig",2013,2767.5
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2013,302.6
+Mexico,,"Milk, whole fresh cow",2013,433.3
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2013,2192.3
+Mexico,Cereals,Oats,2013,276.9
+Mexico,Fruit and nuts,Peaches and nectarines,2013,626.2
+Mexico,Fruit and nuts,Pears,2013,315.2
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2013,475.1
+Mexico,Vegetables,"Peas, green",2013,525.2
+Mexico,Fruit and nuts,Plums and sloes,2013,319.6
+Mexico,Edible roots and tubers,Potatoes,2013,545.9
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2013,422.6
+Mexico,Fruit and nuts,Raspberries,2013,2749.7
+Mexico,Cereals,Rye,2013,297.5
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2013,493.8
+Mexico,Vegetables,Spinach,2013,497
+Mexico,Fruit and nuts,Strawberries,2013,861.1
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2013,476.1
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2013,2285.6
+Mexico,Vegetables,Tomatoes,2013,437.2
+Mexico,Cereals,Wheat,2013,278.1
+United States of America,Fruit and nuts,Apples,2013,668
+United States of America,Fruit and nuts,Apricots,2013,812
+United States of America,Vegetables,Asparagus,2013,2888
+United States of America,Cereals,Barley,2013,278
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2013,862
+United States of America,Vegetables,"Beans, green",2013,642
+United States of America,Fruit and nuts,Blueberries,2013,3086
+United States of America,Vegetables,Cabbages and other brassicas,2013,443
+United States of America,Vegetables,Carrots and turnips,2013,631
+United States of America,Vegetables,Cauliflowers and broccoli,2013,977
+United States of America,Fruit and nuts,Cherries,2013,2877
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2013,661
+United States of America,Vegetables,"Chillies and peppers, green",2013,880
+United States of America,Vegetables,Cucumbers and gherkins,2013,591
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2013,1533
+United States of America,Fruit and nuts,Grapes,2013,785
+United States of America,Pulses (dried leguminous vegetables),Lentils,2013,437
+United States of America,Vegetables,Lettuce and chicory,2013,589
+United States of America,Oilseeds and oleaginous fruits,Linseed,2013,543
+United States of America,Cereals,Maize,2013,176
+United States of America,Vegetables,"Maize, green",2013,622
+United States of America,Natural rubber,"Meat live weight, cattle",2013,2756
+United States of America,Natural rubber,"Meat live weight, chicken",2013,1332
+United States of America,Natural rubber,"Meat live weight, pig",2013,1482
+United States of America,Natural rubber,"Meat live weight, turkey",2013,1466
+United States of America,Natural rubber,"Meat, pig",2013,2087.3
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2013,388
+United States of America,,"Milk, whole fresh cow",2013,443
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2013,820
+United States of America,Cereals,Oats,2013,258
+United States of America,Fruit and nuts,Peaches and nectarines,2013,680
+United States of America,Fruit and nuts,Pears,2013,541
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2013,322
+United States of America,Vegetables,"Peas, green",2013,471
+United States of America,Fruit and nuts,Plums and sloes,2013,732
+United States of America,Edible roots and tubers,Potatoes,2013,215
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2013,553
+United States of America,Fruit and nuts,Raspberries,2013,4123
+United States of America,Cereals,Rye,2013,313
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2013,478
+United States of America,Vegetables,Spinach,2013,952
+United States of America,Fruit and nuts,Strawberries,2013,1887
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2013,472
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2013,4799
+United States of America,Vegetables,Tomatoes,2013,983
+United States of America,Cereals,Wheat,2013,252
+Canada,Fruit and nuts,Apples,2014,475.2
+Canada,Fruit and nuts,Apricots,2014,1317
+Canada,Vegetables,Asparagus,2014,3425.4
+Canada,Cereals,Barley,2014,169
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2014,793.6
+Canada,Vegetables,"Beans, green",2014,513.8
+Canada,Fruit and nuts,Blueberries,2014,1456.6
+Canada,Vegetables,Cabbages and other brassicas,2014,455.1
+Canada,Vegetables,Carrots and turnips,2014,284.6
+Canada,Vegetables,Cauliflowers and broccoli,2014,782.3
+Canada,Fruit and nuts,Cherries,2014,2971.8
+Canada,Pulses (dried leguminous vegetables),Chick peas,2014,448.8
+Canada,Vegetables,"Chillies and peppers, green",2014,717.2
+Canada,Vegetables,Cucumbers and gherkins,2014,501.1
+Canada,"Eggs, fresh","Eggs, hen, in shell",2014,2006.8
+Canada,Fruit and nuts,Grapes,2014,1306.3
+Canada,Pulses (dried leguminous vegetables),Lentils,2014,453
+Canada,Vegetables,Lettuce and chicory,2014,732.1
+Canada,Oilseeds and oleaginous fruits,Linseed,2014,463.8
+Canada,Cereals,Maize,2014,167.8
+Canada,Vegetables,"Maize, green",2014,314.9
+Canada,Natural rubber,"Meat live weight, cattle",2014,2900.2
+Canada,Natural rubber,"Meat live weight, chicken",2014,1961.8
+Canada,Natural rubber,"Meat live weight, pig",2014,1691
+Canada,Natural rubber,"Meat live weight, turkey",2014,2088.4
+Canada,Natural rubber,"Meat, pig",2014,2060
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2014,366.5
+Canada,,"Milk, whole fresh cow",2014,702.9
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2014,662.4
+Canada,Cereals,Oats,2014,166
+Canada,Fruit and nuts,Peaches and nectarines,2014,1433.7
+Canada,Fruit and nuts,Pears,2014,862.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2014,218.4
+Canada,Vegetables,"Peas, green",2014,361.3
+Canada,Fruit and nuts,Plums and sloes,2014,1676.7
+Canada,Edible roots and tubers,Potatoes,2014,250.5
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2014,403
+Canada,Fruit and nuts,Raspberries,2014,2287.7
+Canada,Cereals,Rye,2014,201.8
+Canada,Oilseeds and oleaginous fruits,Soybeans,2014,414.2
+Canada,Vegetables,Spinach,2014,1671.9
+Canada,Fruit and nuts,Strawberries,2014,3515.5
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2014,574.8
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2014,4113.5
+Canada,Vegetables,Tomatoes,2014,175.9
+Canada,Cereals,Wheat,2014,192.3
+Mexico,Fruit and nuts,Apples,2014,441.3
+Mexico,Fruit and nuts,Apricots,2014,834.2
+Mexico,Vegetables,Asparagus,2014,2585.8
+Mexico,Cereals,Barley,2014,262.5
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2014,655.2
+Mexico,Vegetables,"Beans, green",2014,416.4
+Mexico,Fruit and nuts,Blueberries,2014,3909.5
+Mexico,Vegetables,Cabbages and other brassicas,2014,168.6
+Mexico,Vegetables,Carrots and turnips,2014,183.6
+Mexico,Vegetables,Cauliflowers and broccoli,2014,323.7
+Mexico,Fruit and nuts,Cherries,2014,5617.2
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2014,673.1
+Mexico,Vegetables,"Chillies and peppers, green",2014,506.5
+Mexico,Vegetables,Cucumbers and gherkins,2014,379.4
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2014,1537
+Mexico,Fruit and nuts,Grapes,2014,1015.5
+Mexico,Pulses (dried leguminous vegetables),Lentils,2014,452
+Mexico,Vegetables,Lettuce and chicory,2014,226.9
+Mexico,Oilseeds and oleaginous fruits,Linseed,2014,752.3
+Mexico,Cereals,Maize,2014,234.4
+Mexico,Vegetables,"Maize, green",2014,163.5
+Mexico,Natural rubber,"Meat live weight, cattle",2014,1967.8
+Mexico,Natural rubber,"Meat live weight, chicken",2014,1620.8
+Mexico,Natural rubber,"Meat live weight, pig",2014,1837
+Mexico,Natural rubber,"Meat live weight, turkey",2014,2633.8
+Mexico,Natural rubber,"Meat, pig",2014,2857.8
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2014,363.3
+Mexico,,"Milk, whole fresh cow",2014,439.3
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2014,2407.4
+Mexico,Cereals,Oats,2014,264
+Mexico,Fruit and nuts,Peaches and nectarines,2014,576.8
+Mexico,Fruit and nuts,Pears,2014,268.9
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2014,436.9
+Mexico,Vegetables,"Peas, green",2014,504.6
+Mexico,Fruit and nuts,Plums and sloes,2014,341.9
+Mexico,Edible roots and tubers,Potatoes,2014,537
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2014,464.7
+Mexico,Fruit and nuts,Raspberries,2014,2962
+Mexico,Cereals,Rye,2014,225.7
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2014,406.6
+Mexico,Vegetables,Spinach,2014,308.7
+Mexico,Fruit and nuts,Strawberries,2014,897
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2014,448.4
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2014,2414.3
+Mexico,Vegetables,Tomatoes,2014,411.7
+Mexico,Cereals,Wheat,2014,255.3
+United States of America,Fruit and nuts,Apples,2014,567
+United States of America,Fruit and nuts,Apricots,2014,902
+United States of America,Vegetables,Asparagus,2014,2337
+United States of America,Cereals,Barley,2014,243
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2014,712
+United States of America,Vegetables,"Beans, green",2014,639
+United States of America,Fruit and nuts,Blueberries,2014,3219
+United States of America,Vegetables,Cabbages and other brassicas,2014,450
+United States of America,Vegetables,Carrots and turnips,2014,597
+United States of America,Vegetables,Cauliflowers and broccoli,2014,1098
+United States of America,Fruit and nuts,Cherries,2014,2359
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2014,593
+United States of America,Vegetables,"Chillies and peppers, green",2014,1030
+United States of America,Vegetables,Cucumbers and gherkins,2014,538
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2014,1759
+United States of America,Fruit and nuts,Grapes,2014,816
+United States of America,Pulses (dried leguminous vegetables),Lentils,2014,538
+United States of America,Vegetables,Lettuce and chicory,2014,538
+United States of America,Oilseeds and oleaginous fruits,Linseed,2014,465
+United States of America,Cereals,Maize,2014,146
+United States of America,Vegetables,"Maize, green",2014,633
+United States of America,Natural rubber,"Meat live weight, cattle",2014,3351
+United States of America,Natural rubber,"Meat live weight, chicken",2014,1407
+United States of America,Natural rubber,"Meat live weight, pig",2014,1687
+United States of America,Natural rubber,"Meat live weight, turkey",2014,1614
+United States of America,Natural rubber,"Meat, pig",2014,2376.1
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2014,487
+United States of America,,"Milk, whole fresh cow",2014,531
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2014,767
+United States of America,Cereals,Oats,2014,221
+United States of America,Fruit and nuts,Peaches and nectarines,2014,828
+United States of America,Fruit and nuts,Pears,2014,620
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2014,265
+United States of America,Vegetables,"Peas, green",2014,405
+United States of America,Fruit and nuts,Plums and sloes,2014,1006
+United States of America,Edible roots and tubers,Potatoes,2014,196
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2014,769
+United States of America,Fruit and nuts,Raspberries,2014,5203
+United States of America,Cereals,Rye,2014,305
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2014,371
+United States of America,Vegetables,Spinach,2014,968
+United States of America,Fruit and nuts,Strawberries,2014,2057
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2014,478
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2014,4616
+United States of America,Vegetables,Tomatoes,2014,915
+United States of America,Cereals,Wheat,2014,220
+Canada,Fruit and nuts,Apples,2015,414.8
+Canada,Fruit and nuts,Apricots,2015,1328.9
+Canada,Vegetables,Asparagus,2015,3133.3
+Canada,Cereals,Barley,2015,174.1
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2015,726.4
+Canada,Vegetables,"Beans, green",2015,526.2
+Canada,Fruit and nuts,Blueberries,2015,1265
+Canada,Vegetables,Cabbages and other brassicas,2015,378.7
+Canada,Vegetables,Carrots and turnips,2015,282
+Canada,Vegetables,Cauliflowers and broccoli,2015,749
+Canada,Fruit and nuts,Cherries,2015,2823.5
+Canada,Pulses (dried leguminous vegetables),Chick peas,2015,425.6
+Canada,Vegetables,"Chillies and peppers, green",2015,663.4
+Canada,Vegetables,Cucumbers and gherkins,2015,530.3
+Canada,"Eggs, fresh","Eggs, hen, in shell",2015,1781.3
+Canada,Fruit and nuts,Grapes,2015,1189
+Canada,Pulses (dried leguminous vegetables),Lentils,2015,618.9
+Canada,Vegetables,Lettuce and chicory,2015,690.2
+Canada,Oilseeds and oleaginous fruits,Linseed,2015,399.4
+Canada,Cereals,Maize,2015,150.4
+Canada,Vegetables,"Maize, green",2015,281.2
+Canada,Natural rubber,"Meat live weight, cattle",2015,3031.9
+Canada,Natural rubber,"Meat live weight, chicken",2015,1649.6
+Canada,Natural rubber,"Meat live weight, pig",2015,1142.7
+Canada,Natural rubber,"Meat live weight, turkey",2015,1806
+Canada,Natural rubber,"Meat, pig",2015,1390.8
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2015,344.9
+Canada,,"Milk, whole fresh cow",2015,577.6
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2015,579.7
+Canada,Cereals,Oats,2015,142.2
+Canada,Fruit and nuts,Peaches and nectarines,2015,1320.8
+Canada,Fruit and nuts,Pears,2015,833.9
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2015,239.1
+Canada,Vegetables,"Peas, green",2015,332.2
+Canada,Fruit and nuts,Plums and sloes,2015,1574.4
+Canada,Edible roots and tubers,Potatoes,2015,220.8
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2015,360.8
+Canada,Fruit and nuts,Raspberries,2015,2407.8
+Canada,Cereals,Rye,2015,174.7
+Canada,Oilseeds and oleaginous fruits,Soybeans,2015,329.6
+Canada,Vegetables,Spinach,2015,1521.5
+Canada,Fruit and nuts,Strawberries,2015,3185.6
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2015,473
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2015,4088.8
+Canada,Vegetables,Tomatoes,2015,162.4
+Canada,Cereals,Wheat,2015,181.4
+Mexico,Fruit and nuts,Apples,2015,363.5
+Mexico,Fruit and nuts,Apricots,2015,405.1
+Mexico,Vegetables,Asparagus,2015,2065.8
+Mexico,Cereals,Barley,2015,235.8
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2015,616.5
+Mexico,Vegetables,"Beans, green",2015,398.5
+Mexico,Fruit and nuts,Blueberries,2015,3544.1
+Mexico,Vegetables,Cabbages and other brassicas,2015,142.9
+Mexico,Vegetables,Carrots and turnips,2015,156.4
+Mexico,Vegetables,Cauliflowers and broccoli,2015,244.9
+Mexico,Fruit and nuts,Cherries,2015,5504.1
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2015,677.6
+Mexico,Vegetables,"Chillies and peppers, green",2015,564.4
+Mexico,Vegetables,Cucumbers and gherkins,2015,308.6
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2015,1166.4
+Mexico,Fruit and nuts,Grapes,2015,906.1
+Mexico,Pulses (dried leguminous vegetables),Lentils,2015,368.3
+Mexico,Vegetables,Lettuce and chicory,2015,196.3
+Mexico,Oilseeds and oleaginous fruits,Linseed,2015,652
+Mexico,Cereals,Maize,2015,216
+Mexico,Vegetables,"Maize, green",2015,153.1
+Mexico,Natural rubber,"Meat live weight, cattle",2015,2070.1
+Mexico,Natural rubber,"Meat live weight, chicken",2015,1292.5
+Mexico,Natural rubber,"Meat live weight, pig",2015,1574
+Mexico,Natural rubber,"Meat live weight, turkey",2015,2280.6
+Mexico,Natural rubber,"Meat, pig",2015,2580.2
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2015,260.7
+Mexico,,"Milk, whole fresh cow",2015,370.8
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2015,2271.5
+Mexico,Cereals,Oats,2015,256.2
+Mexico,Fruit and nuts,Peaches and nectarines,2015,494.2
+Mexico,Fruit and nuts,Pears,2015,259.4
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2015,467.8
+Mexico,Vegetables,"Peas, green",2015,397.9
+Mexico,Fruit and nuts,Plums and sloes,2015,316.7
+Mexico,Edible roots and tubers,Potatoes,2015,426.3
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2015,356.1
+Mexico,Fruit and nuts,Raspberries,2015,2376
+Mexico,Cereals,Rye,2015,227.2
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2015,366
+Mexico,Vegetables,Spinach,2015,349.2
+Mexico,Fruit and nuts,Strawberries,2015,928.7
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2015,364.3
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2015,2008.2
+Mexico,Vegetables,Tomatoes,2015,420.3
+Mexico,Cereals,Wheat,2015,240.9
+United States of America,Fruit and nuts,Apples,2015,741
+United States of America,Fruit and nuts,Apricots,2015,1113
+United States of America,Vegetables,Asparagus,2015,2557
+United States of America,Cereals,Barley,2015,254
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2015,602
+United States of America,Vegetables,"Beans, green",2015,657
+United States of America,Fruit and nuts,Blueberries,2015,3241
+United States of America,Vegetables,Cabbages and other brassicas,2015,425
+United States of America,Vegetables,Carrots and turnips,2015,672
+United States of America,Vegetables,Cauliflowers and broccoli,2015,1351
+United States of America,Fruit and nuts,Cherries,2015,2480
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2015,633
+United States of America,Vegetables,"Chillies and peppers, green",2015,741
+United States of America,Vegetables,Cucumbers and gherkins,2015,575
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2015,2322
+United States of America,Fruit and nuts,Grapes,2015,855
+United States of America,Pulses (dried leguminous vegetables),Lentils,2015,683
+United States of America,Vegetables,Lettuce and chicory,2015,642
+United States of America,Oilseeds and oleaginous fruits,Linseed,2015,352
+United States of America,Cereals,Maize,2015,142
+United States of America,Vegetables,"Maize, green",2015,622
+United States of America,Natural rubber,"Meat live weight, cattle",2015,3241
+United States of America,Natural rubber,"Meat live weight, chicken",2015,1166
+United States of America,Natural rubber,"Meat live weight, pig",2015,1219
+United States of America,Natural rubber,"Meat live weight, turkey",2015,1788
+United States of America,Natural rubber,"Meat, pig",2015,1716.9
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2015,430
+United States of America,,"Milk, whole fresh cow",2015,379
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2015,701
+United States of America,Cereals,Oats,2015,146
+United States of America,Fruit and nuts,Peaches and nectarines,2015,809
+United States of America,Fruit and nuts,Pears,2015,678
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2015,282
+United States of America,Vegetables,"Peas, green",2015,353
+United States of America,Fruit and nuts,Plums and sloes,2015,1100
+United States of America,Edible roots and tubers,Potatoes,2015,193
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2015,952
+United States of America,Fruit and nuts,Raspberries,2015,5115
+United States of America,Cereals,Rye,2015,256
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2015,329
+United States of America,Vegetables,Spinach,2015,1246
+United States of America,Fruit and nuts,Strawberries,2015,1609
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2015,432
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2015,4416
+United States of America,Vegetables,Tomatoes,2015,1021
+United States of America,Cereals,Wheat,2015,180
+Canada,Fruit and nuts,Apples,2016,429.4
+Canada,Fruit and nuts,Apricots,2016,1426.6
+Canada,Vegetables,Asparagus,2016,3105.6
+Canada,Cereals,Barley,2016,166.3
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2016,656.7
+Canada,Vegetables,"Beans, green",2016,501
+Canada,Fruit and nuts,Blueberries,2016,916.1
+Canada,Vegetables,Cabbages and other brassicas,2016,358.1
+Canada,Vegetables,Carrots and turnips,2016,262.4
+Canada,Vegetables,Cauliflowers and broccoli,2016,711.3
+Canada,Fruit and nuts,Cherries,2016,2727.7
+Canada,Pulses (dried leguminous vegetables),Chick peas,2016,652.1
+Canada,Vegetables,"Chillies and peppers, green",2016,684.7
+Canada,Vegetables,Cucumbers and gherkins,2016,475.6
+Canada,"Eggs, fresh","Eggs, hen, in shell",2016,1719.1
+Canada,Fruit and nuts,Grapes,2016,1154.1
+Canada,Pulses (dried leguminous vegetables),Lentils,2016,624.7
+Canada,Vegetables,Lettuce and chicory,2016,695.7
+Canada,Oilseeds and oleaginous fruits,Linseed,2016,347.1
+Canada,Cereals,Maize,2016,146.2
+Canada,Vegetables,"Maize, green",2016,291.1
+Canada,Natural rubber,"Meat live weight, cattle",2016,2322.2
+Canada,Natural rubber,"Meat live weight, chicken",2016,1576.9
+Canada,Natural rubber,"Meat live weight, pig",2016,1069.2
+Canada,Natural rubber,"Meat live weight, turkey",2016,1697.6
+Canada,Natural rubber,"Meat, pig",2016,1304.1
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2016,368.3
+Canada,,"Milk, whole fresh cow",2016,551.9
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2016,675.2
+Canada,Cereals,Oats,2016,132.4
+Canada,Fruit and nuts,Peaches and nectarines,2016,1123.4
+Canada,Fruit and nuts,Pears,2016,814.3
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2016,265.2
+Canada,Vegetables,"Peas, green",2016,331.7
+Canada,Fruit and nuts,Plums and sloes,2016,1311.7
+Canada,Edible roots and tubers,Potatoes,2016,216.4
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2016,357.8
+Canada,Fruit and nuts,Raspberries,2016,2455.7
+Canada,Cereals,Rye,2016,148.1
+Canada,Oilseeds and oleaginous fruits,Soybeans,2016,341.7
+Canada,Vegetables,Spinach,2016,1614.3
+Canada,Fruit and nuts,Strawberries,2016,3084.5
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2016,433.7
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2016,4285.5
+Canada,Vegetables,Tomatoes,2016,168.2
+Canada,Cereals,Wheat,2016,174.4
+Mexico,Fruit and nuts,Apples,2016,348.2
+Mexico,Fruit and nuts,Apricots,2016,340.7
+Mexico,Vegetables,Asparagus,2016,1969.2
+Mexico,Cereals,Barley,2016,225.1
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2016,653.1
+Mexico,Vegetables,"Beans, green",2016,335.1
+Mexico,Fruit and nuts,Blueberries,2016,3047.2
+Mexico,Vegetables,Cabbages and other brassicas,2016,125
+Mexico,Vegetables,Carrots and turnips,2016,154.8
+Mexico,Vegetables,Cauliflowers and broccoli,2016,218.6
+Mexico,Fruit and nuts,Cherries,2016,3717.7
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2016,618.5
+Mexico,Vegetables,"Chillies and peppers, green",2016,465.5
+Mexico,Vegetables,Cucumbers and gherkins,2016,291.1
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2016,960.6
+Mexico,Fruit and nuts,Grapes,2016,870
+Mexico,Pulses (dried leguminous vegetables),Lentils,2016,470.4
+Mexico,Vegetables,Lettuce and chicory,2016,180.2
+Mexico,Oilseeds and oleaginous fruits,Linseed,2016,401.8
+Mexico,Cereals,Maize,2016,189.2
+Mexico,Vegetables,"Maize, green",2016,116.3
+Mexico,Natural rubber,"Meat live weight, cattle",2016,1771.1
+Mexico,Natural rubber,"Meat live weight, chicken",2016,1130.9
+Mexico,Natural rubber,"Meat live weight, pig",2016,1361.3
+Mexico,Natural rubber,"Meat live weight, turkey",2016,1957.3
+Mexico,Natural rubber,"Meat, pig",2016,2215
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2016,266.5
+Mexico,,"Milk, whole fresh cow",2016,312.7
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2016,2143.2
+Mexico,Cereals,Oats,2016,224.8
+Mexico,Fruit and nuts,Peaches and nectarines,2016,422.7
+Mexico,Fruit and nuts,Pears,2016,241
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2016,390.9
+Mexico,Vegetables,"Peas, green",2016,412.1
+Mexico,Fruit and nuts,Plums and sloes,2016,245.6
+Mexico,Edible roots and tubers,Potatoes,2016,322.7
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2016,305.6
+Mexico,Fruit and nuts,Raspberries,2016,1860.1
+Mexico,Cereals,Rye,2016,193.5
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2016,365.5
+Mexico,Vegetables,Spinach,2016,255
+Mexico,Fruit and nuts,Strawberries,2016,895.7
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2016,308.3
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2016,1735.8
+Mexico,Vegetables,Tomatoes,2016,381.9
+Mexico,Cereals,Wheat,2016,196.1
+United States of America,Fruit and nuts,Apples,2016,705
+United States of America,Fruit and nuts,Apricots,2016,990
+United States of America,Vegetables,Asparagus,2016,2535
+United States of America,Cereals,Barley,2016,228
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2016,644
+United States of America,Vegetables,"Beans, green",2016,569
+United States of America,Fruit and nuts,Blueberries,2016,2690
+United States of America,Vegetables,Cabbages and other brassicas,2016,476
+United States of America,Vegetables,Carrots and turnips,2016,710
+United States of America,Vegetables,Cauliflowers and broccoli,2016,1246
+United States of America,Fruit and nuts,Cherries,2016,2480
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2016,635
+United States of America,Vegetables,"Chillies and peppers, green",2016,765
+United States of America,Vegetables,Cucumbers and gherkins,2016,571
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2016,1077
+United States of America,Fruit and nuts,Grapes,2016,899
+United States of America,Pulses (dried leguminous vegetables),Lentils,2016,628
+United States of America,Vegetables,Lettuce and chicory,2016,602
+United States of America,Oilseeds and oleaginous fruits,Linseed,2016,315
+United States of America,Cereals,Maize,2016,132
+United States of America,Vegetables,"Maize, green",2016,626
+United States of America,Natural rubber,"Meat live weight, cattle",2016,2624
+United States of America,Natural rubber,"Meat live weight, chicken",2016,1054
+United States of America,Natural rubber,"Meat live weight, pig",2016,1087
+United States of America,Natural rubber,"Meat live weight, turkey",2016,1819
+United States of America,Natural rubber,"Meat, pig",2016,1531
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2016,379
+United States of America,,"Milk, whole fresh cow",2016,360
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2016,721
+United States of America,Cereals,Oats,2016,142
+United States of America,Fruit and nuts,Peaches and nectarines,2016,890
+United States of America,Fruit and nuts,Pears,2016,712
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2016,243
+United States of America,Vegetables,"Peas, green",2016,281
+United States of America,Fruit and nuts,Plums and sloes,2016,896
+United States of America,Edible roots and tubers,Potatoes,2016,200
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2016,556
+United States of America,Fruit and nuts,Raspberries,2016,3329
+United States of America,Cereals,Rye,2016,202
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2016,348
+United States of America,Vegetables,Spinach,2016,1149
+United States of America,Fruit and nuts,Strawberries,2016,2447
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2016,384
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2016,4425
+United States of America,Vegetables,Tomatoes,2016,937
+United States of America,Cereals,Wheat,2016,143
+Canada,Fruit and nuts,Apples,2017,471.8
+Canada,Fruit and nuts,Apricots,2017,1459.1
+Canada,Vegetables,Asparagus,2017,3516.5
+Canada,Cereals,Barley,2017,148.8
+Canada,Pulses (dried leguminous vegetables),"Beans, dry",2017,622.5
+Canada,Vegetables,"Beans, green",2017,536.2
+Canada,Fruit and nuts,Blueberries,2017,978.5
+Canada,Vegetables,Cabbages and other brassicas,2017,
+Canada,Vegetables,Carrots and turnips,2017,260.5
+Canada,Vegetables,Cauliflowers and broccoli,2017,695
+Canada,Fruit and nuts,Cherries,2017,2792.7
+Canada,Pulses (dried leguminous vegetables),Chick peas,2017,
+Canada,Vegetables,"Chillies and peppers, green",2017,765
+Canada,Vegetables,Cucumbers and gherkins,2017,452.4
+Canada,"Eggs, fresh","Eggs, hen, in shell",2017,1767.1
+Canada,Fruit and nuts,Grapes,2017,1367.3
+Canada,Pulses (dried leguminous vegetables),Lentils,2017,483.1
+Canada,Vegetables,Lettuce and chicory,2017,698.1
+Canada,Oilseeds and oleaginous fruits,Linseed,2017,367.9
+Canada,Cereals,Maize,2017,146.7
+Canada,Vegetables,"Maize, green",2017,305.4
+Canada,Natural rubber,"Meat live weight, cattle",2017,2350.3
+Canada,Natural rubber,"Meat live weight, chicken",2017,1587.4
+Canada,Natural rubber,"Meat live weight, pig",2017,1179.5
+Canada,Natural rubber,"Meat live weight, turkey",2017,1733.8
+Canada,Natural rubber,"Meat, pig",2017,
+Canada,Vegetables,"Melons, other (inc.cantaloupes)",2017,332.6
+Canada,,"Milk, whole fresh cow",2017,564.2
+Canada,Oilseeds and oleaginous fruits,Mustard seed,2017,
+Canada,Cereals,Oats,2017,146
+Canada,Fruit and nuts,Peaches and nectarines,2017,1264.4
+Canada,Fruit and nuts,Pears,2017,911.2
+Canada,Pulses (dried leguminous vegetables),"Peas, dry",2017,237.1
+Canada,Vegetables,"Peas, green",2017,411.6
+Canada,Fruit and nuts,Plums and sloes,2017,1631.7
+Canada,Edible roots and tubers,Potatoes,2017,227
+Canada,Oilseeds and oleaginous fruits,Rapeseed,2017,383.9
+Canada,Fruit and nuts,Raspberries,2017,2816.2
+Canada,Cereals,Rye,2017,120.3
+Canada,Oilseeds and oleaginous fruits,Soybeans,2017,344.9
+Canada,Vegetables,Spinach,2017,1656.6
+Canada,Fruit and nuts,Strawberries,2017,3481.5
+Canada,Oilseeds and oleaginous fruits,Sunflower seed,2017,
+Canada,Unmanufactured tobacco,"Tobacco, unmanufactured",2017,4415.4
+Canada,Vegetables,Tomatoes,2017,177.1
+Canada,Cereals,Wheat,2017,180.7
+Mexico,Fruit and nuts,Apples,2017,461
+Mexico,Fruit and nuts,Apricots,2017,323.9
+Mexico,Vegetables,Asparagus,2017,2154.6
+Mexico,Cereals,Barley,2017,222.8
+Mexico,Pulses (dried leguminous vegetables),"Beans, dry",2017,730.8
+Mexico,Vegetables,"Beans, green",2017,369.5
+Mexico,Fruit and nuts,Blueberries,2017,3095.6
+Mexico,Vegetables,Cabbages and other brassicas,2017,129.7
+Mexico,Vegetables,Carrots and turnips,2017,166.7
+Mexico,Vegetables,Cauliflowers and broccoli,2017,229
+Mexico,Fruit and nuts,Cherries,2017,3607.2
+Mexico,Pulses (dried leguminous vegetables),Chick peas,2017,949.1
+Mexico,Vegetables,"Chillies and peppers, green",2017,575.9
+Mexico,Vegetables,Cucumbers and gherkins,2017,304.1
+Mexico,"Eggs, fresh","Eggs, hen, in shell",2017,1004.2
+Mexico,Fruit and nuts,Grapes,2017,924.8
+Mexico,Pulses (dried leguminous vegetables),Lentils,2017,592.8
+Mexico,Vegetables,Lettuce and chicory,2017,202.6
+Mexico,Oilseeds and oleaginous fruits,Linseed,2017,528.4
+Mexico,Cereals,Maize,2017,190.7
+Mexico,Vegetables,"Maize, green",2017,120.9
+Mexico,Natural rubber,"Meat live weight, cattle",2017,1803.6
+Mexico,Natural rubber,"Meat live weight, chicken",2017,1159.1
+Mexico,Natural rubber,"Meat live weight, pig",2017,1404
+Mexico,Natural rubber,"Meat live weight, turkey",2017,2011
+Mexico,Natural rubber,"Meat, pig",2017,2279
+Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2017,257.3
+Mexico,,"Milk, whole fresh cow",2017,317.3
+Mexico,Oilseeds and oleaginous fruits,Mustard seed,2017,
+Mexico,Cereals,Oats,2017,211.9
+Mexico,Fruit and nuts,Peaches and nectarines,2017,432.5
+Mexico,Fruit and nuts,Pears,2017,242.1
+Mexico,Pulses (dried leguminous vegetables),"Peas, dry",2017,422.6
+Mexico,Vegetables,"Peas, green",2017,429.4
+Mexico,Fruit and nuts,Plums and sloes,2017,274.8
+Mexico,Edible roots and tubers,Potatoes,2017,347.2
+Mexico,Oilseeds and oleaginous fruits,Rapeseed,2017,365.1
+Mexico,Fruit and nuts,Raspberries,2017,1976.8
+Mexico,Cereals,Rye,2017,181.8
+Mexico,Oilseeds and oleaginous fruits,Soybeans,2017,370.5
+Mexico,Vegetables,Spinach,2017,259.8
+Mexico,Fruit and nuts,Strawberries,2017,1014.5
+Mexico,Oilseeds and oleaginous fruits,Sunflower seed,2017,289.4
+Mexico,Unmanufactured tobacco,"Tobacco, unmanufactured",2017,1717.1
+Mexico,Vegetables,Tomatoes,2017,388.1
+Mexico,Cereals,Wheat,2017,200.4
+United States of America,Fruit and nuts,Apples,2017,
+United States of America,Fruit and nuts,Apricots,2017,
+United States of America,Vegetables,Asparagus,2017,2601
+United States of America,Cereals,Barley,2017,204
+United States of America,Pulses (dried leguminous vegetables),"Beans, dry",2017,613
+United States of America,Vegetables,"Beans, green",2017,622
+United States of America,Fruit and nuts,Blueberries,2017,
+United States of America,Vegetables,Cabbages and other brassicas,2017,443
+United States of America,Vegetables,Carrots and turnips,2017,664
+United States of America,Vegetables,Cauliflowers and broccoli,2017,1016
+United States of America,Fruit and nuts,Cherries,2017,
+United States of America,Pulses (dried leguminous vegetables),Chick peas,2017,679
+United States of America,Vegetables,"Chillies and peppers, green",2017,745
+United States of America,Vegetables,Cucumbers and gherkins,2017,650
+United States of America,"Eggs, fresh","Eggs, hen, in shell",2017,1214
+United States of America,Fruit and nuts,Grapes,2017,
+United States of America,Pulses (dried leguminous vegetables),Lentils,2017,582
+United States of America,Vegetables,Lettuce and chicory,2017,802
+United States of America,Oilseeds and oleaginous fruits,Linseed,2017,364
+United States of America,Cereals,Maize,2017,130
+United States of America,Vegetables,"Maize, green",2017,642
+United States of America,Natural rubber,"Meat live weight, cattle",2017,2601
+United States of America,Natural rubber,"Meat live weight, chicken",2017,1204
+United States of America,Natural rubber,"Meat live weight, pig",2017,1171
+United States of America,Natural rubber,"Meat live weight, turkey",2017,1422
+United States of America,Natural rubber,"Meat, pig",2017,
+United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2017,425
+United States of America,,"Milk, whole fresh cow",2017,390
+United States of America,Oilseeds and oleaginous fruits,Mustard seed,2017,721
+United States of America,Cereals,Oats,2017,179
+United States of America,Fruit and nuts,Peaches and nectarines,2017,
+United States of America,Fruit and nuts,Pears,2017,
+United States of America,Pulses (dried leguminous vegetables),"Peas, dry",2017,265
+United States of America,Vegetables,"Peas, green",2017,274
+United States of America,Fruit and nuts,Plums and sloes,2017,
+United States of America,Edible roots and tubers,Potatoes,2017,227
+United States of America,Oilseeds and oleaginous fruits,Rapeseed,2017,441
+United States of America,Fruit and nuts,Raspberries,2017,
+United States of America,Cereals,Rye,2017,187
+United States of America,Oilseeds and oleaginous fruits,Soybeans,2017,342
+United States of America,Vegetables,Spinach,2017,1422
+United States of America,Fruit and nuts,Strawberries,2017,2403
+United States of America,Oilseeds and oleaginous fruits,Sunflower seed,2017,388
+United States of America,Unmanufactured tobacco,"Tobacco, unmanufactured",2017,4562
+United States of America,Vegetables,Tomatoes,2017,822
+United States of America,Cereals,Wheat,2017,169

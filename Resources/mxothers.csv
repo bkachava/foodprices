@@ -1,165 +1,1641 @@
-Area_Code,Area,Item_Code,Item,Element_Code,Element,Unit,Y2008,Y2009,Y2010,Y2011,Y2012,Y2013,Y2014,Y2015,Y2016,Y2017
-9,Argentina,1183,Beeswax,5532,Producer Price (USD/tonne),USD,5260.4,5209.3,6192.6,5987.6,5299.4,5847,7080,,,
-9,Argentina,125,Cassava,5532,Producer Price (USD/tonne),USD,163.9,160.9,102.9,84.1,208.5,191.7,250.3,171.4,122.5,522.1
-9,Argentina,667,Tea,5532,Producer Price (USD/tonne),USD,66.9,56.4,92.3,107.5,127.6,137.4,103.7,99.5,78.3,90.6
-9,Argentina,987,"Wool, greasy",5532,Producer Price (USD/tonne),USD,1666.8,2121.7,2511.1,3559.6,3568.4,3315.8,2785.1,,,
-14,Barbados,125,Cassava,5532,Producer Price (USD/tonne),USD,1504.8,1611.7,1499.1,1466.1,1918,2039.3,2094.4,1940,2055,2225
-14,Barbados,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,1094.6,1066.8,1399.9,1433,1565.3,1653.5,1719.6,1665,1535,1560
-14,Barbados,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,12736.5,13200.6,13690.5,,,,,,,
-14,Barbados,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,6241,6468.4,6708.4,,,,,,,
-14,Barbados,1080,"Meat, turkey",5532,Producer Price (USD/tonne),USD,,2937.3,,,,,,,,
-19,Bolivia (Plurinational State of),125,Cassava,5532,Producer Price (USD/tonne),USD,185.5,183.4,200.2,208.1,212.7,217.1,234.2,230.8,205.7,212.8
-19,Bolivia (Plurinational State of),220,Chestnut,5532,Producer Price (USD/tonne),USD,194.2,214.5,229.2,258,282.3,310.1,746.2,630.1,683.9,1197.1
-19,Bolivia (Plurinational State of),661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,1421.9,1597.4,3010.6,3094.4,3164.7,3277.6,1294.1,2148.5,2075.3,2014.2
-19,Bolivia (Plurinational State of),571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,94.7,107.8,264.1,274,281.8,289.6,289.4,298.8,,
-19,Bolivia (Plurinational State of),1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,438.4,324,376.3,399,508.8,575.6,1222.2,1291.8,1416.2,1998
-19,Bolivia (Plurinational State of),1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,876.9,647.9,752.6,798,1017.6,1151.2,,,,
-19,Bolivia (Plurinational State of),977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,1319.5,753.8,899,1034,1168.3,1445.7,,,,
-19,Bolivia (Plurinational State of),687,Pepper (piper spp.),5532,Producer Price (USD/tonne),USD,1436.4,1359.6,1437,1435.8,1376.9,1413.1,,,,
-19,Bolivia (Plurinational State of),574,Pineapples,5532,Producer Price (USD/tonne),USD,689.9,734.1,297.5,311.5,323.9,331.4,332.5,330.9,,
-19,Bolivia (Plurinational State of),523,Quinces,5532,Producer Price (USD/tonne),USD,376.5,382.7,228.1,233.4,236.9,236.9,234.9,239.4,,
-19,Bolivia (Plurinational State of),667,Tea,5532,Producer Price (USD/tonne),USD,219.7,238.1,262,251.8,261.4,267.2,,,,
-21,Brazil,125,Cassava,5532,Producer Price (USD/tonne),USD,103.7,105.9,129.7,140.2,125.4,138.4,131.7,89.1,86.1,
-21,Brazil,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,385.2,427.8,480.2,2980.3,2429.5,2207,1626.2,1428.5,,
-33,Canada,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,2102,2165.8,3168.1,3648,3265.5,2400.7,3270.3,3418.8,3388.9,
-33,Canada,1080,"Meat, turkey",5532,Producer Price (USD/tonne),USD,2457.3,2302.2,2402,2723.6,2868.2,2782.9,2546.8,2202.4,2070.2,
-33,Canada,987,"Wool, greasy",5532,Producer Price (USD/tonne),USD,562.3,,,,,,,,,
-40,Chile,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,2437.3,2119.9,2454.6,1048.5,1139.6,,,1633.2,,
-40,Chile,587,Persimmons,5532,Producer Price (USD/tonne),USD,,,,,619.6,697.5,1238.4,977,1098.3,1207.5
-40,Chile,523,Quinces,5532,Producer Price (USD/tonne),USD,227.5,226.2,307.5,316,455.9,509.1,845.2,590.8,789.1,654.5
-44,Colombia,125,Cassava,5532,Producer Price (USD/tonne),USD,205.9,264.5,241.3,248.1,351,181,272.2,313.4,272,
-44,Colombia,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,2272.6,2147.2,2778.5,2973.9,2208.5,2211.5,2744,2588.3,,
-44,Colombia,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,353.5,216.9,602.7,1024.5,328.9,1182.7,,,,
-44,Colombia,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,448.6,539.6,686.2,1403,1377.5,744,492.2,433.9,224.4,
-44,Colombia,254,Oil palm fruit,5532,Producer Price (USD/tonne),USD,172.9,139.1,166.2,206.6,196.2,156.6,163.2,140.7,,
-44,Colombia,574,Pineapples,5532,Producer Price (USD/tonne),USD,290.4,237.6,309,375,368.2,578.1,648.2,807,173.5,
-48,Costa Rica,125,Cassava,5532,Producer Price (USD/tonne),USD,501.9,199,159.7,356,262.5,236,247.1,242.9,227.6,223.8
-48,Costa Rica,574,Pineapples,5532,Producer Price (USD/tonne),USD,630.6,625.1,652.5,692.2,646.4,708.6,717.3,,,
-56,Dominican Republic,125,Cassava,5532,Producer Price (USD/tonne),USD,574.4,342.7,260,386.2,358.6,369.5,219.7,408.2,402.9,
-56,Dominican Republic,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,2071.8,1789.4,2300.6,2776.7,3307,2027.5,2699.5,2630.4,2575.6,
-56,Dominican Republic,249,Coconuts,5532,Producer Price (USD/tonne),USD,244.7,268.9,257.7,282,292.8,299.9,299,370.1,541.4,
-56,Dominican Republic,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,459.1,327.1,361.1,305,391.1,429.6,412.2,425.6,384,
-56,Dominican Republic,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,268.7,243.5,413.2,312.6,434,263.6,304.5,274.8,463.7,
-56,Dominican Republic,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,3288.9,3723.7,4178.1,4678,5537.5,4322.7,3297.5,2364.6,,
-56,Dominican Republic,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,868.1,743.6,728.3,698.6,696.8,642.4,606.6,2364.6,,
-56,Dominican Republic,574,Pineapples,5532,Producer Price (USD/tonne),USD,184.1,214.6,234.7,192.5,203,200.4,233.1,274.4,321.5,
-56,Dominican Republic,135,Yautia (cocoyam),5532,Producer Price (USD/tonne),USD,768.7,846.9,833.7,793.4,768.9,900.5,770.4,764.6,1155,
-58,Ecuador,125,Cassava,5532,Producer Price (USD/tonne),USD,220,170,200,210,260.4,324.7,276.9,367.5,187.8,272.4
-58,Ecuador,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,1660,1820,2490,1860,1829.5,1922.3,2410.8,2382.2,2300.3,1569.6
-58,Ecuador,254,Oil palm fruit,5532,Producer Price (USD/tonne),USD,150,110,130,180,172.5,142.3,153.8,117.1,115.4,125.2
-58,Ecuador,402,"Onions, shallots, green",5532,Producer Price (USD/tonne),USD,240,340,290,290,763.7,667.2,778.4,512.6,586.3,536
-58,Ecuador,687,Pepper (piper spp.),5532,Producer Price (USD/tonne),USD,,,,,,,,,1603,1147.2
-58,Ecuador,574,Pineapples,5532,Producer Price (USD/tonne),USD,188.6,171.6,370,190,247.1,281,302.2,375,354.7,385.6
-58,Ecuador,667,Tea,5532,Producer Price (USD/tonne),USD,,,,,,,,,10000,10000
-86,Grenada,125,Cassava,5532,Producer Price (USD/tonne),USD,,,612.4,816.5,612.4,612.4,816.5,816.5,815.8,815.8
-86,Grenada,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,,,2143.4,2143.4,2143.4,2143.4,3062,2143.4,2141.5,2141.5
-86,Grenada,249,Coconuts,5532,Producer Price (USD/tonne),USD,,,1224.8,1428.9,1224.8,1224.8,1360.9,1428.9,1924.8,2039.5
-86,Grenada,720,Ginger,5532,Producer Price (USD/tonne),USD,,,2653.7,2449.6,2653.7,2653.7,1224.8,3266.1,2868,2783
-86,Grenada,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,,,542.4,320.8,542.4,542.4,612.4,577.4,525.9,405
-86,Grenada,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,,,6532.2,6532.2,6532.2,6532.2,6532.2,6532.2,8402.7,8157.9
-86,Grenada,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,,,6532.2,6532.2,6532.2,6532.2,6532.2,6532.2,8402.7,8157.9
-86,Grenada,574,Pineapples,5532,Producer Price (USD/tonne),USD,,,1633.1,1939.2,1633.1,1633.1,2245.4,2041.3,2099,2243.4
-91,Guyana,125,Cassava,5532,Producer Price (USD/tonne),USD,379.7,353.5,148.4,435.2,644.9,234.2,305.7,237.8,242.1,378.7
-91,Guyana,249,Coconuts,5532,Producer Price (USD/tonne),USD,286.4,217.6,267.5,252.8,295,257.2,280.2,262.6,329.5,404.8
-91,Guyana,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,789.5,677,535.3,758.9,836.8,734.7,688.1,818.4,719.1,792.2
-91,Guyana,720,Ginger,5532,Producer Price (USD/tonne),USD,712.2,1824.1,2700.9,2641.9,3661.6,3815.8,2661.5,1634.5,2257.1,2762.3
-91,Guyana,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,702.2,1078.7,1224.4,1096.3,968.9,1456.7,1065.6,,,
-91,Guyana,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,,,,,3011.4,3454.3,3126.3,3185.3,2135.9,4280.9
-91,Guyana,574,Pineapples,5532,Producer Price (USD/tonne),USD,535.4,527.1,623.7,652.6,557.1,678.5,560.9,633,588.5,498.6
-109,Jamaica,125,Cassava,5532,Producer Price (USD/tonne),USD,485.5,439.2,469.6,437.2,374.1,438.6,477.7,389.5,336.5,331.7
-109,Jamaica,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,2006.8,1661.2,1674.5,1886.1,2253.5,1995.2,1802.9,1710.9,2084.6,2031.8
-109,Jamaica,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,808.7,784.5,745.3,744,849.8,767.4,701,826,1092.3,1021.8
-109,Jamaica,720,Ginger,5532,Producer Price (USD/tonne),USD,1748.9,1399.4,1553.7,1699.6,1751.5,1702.4,1318,1397.5,1840.7,2885.9
-109,Jamaica,402,"Onions, shallots, green",5532,Producer Price (USD/tonne),USD,1660.1,775.5,1158.1,969.7,1347,1100.6,1331.8,1277.2,791.2,1735.1
-109,Jamaica,574,Pineapples,5532,Producer Price (USD/tonne),USD,852,873,1143.9,1187.3,1122.1,1045.5,923.4,1042.1,1069.7,1143.2
-138,Mexico,711,"Anise, badian, fennel, coriander",5532,Producer Price (USD/tonne),USD,1903.3,1912.1,1736,2171.7,1733.6,2038.5,1669.9,1628.7,1147.7,1170.5
-138,Mexico,1183,Beeswax,5532,Producer Price (USD/tonne),USD,4748.9,3757.6,4170,4564.9,4696.4,5435,4681.9,3920.2,3421.2,3791.3
-138,Mexico,217,"Cashew nuts, with shell",5532,Producer Price (USD/tonne),USD,355.1,308,325.3,324.5,321.4,353.6,349.8,285.5,263.5,243.8
-138,Mexico,125,Cassava,5532,Producer Price (USD/tonne),USD,285.5,211.6,229.3,214.4,205,192.1,274.7,227.4,193.8,195.6
-138,Mexico,220,Chestnut,5532,Producer Price (USD/tonne),USD,2423.5,2935.4,3493.9,1708.2,2104.2,1723.7,1779.2,1607.7,1235.9,1490.2
-138,Mexico,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,2309.2,2345,2965.6,3241.4,2905.9,2858.1,2672.6,2331.4,2095.5,2080.2
-138,Mexico,249,Coconuts,5532,Producer Price (USD/tonne),USD,165.7,145.4,180.1,200.8,139.2,147.1,134.7,127.9,111.8,121
-138,Mexico,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,371.5,379.3,485.3,431,413.6,344.3,514.5,391.6,363.7,396.1
-138,Mexico,720,Ginger,5532,Producer Price (USD/tonne),USD,1241.3,1232.7,1543.2,1137.1,708.7,926.5,986.9,809.1,833.2,1027
-138,Mexico,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,198,195.7,210.7,212.6,213,225.6,251.2,193.3,170.8,200.6
-138,Mexico,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,1712.9,1480.5,1663.3,1732.6,1724.1,1825.3,1901,1725.5,1536.8,1621.3
-138,Mexico,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,3520.7,2939.9,3223.2,3391.7,3417,3660.6,3844.3,3466,3114.7,3305.4
-138,Mexico,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,3906,3322.1,3640.4,3812.3,3770.2,4078.5,4203.8,3891.2,3436.2,3651.3
-138,Mexico,1080,"Meat, turkey",5532,Producer Price (USD/tonne),USD,3297.9,2933.4,3342.1,3487.3,3637.7,4077.8,3971,3397.6,2980.2,3045.1
-138,Mexico,254,Oil palm fruit,5532,Producer Price (USD/tonne),USD,82.1,81,121.5,135,131.5,110.6,103.2,84.3,76.9,80
-138,Mexico,402,"Onions, shallots, green",5532,Producer Price (USD/tonne),USD,335.8,227.3,330.9,262.8,258.6,313.1,311.5,265.6,258,264.7
-138,Mexico,687,Pepper (piper spp.),5532,Producer Price (USD/tonne),USD,868.9,748.8,1169.5,1341.8,1249.2,1117.8,1200.1,1268.3,839,772.4
-138,Mexico,587,Persimmons,5532,Producer Price (USD/tonne),USD,490.9,520,833,914.7,893.3,918.9,926.4,975.8,877.8,928.8
-138,Mexico,574,Pineapples,5532,Producer Price (USD/tonne),USD,243.3,198.9,222.6,230.2,226.5,250.8,254.2,217.7,200.5,221.7
-138,Mexico,523,Quinces,5532,Producer Price (USD/tonne),USD,400.7,335.5,468.6,534.8,565.9,558.9,670.8,482.6,323,511.2
-138,Mexico,289,Sesame seed,5532,Producer Price (USD/tonne),USD,870,891.2,942.5,1063.7,1050.7,1155.1,1201.6,1013.9,830.1,850.2
-138,Mexico,667,Tea,5532,Producer Price (USD/tonne),USD,225.7,241,250.2,114.3,493.6,495.9,122.7,95.4,80.1,72.3
-138,Mexico,987,"Wool, greasy",5532,Producer Price (USD/tonne),USD,307.4,250.6,282.9,311.3,294.8,330.6,336.3,288.4,273.3,269.4
-138,Mexico,135,Yautia (cocoyam),5532,Producer Price (USD/tonne),USD,360.4,267.1,291.1,235.5,613,462,450.6,253,225.7,242.8
-166,Panama,125,Cassava,5532,Producer Price (USD/tonne),USD,319,284,273,431.2,531.9,591.6,505.5,535.5,531.1,394.8
-166,Panama,249,Coconuts,5532,Producer Price (USD/tonne),USD,298,328,441,312.6,290.7,341.3,450.3,470.6,768.5,486.8
-166,Panama,254,Oil palm fruit,5532,Producer Price (USD/tonne),USD,195.2,214.8,288.9,288.9,297.8,308.5,314.9,308,503,
-166,Panama,574,Pineapples,5532,Producer Price (USD/tonne),USD,286.6,335.1,361.6,476.2,727.1,679.4,467.4,582,652.6,573.2
-166,Panama,135,Yautia (cocoyam),5532,Producer Price (USD/tonne),USD,314.6,280.2,269.4,425.2,1086.7,1072.9,1131.8,1182.1,1317.7,1153
-169,Paraguay,125,Cassava,5532,Producer Price (USD/tonne),USD,57.3,57,58.7,72.1,67.6,91.2,91.9,38.4,47.1,89
-169,Paraguay,289,Sesame seed,5532,Producer Price (USD/tonne),USD,1594.7,690.6,977.5,952.9,1118.7,1056.1,1441,960.6,705.4,978.8
-170,Peru,711,"Anise, badian, fennel, coriander",5532,Producer Price (USD/tonne),USD,3149.4,3227.6,3674.2,4357.1,3859.6,4073.4,3854.5,3250.2,2408.2,2931.5
-170,Peru,217,"Cashew nuts, with shell",5532,Producer Price (USD/tonne),USD,102.6,99.6,99.1,98,125.1,148,180.7,185.9,186,196.3
-170,Peru,125,Cassava,5532,Producer Price (USD/tonne),USD,147,142.8,155.7,199.7,204.7,192.5,192.7,186.8,183,193.2
-170,Peru,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,1973,1504.2,2208.8,2207.6,1819.8,1850.6,2264.5,2308.1,2347.9,1680.7
-170,Peru,249,Coconuts,5532,Producer Price (USD/tonne),USD,102.6,106.3,116.8,123.5,140.3,133.2,127.9,117.1,121.2,138
-170,Peru,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,235.9,235.8,269,279.6,341.2,362.7,407.9,382.2,364.6,394.9
-170,Peru,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,147,285.6,155.7,167,235.8,125.7,171.7,239.3,171.5,189.5
-170,Peru,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,1166,1199.3,1196.3,1283,1395.4,1455.2,1421.8,1344,1378.9,1453.7
-170,Peru,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,2591.2,2665.3,2658.7,2851.5,3098.8,3237.5,3159.6,2985,3065.8,
-170,Peru,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,2963.6,3051.3,3509,3639.8,4114,4138.1,4484.7,3990.9,3877.3,
-170,Peru,254,Oil palm fruit,5532,Producer Price (USD/tonne),USD,109.4,93,109.7,181.5,200.9,148,143,112.4,110,113.5
-170,Peru,687,Pepper (piper spp.),5532,Producer Price (USD/tonne),USD,4787.3,4642.2,2771.6,2872.1,4450.7,4378.8,4165.8,5094.5,7049.2,6358
-170,Peru,574,Pineapples,5532,Producer Price (USD/tonne),USD,153.9,159.4,152.2,163.4,204.7,214.7,221.9,212.9,209.1,223.9
-170,Peru,523,Quinces,5532,Producer Price (USD/tonne),USD,379.6,378.5,474.3,443,519.4,444.1,498.4,467,501.8,549
-170,Peru,289,Sesame seed,5532,Producer Price (USD/tonne),USD,1176.3,1177.2,1338,1459.6,1342.1,1288,1218.7,1198.3,1207.4,1248.6
-170,Peru,667,Tea,5532,Producer Price (USD/tonne),USD,167.6,186,184.1,239.6,265.4,285,302.9,234.6,200.2,205.5
-170,Peru,135,Yautia (cocoyam),5532,Producer Price (USD/tonne),USD,,,,,392,501.1,481.1,415.8,280,388
-177,Puerto Rico,125,Cassava,5532,Producer Price (USD/tonne),USD,841.3,1053.6,678.4,631.8,683.1,705.3,853.9,874.7,,
-177,Puerto Rico,249,Coconuts,5532,Producer Price (USD/tonne),USD,237.9,160.8,215.3,340.1,1016.1,999.4,675.1,655.2,,
-177,Puerto Rico,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,926.9,976.9,942.5,910.5,985,1073.4,884.2,959.5,,
-177,Puerto Rico,720,Ginger,5532,Producer Price (USD/tonne),USD,889.4,960.8,1222.5,1407.2,1407.2,1170.4,1247.9,1198.2,,
-177,Puerto Rico,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,997.5,1105,502.9,1242.1,996,1157.4,1230.9,1241,,
-177,Puerto Rico,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,4023.4,6746.8,5347.9,9397.9,13604.3,11482.1,,,,
-177,Puerto Rico,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,,17299.5,13712.5,24097.1,34882.8,29441.4,,,,
-177,Puerto Rico,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,,7781.7,7528.3,9515.8,10230,,,,,
-177,Puerto Rico,402,"Onions, shallots, green",5532,Producer Price (USD/tonne),USD,570.8,599.7,626.8,590,659.8,548.9,610.5,654.1,,
-177,Puerto Rico,574,Pineapples,5532,Producer Price (USD/tonne),USD,620.4,837.8,779.8,991.6,1100.2,1119.2,1029.7,1062.8,,
-177,Puerto Rico,135,Yautia (cocoyam),5532,Producer Price (USD/tonne),USD,1149.3,1260.6,1488.1,1360,1966.9,1532.9,2011.8,2088.3,,
-191,Saint Vincent and the Grenadines,125,Cassava,5532,Producer Price (USD/tonne),USD,489.9,555.2,636.9,692.6,1665.7,1227.3,2200,2053.3,2430.2,2740.7
-191,Saint Vincent and the Grenadines,661,"Cocoa, beans",5532,Producer Price (USD/tonne),USD,,,,,865.5,2449.6,1833.3,1629.6,1629.6,
-191,Saint Vincent and the Grenadines,249,Coconuts,5532,Producer Price (USD/tonne),USD,,539.1,563.4,604.2,685.9,553.6,708.9,774.1,543.1,814.8
-191,Saint Vincent and the Grenadines,720,Ginger,5532,Producer Price (USD/tonne),USD,,,,,1800.7,1425.9,2460.7,2411.9,2344.6,
-191,Saint Vincent and the Grenadines,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,,432.8,530.7,783.9,571.6,677.7,912.6,977.8,1535.9,748.1
-191,Saint Vincent and the Grenadines,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,7348.7,7348.7,7348.7,7348.7,7348.7,7348.7,7348.7,7348.7,7348.7,
-191,Saint Vincent and the Grenadines,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,17497,17497,17497,17497,17497,17497,17497,17497,17497,
-191,Saint Vincent and the Grenadines,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,17090.1,17090.1,17090.1,17090.1,17090.1,17090.1,17090.1,17090.1,17090.1,
-207,Suriname,125,Cassava,5532,Producer Price (USD/tonne),USD,648.5,601.1,539.1,581.4,863.6,530.3,369.7,518,430.3,
-207,Suriname,249,Coconuts,5532,Producer Price (USD/tonne),USD,473.6,477.2,484.4,459,475.8,597,851.5,769.8,632.6,
-207,Suriname,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,692.2,788.7,1001.7,824.7,1087.9,907.6,1027.3,1015.6,600.5,
-207,Suriname,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,965.4,998.2,976.2,826.2,884.8,806.1,624.2,614.6,314.7,
-207,Suriname,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,4692.2,5916.2,6068.3,7160.3,9061.8,7212.1,6387.9,6585.4,3612.4,
-207,Suriname,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,5865.2,7395.3,7585.4,8950.4,11327.3,9015.2,9739.4,10975.6,6020.6,
-207,Suriname,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,5865.2,7395.3,7585.4,8950.4,11327.3,9015.2,9739.4,10975.6,6020.6,
-207,Suriname,574,Pineapples,5532,Producer Price (USD/tonne),USD,1395.3,1406.2,1733.8,1545.3,1587.9,1742.4,1748.5,1097.3,1083.7,
-220,Trinidad and Tobago,125,Cassava,5532,Producer Price (USD/tonne),USD,508.8,444.3,501.9,438.4,689,715.5,663.3,718.4,733.8,
-220,Trinidad and Tobago,399,Eggplants (aubergines),5532,Producer Price (USD/tonne),USD,798.2,719.4,980.3,978.3,836.8,805.6,1126.8,1240.8,1763.1,
-220,Trinidad and Tobago,720,Ginger,5532,Producer Price (USD/tonne),USD,2812.7,3568.4,3450.7,3420,2343.8,2024,6232,9386.7,2933.6,
-220,Trinidad and Tobago,1033,"Meat live weight, goat",5532,Producer Price (USD/tonne),USD,2869.9,2632.4,5806.6,6322.1,7344.5,6458.5,7301.9,7905.9,7721.1,
-220,Trinidad and Tobago,1017,"Meat, goat",5532,Producer Price (USD/tonne),USD,5739.8,5264.9,11613.2,12644.1,17071,12917.1,14603.8,15811.8,15442.1,
-220,Trinidad and Tobago,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,8089.1,8043.7,7979.9,7937.8,6687.8,15261.6,18332.6,20042.2,12189.9,
-220,Trinidad and Tobago,574,Pineapples,5532,Producer Price (USD/tonne),USD,685.3,948.6,762.3,959.5,933.2,1131.5,1165.9,1256.5,1035.4,
-231,United States of America,720,Ginger,5532,Producer Price (USD/tonne),USD,3527,,,,,,,,,
-231,United States of America,571,"Mangoes, mangosteens, guavas",5532,Producer Price (USD/tonne),USD,348,309,373,,,,,,,
-231,United States of America,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,1276.6,1525.5,2331.9,,,,,,,
-231,United States of America,1080,"Meat, turkey",5532,Producer Price (USD/tonne),USD,1618.2,1431.2,1761,1952,2064.9,1903.9,2103.9,2322.1,2362.3,
-231,United States of America,987,"Wool, greasy",5532,Producer Price (USD/tonne),USD,1082,1429,1834,,,,,,,
-234,Uruguay,1183,Beeswax,5532,Producer Price (USD/tonne),USD,1151.4,1661.6,2217.1,2797,2743,2840.4,2729.5,4495.5,4490.7,4503.7
-234,Uruguay,977,"Meat, sheep",5532,Producer Price (USD/tonne),USD,2235.9,1847.3,3865,4747.8,3503.6,3431.9,3749,3694.5,3143,3261.6
-234,Uruguay,523,Quinces,5532,Producer Price (USD/tonne),USD,934.5,931.9,791.2,634.8,486.4,724.2,1127.5,872.8,642.2,1049.6
-234,Uruguay,987,"Wool, greasy",5532,Producer Price (USD/tonne),USD,2179.2,1923.7,3416.4,3598,3066,3091.7,3329.4,136.7,92.9,102.5
+Area,Group,Item,Year,Price
+Argentina,Other animal products,Beeswax,2008,5260.4
+Argentina,Edible roots and tubers,Cassava,2008,163.9
+Argentina,"Stimulant, spice and aromatic crops",Tea,2008,66.9
+Argentina,Other animal products,"Wool, greasy",2008,1666.8
+Barbados,Edible roots and tubers,Cassava,2008,1504.8
+Barbados,Vegetables,Eggplants (aubergines),2008,1094.6
+Barbados,Natural rubber,"Meat, goat",2008,12736.5
+Barbados,Natural rubber,"Meat, sheep",2008,6241
+Barbados,Natural rubber,"Meat, turkey",2008,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2008,185.5
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2008,194.2
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2008,1421.9
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2008,94.7
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2008,438.4
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2008,876.9
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2008,1319.5
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,1436.4
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2008,689.9
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2008,376.5
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2008,219.7
+Brazil,Edible roots and tubers,Cassava,2008,103.7
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,385.2
+Canada,Natural rubber,"Meat, sheep",2008,2102
+Canada,Natural rubber,"Meat, turkey",2008,2457.3
+Canada,Other animal products,"Wool, greasy",2008,562.3
+Chile,Natural rubber,"Meat, sheep",2008,2437.3
+Chile,Fruit and nuts,Persimmons,2008,
+Chile,Fruit and nuts,Quinces,2008,227.5
+Colombia,Edible roots and tubers,Cassava,2008,205.9
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,2272.6
+Colombia,Vegetables,Eggplants (aubergines),2008,353.5
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,448.6
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2008,172.9
+Colombia,Fruit and nuts,Pineapples,2008,290.4
+Costa Rica,Edible roots and tubers,Cassava,2008,501.9
+Costa Rica,Fruit and nuts,Pineapples,2008,630.6
+Dominican Republic,Edible roots and tubers,Cassava,2008,574.4
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,2071.8
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2008,244.7
+Dominican Republic,Vegetables,Eggplants (aubergines),2008,459.1
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,268.7
+Dominican Republic,Natural rubber,"Meat, goat",2008,3288.9
+Dominican Republic,Natural rubber,"Meat, sheep",2008,868.1
+Dominican Republic,Fruit and nuts,Pineapples,2008,184.1
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2008,768.7
+Ecuador,Edible roots and tubers,Cassava,2008,220
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,1660
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2008,150
+Ecuador,Vegetables,"Onions, shallots, green",2008,240
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,
+Ecuador,Fruit and nuts,Pineapples,2008,188.6
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2008,
+Grenada,Edible roots and tubers,Cassava,2008,
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2008,
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2008,
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,
+Grenada,Natural rubber,"Meat, goat",2008,
+Grenada,Natural rubber,"Meat, sheep",2008,
+Grenada,Fruit and nuts,Pineapples,2008,
+Guyana,Edible roots and tubers,Cassava,2008,379.7
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2008,286.4
+Guyana,Vegetables,Eggplants (aubergines),2008,789.5
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2008,712.2
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,702.2
+Guyana,Natural rubber,"Meat live weight, goat",2008,
+Guyana,Fruit and nuts,Pineapples,2008,535.4
+Jamaica,Edible roots and tubers,Cassava,2008,485.5
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,2006.8
+Jamaica,Vegetables,Eggplants (aubergines),2008,808.7
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2008,1748.9
+Jamaica,Vegetables,"Onions, shallots, green",2008,1660.1
+Jamaica,Fruit and nuts,Pineapples,2008,852
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2008,1903.3
+Mexico,Other animal products,Beeswax,2008,4748.9
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2008,355.1
+Mexico,Edible roots and tubers,Cassava,2008,285.5
+Mexico,"Nuts, in shell",Chestnut,2008,2423.5
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,2309.2
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2008,165.7
+Mexico,Vegetables,Eggplants (aubergines),2008,371.5
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2008,1241.3
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,198
+Mexico,Natural rubber,"Meat live weight, goat",2008,1712.9
+Mexico,Natural rubber,"Meat, goat",2008,3520.7
+Mexico,Natural rubber,"Meat, sheep",2008,3906
+Mexico,Natural rubber,"Meat, turkey",2008,3297.9
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2008,82.1
+Mexico,Vegetables,"Onions, shallots, green",2008,335.8
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,868.9
+Mexico,Fruit and nuts,Persimmons,2008,490.9
+Mexico,Fruit and nuts,Pineapples,2008,243.3
+Mexico,Fruit and nuts,Quinces,2008,400.7
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2008,870
+Mexico,"Stimulant, spice and aromatic crops",Tea,2008,225.7
+Mexico,Other animal products,"Wool, greasy",2008,307.4
+Mexico,Edible roots and tubers,Yautia (cocoyam),2008,360.4
+Panama,Edible roots and tubers,Cassava,2008,319
+Panama,Oilseeds and oleaginous fruits,Coconuts,2008,298
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2008,195.2
+Panama,Fruit and nuts,Pineapples,2008,286.6
+Panama,Edible roots and tubers,Yautia (cocoyam),2008,314.6
+Paraguay,Edible roots and tubers,Cassava,2008,57.3
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2008,1594.7
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2008,3149.4
+Peru,"Nuts, in shell","Cashew nuts, with shell",2008,102.6
+Peru,Edible roots and tubers,Cassava,2008,147
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,1973
+Peru,Oilseeds and oleaginous fruits,Coconuts,2008,102.6
+Peru,Vegetables,Eggplants (aubergines),2008,235.9
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,147
+Peru,Natural rubber,"Meat live weight, goat",2008,1166
+Peru,Natural rubber,"Meat, goat",2008,2591.2
+Peru,Natural rubber,"Meat, sheep",2008,2963.6
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2008,109.4
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,4787.3
+Peru,Fruit and nuts,Pineapples,2008,153.9
+Peru,Fruit and nuts,Quinces,2008,379.6
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2008,1176.3
+Peru,"Stimulant, spice and aromatic crops",Tea,2008,167.6
+Peru,Edible roots and tubers,Yautia (cocoyam),2008,
+Puerto Rico,Edible roots and tubers,Cassava,2008,841.3
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2008,237.9
+Puerto Rico,Vegetables,Eggplants (aubergines),2008,926.9
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2008,889.4
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,997.5
+Puerto Rico,Natural rubber,"Meat live weight, goat",2008,4023.4
+Puerto Rico,Natural rubber,"Meat, goat",2008,
+Puerto Rico,Natural rubber,"Meat, sheep",2008,
+Puerto Rico,Vegetables,"Onions, shallots, green",2008,570.8
+Puerto Rico,Fruit and nuts,Pineapples,2008,620.4
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2008,1149.3
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2008,489.9
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2008,
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2008,
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2008,
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2008,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2008,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2008,17090.1
+Suriname,Edible roots and tubers,Cassava,2008,648.5
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2008,473.6
+Suriname,Vegetables,Eggplants (aubergines),2008,692.2
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,965.4
+Suriname,Natural rubber,"Meat live weight, goat",2008,4692.2
+Suriname,Natural rubber,"Meat, goat",2008,5865.2
+Suriname,Natural rubber,"Meat, sheep",2008,5865.2
+Suriname,Fruit and nuts,Pineapples,2008,1395.3
+Trinidad and Tobago,Edible roots and tubers,Cassava,2008,508.8
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2008,798.2
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2008,2812.7
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2008,2869.9
+Trinidad and Tobago,Natural rubber,"Meat, goat",2008,5739.8
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2008,8089.1
+Trinidad and Tobago,Fruit and nuts,Pineapples,2008,685.3
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2008,3527
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,348
+United States of America,Natural rubber,"Meat, sheep",2008,1276.6
+United States of America,Natural rubber,"Meat, turkey",2008,1618.2
+United States of America,Other animal products,"Wool, greasy",2008,1082
+Uruguay,Other animal products,Beeswax,2008,1151.4
+Uruguay,Natural rubber,"Meat, sheep",2008,2235.9
+Uruguay,Fruit and nuts,Quinces,2008,934.5
+Uruguay,Other animal products,"Wool, greasy",2008,2179.2
+Argentina,Other animal products,Beeswax,2009,5209.3
+Argentina,Edible roots and tubers,Cassava,2009,160.9
+Argentina,"Stimulant, spice and aromatic crops",Tea,2009,56.4
+Argentina,Other animal products,"Wool, greasy",2009,2121.7
+Barbados,Edible roots and tubers,Cassava,2009,1611.7
+Barbados,Vegetables,Eggplants (aubergines),2009,1066.8
+Barbados,Natural rubber,"Meat, goat",2009,13200.6
+Barbados,Natural rubber,"Meat, sheep",2009,6468.4
+Barbados,Natural rubber,"Meat, turkey",2009,2937.3
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2009,183.4
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2009,214.5
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2009,1597.4
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2009,107.8
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2009,324
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2009,647.9
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2009,753.8
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,1359.6
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2009,734.1
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2009,382.7
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2009,238.1
+Brazil,Edible roots and tubers,Cassava,2009,105.9
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,427.8
+Canada,Natural rubber,"Meat, sheep",2009,2165.8
+Canada,Natural rubber,"Meat, turkey",2009,2302.2
+Canada,Other animal products,"Wool, greasy",2009,
+Chile,Natural rubber,"Meat, sheep",2009,2119.9
+Chile,Fruit and nuts,Persimmons,2009,
+Chile,Fruit and nuts,Quinces,2009,226.2
+Colombia,Edible roots and tubers,Cassava,2009,264.5
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,2147.2
+Colombia,Vegetables,Eggplants (aubergines),2009,216.9
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,539.6
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2009,139.1
+Colombia,Fruit and nuts,Pineapples,2009,237.6
+Costa Rica,Edible roots and tubers,Cassava,2009,199
+Costa Rica,Fruit and nuts,Pineapples,2009,625.1
+Dominican Republic,Edible roots and tubers,Cassava,2009,342.7
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,1789.4
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2009,268.9
+Dominican Republic,Vegetables,Eggplants (aubergines),2009,327.1
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,243.5
+Dominican Republic,Natural rubber,"Meat, goat",2009,3723.7
+Dominican Republic,Natural rubber,"Meat, sheep",2009,743.6
+Dominican Republic,Fruit and nuts,Pineapples,2009,214.6
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2009,846.9
+Ecuador,Edible roots and tubers,Cassava,2009,170
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,1820
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2009,110
+Ecuador,Vegetables,"Onions, shallots, green",2009,340
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,
+Ecuador,Fruit and nuts,Pineapples,2009,171.6
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2009,
+Grenada,Edible roots and tubers,Cassava,2009,
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2009,
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2009,
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,
+Grenada,Natural rubber,"Meat, goat",2009,
+Grenada,Natural rubber,"Meat, sheep",2009,
+Grenada,Fruit and nuts,Pineapples,2009,
+Guyana,Edible roots and tubers,Cassava,2009,353.5
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2009,217.6
+Guyana,Vegetables,Eggplants (aubergines),2009,677
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2009,1824.1
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,1078.7
+Guyana,Natural rubber,"Meat live weight, goat",2009,
+Guyana,Fruit and nuts,Pineapples,2009,527.1
+Jamaica,Edible roots and tubers,Cassava,2009,439.2
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,1661.2
+Jamaica,Vegetables,Eggplants (aubergines),2009,784.5
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2009,1399.4
+Jamaica,Vegetables,"Onions, shallots, green",2009,775.5
+Jamaica,Fruit and nuts,Pineapples,2009,873
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2009,1912.1
+Mexico,Other animal products,Beeswax,2009,3757.6
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2009,308
+Mexico,Edible roots and tubers,Cassava,2009,211.6
+Mexico,"Nuts, in shell",Chestnut,2009,2935.4
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,2345
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2009,145.4
+Mexico,Vegetables,Eggplants (aubergines),2009,379.3
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2009,1232.7
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,195.7
+Mexico,Natural rubber,"Meat live weight, goat",2009,1480.5
+Mexico,Natural rubber,"Meat, goat",2009,2939.9
+Mexico,Natural rubber,"Meat, sheep",2009,3322.1
+Mexico,Natural rubber,"Meat, turkey",2009,2933.4
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2009,81
+Mexico,Vegetables,"Onions, shallots, green",2009,227.3
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,748.8
+Mexico,Fruit and nuts,Persimmons,2009,520
+Mexico,Fruit and nuts,Pineapples,2009,198.9
+Mexico,Fruit and nuts,Quinces,2009,335.5
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2009,891.2
+Mexico,"Stimulant, spice and aromatic crops",Tea,2009,241
+Mexico,Other animal products,"Wool, greasy",2009,250.6
+Mexico,Edible roots and tubers,Yautia (cocoyam),2009,267.1
+Panama,Edible roots and tubers,Cassava,2009,284
+Panama,Oilseeds and oleaginous fruits,Coconuts,2009,328
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2009,214.8
+Panama,Fruit and nuts,Pineapples,2009,335.1
+Panama,Edible roots and tubers,Yautia (cocoyam),2009,280.2
+Paraguay,Edible roots and tubers,Cassava,2009,57
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2009,690.6
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2009,3227.6
+Peru,"Nuts, in shell","Cashew nuts, with shell",2009,99.6
+Peru,Edible roots and tubers,Cassava,2009,142.8
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,1504.2
+Peru,Oilseeds and oleaginous fruits,Coconuts,2009,106.3
+Peru,Vegetables,Eggplants (aubergines),2009,235.8
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,285.6
+Peru,Natural rubber,"Meat live weight, goat",2009,1199.3
+Peru,Natural rubber,"Meat, goat",2009,2665.3
+Peru,Natural rubber,"Meat, sheep",2009,3051.3
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2009,93
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,4642.2
+Peru,Fruit and nuts,Pineapples,2009,159.4
+Peru,Fruit and nuts,Quinces,2009,378.5
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2009,1177.2
+Peru,"Stimulant, spice and aromatic crops",Tea,2009,186
+Peru,Edible roots and tubers,Yautia (cocoyam),2009,
+Puerto Rico,Edible roots and tubers,Cassava,2009,1053.6
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2009,160.8
+Puerto Rico,Vegetables,Eggplants (aubergines),2009,976.9
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2009,960.8
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,1105
+Puerto Rico,Natural rubber,"Meat live weight, goat",2009,6746.8
+Puerto Rico,Natural rubber,"Meat, goat",2009,17299.5
+Puerto Rico,Natural rubber,"Meat, sheep",2009,7781.7
+Puerto Rico,Vegetables,"Onions, shallots, green",2009,599.7
+Puerto Rico,Fruit and nuts,Pineapples,2009,837.8
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2009,1260.6
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2009,555.2
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2009,
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2009,539.1
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2009,
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,432.8
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2009,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2009,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2009,17090.1
+Suriname,Edible roots and tubers,Cassava,2009,601.1
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2009,477.2
+Suriname,Vegetables,Eggplants (aubergines),2009,788.7
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,998.2
+Suriname,Natural rubber,"Meat live weight, goat",2009,5916.2
+Suriname,Natural rubber,"Meat, goat",2009,7395.3
+Suriname,Natural rubber,"Meat, sheep",2009,7395.3
+Suriname,Fruit and nuts,Pineapples,2009,1406.2
+Trinidad and Tobago,Edible roots and tubers,Cassava,2009,444.3
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2009,719.4
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2009,3568.4
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2009,2632.4
+Trinidad and Tobago,Natural rubber,"Meat, goat",2009,5264.9
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2009,8043.7
+Trinidad and Tobago,Fruit and nuts,Pineapples,2009,948.6
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2009,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,309
+United States of America,Natural rubber,"Meat, sheep",2009,1525.5
+United States of America,Natural rubber,"Meat, turkey",2009,1431.2
+United States of America,Other animal products,"Wool, greasy",2009,1429
+Uruguay,Other animal products,Beeswax,2009,1661.6
+Uruguay,Natural rubber,"Meat, sheep",2009,1847.3
+Uruguay,Fruit and nuts,Quinces,2009,931.9
+Uruguay,Other animal products,"Wool, greasy",2009,1923.7
+Argentina,Other animal products,Beeswax,2010,6192.6
+Argentina,Edible roots and tubers,Cassava,2010,102.9
+Argentina,"Stimulant, spice and aromatic crops",Tea,2010,92.3
+Argentina,Other animal products,"Wool, greasy",2010,2511.1
+Barbados,Edible roots and tubers,Cassava,2010,1499.1
+Barbados,Vegetables,Eggplants (aubergines),2010,1399.9
+Barbados,Natural rubber,"Meat, goat",2010,13690.5
+Barbados,Natural rubber,"Meat, sheep",2010,6708.4
+Barbados,Natural rubber,"Meat, turkey",2010,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2010,200.2
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2010,229.2
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2010,3010.6
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2010,264.1
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2010,376.3
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2010,752.6
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2010,899
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,1437
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2010,297.5
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2010,228.1
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2010,262
+Brazil,Edible roots and tubers,Cassava,2010,129.7
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,480.2
+Canada,Natural rubber,"Meat, sheep",2010,3168.1
+Canada,Natural rubber,"Meat, turkey",2010,2402
+Canada,Other animal products,"Wool, greasy",2010,
+Chile,Natural rubber,"Meat, sheep",2010,2454.6
+Chile,Fruit and nuts,Persimmons,2010,
+Chile,Fruit and nuts,Quinces,2010,307.5
+Colombia,Edible roots and tubers,Cassava,2010,241.3
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2778.5
+Colombia,Vegetables,Eggplants (aubergines),2010,602.7
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,686.2
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2010,166.2
+Colombia,Fruit and nuts,Pineapples,2010,309
+Costa Rica,Edible roots and tubers,Cassava,2010,159.7
+Costa Rica,Fruit and nuts,Pineapples,2010,652.5
+Dominican Republic,Edible roots and tubers,Cassava,2010,260
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2300.6
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2010,257.7
+Dominican Republic,Vegetables,Eggplants (aubergines),2010,361.1
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,413.2
+Dominican Republic,Natural rubber,"Meat, goat",2010,4178.1
+Dominican Republic,Natural rubber,"Meat, sheep",2010,728.3
+Dominican Republic,Fruit and nuts,Pineapples,2010,234.7
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2010,833.7
+Ecuador,Edible roots and tubers,Cassava,2010,200
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2490
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2010,130
+Ecuador,Vegetables,"Onions, shallots, green",2010,290
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,
+Ecuador,Fruit and nuts,Pineapples,2010,370
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2010,
+Grenada,Edible roots and tubers,Cassava,2010,612.4
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2143.4
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2010,1224.8
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2010,2653.7
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,542.4
+Grenada,Natural rubber,"Meat, goat",2010,6532.2
+Grenada,Natural rubber,"Meat, sheep",2010,6532.2
+Grenada,Fruit and nuts,Pineapples,2010,1633.1
+Guyana,Edible roots and tubers,Cassava,2010,148.4
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2010,267.5
+Guyana,Vegetables,Eggplants (aubergines),2010,535.3
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2010,2700.9
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,1224.4
+Guyana,Natural rubber,"Meat live weight, goat",2010,
+Guyana,Fruit and nuts,Pineapples,2010,623.7
+Jamaica,Edible roots and tubers,Cassava,2010,469.6
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,1674.5
+Jamaica,Vegetables,Eggplants (aubergines),2010,745.3
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2010,1553.7
+Jamaica,Vegetables,"Onions, shallots, green",2010,1158.1
+Jamaica,Fruit and nuts,Pineapples,2010,1143.9
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2010,1736
+Mexico,Other animal products,Beeswax,2010,4170
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2010,325.3
+Mexico,Edible roots and tubers,Cassava,2010,229.3
+Mexico,"Nuts, in shell",Chestnut,2010,3493.9
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2965.6
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2010,180.1
+Mexico,Vegetables,Eggplants (aubergines),2010,485.3
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2010,1543.2
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,210.7
+Mexico,Natural rubber,"Meat live weight, goat",2010,1663.3
+Mexico,Natural rubber,"Meat, goat",2010,3223.2
+Mexico,Natural rubber,"Meat, sheep",2010,3640.4
+Mexico,Natural rubber,"Meat, turkey",2010,3342.1
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2010,121.5
+Mexico,Vegetables,"Onions, shallots, green",2010,330.9
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,1169.5
+Mexico,Fruit and nuts,Persimmons,2010,833
+Mexico,Fruit and nuts,Pineapples,2010,222.6
+Mexico,Fruit and nuts,Quinces,2010,468.6
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2010,942.5
+Mexico,"Stimulant, spice and aromatic crops",Tea,2010,250.2
+Mexico,Other animal products,"Wool, greasy",2010,282.9
+Mexico,Edible roots and tubers,Yautia (cocoyam),2010,291.1
+Panama,Edible roots and tubers,Cassava,2010,273
+Panama,Oilseeds and oleaginous fruits,Coconuts,2010,441
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2010,288.9
+Panama,Fruit and nuts,Pineapples,2010,361.6
+Panama,Edible roots and tubers,Yautia (cocoyam),2010,269.4
+Paraguay,Edible roots and tubers,Cassava,2010,58.7
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2010,977.5
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2010,3674.2
+Peru,"Nuts, in shell","Cashew nuts, with shell",2010,99.1
+Peru,Edible roots and tubers,Cassava,2010,155.7
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,2208.8
+Peru,Oilseeds and oleaginous fruits,Coconuts,2010,116.8
+Peru,Vegetables,Eggplants (aubergines),2010,269
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,155.7
+Peru,Natural rubber,"Meat live weight, goat",2010,1196.3
+Peru,Natural rubber,"Meat, goat",2010,2658.7
+Peru,Natural rubber,"Meat, sheep",2010,3509
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2010,109.7
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,2771.6
+Peru,Fruit and nuts,Pineapples,2010,152.2
+Peru,Fruit and nuts,Quinces,2010,474.3
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2010,1338
+Peru,"Stimulant, spice and aromatic crops",Tea,2010,184.1
+Peru,Edible roots and tubers,Yautia (cocoyam),2010,
+Puerto Rico,Edible roots and tubers,Cassava,2010,678.4
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2010,215.3
+Puerto Rico,Vegetables,Eggplants (aubergines),2010,942.5
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2010,1222.5
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,502.9
+Puerto Rico,Natural rubber,"Meat live weight, goat",2010,5347.9
+Puerto Rico,Natural rubber,"Meat, goat",2010,13712.5
+Puerto Rico,Natural rubber,"Meat, sheep",2010,7528.3
+Puerto Rico,Vegetables,"Onions, shallots, green",2010,626.8
+Puerto Rico,Fruit and nuts,Pineapples,2010,779.8
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2010,1488.1
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2010,636.9
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2010,
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2010,563.4
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2010,
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,530.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2010,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2010,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2010,17090.1
+Suriname,Edible roots and tubers,Cassava,2010,539.1
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2010,484.4
+Suriname,Vegetables,Eggplants (aubergines),2010,1001.7
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,976.2
+Suriname,Natural rubber,"Meat live weight, goat",2010,6068.3
+Suriname,Natural rubber,"Meat, goat",2010,7585.4
+Suriname,Natural rubber,"Meat, sheep",2010,7585.4
+Suriname,Fruit and nuts,Pineapples,2010,1733.8
+Trinidad and Tobago,Edible roots and tubers,Cassava,2010,501.9
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2010,980.3
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2010,3450.7
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2010,5806.6
+Trinidad and Tobago,Natural rubber,"Meat, goat",2010,11613.2
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2010,7979.9
+Trinidad and Tobago,Fruit and nuts,Pineapples,2010,762.3
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2010,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,373
+United States of America,Natural rubber,"Meat, sheep",2010,2331.9
+United States of America,Natural rubber,"Meat, turkey",2010,1761
+United States of America,Other animal products,"Wool, greasy",2010,1834
+Uruguay,Other animal products,Beeswax,2010,2217.1
+Uruguay,Natural rubber,"Meat, sheep",2010,3865
+Uruguay,Fruit and nuts,Quinces,2010,791.2
+Uruguay,Other animal products,"Wool, greasy",2010,3416.4
+Argentina,Other animal products,Beeswax,2011,5987.6
+Argentina,Edible roots and tubers,Cassava,2011,84.1
+Argentina,"Stimulant, spice and aromatic crops",Tea,2011,107.5
+Argentina,Other animal products,"Wool, greasy",2011,3559.6
+Barbados,Edible roots and tubers,Cassava,2011,1466.1
+Barbados,Vegetables,Eggplants (aubergines),2011,1433
+Barbados,Natural rubber,"Meat, goat",2011,
+Barbados,Natural rubber,"Meat, sheep",2011,
+Barbados,Natural rubber,"Meat, turkey",2011,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2011,208.1
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2011,258
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2011,3094.4
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2011,274
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2011,399
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2011,798
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2011,1034
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,1435.8
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2011,311.5
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2011,233.4
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2011,251.8
+Brazil,Edible roots and tubers,Cassava,2011,140.2
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,2980.3
+Canada,Natural rubber,"Meat, sheep",2011,3648
+Canada,Natural rubber,"Meat, turkey",2011,2723.6
+Canada,Other animal products,"Wool, greasy",2011,
+Chile,Natural rubber,"Meat, sheep",2011,1048.5
+Chile,Fruit and nuts,Persimmons,2011,
+Chile,Fruit and nuts,Quinces,2011,316
+Colombia,Edible roots and tubers,Cassava,2011,248.1
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,2973.9
+Colombia,Vegetables,Eggplants (aubergines),2011,1024.5
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1403
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2011,206.6
+Colombia,Fruit and nuts,Pineapples,2011,375
+Costa Rica,Edible roots and tubers,Cassava,2011,356
+Costa Rica,Fruit and nuts,Pineapples,2011,692.2
+Dominican Republic,Edible roots and tubers,Cassava,2011,386.2
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,2776.7
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2011,282
+Dominican Republic,Vegetables,Eggplants (aubergines),2011,305
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,312.6
+Dominican Republic,Natural rubber,"Meat, goat",2011,4678
+Dominican Republic,Natural rubber,"Meat, sheep",2011,698.6
+Dominican Republic,Fruit and nuts,Pineapples,2011,192.5
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2011,793.4
+Ecuador,Edible roots and tubers,Cassava,2011,210
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,1860
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2011,180
+Ecuador,Vegetables,"Onions, shallots, green",2011,290
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,
+Ecuador,Fruit and nuts,Pineapples,2011,190
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2011,
+Grenada,Edible roots and tubers,Cassava,2011,816.5
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,2143.4
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2011,1428.9
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2011,2449.6
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,320.8
+Grenada,Natural rubber,"Meat, goat",2011,6532.2
+Grenada,Natural rubber,"Meat, sheep",2011,6532.2
+Grenada,Fruit and nuts,Pineapples,2011,1939.2
+Guyana,Edible roots and tubers,Cassava,2011,435.2
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2011,252.8
+Guyana,Vegetables,Eggplants (aubergines),2011,758.9
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2011,2641.9
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1096.3
+Guyana,Natural rubber,"Meat live weight, goat",2011,
+Guyana,Fruit and nuts,Pineapples,2011,652.6
+Jamaica,Edible roots and tubers,Cassava,2011,437.2
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,1886.1
+Jamaica,Vegetables,Eggplants (aubergines),2011,744
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2011,1699.6
+Jamaica,Vegetables,"Onions, shallots, green",2011,969.7
+Jamaica,Fruit and nuts,Pineapples,2011,1187.3
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2011,2171.7
+Mexico,Other animal products,Beeswax,2011,4564.9
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2011,324.5
+Mexico,Edible roots and tubers,Cassava,2011,214.4
+Mexico,"Nuts, in shell",Chestnut,2011,1708.2
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,3241.4
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2011,200.8
+Mexico,Vegetables,Eggplants (aubergines),2011,431
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2011,1137.1
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,212.6
+Mexico,Natural rubber,"Meat live weight, goat",2011,1732.6
+Mexico,Natural rubber,"Meat, goat",2011,3391.7
+Mexico,Natural rubber,"Meat, sheep",2011,3812.3
+Mexico,Natural rubber,"Meat, turkey",2011,3487.3
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2011,135
+Mexico,Vegetables,"Onions, shallots, green",2011,262.8
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,1341.8
+Mexico,Fruit and nuts,Persimmons,2011,914.7
+Mexico,Fruit and nuts,Pineapples,2011,230.2
+Mexico,Fruit and nuts,Quinces,2011,534.8
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2011,1063.7
+Mexico,"Stimulant, spice and aromatic crops",Tea,2011,114.3
+Mexico,Other animal products,"Wool, greasy",2011,311.3
+Mexico,Edible roots and tubers,Yautia (cocoyam),2011,235.5
+Panama,Edible roots and tubers,Cassava,2011,431.2
+Panama,Oilseeds and oleaginous fruits,Coconuts,2011,312.6
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2011,288.9
+Panama,Fruit and nuts,Pineapples,2011,476.2
+Panama,Edible roots and tubers,Yautia (cocoyam),2011,425.2
+Paraguay,Edible roots and tubers,Cassava,2011,72.1
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2011,952.9
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2011,4357.1
+Peru,"Nuts, in shell","Cashew nuts, with shell",2011,98
+Peru,Edible roots and tubers,Cassava,2011,199.7
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,2207.6
+Peru,Oilseeds and oleaginous fruits,Coconuts,2011,123.5
+Peru,Vegetables,Eggplants (aubergines),2011,279.6
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,167
+Peru,Natural rubber,"Meat live weight, goat",2011,1283
+Peru,Natural rubber,"Meat, goat",2011,2851.5
+Peru,Natural rubber,"Meat, sheep",2011,3639.8
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2011,181.5
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,2872.1
+Peru,Fruit and nuts,Pineapples,2011,163.4
+Peru,Fruit and nuts,Quinces,2011,443
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2011,1459.6
+Peru,"Stimulant, spice and aromatic crops",Tea,2011,239.6
+Peru,Edible roots and tubers,Yautia (cocoyam),2011,
+Puerto Rico,Edible roots and tubers,Cassava,2011,631.8
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2011,340.1
+Puerto Rico,Vegetables,Eggplants (aubergines),2011,910.5
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2011,1407.2
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1242.1
+Puerto Rico,Natural rubber,"Meat live weight, goat",2011,9397.9
+Puerto Rico,Natural rubber,"Meat, goat",2011,24097.1
+Puerto Rico,Natural rubber,"Meat, sheep",2011,9515.8
+Puerto Rico,Vegetables,"Onions, shallots, green",2011,590
+Puerto Rico,Fruit and nuts,Pineapples,2011,991.6
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2011,1360
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2011,692.6
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2011,
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2011,604.2
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2011,
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,783.9
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2011,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2011,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2011,17090.1
+Suriname,Edible roots and tubers,Cassava,2011,581.4
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2011,459
+Suriname,Vegetables,Eggplants (aubergines),2011,824.7
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,826.2
+Suriname,Natural rubber,"Meat live weight, goat",2011,7160.3
+Suriname,Natural rubber,"Meat, goat",2011,8950.4
+Suriname,Natural rubber,"Meat, sheep",2011,8950.4
+Suriname,Fruit and nuts,Pineapples,2011,1545.3
+Trinidad and Tobago,Edible roots and tubers,Cassava,2011,438.4
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2011,978.3
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2011,3420
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2011,6322.1
+Trinidad and Tobago,Natural rubber,"Meat, goat",2011,12644.1
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2011,7937.8
+Trinidad and Tobago,Fruit and nuts,Pineapples,2011,959.5
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2011,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,
+United States of America,Natural rubber,"Meat, sheep",2011,
+United States of America,Natural rubber,"Meat, turkey",2011,1952
+United States of America,Other animal products,"Wool, greasy",2011,
+Uruguay,Other animal products,Beeswax,2011,2797
+Uruguay,Natural rubber,"Meat, sheep",2011,4747.8
+Uruguay,Fruit and nuts,Quinces,2011,634.8
+Uruguay,Other animal products,"Wool, greasy",2011,3598
+Argentina,Other animal products,Beeswax,2012,5299.4
+Argentina,Edible roots and tubers,Cassava,2012,208.5
+Argentina,"Stimulant, spice and aromatic crops",Tea,2012,127.6
+Argentina,Other animal products,"Wool, greasy",2012,3568.4
+Barbados,Edible roots and tubers,Cassava,2012,1918
+Barbados,Vegetables,Eggplants (aubergines),2012,1565.3
+Barbados,Natural rubber,"Meat, goat",2012,
+Barbados,Natural rubber,"Meat, sheep",2012,
+Barbados,Natural rubber,"Meat, turkey",2012,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2012,212.7
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2012,282.3
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2012,3164.7
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2012,281.8
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2012,508.8
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2012,1017.6
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2012,1168.3
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,1376.9
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2012,323.9
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2012,236.9
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2012,261.4
+Brazil,Edible roots and tubers,Cassava,2012,125.4
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,2429.5
+Canada,Natural rubber,"Meat, sheep",2012,3265.5
+Canada,Natural rubber,"Meat, turkey",2012,2868.2
+Canada,Other animal products,"Wool, greasy",2012,
+Chile,Natural rubber,"Meat, sheep",2012,1139.6
+Chile,Fruit and nuts,Persimmons,2012,619.6
+Chile,Fruit and nuts,Quinces,2012,455.9
+Colombia,Edible roots and tubers,Cassava,2012,351
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,2208.5
+Colombia,Vegetables,Eggplants (aubergines),2012,328.9
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,1377.5
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2012,196.2
+Colombia,Fruit and nuts,Pineapples,2012,368.2
+Costa Rica,Edible roots and tubers,Cassava,2012,262.5
+Costa Rica,Fruit and nuts,Pineapples,2012,646.4
+Dominican Republic,Edible roots and tubers,Cassava,2012,358.6
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,3307
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2012,292.8
+Dominican Republic,Vegetables,Eggplants (aubergines),2012,391.1
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,434
+Dominican Republic,Natural rubber,"Meat, goat",2012,5537.5
+Dominican Republic,Natural rubber,"Meat, sheep",2012,696.8
+Dominican Republic,Fruit and nuts,Pineapples,2012,203
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2012,768.9
+Ecuador,Edible roots and tubers,Cassava,2012,260.4
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,1829.5
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2012,172.5
+Ecuador,Vegetables,"Onions, shallots, green",2012,763.7
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,
+Ecuador,Fruit and nuts,Pineapples,2012,247.1
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2012,
+Grenada,Edible roots and tubers,Cassava,2012,612.4
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,2143.4
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2012,1224.8
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2012,2653.7
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,542.4
+Grenada,Natural rubber,"Meat, goat",2012,6532.2
+Grenada,Natural rubber,"Meat, sheep",2012,6532.2
+Grenada,Fruit and nuts,Pineapples,2012,1633.1
+Guyana,Edible roots and tubers,Cassava,2012,644.9
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2012,295
+Guyana,Vegetables,Eggplants (aubergines),2012,836.8
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2012,3661.6
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,968.9
+Guyana,Natural rubber,"Meat live weight, goat",2012,3011.4
+Guyana,Fruit and nuts,Pineapples,2012,557.1
+Jamaica,Edible roots and tubers,Cassava,2012,374.1
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,2253.5
+Jamaica,Vegetables,Eggplants (aubergines),2012,849.8
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2012,1751.5
+Jamaica,Vegetables,"Onions, shallots, green",2012,1347
+Jamaica,Fruit and nuts,Pineapples,2012,1122.1
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2012,1733.6
+Mexico,Other animal products,Beeswax,2012,4696.4
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2012,321.4
+Mexico,Edible roots and tubers,Cassava,2012,205
+Mexico,"Nuts, in shell",Chestnut,2012,2104.2
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,2905.9
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2012,139.2
+Mexico,Vegetables,Eggplants (aubergines),2012,413.6
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2012,708.7
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,213
+Mexico,Natural rubber,"Meat live weight, goat",2012,1724.1
+Mexico,Natural rubber,"Meat, goat",2012,3417
+Mexico,Natural rubber,"Meat, sheep",2012,3770.2
+Mexico,Natural rubber,"Meat, turkey",2012,3637.7
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2012,131.5
+Mexico,Vegetables,"Onions, shallots, green",2012,258.6
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,1249.2
+Mexico,Fruit and nuts,Persimmons,2012,893.3
+Mexico,Fruit and nuts,Pineapples,2012,226.5
+Mexico,Fruit and nuts,Quinces,2012,565.9
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2012,1050.7
+Mexico,"Stimulant, spice and aromatic crops",Tea,2012,493.6
+Mexico,Other animal products,"Wool, greasy",2012,294.8
+Mexico,Edible roots and tubers,Yautia (cocoyam),2012,613
+Panama,Edible roots and tubers,Cassava,2012,531.9
+Panama,Oilseeds and oleaginous fruits,Coconuts,2012,290.7
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2012,297.8
+Panama,Fruit and nuts,Pineapples,2012,727.1
+Panama,Edible roots and tubers,Yautia (cocoyam),2012,1086.7
+Paraguay,Edible roots and tubers,Cassava,2012,67.6
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2012,1118.7
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2012,3859.6
+Peru,"Nuts, in shell","Cashew nuts, with shell",2012,125.1
+Peru,Edible roots and tubers,Cassava,2012,204.7
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,1819.8
+Peru,Oilseeds and oleaginous fruits,Coconuts,2012,140.3
+Peru,Vegetables,Eggplants (aubergines),2012,341.2
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,235.8
+Peru,Natural rubber,"Meat live weight, goat",2012,1395.4
+Peru,Natural rubber,"Meat, goat",2012,3098.8
+Peru,Natural rubber,"Meat, sheep",2012,4114
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2012,200.9
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,4450.7
+Peru,Fruit and nuts,Pineapples,2012,204.7
+Peru,Fruit and nuts,Quinces,2012,519.4
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2012,1342.1
+Peru,"Stimulant, spice and aromatic crops",Tea,2012,265.4
+Peru,Edible roots and tubers,Yautia (cocoyam),2012,392
+Puerto Rico,Edible roots and tubers,Cassava,2012,683.1
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2012,1016.1
+Puerto Rico,Vegetables,Eggplants (aubergines),2012,985
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2012,1407.2
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,996
+Puerto Rico,Natural rubber,"Meat live weight, goat",2012,13604.3
+Puerto Rico,Natural rubber,"Meat, goat",2012,34882.8
+Puerto Rico,Natural rubber,"Meat, sheep",2012,10230
+Puerto Rico,Vegetables,"Onions, shallots, green",2012,659.8
+Puerto Rico,Fruit and nuts,Pineapples,2012,1100.2
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2012,1966.9
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2012,1665.7
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2012,865.5
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2012,685.9
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2012,1800.7
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,571.6
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2012,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2012,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2012,17090.1
+Suriname,Edible roots and tubers,Cassava,2012,863.6
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2012,475.8
+Suriname,Vegetables,Eggplants (aubergines),2012,1087.9
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,884.8
+Suriname,Natural rubber,"Meat live weight, goat",2012,9061.8
+Suriname,Natural rubber,"Meat, goat",2012,11327.3
+Suriname,Natural rubber,"Meat, sheep",2012,11327.3
+Suriname,Fruit and nuts,Pineapples,2012,1587.9
+Trinidad and Tobago,Edible roots and tubers,Cassava,2012,689
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2012,836.8
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2012,2343.8
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2012,7344.5
+Trinidad and Tobago,Natural rubber,"Meat, goat",2012,17071
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2012,6687.8
+Trinidad and Tobago,Fruit and nuts,Pineapples,2012,933.2
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2012,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,
+United States of America,Natural rubber,"Meat, sheep",2012,
+United States of America,Natural rubber,"Meat, turkey",2012,2064.9
+United States of America,Other animal products,"Wool, greasy",2012,
+Uruguay,Other animal products,Beeswax,2012,2743
+Uruguay,Natural rubber,"Meat, sheep",2012,3503.6
+Uruguay,Fruit and nuts,Quinces,2012,486.4
+Uruguay,Other animal products,"Wool, greasy",2012,3066
+Argentina,Other animal products,Beeswax,2013,5847
+Argentina,Edible roots and tubers,Cassava,2013,191.7
+Argentina,"Stimulant, spice and aromatic crops",Tea,2013,137.4
+Argentina,Other animal products,"Wool, greasy",2013,3315.8
+Barbados,Edible roots and tubers,Cassava,2013,2039.3
+Barbados,Vegetables,Eggplants (aubergines),2013,1653.5
+Barbados,Natural rubber,"Meat, goat",2013,
+Barbados,Natural rubber,"Meat, sheep",2013,
+Barbados,Natural rubber,"Meat, turkey",2013,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2013,217.1
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2013,310.1
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2013,3277.6
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2013,289.6
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2013,575.6
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2013,1151.2
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2013,1445.7
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,1413.1
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2013,331.4
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2013,236.9
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2013,267.2
+Brazil,Edible roots and tubers,Cassava,2013,138.4
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2207
+Canada,Natural rubber,"Meat, sheep",2013,2400.7
+Canada,Natural rubber,"Meat, turkey",2013,2782.9
+Canada,Other animal products,"Wool, greasy",2013,
+Chile,Natural rubber,"Meat, sheep",2013,
+Chile,Fruit and nuts,Persimmons,2013,697.5
+Chile,Fruit and nuts,Quinces,2013,509.1
+Colombia,Edible roots and tubers,Cassava,2013,181
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2211.5
+Colombia,Vegetables,Eggplants (aubergines),2013,1182.7
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,744
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2013,156.6
+Colombia,Fruit and nuts,Pineapples,2013,578.1
+Costa Rica,Edible roots and tubers,Cassava,2013,236
+Costa Rica,Fruit and nuts,Pineapples,2013,708.6
+Dominican Republic,Edible roots and tubers,Cassava,2013,369.5
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2027.5
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2013,299.9
+Dominican Republic,Vegetables,Eggplants (aubergines),2013,429.6
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,263.6
+Dominican Republic,Natural rubber,"Meat, goat",2013,4322.7
+Dominican Republic,Natural rubber,"Meat, sheep",2013,642.4
+Dominican Republic,Fruit and nuts,Pineapples,2013,200.4
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2013,900.5
+Ecuador,Edible roots and tubers,Cassava,2013,324.7
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,1922.3
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2013,142.3
+Ecuador,Vegetables,"Onions, shallots, green",2013,667.2
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,
+Ecuador,Fruit and nuts,Pineapples,2013,281
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2013,
+Grenada,Edible roots and tubers,Cassava,2013,612.4
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2143.4
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2013,1224.8
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2013,2653.7
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,542.4
+Grenada,Natural rubber,"Meat, goat",2013,6532.2
+Grenada,Natural rubber,"Meat, sheep",2013,6532.2
+Grenada,Fruit and nuts,Pineapples,2013,1633.1
+Guyana,Edible roots and tubers,Cassava,2013,234.2
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2013,257.2
+Guyana,Vegetables,Eggplants (aubergines),2013,734.7
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2013,3815.8
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,1456.7
+Guyana,Natural rubber,"Meat live weight, goat",2013,3454.3
+Guyana,Fruit and nuts,Pineapples,2013,678.5
+Jamaica,Edible roots and tubers,Cassava,2013,438.6
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,1995.2
+Jamaica,Vegetables,Eggplants (aubergines),2013,767.4
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2013,1702.4
+Jamaica,Vegetables,"Onions, shallots, green",2013,1100.6
+Jamaica,Fruit and nuts,Pineapples,2013,1045.5
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2013,2038.5
+Mexico,Other animal products,Beeswax,2013,5435
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2013,353.6
+Mexico,Edible roots and tubers,Cassava,2013,192.1
+Mexico,"Nuts, in shell",Chestnut,2013,1723.7
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2858.1
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2013,147.1
+Mexico,Vegetables,Eggplants (aubergines),2013,344.3
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2013,926.5
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,225.6
+Mexico,Natural rubber,"Meat live weight, goat",2013,1825.3
+Mexico,Natural rubber,"Meat, goat",2013,3660.6
+Mexico,Natural rubber,"Meat, sheep",2013,4078.5
+Mexico,Natural rubber,"Meat, turkey",2013,4077.8
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2013,110.6
+Mexico,Vegetables,"Onions, shallots, green",2013,313.1
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,1117.8
+Mexico,Fruit and nuts,Persimmons,2013,918.9
+Mexico,Fruit and nuts,Pineapples,2013,250.8
+Mexico,Fruit and nuts,Quinces,2013,558.9
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2013,1155.1
+Mexico,"Stimulant, spice and aromatic crops",Tea,2013,495.9
+Mexico,Other animal products,"Wool, greasy",2013,330.6
+Mexico,Edible roots and tubers,Yautia (cocoyam),2013,462
+Panama,Edible roots and tubers,Cassava,2013,591.6
+Panama,Oilseeds and oleaginous fruits,Coconuts,2013,341.3
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2013,308.5
+Panama,Fruit and nuts,Pineapples,2013,679.4
+Panama,Edible roots and tubers,Yautia (cocoyam),2013,1072.9
+Paraguay,Edible roots and tubers,Cassava,2013,91.2
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2013,1056.1
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2013,4073.4
+Peru,"Nuts, in shell","Cashew nuts, with shell",2013,148
+Peru,Edible roots and tubers,Cassava,2013,192.5
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,1850.6
+Peru,Oilseeds and oleaginous fruits,Coconuts,2013,133.2
+Peru,Vegetables,Eggplants (aubergines),2013,362.7
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,125.7
+Peru,Natural rubber,"Meat live weight, goat",2013,1455.2
+Peru,Natural rubber,"Meat, goat",2013,3237.5
+Peru,Natural rubber,"Meat, sheep",2013,4138.1
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2013,148
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,4378.8
+Peru,Fruit and nuts,Pineapples,2013,214.7
+Peru,Fruit and nuts,Quinces,2013,444.1
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2013,1288
+Peru,"Stimulant, spice and aromatic crops",Tea,2013,285
+Peru,Edible roots and tubers,Yautia (cocoyam),2013,501.1
+Puerto Rico,Edible roots and tubers,Cassava,2013,705.3
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2013,999.4
+Puerto Rico,Vegetables,Eggplants (aubergines),2013,1073.4
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2013,1170.4
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,1157.4
+Puerto Rico,Natural rubber,"Meat live weight, goat",2013,11482.1
+Puerto Rico,Natural rubber,"Meat, goat",2013,29441.4
+Puerto Rico,Natural rubber,"Meat, sheep",2013,
+Puerto Rico,Vegetables,"Onions, shallots, green",2013,548.9
+Puerto Rico,Fruit and nuts,Pineapples,2013,1119.2
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2013,1532.9
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2013,1227.3
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2013,2449.6
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2013,553.6
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2013,1425.9
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,677.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2013,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2013,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2013,17090.1
+Suriname,Edible roots and tubers,Cassava,2013,530.3
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2013,597
+Suriname,Vegetables,Eggplants (aubergines),2013,907.6
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,806.1
+Suriname,Natural rubber,"Meat live weight, goat",2013,7212.1
+Suriname,Natural rubber,"Meat, goat",2013,9015.2
+Suriname,Natural rubber,"Meat, sheep",2013,9015.2
+Suriname,Fruit and nuts,Pineapples,2013,1742.4
+Trinidad and Tobago,Edible roots and tubers,Cassava,2013,715.5
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2013,805.6
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2013,2024
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2013,6458.5
+Trinidad and Tobago,Natural rubber,"Meat, goat",2013,12917.1
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2013,15261.6
+Trinidad and Tobago,Fruit and nuts,Pineapples,2013,1131.5
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2013,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,
+United States of America,Natural rubber,"Meat, sheep",2013,
+United States of America,Natural rubber,"Meat, turkey",2013,1903.9
+United States of America,Other animal products,"Wool, greasy",2013,
+Uruguay,Other animal products,Beeswax,2013,2840.4
+Uruguay,Natural rubber,"Meat, sheep",2013,3431.9
+Uruguay,Fruit and nuts,Quinces,2013,724.2
+Uruguay,Other animal products,"Wool, greasy",2013,3091.7
+Argentina,Other animal products,Beeswax,2014,7080
+Argentina,Edible roots and tubers,Cassava,2014,250.3
+Argentina,"Stimulant, spice and aromatic crops",Tea,2014,103.7
+Argentina,Other animal products,"Wool, greasy",2014,2785.1
+Barbados,Edible roots and tubers,Cassava,2014,2094.4
+Barbados,Vegetables,Eggplants (aubergines),2014,1719.6
+Barbados,Natural rubber,"Meat, goat",2014,
+Barbados,Natural rubber,"Meat, sheep",2014,
+Barbados,Natural rubber,"Meat, turkey",2014,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2014,234.2
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2014,746.2
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2014,1294.1
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2014,289.4
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2014,1222.2
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2014,
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2014,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2014,332.5
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2014,234.9
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2014,
+Brazil,Edible roots and tubers,Cassava,2014,131.7
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,1626.2
+Canada,Natural rubber,"Meat, sheep",2014,3270.3
+Canada,Natural rubber,"Meat, turkey",2014,2546.8
+Canada,Other animal products,"Wool, greasy",2014,
+Chile,Natural rubber,"Meat, sheep",2014,
+Chile,Fruit and nuts,Persimmons,2014,1238.4
+Chile,Fruit and nuts,Quinces,2014,845.2
+Colombia,Edible roots and tubers,Cassava,2014,272.2
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,2744
+Colombia,Vegetables,Eggplants (aubergines),2014,
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,492.2
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2014,163.2
+Colombia,Fruit and nuts,Pineapples,2014,648.2
+Costa Rica,Edible roots and tubers,Cassava,2014,247.1
+Costa Rica,Fruit and nuts,Pineapples,2014,717.3
+Dominican Republic,Edible roots and tubers,Cassava,2014,219.7
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,2699.5
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2014,299
+Dominican Republic,Vegetables,Eggplants (aubergines),2014,412.2
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,304.5
+Dominican Republic,Natural rubber,"Meat, goat",2014,3297.5
+Dominican Republic,Natural rubber,"Meat, sheep",2014,606.6
+Dominican Republic,Fruit and nuts,Pineapples,2014,233.1
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2014,770.4
+Ecuador,Edible roots and tubers,Cassava,2014,276.9
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,2410.8
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2014,153.8
+Ecuador,Vegetables,"Onions, shallots, green",2014,778.4
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,
+Ecuador,Fruit and nuts,Pineapples,2014,302.2
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2014,
+Grenada,Edible roots and tubers,Cassava,2014,816.5
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,3062
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2014,1360.9
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2014,1224.8
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,612.4
+Grenada,Natural rubber,"Meat, goat",2014,6532.2
+Grenada,Natural rubber,"Meat, sheep",2014,6532.2
+Grenada,Fruit and nuts,Pineapples,2014,2245.4
+Guyana,Edible roots and tubers,Cassava,2014,305.7
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2014,280.2
+Guyana,Vegetables,Eggplants (aubergines),2014,688.1
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2014,2661.5
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,1065.6
+Guyana,Natural rubber,"Meat live weight, goat",2014,3126.3
+Guyana,Fruit and nuts,Pineapples,2014,560.9
+Jamaica,Edible roots and tubers,Cassava,2014,477.7
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,1802.9
+Jamaica,Vegetables,Eggplants (aubergines),2014,701
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2014,1318
+Jamaica,Vegetables,"Onions, shallots, green",2014,1331.8
+Jamaica,Fruit and nuts,Pineapples,2014,923.4
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2014,1669.9
+Mexico,Other animal products,Beeswax,2014,4681.9
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2014,349.8
+Mexico,Edible roots and tubers,Cassava,2014,274.7
+Mexico,"Nuts, in shell",Chestnut,2014,1779.2
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,2672.6
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2014,134.7
+Mexico,Vegetables,Eggplants (aubergines),2014,514.5
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2014,986.9
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,251.2
+Mexico,Natural rubber,"Meat live weight, goat",2014,1901
+Mexico,Natural rubber,"Meat, goat",2014,3844.3
+Mexico,Natural rubber,"Meat, sheep",2014,4203.8
+Mexico,Natural rubber,"Meat, turkey",2014,3971
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2014,103.2
+Mexico,Vegetables,"Onions, shallots, green",2014,311.5
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,1200.1
+Mexico,Fruit and nuts,Persimmons,2014,926.4
+Mexico,Fruit and nuts,Pineapples,2014,254.2
+Mexico,Fruit and nuts,Quinces,2014,670.8
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2014,1201.6
+Mexico,"Stimulant, spice and aromatic crops",Tea,2014,122.7
+Mexico,Other animal products,"Wool, greasy",2014,336.3
+Mexico,Edible roots and tubers,Yautia (cocoyam),2014,450.6
+Panama,Edible roots and tubers,Cassava,2014,505.5
+Panama,Oilseeds and oleaginous fruits,Coconuts,2014,450.3
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2014,314.9
+Panama,Fruit and nuts,Pineapples,2014,467.4
+Panama,Edible roots and tubers,Yautia (cocoyam),2014,1131.8
+Paraguay,Edible roots and tubers,Cassava,2014,91.9
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2014,1441
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2014,3854.5
+Peru,"Nuts, in shell","Cashew nuts, with shell",2014,180.7
+Peru,Edible roots and tubers,Cassava,2014,192.7
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,2264.5
+Peru,Oilseeds and oleaginous fruits,Coconuts,2014,127.9
+Peru,Vegetables,Eggplants (aubergines),2014,407.9
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,171.7
+Peru,Natural rubber,"Meat live weight, goat",2014,1421.8
+Peru,Natural rubber,"Meat, goat",2014,3159.6
+Peru,Natural rubber,"Meat, sheep",2014,4484.7
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2014,143
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,4165.8
+Peru,Fruit and nuts,Pineapples,2014,221.9
+Peru,Fruit and nuts,Quinces,2014,498.4
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2014,1218.7
+Peru,"Stimulant, spice and aromatic crops",Tea,2014,302.9
+Peru,Edible roots and tubers,Yautia (cocoyam),2014,481.1
+Puerto Rico,Edible roots and tubers,Cassava,2014,853.9
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2014,675.1
+Puerto Rico,Vegetables,Eggplants (aubergines),2014,884.2
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2014,1247.9
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,1230.9
+Puerto Rico,Natural rubber,"Meat live weight, goat",2014,
+Puerto Rico,Natural rubber,"Meat, goat",2014,
+Puerto Rico,Natural rubber,"Meat, sheep",2014,
+Puerto Rico,Vegetables,"Onions, shallots, green",2014,610.5
+Puerto Rico,Fruit and nuts,Pineapples,2014,1029.7
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2014,2011.8
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2014,2200
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2014,1833.3
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2014,708.9
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2014,2460.7
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,912.6
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2014,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2014,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2014,17090.1
+Suriname,Edible roots and tubers,Cassava,2014,369.7
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2014,851.5
+Suriname,Vegetables,Eggplants (aubergines),2014,1027.3
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,624.2
+Suriname,Natural rubber,"Meat live weight, goat",2014,6387.9
+Suriname,Natural rubber,"Meat, goat",2014,9739.4
+Suriname,Natural rubber,"Meat, sheep",2014,9739.4
+Suriname,Fruit and nuts,Pineapples,2014,1748.5
+Trinidad and Tobago,Edible roots and tubers,Cassava,2014,663.3
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2014,1126.8
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2014,6232
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2014,7301.9
+Trinidad and Tobago,Natural rubber,"Meat, goat",2014,14603.8
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2014,18332.6
+Trinidad and Tobago,Fruit and nuts,Pineapples,2014,1165.9
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2014,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,
+United States of America,Natural rubber,"Meat, sheep",2014,
+United States of America,Natural rubber,"Meat, turkey",2014,2103.9
+United States of America,Other animal products,"Wool, greasy",2014,
+Uruguay,Other animal products,Beeswax,2014,2729.5
+Uruguay,Natural rubber,"Meat, sheep",2014,3749
+Uruguay,Fruit and nuts,Quinces,2014,1127.5
+Uruguay,Other animal products,"Wool, greasy",2014,3329.4
+Argentina,Other animal products,Beeswax,2015,
+Argentina,Edible roots and tubers,Cassava,2015,171.4
+Argentina,"Stimulant, spice and aromatic crops",Tea,2015,99.5
+Argentina,Other animal products,"Wool, greasy",2015,
+Barbados,Edible roots and tubers,Cassava,2015,1940
+Barbados,Vegetables,Eggplants (aubergines),2015,1665
+Barbados,Natural rubber,"Meat, goat",2015,
+Barbados,Natural rubber,"Meat, sheep",2015,
+Barbados,Natural rubber,"Meat, turkey",2015,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2015,230.8
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2015,630.1
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2148.5
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2015,298.8
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2015,1291.8
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2015,
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2015,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2015,330.9
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2015,239.4
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2015,
+Brazil,Edible roots and tubers,Cassava,2015,89.1
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,1428.5
+Canada,Natural rubber,"Meat, sheep",2015,3418.8
+Canada,Natural rubber,"Meat, turkey",2015,2202.4
+Canada,Other animal products,"Wool, greasy",2015,
+Chile,Natural rubber,"Meat, sheep",2015,1633.2
+Chile,Fruit and nuts,Persimmons,2015,977
+Chile,Fruit and nuts,Quinces,2015,590.8
+Colombia,Edible roots and tubers,Cassava,2015,313.4
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2588.3
+Colombia,Vegetables,Eggplants (aubergines),2015,
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,433.9
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2015,140.7
+Colombia,Fruit and nuts,Pineapples,2015,807
+Costa Rica,Edible roots and tubers,Cassava,2015,242.9
+Costa Rica,Fruit and nuts,Pineapples,2015,
+Dominican Republic,Edible roots and tubers,Cassava,2015,408.2
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2630.4
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2015,370.1
+Dominican Republic,Vegetables,Eggplants (aubergines),2015,425.6
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,274.8
+Dominican Republic,Natural rubber,"Meat, goat",2015,2364.6
+Dominican Republic,Natural rubber,"Meat, sheep",2015,2364.6
+Dominican Republic,Fruit and nuts,Pineapples,2015,274.4
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2015,764.6
+Ecuador,Edible roots and tubers,Cassava,2015,367.5
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2382.2
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2015,117.1
+Ecuador,Vegetables,"Onions, shallots, green",2015,512.6
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,
+Ecuador,Fruit and nuts,Pineapples,2015,375
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2015,
+Grenada,Edible roots and tubers,Cassava,2015,816.5
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2143.4
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2015,1428.9
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2015,3266.1
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,577.4
+Grenada,Natural rubber,"Meat, goat",2015,6532.2
+Grenada,Natural rubber,"Meat, sheep",2015,6532.2
+Grenada,Fruit and nuts,Pineapples,2015,2041.3
+Guyana,Edible roots and tubers,Cassava,2015,237.8
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2015,262.6
+Guyana,Vegetables,Eggplants (aubergines),2015,818.4
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2015,1634.5
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,
+Guyana,Natural rubber,"Meat live weight, goat",2015,3185.3
+Guyana,Fruit and nuts,Pineapples,2015,633
+Jamaica,Edible roots and tubers,Cassava,2015,389.5
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,1710.9
+Jamaica,Vegetables,Eggplants (aubergines),2015,826
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2015,1397.5
+Jamaica,Vegetables,"Onions, shallots, green",2015,1277.2
+Jamaica,Fruit and nuts,Pineapples,2015,1042.1
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2015,1628.7
+Mexico,Other animal products,Beeswax,2015,3920.2
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2015,285.5
+Mexico,Edible roots and tubers,Cassava,2015,227.4
+Mexico,"Nuts, in shell",Chestnut,2015,1607.7
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2331.4
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2015,127.9
+Mexico,Vegetables,Eggplants (aubergines),2015,391.6
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2015,809.1
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,193.3
+Mexico,Natural rubber,"Meat live weight, goat",2015,1725.5
+Mexico,Natural rubber,"Meat, goat",2015,3466
+Mexico,Natural rubber,"Meat, sheep",2015,3891.2
+Mexico,Natural rubber,"Meat, turkey",2015,3397.6
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2015,84.3
+Mexico,Vegetables,"Onions, shallots, green",2015,265.6
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,1268.3
+Mexico,Fruit and nuts,Persimmons,2015,975.8
+Mexico,Fruit and nuts,Pineapples,2015,217.7
+Mexico,Fruit and nuts,Quinces,2015,482.6
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2015,1013.9
+Mexico,"Stimulant, spice and aromatic crops",Tea,2015,95.4
+Mexico,Other animal products,"Wool, greasy",2015,288.4
+Mexico,Edible roots and tubers,Yautia (cocoyam),2015,253
+Panama,Edible roots and tubers,Cassava,2015,535.5
+Panama,Oilseeds and oleaginous fruits,Coconuts,2015,470.6
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2015,308
+Panama,Fruit and nuts,Pineapples,2015,582
+Panama,Edible roots and tubers,Yautia (cocoyam),2015,1182.1
+Paraguay,Edible roots and tubers,Cassava,2015,38.4
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2015,960.6
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2015,3250.2
+Peru,"Nuts, in shell","Cashew nuts, with shell",2015,185.9
+Peru,Edible roots and tubers,Cassava,2015,186.8
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,2308.1
+Peru,Oilseeds and oleaginous fruits,Coconuts,2015,117.1
+Peru,Vegetables,Eggplants (aubergines),2015,382.2
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,239.3
+Peru,Natural rubber,"Meat live weight, goat",2015,1344
+Peru,Natural rubber,"Meat, goat",2015,2985
+Peru,Natural rubber,"Meat, sheep",2015,3990.9
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2015,112.4
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,5094.5
+Peru,Fruit and nuts,Pineapples,2015,212.9
+Peru,Fruit and nuts,Quinces,2015,467
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2015,1198.3
+Peru,"Stimulant, spice and aromatic crops",Tea,2015,234.6
+Peru,Edible roots and tubers,Yautia (cocoyam),2015,415.8
+Puerto Rico,Edible roots and tubers,Cassava,2015,874.7
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2015,655.2
+Puerto Rico,Vegetables,Eggplants (aubergines),2015,959.5
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2015,1198.2
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,1241
+Puerto Rico,Natural rubber,"Meat live weight, goat",2015,
+Puerto Rico,Natural rubber,"Meat, goat",2015,
+Puerto Rico,Natural rubber,"Meat, sheep",2015,
+Puerto Rico,Vegetables,"Onions, shallots, green",2015,654.1
+Puerto Rico,Fruit and nuts,Pineapples,2015,1062.8
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2015,2088.3
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2015,2053.3
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2015,1629.6
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2015,774.1
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2015,2411.9
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,977.8
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2015,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2015,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2015,17090.1
+Suriname,Edible roots and tubers,Cassava,2015,518
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2015,769.8
+Suriname,Vegetables,Eggplants (aubergines),2015,1015.6
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,614.6
+Suriname,Natural rubber,"Meat live weight, goat",2015,6585.4
+Suriname,Natural rubber,"Meat, goat",2015,10975.6
+Suriname,Natural rubber,"Meat, sheep",2015,10975.6
+Suriname,Fruit and nuts,Pineapples,2015,1097.3
+Trinidad and Tobago,Edible roots and tubers,Cassava,2015,718.4
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2015,1240.8
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2015,9386.7
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2015,7905.9
+Trinidad and Tobago,Natural rubber,"Meat, goat",2015,15811.8
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2015,20042.2
+Trinidad and Tobago,Fruit and nuts,Pineapples,2015,1256.5
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2015,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,
+United States of America,Natural rubber,"Meat, sheep",2015,
+United States of America,Natural rubber,"Meat, turkey",2015,2322.1
+United States of America,Other animal products,"Wool, greasy",2015,
+Uruguay,Other animal products,Beeswax,2015,4495.5
+Uruguay,Natural rubber,"Meat, sheep",2015,3694.5
+Uruguay,Fruit and nuts,Quinces,2015,872.8
+Uruguay,Other animal products,"Wool, greasy",2015,136.7
+Argentina,Other animal products,Beeswax,2016,
+Argentina,Edible roots and tubers,Cassava,2016,122.5
+Argentina,"Stimulant, spice and aromatic crops",Tea,2016,78.3
+Argentina,Other animal products,"Wool, greasy",2016,
+Barbados,Edible roots and tubers,Cassava,2016,2055
+Barbados,Vegetables,Eggplants (aubergines),2016,1535
+Barbados,Natural rubber,"Meat, goat",2016,
+Barbados,Natural rubber,"Meat, sheep",2016,
+Barbados,Natural rubber,"Meat, turkey",2016,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2016,205.7
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2016,683.9
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2075.3
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2016,1416.2
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2016,
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2016,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2016,
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2016,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2016,
+Brazil,Edible roots and tubers,Cassava,2016,86.1
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,
+Canada,Natural rubber,"Meat, sheep",2016,3388.9
+Canada,Natural rubber,"Meat, turkey",2016,2070.2
+Canada,Other animal products,"Wool, greasy",2016,
+Chile,Natural rubber,"Meat, sheep",2016,
+Chile,Fruit and nuts,Persimmons,2016,1098.3
+Chile,Fruit and nuts,Quinces,2016,789.1
+Colombia,Edible roots and tubers,Cassava,2016,272
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,
+Colombia,Vegetables,Eggplants (aubergines),2016,
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,224.4
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2016,
+Colombia,Fruit and nuts,Pineapples,2016,173.5
+Costa Rica,Edible roots and tubers,Cassava,2016,227.6
+Costa Rica,Fruit and nuts,Pineapples,2016,
+Dominican Republic,Edible roots and tubers,Cassava,2016,402.9
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2575.6
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2016,541.4
+Dominican Republic,Vegetables,Eggplants (aubergines),2016,384
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,463.7
+Dominican Republic,Natural rubber,"Meat, goat",2016,
+Dominican Republic,Natural rubber,"Meat, sheep",2016,
+Dominican Republic,Fruit and nuts,Pineapples,2016,321.5
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2016,1155
+Ecuador,Edible roots and tubers,Cassava,2016,187.8
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2300.3
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2016,115.4
+Ecuador,Vegetables,"Onions, shallots, green",2016,586.3
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,1603
+Ecuador,Fruit and nuts,Pineapples,2016,354.7
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2016,10000
+Grenada,Edible roots and tubers,Cassava,2016,815.8
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2141.5
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2016,1924.8
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2016,2868
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,525.9
+Grenada,Natural rubber,"Meat, goat",2016,8402.7
+Grenada,Natural rubber,"Meat, sheep",2016,8402.7
+Grenada,Fruit and nuts,Pineapples,2016,2099
+Guyana,Edible roots and tubers,Cassava,2016,242.1
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2016,329.5
+Guyana,Vegetables,Eggplants (aubergines),2016,719.1
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2016,2257.1
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
+Guyana,Natural rubber,"Meat live weight, goat",2016,2135.9
+Guyana,Fruit and nuts,Pineapples,2016,588.5
+Jamaica,Edible roots and tubers,Cassava,2016,336.5
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2084.6
+Jamaica,Vegetables,Eggplants (aubergines),2016,1092.3
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2016,1840.7
+Jamaica,Vegetables,"Onions, shallots, green",2016,791.2
+Jamaica,Fruit and nuts,Pineapples,2016,1069.7
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2016,1147.7
+Mexico,Other animal products,Beeswax,2016,3421.2
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2016,263.5
+Mexico,Edible roots and tubers,Cassava,2016,193.8
+Mexico,"Nuts, in shell",Chestnut,2016,1235.9
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2095.5
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2016,111.8
+Mexico,Vegetables,Eggplants (aubergines),2016,363.7
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2016,833.2
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,170.8
+Mexico,Natural rubber,"Meat live weight, goat",2016,1536.8
+Mexico,Natural rubber,"Meat, goat",2016,3114.7
+Mexico,Natural rubber,"Meat, sheep",2016,3436.2
+Mexico,Natural rubber,"Meat, turkey",2016,2980.2
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2016,76.9
+Mexico,Vegetables,"Onions, shallots, green",2016,258
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,839
+Mexico,Fruit and nuts,Persimmons,2016,877.8
+Mexico,Fruit and nuts,Pineapples,2016,200.5
+Mexico,Fruit and nuts,Quinces,2016,323
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2016,830.1
+Mexico,"Stimulant, spice and aromatic crops",Tea,2016,80.1
+Mexico,Other animal products,"Wool, greasy",2016,273.3
+Mexico,Edible roots and tubers,Yautia (cocoyam),2016,225.7
+Panama,Edible roots and tubers,Cassava,2016,531.1
+Panama,Oilseeds and oleaginous fruits,Coconuts,2016,768.5
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2016,503
+Panama,Fruit and nuts,Pineapples,2016,652.6
+Panama,Edible roots and tubers,Yautia (cocoyam),2016,1317.7
+Paraguay,Edible roots and tubers,Cassava,2016,47.1
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2016,705.4
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2016,2408.2
+Peru,"Nuts, in shell","Cashew nuts, with shell",2016,186
+Peru,Edible roots and tubers,Cassava,2016,183
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,2347.9
+Peru,Oilseeds and oleaginous fruits,Coconuts,2016,121.2
+Peru,Vegetables,Eggplants (aubergines),2016,364.6
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,171.5
+Peru,Natural rubber,"Meat live weight, goat",2016,1378.9
+Peru,Natural rubber,"Meat, goat",2016,3065.8
+Peru,Natural rubber,"Meat, sheep",2016,3877.3
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2016,110
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,7049.2
+Peru,Fruit and nuts,Pineapples,2016,209.1
+Peru,Fruit and nuts,Quinces,2016,501.8
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2016,1207.4
+Peru,"Stimulant, spice and aromatic crops",Tea,2016,200.2
+Peru,Edible roots and tubers,Yautia (cocoyam),2016,280
+Puerto Rico,Edible roots and tubers,Cassava,2016,
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2016,
+Puerto Rico,Vegetables,Eggplants (aubergines),2016,
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2016,
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
+Puerto Rico,Natural rubber,"Meat live weight, goat",2016,
+Puerto Rico,Natural rubber,"Meat, goat",2016,
+Puerto Rico,Natural rubber,"Meat, sheep",2016,
+Puerto Rico,Vegetables,"Onions, shallots, green",2016,
+Puerto Rico,Fruit and nuts,Pineapples,2016,
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2016,
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2016,2430.2
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2016,1629.6
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2016,543.1
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2016,2344.6
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,1535.9
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2016,7348.7
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2016,17497
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2016,17090.1
+Suriname,Edible roots and tubers,Cassava,2016,430.3
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2016,632.6
+Suriname,Vegetables,Eggplants (aubergines),2016,600.5
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,314.7
+Suriname,Natural rubber,"Meat live weight, goat",2016,3612.4
+Suriname,Natural rubber,"Meat, goat",2016,6020.6
+Suriname,Natural rubber,"Meat, sheep",2016,6020.6
+Suriname,Fruit and nuts,Pineapples,2016,1083.7
+Trinidad and Tobago,Edible roots and tubers,Cassava,2016,733.8
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2016,1763.1
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2016,2933.6
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2016,7721.1
+Trinidad and Tobago,Natural rubber,"Meat, goat",2016,15442.1
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2016,12189.9
+Trinidad and Tobago,Fruit and nuts,Pineapples,2016,1035.4
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2016,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
+United States of America,Natural rubber,"Meat, sheep",2016,
+United States of America,Natural rubber,"Meat, turkey",2016,2362.3
+United States of America,Other animal products,"Wool, greasy",2016,
+Uruguay,Other animal products,Beeswax,2016,4490.7
+Uruguay,Natural rubber,"Meat, sheep",2016,3143
+Uruguay,Fruit and nuts,Quinces,2016,642.2
+Uruguay,Other animal products,"Wool, greasy",2016,92.9
+Argentina,Other animal products,Beeswax,2017,
+Argentina,Edible roots and tubers,Cassava,2017,522.1
+Argentina,"Stimulant, spice and aromatic crops",Tea,2017,90.6
+Argentina,Other animal products,"Wool, greasy",2017,
+Barbados,Edible roots and tubers,Cassava,2017,2225
+Barbados,Vegetables,Eggplants (aubergines),2017,1560
+Barbados,Natural rubber,"Meat, goat",2017,
+Barbados,Natural rubber,"Meat, sheep",2017,
+Barbados,Natural rubber,"Meat, turkey",2017,
+Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2017,212.8
+Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2017,1197.1
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops","Cocoa, beans",2017,2014.2
+Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2017,1998
+Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2017,
+Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2017,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,
+Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2017,
+Bolivia (Plurinational State of),Fruit and nuts,Quinces,2017,
+Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2017,
+Brazil,Edible roots and tubers,Cassava,2017,
+Brazil,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,
+Canada,Natural rubber,"Meat, sheep",2017,
+Canada,Natural rubber,"Meat, turkey",2017,
+Canada,Other animal products,"Wool, greasy",2017,
+Chile,Natural rubber,"Meat, sheep",2017,
+Chile,Fruit and nuts,Persimmons,2017,1207.5
+Chile,Fruit and nuts,Quinces,2017,654.5
+Colombia,Edible roots and tubers,Cassava,2017,
+Colombia,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,
+Colombia,Vegetables,Eggplants (aubergines),2017,
+Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2017,
+Colombia,Fruit and nuts,Pineapples,2017,
+Costa Rica,Edible roots and tubers,Cassava,2017,223.8
+Costa Rica,Fruit and nuts,Pineapples,2017,
+Dominican Republic,Edible roots and tubers,Cassava,2017,
+Dominican Republic,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,
+Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2017,
+Dominican Republic,Vegetables,Eggplants (aubergines),2017,
+Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Dominican Republic,Natural rubber,"Meat, goat",2017,
+Dominican Republic,Natural rubber,"Meat, sheep",2017,
+Dominican Republic,Fruit and nuts,Pineapples,2017,
+Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2017,
+Ecuador,Edible roots and tubers,Cassava,2017,272.4
+Ecuador,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,1569.6
+Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2017,125.2
+Ecuador,Vegetables,"Onions, shallots, green",2017,536
+Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,1147.2
+Ecuador,Fruit and nuts,Pineapples,2017,385.6
+Ecuador,"Stimulant, spice and aromatic crops",Tea,2017,10000
+Grenada,Edible roots and tubers,Cassava,2017,815.8
+Grenada,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,2141.5
+Grenada,Oilseeds and oleaginous fruits,Coconuts,2017,2039.5
+Grenada,"Stimulant, spice and aromatic crops",Ginger,2017,2783
+Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,405
+Grenada,Natural rubber,"Meat, goat",2017,8157.9
+Grenada,Natural rubber,"Meat, sheep",2017,8157.9
+Grenada,Fruit and nuts,Pineapples,2017,2243.4
+Guyana,Edible roots and tubers,Cassava,2017,378.7
+Guyana,Oilseeds and oleaginous fruits,Coconuts,2017,404.8
+Guyana,Vegetables,Eggplants (aubergines),2017,792.2
+Guyana,"Stimulant, spice and aromatic crops",Ginger,2017,2762.3
+Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Guyana,Natural rubber,"Meat live weight, goat",2017,4280.9
+Guyana,Fruit and nuts,Pineapples,2017,498.6
+Jamaica,Edible roots and tubers,Cassava,2017,331.7
+Jamaica,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,2031.8
+Jamaica,Vegetables,Eggplants (aubergines),2017,1021.8
+Jamaica,"Stimulant, spice and aromatic crops",Ginger,2017,2885.9
+Jamaica,Vegetables,"Onions, shallots, green",2017,1735.1
+Jamaica,Fruit and nuts,Pineapples,2017,1143.2
+Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2017,1170.5
+Mexico,Other animal products,Beeswax,2017,3791.3
+Mexico,"Nuts, in shell","Cashew nuts, with shell",2017,243.8
+Mexico,Edible roots and tubers,Cassava,2017,195.6
+Mexico,"Nuts, in shell",Chestnut,2017,1490.2
+Mexico,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,2080.2
+Mexico,Oilseeds and oleaginous fruits,Coconuts,2017,121
+Mexico,Vegetables,Eggplants (aubergines),2017,396.1
+Mexico,"Stimulant, spice and aromatic crops",Ginger,2017,1027
+Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,200.6
+Mexico,Natural rubber,"Meat live weight, goat",2017,1621.3
+Mexico,Natural rubber,"Meat, goat",2017,3305.4
+Mexico,Natural rubber,"Meat, sheep",2017,3651.3
+Mexico,Natural rubber,"Meat, turkey",2017,3045.1
+Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2017,80
+Mexico,Vegetables,"Onions, shallots, green",2017,264.7
+Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,772.4
+Mexico,Fruit and nuts,Persimmons,2017,928.8
+Mexico,Fruit and nuts,Pineapples,2017,221.7
+Mexico,Fruit and nuts,Quinces,2017,511.2
+Mexico,Oilseeds and oleaginous fruits,Sesame seed,2017,850.2
+Mexico,"Stimulant, spice and aromatic crops",Tea,2017,72.3
+Mexico,Other animal products,"Wool, greasy",2017,269.4
+Mexico,Edible roots and tubers,Yautia (cocoyam),2017,242.8
+Panama,Edible roots and tubers,Cassava,2017,394.8
+Panama,Oilseeds and oleaginous fruits,Coconuts,2017,486.8
+Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2017,
+Panama,Fruit and nuts,Pineapples,2017,573.2
+Panama,Edible roots and tubers,Yautia (cocoyam),2017,1153
+Paraguay,Edible roots and tubers,Cassava,2017,89
+Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2017,978.8
+Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2017,2931.5
+Peru,"Nuts, in shell","Cashew nuts, with shell",2017,196.3
+Peru,Edible roots and tubers,Cassava,2017,193.2
+Peru,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,1680.7
+Peru,Oilseeds and oleaginous fruits,Coconuts,2017,138
+Peru,Vegetables,Eggplants (aubergines),2017,394.9
+Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,189.5
+Peru,Natural rubber,"Meat live weight, goat",2017,1453.7
+Peru,Natural rubber,"Meat, goat",2017,
+Peru,Natural rubber,"Meat, sheep",2017,
+Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2017,113.5
+Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,6358
+Peru,Fruit and nuts,Pineapples,2017,223.9
+Peru,Fruit and nuts,Quinces,2017,549
+Peru,Oilseeds and oleaginous fruits,Sesame seed,2017,1248.6
+Peru,"Stimulant, spice and aromatic crops",Tea,2017,205.5
+Peru,Edible roots and tubers,Yautia (cocoyam),2017,388
+Puerto Rico,Edible roots and tubers,Cassava,2017,
+Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2017,
+Puerto Rico,Vegetables,Eggplants (aubergines),2017,
+Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2017,
+Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Puerto Rico,Natural rubber,"Meat live weight, goat",2017,
+Puerto Rico,Natural rubber,"Meat, goat",2017,
+Puerto Rico,Natural rubber,"Meat, sheep",2017,
+Puerto Rico,Vegetables,"Onions, shallots, green",2017,
+Puerto Rico,Fruit and nuts,Pineapples,2017,
+Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2017,
+Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2017,2740.7
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops","Cocoa, beans",2017,
+Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2017,814.8
+Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2017,
+Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,748.1
+Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2017,
+Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2017,
+Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2017,
+Suriname,Edible roots and tubers,Cassava,2017,
+Suriname,Oilseeds and oleaginous fruits,Coconuts,2017,
+Suriname,Vegetables,Eggplants (aubergines),2017,
+Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+Suriname,Natural rubber,"Meat live weight, goat",2017,
+Suriname,Natural rubber,"Meat, goat",2017,
+Suriname,Natural rubber,"Meat, sheep",2017,
+Suriname,Fruit and nuts,Pineapples,2017,
+Trinidad and Tobago,Edible roots and tubers,Cassava,2017,
+Trinidad and Tobago,Vegetables,Eggplants (aubergines),2017,
+Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2017,
+Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2017,
+Trinidad and Tobago,Natural rubber,"Meat, goat",2017,
+Trinidad and Tobago,Natural rubber,"Meat, sheep",2017,
+Trinidad and Tobago,Fruit and nuts,Pineapples,2017,
+United States of America,"Stimulant, spice and aromatic crops",Ginger,2017,
+United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
+United States of America,Natural rubber,"Meat, sheep",2017,
+United States of America,Natural rubber,"Meat, turkey",2017,
+United States of America,Other animal products,"Wool, greasy",2017,
+Uruguay,Other animal products,Beeswax,2017,4503.7
+Uruguay,Natural rubber,"Meat, sheep",2017,3261.6
+Uruguay,Fruit and nuts,Quinces,2017,1049.6
+Uruguay,Other animal products,"Wool, greasy",2017,102.5

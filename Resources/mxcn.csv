@@ -1,7 +1,109 @@
-Area_Code,Area,Item_Code,Item,Element_Code,Element,Unit,Y2000,Y2001,Y2002,Y2003,Y2004,Y2005,Y2006,Y2007,Y2008,Y2009,Y2010,Y2011,Y2012,Y2013,Y2014,Y2015,Y2016,Y2017
-33,Canada,101,Canary seed,5532,Producer Price (USD/tonne),USD,161.6,280.2,456.9,339,245.2,177.4,208.7,365.7,569.9,378.2,394.6,609.4,574.2,570.3,473,454.2,411.2,
-33,Canada,407,"Leeks, other alliaceous vegetables",5532,Producer Price (USD/tonne),USD,806.7,749.6,784.4,877.2,873.5,861.6,1093.1,1322.7,1187,1361.6,1366.5,1550.7,1693.8,1633.2,1507.8,1304.4,1285.1,1349.5
-33,Canada,1013,"Meat live weight, sheep",5532,Producer Price (USD/tonne),USD,771,637.9,456.9,599.5,598,840.9,1234.3,1216.5,1051,1070.6,1577.4,1827.8,1622.4,1249.2,1524.1,1734.4,1697.4,1888.2
-138,Mexico,101,Canary seed,5532,Producer Price (USD/tonne),USD,244.3,257,320.5,166,383.5,325.9,414.6,392,365,653.1,394.2,409.1,544.6,432.3,500,377.2,619.9,277.9
-138,Mexico,407,"Leeks, other alliaceous vegetables",5532,Producer Price (USD/tonne),USD,619.5,617.1,603.6,542.3,751.6,597.6,546.5,591.1,574.7,605.7,1192.4,975.8,871.9,1082.6,1263,543.5,333.1,398.6
-138,Mexico,1013,"Meat live weight, sheep",5532,Producer Price (USD/tonne),USD,1851.8,1968.5,1965.6,1802.8,1813.8,1944.4,2013.9,1992.1,1921.7,1654.6,1821.1,1936.8,1907.1,2104.2,2153.7,1944.8,1710.1,1836.5
+Area,Group,Item,Year,Price
+Canada,Cereals,Canary seed,2000,161.6
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2000,806.7
+Canada,Natural rubber,"Meat live weight, sheep",2000,771
+Mexico,Cereals,Canary seed,2000,244.3
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2000,619.5
+Mexico,Natural rubber,"Meat live weight, sheep",2000,1851.8
+Canada,Cereals,Canary seed,2001,280.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2001,749.6
+Canada,Natural rubber,"Meat live weight, sheep",2001,637.9
+Mexico,Cereals,Canary seed,2001,257
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2001,617.1
+Mexico,Natural rubber,"Meat live weight, sheep",2001,1968.5
+Canada,Cereals,Canary seed,2002,456.9
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2002,784.4
+Canada,Natural rubber,"Meat live weight, sheep",2002,456.9
+Mexico,Cereals,Canary seed,2002,320.5
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2002,603.6
+Mexico,Natural rubber,"Meat live weight, sheep",2002,1965.6
+Canada,Cereals,Canary seed,2003,339
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2003,877.2
+Canada,Natural rubber,"Meat live weight, sheep",2003,599.5
+Mexico,Cereals,Canary seed,2003,166
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2003,542.3
+Mexico,Natural rubber,"Meat live weight, sheep",2003,1802.8
+Canada,Cereals,Canary seed,2004,245.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2004,873.5
+Canada,Natural rubber,"Meat live weight, sheep",2004,598
+Mexico,Cereals,Canary seed,2004,383.5
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2004,751.6
+Mexico,Natural rubber,"Meat live weight, sheep",2004,1813.8
+Canada,Cereals,Canary seed,2005,177.4
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2005,861.6
+Canada,Natural rubber,"Meat live weight, sheep",2005,840.9
+Mexico,Cereals,Canary seed,2005,325.9
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2005,597.6
+Mexico,Natural rubber,"Meat live weight, sheep",2005,1944.4
+Canada,Cereals,Canary seed,2006,208.7
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2006,1093.1
+Canada,Natural rubber,"Meat live weight, sheep",2006,1234.3
+Mexico,Cereals,Canary seed,2006,414.6
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2006,546.5
+Mexico,Natural rubber,"Meat live weight, sheep",2006,2013.9
+Canada,Cereals,Canary seed,2007,365.7
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2007,1322.7
+Canada,Natural rubber,"Meat live weight, sheep",2007,1216.5
+Mexico,Cereals,Canary seed,2007,392
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2007,591.1
+Mexico,Natural rubber,"Meat live weight, sheep",2007,1992.1
+Canada,Cereals,Canary seed,2008,569.9
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2008,1187
+Canada,Natural rubber,"Meat live weight, sheep",2008,1051
+Mexico,Cereals,Canary seed,2008,365
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2008,574.7
+Mexico,Natural rubber,"Meat live weight, sheep",2008,1921.7
+Canada,Cereals,Canary seed,2009,378.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2009,1361.6
+Canada,Natural rubber,"Meat live weight, sheep",2009,1070.6
+Mexico,Cereals,Canary seed,2009,653.1
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2009,605.7
+Mexico,Natural rubber,"Meat live weight, sheep",2009,1654.6
+Canada,Cereals,Canary seed,2010,394.6
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2010,1366.5
+Canada,Natural rubber,"Meat live weight, sheep",2010,1577.4
+Mexico,Cereals,Canary seed,2010,394.2
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2010,1192.4
+Mexico,Natural rubber,"Meat live weight, sheep",2010,1821.1
+Canada,Cereals,Canary seed,2011,609.4
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2011,1550.7
+Canada,Natural rubber,"Meat live weight, sheep",2011,1827.8
+Mexico,Cereals,Canary seed,2011,409.1
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2011,975.8
+Mexico,Natural rubber,"Meat live weight, sheep",2011,1936.8
+Canada,Cereals,Canary seed,2012,574.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2012,1693.8
+Canada,Natural rubber,"Meat live weight, sheep",2012,1622.4
+Mexico,Cereals,Canary seed,2012,544.6
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2012,871.9
+Mexico,Natural rubber,"Meat live weight, sheep",2012,1907.1
+Canada,Cereals,Canary seed,2013,570.3
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2013,1633.2
+Canada,Natural rubber,"Meat live weight, sheep",2013,1249.2
+Mexico,Cereals,Canary seed,2013,432.3
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2013,1082.6
+Mexico,Natural rubber,"Meat live weight, sheep",2013,2104.2
+Canada,Cereals,Canary seed,2014,473
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2014,1507.8
+Canada,Natural rubber,"Meat live weight, sheep",2014,1524.1
+Mexico,Cereals,Canary seed,2014,500
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2014,1263
+Mexico,Natural rubber,"Meat live weight, sheep",2014,2153.7
+Canada,Cereals,Canary seed,2015,454.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2015,1304.4
+Canada,Natural rubber,"Meat live weight, sheep",2015,1734.4
+Mexico,Cereals,Canary seed,2015,377.2
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2015,543.5
+Mexico,Natural rubber,"Meat live weight, sheep",2015,1944.8
+Canada,Cereals,Canary seed,2016,411.2
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2016,1285.1
+Canada,Natural rubber,"Meat live weight, sheep",2016,1697.4
+Mexico,Cereals,Canary seed,2016,619.9
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2016,333.1
+Mexico,Natural rubber,"Meat live weight, sheep",2016,1710.1
+Canada,Cereals,Canary seed,2017,
+Canada,Vegetables,"Leeks, other alliaceous vegetables",2017,1349.5
+Canada,Natural rubber,"Meat live weight, sheep",2017,1888.2
+Mexico,Cereals,Canary seed,2017,277.9
+Mexico,Vegetables,"Leeks, other alliaceous vegetables",2017,398.6
+Mexico,Natural rubber,"Meat live weight, sheep",2017,1836.5
