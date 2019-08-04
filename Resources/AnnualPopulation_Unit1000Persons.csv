@@ -1,0 +1,208 @@
+Area,Year,Value
+Canada,1950,13733.402
+Canada,1951,14098.675
+Canada,1952,14482.057
+Canada,1953,14884.172
+Canada,1954,15303.889
+Canada,1955,15738.362
+Canada,1956,16182.877
+Canada,1957,16630.976
+Canada,1958,17074.869
+Canada,1959,17506.053
+Canada,1960,17917.236
+Canada,1961,18304.387
+Canada,1962,18668.576
+Canada,1963,19016.655
+Canada,1964,19359.165
+Canada,1965,19703.883
+Canada,1966,20051.96
+Canada,1967,20401.082
+Canada,1968,20751.373
+Canada,1969,21102.23
+Canada,1970,21452.737
+Canada,1971,21804.269
+Canada,1972,22156.208
+Canada,1973,22503.243
+Canada,1974,22838.19
+Canada,1975,23156.209
+Canada,1976,23456.507
+Canada,1977,23741.589
+Canada,1978,24014.082
+Canada,1979,24278.047
+Canada,1980,24537.422
+Canada,1981,24791.139
+Canada,1982,25040.948
+Canada,1983,25296.84
+Canada,1984,25571.673
+Canada,1985,25873.949
+Canada,1986,26208.08
+Canada,1987,26569.766
+Canada,1988,26947.842
+Canada,1989,27326.166
+Canada,1990,27692.68
+Canada,1991,28044.606
+Canada,1992,28384.35
+Canada,1993,28711.303
+Canada,1994,29026.188
+Canada,1995,29330.073
+Canada,1996,29622.132
+Canada,1997,29903.15
+Canada,1998,30178.134
+Canada,1999,30453.884
+Canada,2000,30735.773
+Canada,2001,31024.732
+Canada,2002,31320.889
+Canada,2003,31627.806
+Canada,2004,31949.417
+Canada,2005,32287.98
+Canada,2006,32645.483
+Canada,2007,33019.932
+Canada,2008,33404.548
+Canada,2009,33789.831
+Canada,2010,34168.668
+Canada,2011,34538.622
+Canada,2012,34900.705
+Canada,2013,35255.495
+Canada,2014,35604.728
+Canada,2015,35949.709
+Canada,2016,36289.822
+Canada,2017,36624.199
+Canada,2018,36953.765
+Mexico,1950,28012.561
+Mexico,1951,28836.114
+Mexico,1952,29711.632
+Mexico,1953,30634.215
+Mexico,1954,31599.801
+Mexico,1955,32605.178
+Mexico,1956,33647.982
+Mexico,1957,34726.719
+Mexico,1958,35840.646
+Mexico,1959,36989.694
+Mexico,1960,38174.112
+Mexico,1961,39394.126
+Mexico,1962,40649.588
+Mexico,1963,41939.88
+Mexico,1964,43264.272
+Mexico,1965,44623.043
+Mexico,1966,46011.038
+Mexico,1967,47429.812
+Mexico,1968,48894.019
+Mexico,1969,50423.481
+Mexico,1970,52029.861
+Mexico,1971,53718.724
+Mexico,1972,55478.151
+Mexico,1973,57280.587
+Mexico,1974,59088.193
+Mexico,1975,60872.399
+Mexico,1976,62623.763
+Mexico,1977,64345.884
+Mexico,1978,66039.488
+Mexico,1979,67709.689
+Mexico,1980,69360.871
+Mexico,1981,70992.195
+Mexico,1982,72602.533
+Mexico,1983,74196.548
+Mexico,1984,75780.605
+Mexico,1985,77360.707
+Mexico,1986,78934.125
+Mexico,1987,80503.052
+Mexico,1988,82083.919
+Mexico,1989,83697.891
+Mexico,1990,85357.874
+Mexico,1991,87071.512
+Mexico,1992,88828.31
+Mexico,1993,90600.453
+Mexico,1994,92349.147
+Mexico,1995,94045.579
+Mexico,1996,95687.452
+Mexico,1997,97281.739
+Mexico,1998,98821.456
+Mexico,1999,100300.579
+Mexico,2000,101719.673
+Mexico,2001,103067.068
+Mexico,2002,104355.608
+Mexico,2003,105640.453
+Mexico,2004,106995.583
+Mexico,2005,108472.228
+Mexico,2006,110092.378
+Mexico,2007,111836.346
+Mexico,2008,113661.809
+Mexico,2009,115505.228
+Mexico,2010,117318.941
+Mexico,2011,119090.017
+Mexico,2012,120828.307
+Mexico,2013,122535.969
+Mexico,2014,124221.6
+Mexico,2015,125890.949
+Mexico,2016,127540.423
+Mexico,2017,129163.276
+Mexico,2018,130759.074
+United States of America,1950,158804.395
+United States of America,1951,160905.035
+United States of America,1952,163324.851
+United States of America,1953,165988.19
+United States of America,1954,168827.613
+United States of America,1955,171783.842
+United States of America,1956,174805.941
+United States of America,1957,177851.156
+United States of America,1958,180884.458
+United States of America,1959,183877.873
+United States of America,1960,186808.228
+United States of America,1961,189654.905
+United States of America,1962,192397.741
+United States of America,1963,195016.211
+United States of America,1964,197491.844
+United States of America,1965,199815.54
+United States of America,1966,201975.222
+United States of America,1967,203981.928
+United States of America,1968,205880.418
+United States of America,1969,207733.004
+United States of America,1970,209588.15
+United States of America,1971,211461.598
+United States of America,1972,213351.773
+United States of America,1973,215268.687
+United States of America,1974,217218.393
+United States of America,1975,219205.296
+United States of America,1976,221239.215
+United States of America,1977,223324.042
+United States of America,1978,225449.657
+United States of America,1979,227599.878
+United States of America,1980,229763.052
+United States of America,1981,231938.963
+United States of America,1982,234132.632
+United States of America,1983,236344.004
+United States of America,1984,238573.861
+United States of America,1985,240824.12
+United States of America,1986,243098.935
+United States of America,1987,245402.864
+United States of America,1988,247739.582
+United States of America,1989,250113.187
+United States of America,1990,252529.95
+United States of America,1991,254974.819
+United States of America,1992,257454.273
+United States of America,1993,260020.186
+United States of America,1994,262741.566
+United States of America,1995,265658.849
+United States of America,1996,268803.424
+United States of America,1997,272136.551
+United States of America,1998,275542.603
+United States of America,1999,278862.277
+United States of America,2000,281982.778
+United States of America,2001,284852.391
+United States of America,2002,287506.847
+United States of America,2003,290027.624
+United States of America,2004,292539.324
+United States of America,2005,295129.501
+United States of America,2006,297827.356
+United States of America,2007,300595.175
+United States of America,2008,303374.067
+United States of America,2009,306076.362
+United States of America,2010,308641.391
+United States of America,2011,311051.373
+United States of America,2012,313335.423
+United States of America,2013,315536.676
+United States of America,2014,317718.779
+United States of America,2015,319929.162
+United States of America,2016,322179.605
+United States of America,2017,324459.463
+United States of America,2018,326766.748
