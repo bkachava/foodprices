@@ -26,7 +26,7 @@ Canada,Natural rubber,"Meat live weight, pig",2000,940.7
 Canada,Natural rubber,"Meat live weight, turkey",2000,1162.2
 Canada,Natural rubber,"Meat, pig",2000,1147.2
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2000,334
-Canada,,"Milk, whole fresh cow",2000,361.6
+Canada,Raw milk,"Milk, whole fresh cow",2000,361.6
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2000,195.3
 Canada,Cereals,Oats,2000,59.3
 Canada,Fruit and nuts,Peaches and nectarines,2000,655.8
@@ -72,7 +72,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2000,1271.2
 Mexico,Natural rubber,"Meat live weight, turkey",2000,1957.6
 Mexico,Natural rubber,"Meat, pig",2000,2135.3
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2000,225.4
-Mexico,,"Milk, whole fresh cow",2000,337.4
+Mexico,Raw milk,"Milk, whole fresh cow",2000,337.4
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2000,835.5
 Mexico,Cereals,Oats,2000,212.1
 Mexico,Fruit and nuts,Peaches and nectarines,2000,610.1
@@ -118,7 +118,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2000,946
 United States of America,Natural rubber,"Meat live weight, turkey",2000,895
 United States of America,Natural rubber,"Meat, pig",2000,1332.4
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2000,377
-United States of America,,"Milk, whole fresh cow",2000,273
+United States of America,Raw milk,"Milk, whole fresh cow",2000,273
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2000,223
 United States of America,Cereals,Oats,2000,76
 United States of America,Fruit and nuts,Peaches and nectarines,2000,421
@@ -164,7 +164,7 @@ Canada,Natural rubber,"Meat live weight, pig",2001,969.8
 Canada,Natural rubber,"Meat live weight, turkey",2001,1135.1
 Canada,Natural rubber,"Meat, pig",2001,1182.7
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2001,317.7
-Canada,,"Milk, whole fresh cow",2001,353.8
+Canada,Raw milk,"Milk, whole fresh cow",2001,353.8
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2001,251.8
 Canada,Cereals,Oats,2001,82
 Canada,Fruit and nuts,Peaches and nectarines,2001,680.5
@@ -210,7 +210,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2001,1392.6
 Mexico,Natural rubber,"Meat live weight, turkey",2001,2118.3
 Mexico,Natural rubber,"Meat, pig",2001,2358.1
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2001,238.9
-Mexico,,"Milk, whole fresh cow",2001,342.5
+Mexico,Raw milk,"Milk, whole fresh cow",2001,342.5
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2001,760
 Mexico,Cereals,Oats,2001,181.7
 Mexico,Fruit and nuts,Peaches and nectarines,2001,542.8
@@ -256,7 +256,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2001,972
 United States of America,Natural rubber,"Meat live weight, turkey",2001,860
 United States of America,Natural rubber,"Meat, pig",2001,1376.1
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2001,419
-United States of America,,"Milk, whole fresh cow",2001,331
+United States of America,Raw milk,"Milk, whole fresh cow",2001,331
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2001,267
 United States of America,Cereals,Oats,2001,110
 United States of America,Fruit and nuts,Peaches and nectarines,2001,461
@@ -302,7 +302,7 @@ Canada,Natural rubber,"Meat live weight, pig",2002,763.4
 Canada,Natural rubber,"Meat live weight, turkey",2002,1127.2
 Canada,Natural rubber,"Meat, pig",2002,931
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2002,321.8
-Canada,,"Milk, whole fresh cow",2002,357.5
+Canada,Raw milk,"Milk, whole fresh cow",2002,357.5
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2002,323.1
 Canada,Cereals,Oats,2002,117.2
 Canada,Fruit and nuts,Peaches and nectarines,2002,709.9
@@ -348,7 +348,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2002,1216.9
 Mexico,Natural rubber,"Meat live weight, turkey",2002,2009.1
 Mexico,Natural rubber,"Meat, pig",2002,2103.4
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2002,235.4
-Mexico,,"Milk, whole fresh cow",2002,326.2
+Mexico,Raw milk,"Milk, whole fresh cow",2002,326.2
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2002,420.4
 Mexico,Cereals,Oats,2002,194.4
 Mexico,Fruit and nuts,Peaches and nectarines,2002,448.3
@@ -394,7 +394,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2002,734
 United States of America,Natural rubber,"Meat live weight, turkey",2002,805
 United States of America,Natural rubber,"Meat, pig",2002,1036.6
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2002,390
-United States of America,,"Milk, whole fresh cow",2002,269
+United States of America,Raw milk,"Milk, whole fresh cow",2002,269
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2002,340
 United States of America,Cereals,Oats,2002,125
 United States of America,Fruit and nuts,Peaches and nectarines,2002,441
@@ -440,7 +440,7 @@ Canada,Natural rubber,"Meat live weight, pig",2003,845.8
 Canada,Natural rubber,"Meat live weight, turkey",2003,1259.8
 Canada,Natural rubber,"Meat, pig",2003,1031.5
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2003,395.4
-Canada,,"Milk, whole fresh cow",2003,425.4
+Canada,Raw milk,"Milk, whole fresh cow",2003,425.4
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2003,367.6
 Canada,Cereals,Oats,2003,102.1
 Canada,Fruit and nuts,Peaches and nectarines,2003,812.2
@@ -486,7 +486,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2003,1147.5
 Mexico,Natural rubber,"Meat live weight, turkey",2003,1784.2
 Mexico,Natural rubber,"Meat, pig",2003,1979.8
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2003,236.3
-Mexico,,"Milk, whole fresh cow",2003,298.5
+Mexico,Raw milk,"Milk, whole fresh cow",2003,298.5
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2003,94.4
 Mexico,Cereals,Oats,2003,170.4
 Mexico,Fruit and nuts,Peaches and nectarines,2003,507.8
@@ -532,7 +532,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2003,827
 United States of America,Natural rubber,"Meat live weight, turkey",2003,763
 United States of America,Natural rubber,"Meat, pig",2003,1164.8
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2003,370
-United States of America,,"Milk, whole fresh cow",2003,277
+United States of America,Raw milk,"Milk, whole fresh cow",2003,277
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2003,353
 United States of America,Cereals,Oats,2003,102
 United States of America,Fruit and nuts,Peaches and nectarines,2003,416
@@ -578,7 +578,7 @@ Canada,Natural rubber,"Meat live weight, pig",2004,1093
 Canada,Natural rubber,"Meat live weight, turkey",2004,1419.7
 Canada,Natural rubber,"Meat, pig",2004,1332.9
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2004,379.7
-Canada,,"Milk, whole fresh cow",2004,461.2
+Canada,Raw milk,"Milk, whole fresh cow",2004,461.2
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2004,322.1
 Canada,Cereals,Oats,2004,93.8
 Canada,Fruit and nuts,Peaches and nectarines,2004,834
@@ -624,7 +624,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2004,1292.8
 Mexico,Natural rubber,"Meat live weight, turkey",2004,1821.7
 Mexico,Natural rubber,"Meat, pig",2004,2191.2
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2004,274.3
-Mexico,,"Milk, whole fresh cow",2004,310.1
+Mexico,Raw milk,"Milk, whole fresh cow",2004,310.1
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2004,104.5
 Mexico,Cereals,Oats,2004,195.6
 Mexico,Fruit and nuts,Peaches and nectarines,2004,490.1
@@ -670,7 +670,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2004,1129
 United States of America,Natural rubber,"Meat live weight, turkey",2004,915
 United States of America,Natural rubber,"Meat, pig",2004,1590.1
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2004,324
-United States of America,,"Milk, whole fresh cow",2004,356
+United States of America,Raw milk,"Milk, whole fresh cow",2004,356
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2004,335
 United States of America,Cereals,Oats,2004,102
 United States of America,Fruit and nuts,Peaches and nectarines,2004,413
@@ -716,7 +716,7 @@ Canada,Natural rubber,"Meat live weight, pig",2005,1095.1
 Canada,Natural rubber,"Meat live weight, turkey",2005,1442.5
 Canada,Natural rubber,"Meat, pig",2005,1335.5
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2005,396.9
-Canada,,"Milk, whole fresh cow",2005,528.2
+Canada,Raw milk,"Milk, whole fresh cow",2005,528.2
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2005,288
 Canada,Cereals,Oats,2005,95.7
 Canada,Fruit and nuts,Peaches and nectarines,2005,988.6
@@ -762,7 +762,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2005,1463.6
 Mexico,Natural rubber,"Meat live weight, turkey",2005,1896.7
 Mexico,Natural rubber,"Meat, pig",2005,2450
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2005,273.1
-Mexico,,"Milk, whole fresh cow",2005,345
+Mexico,Raw milk,"Milk, whole fresh cow",2005,345
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2005,122.9
 Mexico,Cereals,Oats,2005,199.3
 Mexico,Fruit and nuts,Peaches and nectarines,2005,527.6
@@ -808,7 +808,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2005,1093
 United States of America,Natural rubber,"Meat live weight, turkey",2005,981
 United States of America,Natural rubber,"Meat, pig",2005,1539.4
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2005,351
-United States of America,,"Milk, whole fresh cow",2005,335
+United States of America,Raw milk,"Milk, whole fresh cow",2005,335
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2005,298
 United States of America,Cereals,Oats,2005,112
 United States of America,Fruit and nuts,Peaches and nectarines,2005,493
@@ -854,7 +854,7 @@ Canada,Natural rubber,"Meat live weight, pig",2006,1021.1
 Canada,Natural rubber,"Meat live weight, turkey",2006,1507.5
 Canada,Natural rubber,"Meat, pig",2006,1245.3
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2006,473.4
-Canada,,"Milk, whole fresh cow",2006,574.2
+Canada,Raw milk,"Milk, whole fresh cow",2006,574.2
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2006,258
 Canada,Cereals,Oats,2006,112.6
 Canada,Fruit and nuts,Peaches and nectarines,2006,1040.9
@@ -900,7 +900,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2006,1417.5
 Mexico,Natural rubber,"Meat live weight, turkey",2006,1924.9
 Mexico,Natural rubber,"Meat, pig",2006,2396.5
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2006,262.2
-Mexico,,"Milk, whole fresh cow",2006,347.7
+Mexico,Raw milk,"Milk, whole fresh cow",2006,347.7
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2006,137.6
 Mexico,Cereals,Oats,2006,191.1
 Mexico,Fruit and nuts,Peaches and nectarines,2006,543.9
@@ -946,7 +946,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2006,1014
 United States of America,Natural rubber,"Meat live weight, turkey",2006,1058
 United States of America,Natural rubber,"Meat, pig",2006,1428.2
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2006,379
-United States of America,,"Milk, whole fresh cow",2006,286
+United States of America,Raw milk,"Milk, whole fresh cow",2006,286
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2006,302
 United States of America,Cereals,Oats,2006,129
 United States of America,Fruit and nuts,Peaches and nectarines,2006,573
@@ -992,7 +992,7 @@ Canada,Natural rubber,"Meat live weight, pig",2007,1035.5
 Canada,Natural rubber,"Meat live weight, turkey",2007,1787.5
 Canada,Natural rubber,"Meat, pig",2007,1262.8
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2007,428.6
-Canada,,"Milk, whole fresh cow",2007,639
+Canada,Raw milk,"Milk, whole fresh cow",2007,639
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2007,411.5
 Canada,Cereals,Oats,2007,150.4
 Canada,Fruit and nuts,Peaches and nectarines,2007,1054
@@ -1038,7 +1038,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2007,1331.4
 Mexico,Natural rubber,"Meat live weight, turkey",2007,2144.9
 Mexico,Natural rubber,"Meat, pig",2007,2349.9
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2007,269.1
-Mexico,,"Milk, whole fresh cow",2007,368.8
+Mexico,Raw milk,"Milk, whole fresh cow",2007,368.8
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2007,163.9
 Mexico,Cereals,Oats,2007,187.5
 Mexico,Fruit and nuts,Peaches and nectarines,2007,564.3
@@ -1084,7 +1084,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2007,1027
 United States of America,Natural rubber,"Meat live weight, turkey",2007,1153
 United States of America,Natural rubber,"Meat, pig",2007,1446.5
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2007,326
-United States of America,,"Milk, whole fresh cow",2007,424
+United States of America,Raw milk,"Milk, whole fresh cow",2007,424
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2007,617
 United States of America,Cereals,Oats,2007,181
 United States of America,Fruit and nuts,Peaches and nectarines,2007,496
@@ -1130,7 +1130,7 @@ Canada,Natural rubber,"Meat live weight, pig",2008,1016.9
 Canada,Natural rubber,"Meat live weight, turkey",2008,2024.3
 Canada,Natural rubber,"Meat, pig",2008,1240.2
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2008,424.6
-Canada,,"Milk, whole fresh cow",2008,655.6
+Canada,Raw milk,"Milk, whole fresh cow",2008,655.6
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2008,835.3
 Canada,Cereals,Oats,2008,184.9
 Canada,Fruit and nuts,Peaches and nectarines,2008,1253.5
@@ -1176,7 +1176,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2008,1419
 Mexico,Natural rubber,"Meat live weight, turkey",2008,2269.8
 Mexico,Natural rubber,"Meat, pig",2008,2489
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2008,264.5
-Mexico,,"Milk, whole fresh cow",2008,388.4
+Mexico,Raw milk,"Milk, whole fresh cow",2008,388.4
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2008,341.4
 Mexico,Cereals,Oats,2008,189.6
 Mexico,Fruit and nuts,Peaches and nectarines,2008,556.9
@@ -1222,7 +1222,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2008,1036
 United States of America,Natural rubber,"Meat live weight, turkey",2008,1252
 United States of America,Natural rubber,"Meat, pig",2008,1459.2
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2008,408
-United States of America,,"Milk, whole fresh cow",2008,407
+United States of America,Raw milk,"Milk, whole fresh cow",2008,407
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2008,966
 United States of America,Cereals,Oats,2008,217
 United States of America,Fruit and nuts,Peaches and nectarines,2008,540
@@ -1268,7 +1268,7 @@ Canada,Natural rubber,"Meat live weight, pig",2009,910.7
 Canada,Natural rubber,"Meat live weight, turkey",2009,1889.6
 Canada,Natural rubber,"Meat, pig",2009,1111.5
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2009,391.9
-Canada,,"Milk, whole fresh cow",2009,623
+Canada,Raw milk,"Milk, whole fresh cow",2009,623
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2009,730.1
 Canada,Cereals,Oats,2009,128.2
 Canada,Fruit and nuts,Peaches and nectarines,2009,1022.7
@@ -1314,7 +1314,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2009,1284.9
 Mexico,Natural rubber,"Meat live weight, turkey",2009,2128
 Mexico,Natural rubber,"Meat, pig",2009,2138
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2009,236.6
-Mexico,,"Milk, whole fresh cow",2009,350.8
+Mexico,Raw milk,"Milk, whole fresh cow",2009,350.8
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2009,1739
 Mexico,Cereals,Oats,2009,236.9
 Mexico,Fruit and nuts,Peaches and nectarines,2009,498.9
@@ -1360,7 +1360,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2009,917
 United States of America,Natural rubber,"Meat live weight, turkey",2009,1102
 United States of America,Natural rubber,"Meat, pig",2009,1294.4
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2009,401
-United States of America,,"Milk, whole fresh cow",2009,285
+United States of America,Raw milk,"Milk, whole fresh cow",2009,285
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2009,670
 United States of America,Cereals,Oats,2009,139
 United States of America,Fruit and nuts,Peaches and nectarines,2009,604
@@ -1406,7 +1406,7 @@ Canada,Natural rubber,"Meat live weight, pig",2010,1203.8
 Canada,Natural rubber,"Meat live weight, turkey",2010,1970.6
 Canada,Natural rubber,"Meat, pig",2010,1469.8
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2010,454.2
-Canada,,"Milk, whole fresh cow",2010,699.5
+Canada,Raw milk,"Milk, whole fresh cow",2010,699.5
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2010,570.4
 Canada,Cereals,Oats,2010,145.7
 Canada,Fruit and nuts,Peaches and nectarines,2010,1062.8
@@ -1452,7 +1452,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2010,1472.5
 Mexico,Natural rubber,"Meat live weight, turkey",2010,2392.9
 Mexico,Natural rubber,"Meat, pig",2010,2414.8
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2010,257.2
-Mexico,,"Milk, whole fresh cow",2010,376.6
+Mexico,Raw milk,"Milk, whole fresh cow",2010,376.6
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2010,1661.9
 Mexico,Cereals,Oats,2010,223.4
 Mexico,Fruit and nuts,Peaches and nectarines,2010,532
@@ -1498,7 +1498,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2010,1193
 United States of America,Natural rubber,"Meat live weight, turkey",2010,1356
 United States of America,Natural rubber,"Meat, pig",2010,1680.3
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2010,366
-United States of America,,"Milk, whole fresh cow",2010,360
+United States of America,Raw milk,"Milk, whole fresh cow",2010,360
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2010,571
 United States of America,Cereals,Oats,2010,174
 United States of America,Fruit and nuts,Peaches and nectarines,2010,603
@@ -1544,7 +1544,7 @@ Canada,Natural rubber,"Meat live weight, pig",2011,1443.9
 Canada,Natural rubber,"Meat live weight, turkey",2011,2233.4
 Canada,Natural rubber,"Meat, pig",2011,1755.7
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2011,469.9
-Canada,,"Milk, whole fresh cow",2011,756.9
+Canada,Raw milk,"Milk, whole fresh cow",2011,756.9
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2011,599.2
 Canada,Cereals,Oats,2011,206.3
 Canada,Fruit and nuts,Peaches and nectarines,2011,1422.3
@@ -1590,7 +1590,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2011,1559.4
 Mexico,Natural rubber,"Meat live weight, turkey",2011,2510
 Mexico,Natural rubber,"Meat, pig",2011,2527.2
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2011,254.5
-Mexico,,"Milk, whole fresh cow",2011,398
+Mexico,Raw milk,"Milk, whole fresh cow",2011,398
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2011,821.6
 Mexico,Cereals,Oats,2011,330
 Mexico,Fruit and nuts,Peaches and nectarines,2011,580.3
@@ -1636,7 +1636,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2011,1440
 United States of America,Natural rubber,"Meat live weight, turkey",2011,1499
 United States of America,Natural rubber,"Meat, pig",2011,2028.2
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2011,406
-United States of America,,"Milk, whole fresh cow",2011,446
+United States of America,Raw milk,"Milk, whole fresh cow",2011,446
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2011,741
 United States of America,Cereals,Oats,2011,240
 United States of America,Fruit and nuts,Peaches and nectarines,2011,621
@@ -1682,7 +1682,7 @@ Canada,Natural rubber,"Meat live weight, pig",2012,1382.3
 Canada,Natural rubber,"Meat live weight, turkey",2012,2341.9
 Canada,Natural rubber,"Meat, pig",2012,1681.7
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2012,390.9
-Canada,,"Milk, whole fresh cow",2012,743.6
+Canada,Raw milk,"Milk, whole fresh cow",2012,743.6
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2012,716.1
 Canada,Cereals,Oats,2012,203.7
 Canada,Fruit and nuts,Peaches and nectarines,2012,1828.1
@@ -1728,7 +1728,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2012,1552.4
 Mexico,Natural rubber,"Meat live weight, turkey",2012,2444.2
 Mexico,Natural rubber,"Meat, pig",2012,2482.2
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2012,301.4
-Mexico,,"Milk, whole fresh cow",2012,393.9
+Mexico,Raw milk,"Milk, whole fresh cow",2012,393.9
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2012,2050.2
 Mexico,Cereals,Oats,2012,382.4
 Mexico,Fruit and nuts,Peaches and nectarines,2012,554.1
@@ -1774,7 +1774,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2012,1415
 United States of America,Natural rubber,"Meat live weight, turkey",2012,1585
 United States of America,Natural rubber,"Meat, pig",2012,1993
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2012,421
-United States of America,,"Milk, whole fresh cow",2012,409
+United States of America,Raw milk,"Milk, whole fresh cow",2012,409
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2012,789
 United States of America,Cereals,Oats,2012,268
 United States of America,Fruit and nuts,Peaches and nectarines,2012,713
@@ -1820,7 +1820,7 @@ Canada,Natural rubber,"Meat live weight, pig",2013,1439.9
 Canada,Natural rubber,"Meat live weight, turkey",2013,2282
 Canada,Natural rubber,"Meat, pig",2013,1759.6
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2013,430.4
-Canada,,"Milk, whole fresh cow",2013,732.8
+Canada,Raw milk,"Milk, whole fresh cow",2013,732.8
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2013,761
 Canada,Cereals,Oats,2013,213.3
 Canada,Fruit and nuts,Peaches and nectarines,2013,1458.1
@@ -1866,7 +1866,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2013,1691.6
 Mexico,Natural rubber,"Meat live weight, turkey",2013,2712.2
 Mexico,Natural rubber,"Meat, pig",2013,2767.5
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2013,302.6
-Mexico,,"Milk, whole fresh cow",2013,433.3
+Mexico,Raw milk,"Milk, whole fresh cow",2013,433.3
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2013,2192.3
 Mexico,Cereals,Oats,2013,276.9
 Mexico,Fruit and nuts,Peaches and nectarines,2013,626.2
@@ -1912,7 +1912,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2013,1482
 United States of America,Natural rubber,"Meat live weight, turkey",2013,1466
 United States of America,Natural rubber,"Meat, pig",2013,2087.3
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2013,388
-United States of America,,"Milk, whole fresh cow",2013,443
+United States of America,Raw milk,"Milk, whole fresh cow",2013,443
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2013,820
 United States of America,Cereals,Oats,2013,258
 United States of America,Fruit and nuts,Peaches and nectarines,2013,680
@@ -1958,7 +1958,7 @@ Canada,Natural rubber,"Meat live weight, pig",2014,1691
 Canada,Natural rubber,"Meat live weight, turkey",2014,2088.4
 Canada,Natural rubber,"Meat, pig",2014,2060
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2014,366.5
-Canada,,"Milk, whole fresh cow",2014,702.9
+Canada,Raw milk,"Milk, whole fresh cow",2014,702.9
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2014,662.4
 Canada,Cereals,Oats,2014,166
 Canada,Fruit and nuts,Peaches and nectarines,2014,1433.7
@@ -2004,7 +2004,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2014,1837
 Mexico,Natural rubber,"Meat live weight, turkey",2014,2633.8
 Mexico,Natural rubber,"Meat, pig",2014,2857.8
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2014,363.3
-Mexico,,"Milk, whole fresh cow",2014,439.3
+Mexico,Raw milk,"Milk, whole fresh cow",2014,439.3
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2014,2407.4
 Mexico,Cereals,Oats,2014,264
 Mexico,Fruit and nuts,Peaches and nectarines,2014,576.8
@@ -2050,7 +2050,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2014,1687
 United States of America,Natural rubber,"Meat live weight, turkey",2014,1614
 United States of America,Natural rubber,"Meat, pig",2014,2376.1
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2014,487
-United States of America,,"Milk, whole fresh cow",2014,531
+United States of America,Raw milk,"Milk, whole fresh cow",2014,531
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2014,767
 United States of America,Cereals,Oats,2014,221
 United States of America,Fruit and nuts,Peaches and nectarines,2014,828
@@ -2096,7 +2096,7 @@ Canada,Natural rubber,"Meat live weight, pig",2015,1142.7
 Canada,Natural rubber,"Meat live weight, turkey",2015,1806
 Canada,Natural rubber,"Meat, pig",2015,1390.8
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2015,344.9
-Canada,,"Milk, whole fresh cow",2015,577.6
+Canada,Raw milk,"Milk, whole fresh cow",2015,577.6
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2015,579.7
 Canada,Cereals,Oats,2015,142.2
 Canada,Fruit and nuts,Peaches and nectarines,2015,1320.8
@@ -2142,7 +2142,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2015,1574
 Mexico,Natural rubber,"Meat live weight, turkey",2015,2280.6
 Mexico,Natural rubber,"Meat, pig",2015,2580.2
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2015,260.7
-Mexico,,"Milk, whole fresh cow",2015,370.8
+Mexico,Raw milk,"Milk, whole fresh cow",2015,370.8
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2015,2271.5
 Mexico,Cereals,Oats,2015,256.2
 Mexico,Fruit and nuts,Peaches and nectarines,2015,494.2
@@ -2188,7 +2188,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2015,1219
 United States of America,Natural rubber,"Meat live weight, turkey",2015,1788
 United States of America,Natural rubber,"Meat, pig",2015,1716.9
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2015,430
-United States of America,,"Milk, whole fresh cow",2015,379
+United States of America,Raw milk,"Milk, whole fresh cow",2015,379
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2015,701
 United States of America,Cereals,Oats,2015,146
 United States of America,Fruit and nuts,Peaches and nectarines,2015,809
@@ -2234,7 +2234,7 @@ Canada,Natural rubber,"Meat live weight, pig",2016,1069.2
 Canada,Natural rubber,"Meat live weight, turkey",2016,1697.6
 Canada,Natural rubber,"Meat, pig",2016,1304.1
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2016,368.3
-Canada,,"Milk, whole fresh cow",2016,551.9
+Canada,Raw milk,"Milk, whole fresh cow",2016,551.9
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2016,675.2
 Canada,Cereals,Oats,2016,132.4
 Canada,Fruit and nuts,Peaches and nectarines,2016,1123.4
@@ -2280,7 +2280,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2016,1361.3
 Mexico,Natural rubber,"Meat live weight, turkey",2016,1957.3
 Mexico,Natural rubber,"Meat, pig",2016,2215
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2016,266.5
-Mexico,,"Milk, whole fresh cow",2016,312.7
+Mexico,Raw milk,"Milk, whole fresh cow",2016,312.7
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2016,2143.2
 Mexico,Cereals,Oats,2016,224.8
 Mexico,Fruit and nuts,Peaches and nectarines,2016,422.7
@@ -2326,7 +2326,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2016,1087
 United States of America,Natural rubber,"Meat live weight, turkey",2016,1819
 United States of America,Natural rubber,"Meat, pig",2016,1531
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2016,379
-United States of America,,"Milk, whole fresh cow",2016,360
+United States of America,Raw milk,"Milk, whole fresh cow",2016,360
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2016,721
 United States of America,Cereals,Oats,2016,142
 United States of America,Fruit and nuts,Peaches and nectarines,2016,890
@@ -2372,7 +2372,7 @@ Canada,Natural rubber,"Meat live weight, pig",2017,1179.5
 Canada,Natural rubber,"Meat live weight, turkey",2017,1733.8
 Canada,Natural rubber,"Meat, pig",2017,
 Canada,Vegetables,"Melons, other (inc.cantaloupes)",2017,332.6
-Canada,,"Milk, whole fresh cow",2017,564.2
+Canada,Raw milk,"Milk, whole fresh cow",2017,564.2
 Canada,Oilseeds and oleaginous fruits,Mustard seed,2017,
 Canada,Cereals,Oats,2017,146
 Canada,Fruit and nuts,Peaches and nectarines,2017,1264.4
@@ -2418,7 +2418,7 @@ Mexico,Natural rubber,"Meat live weight, pig",2017,1404
 Mexico,Natural rubber,"Meat live weight, turkey",2017,2011
 Mexico,Natural rubber,"Meat, pig",2017,2279
 Mexico,Vegetables,"Melons, other (inc.cantaloupes)",2017,257.3
-Mexico,,"Milk, whole fresh cow",2017,317.3
+Mexico,Raw milk,"Milk, whole fresh cow",2017,317.3
 Mexico,Oilseeds and oleaginous fruits,Mustard seed,2017,
 Mexico,Cereals,Oats,2017,211.9
 Mexico,Fruit and nuts,Peaches and nectarines,2017,432.5
@@ -2464,7 +2464,7 @@ United States of America,Natural rubber,"Meat live weight, pig",2017,1171
 United States of America,Natural rubber,"Meat live weight, turkey",2017,1422
 United States of America,Natural rubber,"Meat, pig",2017,
 United States of America,Vegetables,"Melons, other (inc.cantaloupes)",2017,425
-United States of America,,"Milk, whole fresh cow",2017,390
+United States of America,Raw milk,"Milk, whole fresh cow",2017,390
 United States of America,Oilseeds and oleaginous fruits,Mustard seed,2017,721
 United States of America,Cereals,Oats,2017,179
 United States of America,Fruit and nuts,Peaches and nectarines,2017,
