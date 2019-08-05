@@ -1,0 +1,541 @@
+Item,Year,Unit,Value,Flag,FlagDescription
+"Butter, cow milk",1961,tonnes,11000,,Official data
+"Butter, cow milk",1962,tonnes,12000,,Official data
+"Butter, cow milk",1963,tonnes,13000,,Official data
+"Butter, cow milk",1964,tonnes,13000,,Official data
+"Butter, cow milk",1965,tonnes,14000,,Official data
+"Butter, cow milk",1966,tonnes,14000,,Official data
+"Butter, cow milk",1967,tonnes,15000,F,FAO estimate
+"Butter, cow milk",1968,tonnes,16000,F,FAO estimate
+"Butter, cow milk",1969,tonnes,17000,F,FAO estimate
+"Butter, cow milk",1970,tonnes,18000,F,FAO estimate
+"Butter, cow milk",1971,tonnes,19000,F,FAO estimate
+"Butter, cow milk",1972,tonnes,20000,F,FAO estimate
+"Butter, cow milk",1973,tonnes,21000,F,FAO estimate
+"Butter, cow milk",1974,tonnes,22000,F,FAO estimate
+"Butter, cow milk",1975,tonnes,23000,F,FAO estimate
+"Butter, cow milk",1976,tonnes,23000,F,FAO estimate
+"Butter, cow milk",1977,tonnes,24000,F,FAO estimate
+"Butter, cow milk",1978,tonnes,25000,F,FAO estimate
+"Butter, cow milk",1979,tonnes,24000,F,FAO estimate
+"Butter, cow milk",1980,tonnes,21000,*,Unofficial figure
+"Butter, cow milk",1981,tonnes,21000,*,Unofficial figure
+"Butter, cow milk",1982,tonnes,23000,*,Unofficial figure
+"Butter, cow milk",1983,tonnes,24000,*,Unofficial figure
+"Butter, cow milk",1984,tonnes,25000,*,Unofficial figure
+"Butter, cow milk",1985,tonnes,25000,*,Unofficial figure
+"Butter, cow milk",1986,tonnes,28896,,Official data
+"Butter, cow milk",1987,tonnes,28608,,Official data
+"Butter, cow milk",1988,tonnes,28608,,Official data
+"Butter, cow milk",1989,tonnes,28800,,Official data
+"Butter, cow milk",1990,tonnes,38000,*,Unofficial figure
+"Butter, cow milk",1991,tonnes,25305,,Official data
+"Butter, cow milk",1992,tonnes,38000,*,Unofficial figure
+"Butter, cow milk",1993,tonnes,34294,,Official data
+"Butter, cow milk",1994,tonnes,30184,,Official data
+"Butter, cow milk",1995,tonnes,30904,,Official data
+"Butter, cow milk",1996,tonnes,30000,*,Unofficial figure
+"Butter, cow milk",1997,tonnes,32865,,Official data
+"Butter, cow milk",1998,tonnes,13253,,Official data
+"Butter, cow milk",1999,tonnes,15280,,Official data
+"Butter, cow milk",2000,tonnes,15478,,Official data
+"Butter, cow milk",2001,tonnes,14973,,Official data
+"Butter, cow milk",2002,tonnes,14211,,Official data
+"Butter, cow milk",2003,tonnes,15808,,Official data
+"Butter, cow milk",2004,tonnes,18447,,Official data
+"Butter, cow milk",2005,tonnes,18500,F,FAO estimate
+"Butter, cow milk",2006,tonnes,18530,F,FAO estimate
+"Butter, cow milk",2007,tonnes,18500,F,FAO estimate
+"Butter, cow milk",2008,tonnes,19506,Im,FAO data based on imputation methodology
+"Butter, cow milk",2009,tonnes,19085,Im,FAO data based on imputation methodology
+"Butter, cow milk",2010,tonnes,20500,Im,FAO data based on imputation methodology
+"Butter, cow milk",2011,tonnes,20600,F,FAO estimate
+"Butter, cow milk",2012,tonnes,20900,F,FAO estimate
+"Butter, cow milk",2013,tonnes,20900,F,FAO estimate
+"Butter, cow milk",2014,tonnes,20900,Im,FAO data based on imputation methodology
+Cheese of goat milk,1961,tonnes,24716,Fc,Calculated data
+Cheese of goat milk,1962,tonnes,25551,Fc,Calculated data
+Cheese of goat milk,1963,tonnes,26720,Fc,Calculated data
+Cheese of goat milk,1964,tonnes,21710,Fc,Calculated data
+Cheese of goat milk,1965,tonnes,22044,Fc,Calculated data
+Cheese of goat milk,1966,tonnes,22044,Fc,Calculated data
+Cheese of goat milk,1967,tonnes,23714,Fc,Calculated data
+Cheese of goat milk,1968,tonnes,22879,Fc,Calculated data
+Cheese of goat milk,1969,tonnes,25718,Fc,Calculated data
+Cheese of goat milk,1970,tonnes,27722,Fc,Calculated data
+Cheese of goat milk,1971,tonnes,27722,Fc,Calculated data
+Cheese of goat milk,1972,tonnes,27221,Fc,Calculated data
+Cheese of goat milk,1973,tonnes,27054,Fc,Calculated data
+Cheese of goat milk,1974,tonnes,28056,Fc,Calculated data
+Cheese of goat milk,1975,tonnes,28724,Fc,Calculated data
+Cheese of goat milk,1976,tonnes,29058,Fc,Calculated data
+Cheese of goat milk,1977,tonnes,29392,Fc,Calculated data
+Cheese of goat milk,1978,tonnes,29726,Fc,Calculated data
+Cheese of goat milk,1979,tonnes,29726,Fc,Calculated data
+Cheese of goat milk,1980,tonnes,29726,Fc,Calculated data
+Cheese of goat milk,1981,tonnes,30895,Fc,Calculated data
+Cheese of goat milk,1982,tonnes,31730,Fc,Calculated data
+Cheese of goat milk,1983,tonnes,33400,Fc,Calculated data
+Cheese of goat milk,1984,tonnes,33400,Fc,Calculated data
+Cheese of goat milk,1985,tonnes,30060,Fc,Calculated data
+Cheese of goat milk,1986,tonnes,16700,Fc,Calculated data
+Cheese of goat milk,1987,tonnes,15030,Fc,Calculated data
+Cheese of goat milk,1988,tonnes,12525,Fc,Calculated data
+Cheese of goat milk,1989,tonnes,12525,Fc,Calculated data
+Cheese of goat milk,1990,tonnes,12525,Im,FAO data based on imputation methodology
+Cheese of goat milk,1991,tonnes,12525,Im,FAO data based on imputation methodology
+Cheese of goat milk,1992,tonnes,12525,Im,FAO data based on imputation methodology
+Cheese of goat milk,1993,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1994,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1995,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1996,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1997,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1998,tonnes,13360,Im,FAO data based on imputation methodology
+Cheese of goat milk,1999,tonnes,13527,Im,FAO data based on imputation methodology
+Cheese of goat milk,2000,tonnes,13694,Im,FAO data based on imputation methodology
+Cheese of goat milk,2001,tonnes,13861,Im,FAO data based on imputation methodology
+Cheese of goat milk,2002,tonnes,14529,Im,FAO data based on imputation methodology
+Cheese of goat milk,2003,tonnes,15030,Im,FAO data based on imputation methodology
+Cheese of goat milk,2004,tonnes,16032,Im,FAO data based on imputation methodology
+Cheese of goat milk,2005,tonnes,16366,Im,FAO data based on imputation methodology
+Cheese of goat milk,2006,tonnes,16366,Im,FAO data based on imputation methodology
+Cheese of goat milk,2007,tonnes,16533,Im,FAO data based on imputation methodology
+Cheese of goat milk,2008,tonnes,16867,Im,FAO data based on imputation methodology
+Cheese of goat milk,2009,tonnes,16867,Im,FAO data based on imputation methodology
+Cheese of goat milk,2010,tonnes,16700,Im,FAO data based on imputation methodology
+Cheese of goat milk,2011,tonnes,16700,Im,FAO data based on imputation methodology
+Cheese of goat milk,2012,tonnes,16032,Im,FAO data based on imputation methodology
+Cheese of goat milk,2013,tonnes,15698,Im,FAO data based on imputation methodology
+Cheese of goat milk,2014,tonnes,15698,Im,FAO data based on imputation methodology
+"Cheese, whole cow milk",1961,tonnes,35000,,Official data
+"Cheese, whole cow milk",1962,tonnes,36000,,Official data
+"Cheese, whole cow milk",1963,tonnes,38000,,Official data
+"Cheese, whole cow milk",1964,tonnes,39000,,Official data
+"Cheese, whole cow milk",1965,tonnes,41000,,Official data
+"Cheese, whole cow milk",1966,tonnes,43000,,Official data
+"Cheese, whole cow milk",1967,tonnes,46000,F,FAO estimate
+"Cheese, whole cow milk",1968,tonnes,48000,F,FAO estimate
+"Cheese, whole cow milk",1969,tonnes,50000,F,FAO estimate
+"Cheese, whole cow milk",1970,tonnes,50000,F,FAO estimate
+"Cheese, whole cow milk",1971,tonnes,51000,F,FAO estimate
+"Cheese, whole cow milk",1972,tonnes,52000,F,FAO estimate
+"Cheese, whole cow milk",1973,tonnes,53000,F,FAO estimate
+"Cheese, whole cow milk",1974,tonnes,54000,F,FAO estimate
+"Cheese, whole cow milk",1975,tonnes,59900,,Official data
+"Cheese, whole cow milk",1976,tonnes,62000,,Official data
+"Cheese, whole cow milk",1977,tonnes,64000,,Official data
+"Cheese, whole cow milk",1978,tonnes,66000,,Official data
+"Cheese, whole cow milk",1979,tonnes,66000,F,FAO estimate
+"Cheese, whole cow milk",1980,tonnes,67000,F,FAO estimate
+"Cheese, whole cow milk",1981,tonnes,68000,F,FAO estimate
+"Cheese, whole cow milk",1982,tonnes,69000,F,FAO estimate
+"Cheese, whole cow milk",1983,tonnes,66500,F,FAO estimate
+"Cheese, whole cow milk",1984,tonnes,66500,F,FAO estimate
+"Cheese, whole cow milk",1985,tonnes,66500,F,FAO estimate
+"Cheese, whole cow milk",1986,tonnes,78010,,Official data
+"Cheese, whole cow milk",1987,tonnes,100470,,Official data
+"Cheese, whole cow milk",1988,tonnes,100470,,Official data
+"Cheese, whole cow milk",1989,tonnes,102000,,Official data
+"Cheese, whole cow milk",1990,tonnes,100000,F,FAO estimate
+"Cheese, whole cow milk",1991,tonnes,100000,F,FAO estimate
+"Cheese, whole cow milk",1992,tonnes,118000,,Official data
+"Cheese, whole cow milk",1993,tonnes,118000,,Official data
+"Cheese, whole cow milk",1994,tonnes,118315,,Official data
+"Cheese, whole cow milk",1995,tonnes,112891,,Official data
+"Cheese, whole cow milk",1996,tonnes,109532,,Official data
+"Cheese, whole cow milk",1997,tonnes,116409,,Official data
+"Cheese, whole cow milk",1998,tonnes,116864,,Official data
+"Cheese, whole cow milk",1999,tonnes,125643,,Official data
+"Cheese, whole cow milk",2000,tonnes,133509,,Official data
+"Cheese, whole cow milk",2001,tonnes,139646,,Official data
+"Cheese, whole cow milk",2002,tonnes,138032,,Official data
+"Cheese, whole cow milk",2003,tonnes,126521,,Official data
+"Cheese, whole cow milk",2004,tonnes,132654,,Official data
+"Cheese, whole cow milk",2005,tonnes,132800,F,FAO estimate
+"Cheese, whole cow milk",2006,tonnes,133000,F,FAO estimate
+"Cheese, whole cow milk",2007,tonnes,133000,F,FAO estimate
+"Cheese, whole cow milk",2008,tonnes,138000,F,FAO estimate
+"Cheese, whole cow milk",2009,tonnes,135000,F,FAO estimate
+"Cheese, whole cow milk",2010,tonnes,137000,F,FAO estimate
+"Cheese, whole cow milk",2011,tonnes,138000,F,FAO estimate
+"Cheese, whole cow milk",2012,tonnes,140000,F,FAO estimate
+"Cheese, whole cow milk",2013,tonnes,140000,F,FAO estimate
+"Cheese, whole cow milk",2014,tonnes,140000,Im,FAO data based on imputation methodology
+Lard,1961,tonnes,21385,Fc,Calculated data
+Lard,1962,tonnes,21385,Fc,Calculated data
+Lard,1963,tonnes,21491,Fc,Calculated data
+Lard,1964,tonnes,21593,Fc,Calculated data
+Lard,1965,tonnes,21694,Fc,Calculated data
+Lard,1966,tonnes,21802,Fc,Calculated data
+Lard,1967,tonnes,22513,Fc,Calculated data
+Lard,1968,tonnes,22614,Fc,Calculated data
+Lard,1969,tonnes,23324,Fc,Calculated data
+Lard,1970,tonnes,24291,Fc,Calculated data
+Lard,1971,tonnes,25539,Fc,Calculated data
+Lard,1972,tonnes,30712,Fc,Calculated data
+Lard,1973,tonnes,33121,Fc,Calculated data
+Lard,1974,tonnes,36836,Fc,Calculated data
+Lard,1975,tonnes,40841,Fc,Calculated data
+Lard,1976,tonnes,45477,Fc,Calculated data
+Lard,1977,tonnes,50027,Fc,Calculated data
+Lard,1978,tonnes,53563,Fc,Calculated data
+Lard,1979,tonnes,57426,Fc,Calculated data
+Lard,1980,tonnes,61503,Fc,Calculated data
+Lard,1981,tonnes,64376,Fc,Calculated data
+Lard,1982,tonnes,67229,Fc,Calculated data
+Lard,1983,tonnes,72824,Fc,Calculated data
+Lard,1984,tonnes,72129,Fc,Calculated data
+Lard,1985,tonnes,65439,Fc,Calculated data
+Lard,1986,tonnes,52785,Fc,Calculated data
+Lard,1987,tonnes,44900,Fc,Calculated data
+Lard,1988,tonnes,48727,Fc,Calculated data
+Lard,1989,tonnes,42471,Fc,Calculated data
+Lard,1990,tonnes,42635,Im,FAO data based on imputation methodology
+Lard,1991,tonnes,46321,Im,FAO data based on imputation methodology
+Lard,1992,tonnes,50863,Im,FAO data based on imputation methodology
+Lard,1993,tonnes,53785,Im,FAO data based on imputation methodology
+Lard,1994,tonnes,54739,Im,FAO data based on imputation methodology
+Lard,1995,tonnes,70414,Im,FAO data based on imputation methodology
+Lard,1996,tonnes,69228,Im,FAO data based on imputation methodology
+Lard,1997,tonnes,62512,Im,FAO data based on imputation methodology
+Lard,1998,tonnes,61722,Im,FAO data based on imputation methodology
+Lard,1999,tonnes,62987,Im,FAO data based on imputation methodology
+Lard,2000,tonnes,63471,Im,FAO data based on imputation methodology
+Lard,2001,tonnes,67680,Im,FAO data based on imputation methodology
+Lard,2002,tonnes,61099,Im,FAO data based on imputation methodology
+Lard,2003,tonnes,67029,Im,FAO data based on imputation methodology
+Lard,2004,tonnes,73628,Im,FAO data based on imputation methodology
+Lard,2005,tonnes,76622,Im,FAO data based on imputation methodology
+Lard,2006,tonnes,77374,Im,FAO data based on imputation methodology
+Lard,2007,tonnes,80500,Im,FAO data based on imputation methodology
+Lard,2008,tonnes,87332,Im,FAO data based on imputation methodology
+Lard,2009,tonnes,95461,Im,FAO data based on imputation methodology
+Lard,2010,tonnes,97477,Im,FAO data based on imputation methodology
+Lard,2011,tonnes,92974,Im,FAO data based on imputation methodology
+Lard,2012,tonnes,101099,Im,FAO data based on imputation methodology
+Lard,2013,tonnes,110319,Im,FAO data based on imputation methodology
+Lard,2014,tonnes,108927,Im,FAO data based on imputation methodology
+"Milk, skimmed cow",1961,tonnes,254000,F,FAO estimate
+"Milk, skimmed cow",1962,tonnes,273000,F,FAO estimate
+"Milk, skimmed cow",1963,tonnes,298000,F,FAO estimate
+"Milk, skimmed cow",1964,tonnes,297000,F,FAO estimate
+"Milk, skimmed cow",1965,tonnes,319000,F,FAO estimate
+"Milk, skimmed cow",1966,tonnes,319000,F,FAO estimate
+"Milk, skimmed cow",1967,tonnes,345000,F,FAO estimate
+"Milk, skimmed cow",1968,tonnes,368000,F,FAO estimate
+"Milk, skimmed cow",1969,tonnes,391000,F,FAO estimate
+"Milk, skimmed cow",1970,tonnes,414000,F,FAO estimate
+"Milk, skimmed cow",1971,tonnes,433000,F,FAO estimate
+"Milk, skimmed cow",1972,tonnes,456000,F,FAO estimate
+"Milk, skimmed cow",1973,tonnes,479000,F,FAO estimate
+"Milk, skimmed cow",1974,tonnes,501800,F,FAO estimate
+"Milk, skimmed cow",1975,tonnes,524600,F,FAO estimate
+"Milk, skimmed cow",1976,tonnes,524600,F,FAO estimate
+"Milk, skimmed cow",1977,tonnes,547400,F,FAO estimate
+"Milk, skimmed cow",1978,tonnes,570000,F,FAO estimate
+"Milk, skimmed cow",1979,tonnes,576000,F,FAO estimate
+"Milk, skimmed cow",1980,tonnes,504000,F,FAO estimate
+"Milk, skimmed cow",1981,tonnes,504000,F,FAO estimate
+"Milk, skimmed cow",1982,tonnes,552000,F,FAO estimate
+"Milk, skimmed cow",1983,tonnes,576000,F,FAO estimate
+"Milk, skimmed cow",1984,tonnes,600000,F,FAO estimate
+"Milk, skimmed cow",1985,tonnes,600000,F,FAO estimate
+"Milk, skimmed cow",1986,tonnes,571000,F,FAO estimate
+"Milk, skimmed cow",1987,tonnes,566000,F,FAO estimate
+"Milk, skimmed cow",1988,tonnes,566000,F,FAO estimate
+"Milk, skimmed cow",1989,tonnes,570000,F,FAO estimate
+"Milk, skimmed cow",1990,tonnes,752000,F,FAO estimate
+"Milk, skimmed cow",1991,tonnes,501000,F,FAO estimate
+"Milk, skimmed cow",1992,tonnes,752000,F,FAO estimate
+"Milk, skimmed cow",1993,tonnes,678000,F,FAO estimate
+"Milk, skimmed cow",1994,tonnes,597000,F,FAO estimate
+"Milk, skimmed cow",1995,tonnes,611000,F,FAO estimate
+"Milk, skimmed cow",1996,tonnes,652000,F,FAO estimate
+"Milk, skimmed cow",1997,tonnes,655000,F,FAO estimate
+"Milk, skimmed cow",1998,tonnes,260201,F,FAO estimate
+"Milk, skimmed cow",1999,tonnes,300522,F,FAO estimate
+"Milk, skimmed cow",2000,tonnes,304402,F,FAO estimate
+"Milk, skimmed cow",2001,tonnes,294471,F,FAO estimate
+"Milk, skimmed cow",2002,tonnes,294803,F,FAO estimate
+"Milk, skimmed cow",2003,tonnes,314352,F,FAO estimate
+"Milk, skimmed cow",2004,tonnes,366830,F,FAO estimate
+"Milk, skimmed cow",2005,tonnes,367660,F,FAO estimate
+"Milk, skimmed cow",2006,tonnes,368160,F,FAO estimate
+"Milk, skimmed cow",2007,tonnes,367690,F,FAO estimate
+"Milk, skimmed cow",2008,tonnes,387700,F,FAO estimate
+"Milk, skimmed cow",2009,tonnes,379300,F,FAO estimate
+"Milk, skimmed cow",2010,tonnes,407430,F,FAO estimate
+"Milk, skimmed cow",2011,tonnes,409300,F,FAO estimate
+"Milk, skimmed cow",2012,tonnes,415300,F,FAO estimate
+"Milk, skimmed cow",2013,tonnes,415200,F,FAO estimate
+"Milk, skimmed cow",2014,tonnes,415200,Im,FAO data based on imputation methodology
+"Milk, skimmed dried",1961,tonnes,1591,,Official data
+"Milk, skimmed dried",1962,tonnes,1945,*,Unofficial figure
+"Milk, skimmed dried",1963,tonnes,1951,,Official data
+"Milk, skimmed dried",1964,tonnes,2202,,Official data
+"Milk, skimmed dried",1965,tonnes,2138,,Official data
+"Milk, skimmed dried",1966,tonnes,3288,,Official data
+"Milk, skimmed dried",1967,tonnes,2970,,Official data
+"Milk, skimmed dried",1968,tonnes,3429,,Official data
+"Milk, skimmed dried",1969,tonnes,2786,,Official data
+"Milk, skimmed dried",1970,tonnes,2064,,Official data
+"Milk, skimmed dried",1971,tonnes,1941,,Official data
+"Milk, skimmed dried",1972,tonnes,1931,,Official data
+"Milk, skimmed dried",1973,tonnes,2680,,Official data
+"Milk, skimmed dried",1974,tonnes,3136,,Official data
+"Milk, skimmed dried",1975,tonnes,3712,,Official data
+"Milk, skimmed dried",1976,tonnes,5352,,Official data
+"Milk, skimmed dried",1977,tonnes,6000,,Official data
+"Milk, skimmed dried",1978,tonnes,7270,,Official data
+"Milk, skimmed dried",1979,tonnes,7108,,Official data
+"Milk, skimmed dried",1980,tonnes,5000,F,FAO estimate
+"Milk, skimmed dried",1981,tonnes,5500,F,FAO estimate
+"Milk, skimmed dried",1982,tonnes,6000,F,FAO estimate
+"Milk, skimmed dried",1983,tonnes,6000,F,FAO estimate
+"Milk, skimmed dried",1984,tonnes,6000,F,FAO estimate
+"Milk, skimmed dried",1985,tonnes,6000,F,FAO estimate
+"Milk, skimmed dried",1986,tonnes,6000,F,FAO estimate
+"Milk, skimmed dried",1987,tonnes,4000,*,Unofficial figure
+"Milk, skimmed dried",1988,tonnes,5000,*,Unofficial figure
+"Milk, skimmed dried",1989,tonnes,6000,*,Unofficial figure
+"Milk, skimmed dried",1990,tonnes,9000,*,Unofficial figure
+"Milk, skimmed dried",1991,tonnes,11807,,Official data
+"Milk, skimmed dried",1992,tonnes,12000,*,Unofficial figure
+"Milk, skimmed dried",1993,tonnes,16308,,Official data
+"Milk, skimmed dried",1994,tonnes,20000,*,Unofficial figure
+"Milk, skimmed dried",1995,tonnes,26763,,Official data
+"Milk, skimmed dried",1996,tonnes,26350,,Official data
+"Milk, skimmed dried",1997,tonnes,25306,,Official data
+"Milk, skimmed dried",1998,tonnes,15200,F,FAO estimate
+"Milk, skimmed dried",1999,tonnes,17500,F,FAO estimate
+"Milk, skimmed dried",2000,tonnes,17600,F,FAO estimate
+"Milk, skimmed dried",2001,tonnes,17500,F,FAO estimate
+"Milk, skimmed dried",2002,tonnes,17700,F,FAO estimate
+"Milk, skimmed dried",2003,tonnes,18200,F,FAO estimate
+"Milk, skimmed dried",2004,tonnes,21000,F,FAO estimate
+"Milk, skimmed dried",2005,tonnes,21050,F,FAO estimate
+"Milk, skimmed dried",2006,tonnes,26000,F,FAO estimate
+"Milk, skimmed dried",2007,tonnes,24000,F,FAO estimate
+"Milk, skimmed dried",2008,tonnes,25000,F,FAO estimate
+"Milk, skimmed dried",2009,tonnes,24400,F,FAO estimate
+"Milk, skimmed dried",2010,tonnes,26200,F,FAO estimate
+"Milk, skimmed dried",2011,tonnes,26300,F,FAO estimate
+"Milk, skimmed dried",2012,tonnes,26700,F,FAO estimate
+"Milk, skimmed dried",2013,tonnes,26700,F,FAO estimate
+"Milk, skimmed dried",2014,tonnes,26700,Im,FAO data based on imputation methodology
+"Milk, whole condensed",1961,tonnes,11210,,Official data
+"Milk, whole condensed",1962,tonnes,13124,,Official data
+"Milk, whole condensed",1963,tonnes,12157,,Official data
+"Milk, whole condensed",1964,tonnes,17434,,Official data
+"Milk, whole condensed",1965,tonnes,15570,,Official data
+"Milk, whole condensed",1966,tonnes,17310,,Official data
+"Milk, whole condensed",1967,tonnes,19458,,Official data
+"Milk, whole condensed",1968,tonnes,24652,,Official data
+"Milk, whole condensed",1969,tonnes,21524,,Official data
+"Milk, whole condensed",1970,tonnes,20851,,Official data
+"Milk, whole condensed",1971,tonnes,23237,,Official data
+"Milk, whole condensed",1972,tonnes,26407,,Official data
+"Milk, whole condensed",1973,tonnes,23208,,Official data
+"Milk, whole condensed",1974,tonnes,23555,,Official data
+"Milk, whole condensed",1975,tonnes,17922,,Official data
+"Milk, whole condensed",1976,tonnes,20010,,Official data
+"Milk, whole condensed",1977,tonnes,21954,,Official data
+"Milk, whole condensed",1978,tonnes,22835,,Official data
+"Milk, whole condensed",1979,tonnes,25624,,Official data
+"Milk, whole condensed",1980,tonnes,28476,,Official data
+"Milk, whole condensed",1981,tonnes,27580,,Official data
+"Milk, whole condensed",1982,tonnes,21634,,Official data
+"Milk, whole condensed",1983,tonnes,22011,,Official data
+"Milk, whole condensed",1984,tonnes,21860,,Official data
+"Milk, whole condensed",1985,tonnes,23000,F,FAO estimate
+"Milk, whole condensed",1986,tonnes,25000,F,FAO estimate
+"Milk, whole condensed",1987,tonnes,27000,F,FAO estimate
+"Milk, whole condensed",1988,tonnes,29000,F,FAO estimate
+"Milk, whole condensed",1989,tonnes,30000,F,FAO estimate
+"Milk, whole condensed",1990,tonnes,32000,F,FAO estimate
+"Milk, whole condensed",1991,tonnes,27402,,Official data
+"Milk, whole condensed",1992,tonnes,36000,F,FAO estimate
+"Milk, whole condensed",1993,tonnes,36757,,Official data
+"Milk, whole condensed",1994,tonnes,36750,F,FAO estimate
+"Milk, whole condensed",1995,tonnes,36750,F,FAO estimate
+"Milk, whole condensed",1996,tonnes,36750,F,FAO estimate
+"Milk, whole condensed",1997,tonnes,36750,F,FAO estimate
+"Milk, whole condensed",1998,tonnes,36750,F,FAO estimate
+"Milk, whole condensed",1999,tonnes,39250,F,FAO estimate
+"Milk, whole condensed",2000,tonnes,41250,F,FAO estimate
+"Milk, whole condensed",2001,tonnes,42000,F,FAO estimate
+"Milk, whole condensed",2002,tonnes,42500,F,FAO estimate
+"Milk, whole condensed",2003,tonnes,43050,F,FAO estimate
+"Milk, whole condensed",2004,tonnes,43400,F,FAO estimate
+"Milk, whole condensed",2005,tonnes,43450,F,FAO estimate
+"Milk, whole condensed",2006,tonnes,43500,F,FAO estimate
+"Milk, whole condensed",2007,tonnes,44000,F,FAO estimate
+"Milk, whole condensed",2008,tonnes,45700,F,FAO estimate
+"Milk, whole condensed",2009,tonnes,44700,F,FAO estimate
+"Milk, whole condensed",2010,tonnes,45250,F,FAO estimate
+"Milk, whole condensed",2011,tonnes,45450,F,FAO estimate
+"Milk, whole condensed",2012,tonnes,46100,F,FAO estimate
+"Milk, whole condensed",2013,tonnes,46100,F,FAO estimate
+"Milk, whole condensed",2014,tonnes,46100,Im,FAO data based on imputation methodology
+"Milk, whole dried",1961,tonnes,4350,,Official data
+"Milk, whole dried",1962,tonnes,5537,*,Unofficial figure
+"Milk, whole dried",1963,tonnes,6892,,Official data
+"Milk, whole dried",1964,tonnes,5435,,Official data
+"Milk, whole dried",1965,tonnes,5957,,Official data
+"Milk, whole dried",1966,tonnes,7334,,Official data
+"Milk, whole dried",1967,tonnes,8206,,Official data
+"Milk, whole dried",1968,tonnes,5101,,Official data
+"Milk, whole dried",1969,tonnes,9737,,Official data
+"Milk, whole dried",1970,tonnes,10328,,Official data
+"Milk, whole dried",1971,tonnes,11087,,Official data
+"Milk, whole dried",1972,tonnes,12664,,Official data
+"Milk, whole dried",1973,tonnes,14034,,Official data
+"Milk, whole dried",1974,tonnes,20435,,Official data
+"Milk, whole dried",1975,tonnes,20728,,Official data
+"Milk, whole dried",1976,tonnes,21692,,Official data
+"Milk, whole dried",1977,tonnes,22729,,Official data
+"Milk, whole dried",1978,tonnes,29522,,Official data
+"Milk, whole dried",1979,tonnes,30439,,Official data
+"Milk, whole dried",1980,tonnes,30376,,Official data
+"Milk, whole dried",1981,tonnes,39199,,Official data
+"Milk, whole dried",1982,tonnes,41086,,Official data
+"Milk, whole dried",1983,tonnes,34970,,Official data
+"Milk, whole dried",1984,tonnes,44040,,Official data
+"Milk, whole dried",1985,tonnes,44000,F,FAO estimate
+"Milk, whole dried",1986,tonnes,44000,F,FAO estimate
+"Milk, whole dried",1987,tonnes,45000,*,Unofficial figure
+"Milk, whole dried",1988,tonnes,45000,*,Unofficial figure
+"Milk, whole dried",1989,tonnes,46200,*,Unofficial figure
+"Milk, whole dried",1990,tonnes,47500,*,Unofficial figure
+"Milk, whole dried",1991,tonnes,76890,,Official data
+"Milk, whole dried",1992,tonnes,60000,F,FAO estimate
+"Milk, whole dried",1993,tonnes,74006,,Official data
+"Milk, whole dried",1994,tonnes,130075,,Official data
+"Milk, whole dried",1995,tonnes,104706,,Official data
+"Milk, whole dried",1996,tonnes,95625,,Official data
+"Milk, whole dried",1997,tonnes,90708,,Official data
+"Milk, whole dried",1998,tonnes,91000,F,FAO estimate
+"Milk, whole dried",1999,tonnes,97375,F,FAO estimate
+"Milk, whole dried",2000,tonnes,102250,F,FAO estimate
+"Milk, whole dried",2001,tonnes,104250,F,FAO estimate
+"Milk, whole dried",2002,tonnes,105000,F,FAO estimate
+"Milk, whole dried",2003,tonnes,106400,F,FAO estimate
+"Milk, whole dried",2004,tonnes,107250,F,FAO estimate
+"Milk, whole dried",2005,tonnes,107400,F,FAO estimate
+"Milk, whole dried",2006,tonnes,108000,F,FAO estimate
+"Milk, whole dried",2007,tonnes,108000,F,FAO estimate
+"Milk, whole dried",2008,tonnes,112100,F,FAO estimate
+"Milk, whole dried",2009,tonnes,109600,F,FAO estimate
+"Milk, whole dried",2010,tonnes,111000,F,FAO estimate
+"Milk, whole dried",2011,tonnes,111500,F,FAO estimate
+"Milk, whole dried",2012,tonnes,113100,F,FAO estimate
+"Milk, whole dried",2013,tonnes,113100,F,FAO estimate
+"Milk, whole dried",2014,tonnes,113100,Im,FAO data based on imputation methodology
+"Milk, whole evaporated",1961,tonnes,19431,,Official data
+"Milk, whole evaporated",1962,tonnes,20911,,Official data
+"Milk, whole evaporated",1963,tonnes,26330,,Official data
+"Milk, whole evaporated",1964,tonnes,34539,,Official data
+"Milk, whole evaporated",1965,tonnes,32866,,Official data
+"Milk, whole evaporated",1966,tonnes,33579,,Official data
+"Milk, whole evaporated",1967,tonnes,43928,,Official data
+"Milk, whole evaporated",1968,tonnes,47894,,Official data
+"Milk, whole evaporated",1969,tonnes,53386,,Official data
+"Milk, whole evaporated",1970,tonnes,63969,,Official data
+"Milk, whole evaporated",1971,tonnes,65198,,Official data
+"Milk, whole evaporated",1972,tonnes,75406,,Official data
+"Milk, whole evaporated",1973,tonnes,77349,,Official data
+"Milk, whole evaporated",1974,tonnes,91850,,Official data
+"Milk, whole evaporated",1975,tonnes,102178,,Official data
+"Milk, whole evaporated",1976,tonnes,102898,,Official data
+"Milk, whole evaporated",1977,tonnes,135488,,Official data
+"Milk, whole evaporated",1978,tonnes,146577,,Official data
+"Milk, whole evaporated",1979,tonnes,148750,,Official data
+"Milk, whole evaporated",1980,tonnes,141124,,Official data
+"Milk, whole evaporated",1981,tonnes,148516,,Official data
+"Milk, whole evaporated",1982,tonnes,154000,,Official data
+"Milk, whole evaporated",1983,tonnes,108320,,Official data
+"Milk, whole evaporated",1984,tonnes,131250,,Official data
+"Milk, whole evaporated",1985,tonnes,130000,F,FAO estimate
+"Milk, whole evaporated",1986,tonnes,125000,F,FAO estimate
+"Milk, whole evaporated",1987,tonnes,120000,F,FAO estimate
+"Milk, whole evaporated",1988,tonnes,115000,F,FAO estimate
+"Milk, whole evaporated",1989,tonnes,110000,F,FAO estimate
+"Milk, whole evaporated",1990,tonnes,100000,F,FAO estimate
+"Milk, whole evaporated",1991,tonnes,105735,,Official data
+"Milk, whole evaporated",1992,tonnes,97000,F,FAO estimate
+"Milk, whole evaporated",1993,tonnes,95805,,Official data
+"Milk, whole evaporated",1994,tonnes,96000,F,FAO estimate
+"Milk, whole evaporated",1995,tonnes,100000,F,FAO estimate
+"Milk, whole evaporated",1996,tonnes,100000,F,FAO estimate
+"Milk, whole evaporated",1997,tonnes,100000,F,FAO estimate
+"Milk, whole evaporated",1998,tonnes,100000,F,FAO estimate
+"Milk, whole evaporated",1999,tonnes,107000,F,FAO estimate
+"Milk, whole evaporated",2000,tonnes,112150,F,FAO estimate
+"Milk, whole evaporated",2001,tonnes,114450,F,FAO estimate
+"Milk, whole evaporated",2002,tonnes,115500,F,FAO estimate
+"Milk, whole evaporated",2003,tonnes,117000,F,FAO estimate
+"Milk, whole evaporated",2004,tonnes,117900,F,FAO estimate
+"Milk, whole evaporated",2005,tonnes,118100,F,FAO estimate
+"Milk, whole evaporated",2006,tonnes,118200,F,FAO estimate
+"Milk, whole evaporated",2007,tonnes,118300,F,FAO estimate
+"Milk, whole evaporated",2008,tonnes,122800,F,FAO estimate
+"Milk, whole evaporated",2009,tonnes,120100,F,FAO estimate
+"Milk, whole evaporated",2010,tonnes,121500,F,FAO estimate
+"Milk, whole evaporated",2011,tonnes,122100,F,FAO estimate
+"Milk, whole evaporated",2012,tonnes,123900,F,FAO estimate
+"Milk, whole evaporated",2013,tonnes,123900,F,FAO estimate
+"Milk, whole evaporated",2014,tonnes,123900,Im,FAO data based on imputation methodology
+Tallow,1961,tonnes,15200,F,FAO estimate
+Tallow,1962,tonnes,18000,F,FAO estimate
+Tallow,1963,tonnes,19150,F,FAO estimate
+Tallow,1964,tonnes,20000,F,FAO estimate
+Tallow,1965,tonnes,21000,F,FAO estimate
+Tallow,1966,tonnes,21000,F,FAO estimate
+Tallow,1967,tonnes,22000,F,FAO estimate
+Tallow,1968,tonnes,22000,F,FAO estimate
+Tallow,1969,tonnes,22000,F,FAO estimate
+Tallow,1970,tonnes,23000,F,FAO estimate
+Tallow,1971,tonnes,23000,F,FAO estimate
+Tallow,1972,tonnes,23931,,Official data
+Tallow,1973,tonnes,24553,,Official data
+Tallow,1974,tonnes,25101,,Official data
+Tallow,1975,tonnes,26456,,Official data
+Tallow,1976,tonnes,26235,,Official data
+Tallow,1977,tonnes,26735,,Official data
+Tallow,1978,tonnes,26716,,Official data
+Tallow,1979,tonnes,29411,,Official data
+Tallow,1980,tonnes,30670,,Official data
+Tallow,1981,tonnes,33767,,Official data
+Tallow,1982,tonnes,47000,*,Unofficial figure
+Tallow,1983,tonnes,64000,*,Unofficial figure
+Tallow,1984,tonnes,61000,*,Unofficial figure
+Tallow,1985,tonnes,68000,*,Unofficial figure
+Tallow,1986,tonnes,72600,*,Unofficial figure
+Tallow,1987,tonnes,63700,*,Unofficial figure
+Tallow,1988,tonnes,81200,*,Unofficial figure
+Tallow,1989,tonnes,96500,*,Unofficial figure
+Tallow,1990,tonnes,84400,*,Unofficial figure
+Tallow,1991,tonnes,86400,*,Unofficial figure
+Tallow,1992,tonnes,90300,*,Unofficial figure
+Tallow,1993,tonnes,92400,*,Unofficial figure
+Tallow,1994,tonnes,97700,*,Unofficial figure
+Tallow,1995,tonnes,100300,*,Unofficial figure
+Tallow,1996,tonnes,97600,*,Unofficial figure
+Tallow,1997,tonnes,97800,*,Unofficial figure
+Tallow,1998,tonnes,98900,*,Unofficial figure
+Tallow,1999,tonnes,102400,*,Unofficial figure
+Tallow,2000,tonnes,105100,*,Unofficial figure
+Tallow,2001,tonnes,106900,*,Unofficial figure
+Tallow,2002,tonnes,107800,*,Unofficial figure
+Tallow,2003,tonnes,108600,*,Unofficial figure
+Tallow,2004,tonnes,115100,*,Unofficial figure
+Tallow,2005,tonnes,116800,*,Unofficial figure
+Tallow,2006,tonnes,119100,*,Unofficial figure
+Tallow,2007,tonnes,94900,*,Unofficial figure
+Tallow,2008,tonnes,96500,*,Unofficial figure
+Tallow,2009,tonnes,98400,*,Unofficial figure
+Tallow,2010,tonnes,100300,*,Unofficial figure
+Tallow,2011,tonnes,103700,*,Unofficial figure
+Tallow,2012,tonnes,104800,*,Unofficial figure
+Tallow,2013,tonnes,105000,*,Unofficial figure
+Tallow,2014,tonnes,106000,*,Unofficial figure
