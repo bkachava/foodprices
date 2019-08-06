@@ -1,74 +1,64 @@
-Area,Group,Item,Year,Price
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2008,1903.3
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2008,3149.4
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2009,1912.1
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2009,3227.6
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2010,1736
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2010,3674.2
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2011,2171.7
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2011,4357.1
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2012,1733.6
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2012,3859.6
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2013,2038.5
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2013,4073.4
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2014,1669.9
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2014,3854.5
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2015,1628.7
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2015,3250.2
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2016,1147.7
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2016,2408.2
-Mexico,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2017,1170.5
-Peru,"Stimulant, spice and aromatic crops","Anise, badian, fennel, coriander",2017,2931.5
-Argentina,Other animal products,Beeswax,2008,5260.4
+﻿Area,Group,Item,Year,Price
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2008,1903.3
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2008,3149.4
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2009,1912.1
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2009,3227.6
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2010,1736
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2010,3674.2
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2011,2171.7
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2011,4357.1
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2012,1733.6
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2012,3859.6
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2013,2038.5
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2013,4073.4
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2014,1669.9
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2014,3854.5
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2015,1628.7
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2015,3250.2
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2016,1147.7
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2016,2408.2
+Mexico,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2017,1170.5
+Peru,Stimulant- spice and aromatic crops,Anise- badian- fennel- coriander,2017,2931.5
 Mexico,Other animal products,Beeswax,2008,4748.9
 Uruguay,Other animal products,Beeswax,2008,1151.4
-Argentina,Other animal products,Beeswax,2009,5209.3
 Mexico,Other animal products,Beeswax,2009,3757.6
 Uruguay,Other animal products,Beeswax,2009,1661.6
-Argentina,Other animal products,Beeswax,2010,6192.6
 Mexico,Other animal products,Beeswax,2010,4170
 Uruguay,Other animal products,Beeswax,2010,2217.1
-Argentina,Other animal products,Beeswax,2011,5987.6
 Mexico,Other animal products,Beeswax,2011,4564.9
 Uruguay,Other animal products,Beeswax,2011,2797
-Argentina,Other animal products,Beeswax,2012,5299.4
 Mexico,Other animal products,Beeswax,2012,4696.4
 Uruguay,Other animal products,Beeswax,2012,2743
-Argentina,Other animal products,Beeswax,2013,5847
 Mexico,Other animal products,Beeswax,2013,5435
 Uruguay,Other animal products,Beeswax,2013,2840.4
-Argentina,Other animal products,Beeswax,2014,7080
 Mexico,Other animal products,Beeswax,2014,4681.9
 Uruguay,Other animal products,Beeswax,2014,2729.5
-Argentina,Other animal products,Beeswax,2015,
 Mexico,Other animal products,Beeswax,2015,3920.2
 Uruguay,Other animal products,Beeswax,2015,4495.5
-Argentina,Other animal products,Beeswax,2016,
 Mexico,Other animal products,Beeswax,2016,3421.2
 Uruguay,Other animal products,Beeswax,2016,4490.7
-Argentina,Other animal products,Beeswax,2017,
 Mexico,Other animal products,Beeswax,2017,3791.3
 Uruguay,Other animal products,Beeswax,2017,4503.7
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2008,355.1
-Peru,"Nuts, in shell","Cashew nuts, with shell",2008,102.6
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2009,308
-Peru,"Nuts, in shell","Cashew nuts, with shell",2009,99.6
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2010,325.3
-Peru,"Nuts, in shell","Cashew nuts, with shell",2010,99.1
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2011,324.5
-Peru,"Nuts, in shell","Cashew nuts, with shell",2011,98
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2012,321.4
-Peru,"Nuts, in shell","Cashew nuts, with shell",2012,125.1
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2013,353.6
-Peru,"Nuts, in shell","Cashew nuts, with shell",2013,148
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2014,349.8
-Peru,"Nuts, in shell","Cashew nuts, with shell",2014,180.7
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2015,285.5
-Peru,"Nuts, in shell","Cashew nuts, with shell",2015,185.9
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2016,263.5
-Peru,"Nuts, in shell","Cashew nuts, with shell",2016,186
-Mexico,"Nuts, in shell","Cashew nuts, with shell",2017,243.8
-Peru,"Nuts, in shell","Cashew nuts, with shell",2017,196.3
+Mexico,Nuts- in shell,Cashew nuts- with shell,2008,355.1
+Peru,Nuts- in shell,Cashew nuts- with shell,2008,102.6
+Mexico,Nuts- in shell,Cashew nuts- with shell,2009,308
+Peru,Nuts- in shell,Cashew nuts- with shell,2009,99.6
+Mexico,Nuts- in shell,Cashew nuts- with shell,2010,325.3
+Peru,Nuts- in shell,Cashew nuts- with shell,2010,99.1
+Mexico,Nuts- in shell,Cashew nuts- with shell,2011,324.5
+Peru,Nuts- in shell,Cashew nuts- with shell,2011,98
+Mexico,Nuts- in shell,Cashew nuts- with shell,2012,321.4
+Peru,Nuts- in shell,Cashew nuts- with shell,2012,125.1
+Mexico,Nuts- in shell,Cashew nuts- with shell,2013,353.6
+Peru,Nuts- in shell,Cashew nuts- with shell,2013,148
+Mexico,Nuts- in shell,Cashew nuts- with shell,2014,349.8
+Peru,Nuts- in shell,Cashew nuts- with shell,2014,180.7
+Mexico,Nuts- in shell,Cashew nuts- with shell,2015,285.5
+Peru,Nuts- in shell,Cashew nuts- with shell,2015,185.9
+Mexico,Nuts- in shell,Cashew nuts- with shell,2016,263.5
+Peru,Nuts- in shell,Cashew nuts- with shell,2016,186
+Mexico,Nuts- in shell,Cashew nuts- with shell,2017,243.8
+Peru,Nuts- in shell,Cashew nuts- with shell,2017,196.3
 Argentina,Edible roots and tubers,Cassava,2008,163.9
 Barbados,Edible roots and tubers,Cassava,2008,1504.8
 Bolivia (Plurinational State of),Edible roots and tubers,Cassava,2008,185.5
@@ -77,14 +67,12 @@ Colombia,Edible roots and tubers,Cassava,2008,205.9
 Costa Rica,Edible roots and tubers,Cassava,2008,501.9
 Dominican Republic,Edible roots and tubers,Cassava,2008,574.4
 Ecuador,Edible roots and tubers,Cassava,2008,220
-Grenada,Edible roots and tubers,Cassava,2008,
 Guyana,Edible roots and tubers,Cassava,2008,379.7
 Jamaica,Edible roots and tubers,Cassava,2008,485.5
 Mexico,Edible roots and tubers,Cassava,2008,285.5
 Panama,Edible roots and tubers,Cassava,2008,319
 Paraguay,Edible roots and tubers,Cassava,2008,57.3
 Peru,Edible roots and tubers,Cassava,2008,147
-Puerto Rico,Edible roots and tubers,Cassava,2008,841.3
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2008,489.9
 Suriname,Edible roots and tubers,Cassava,2008,648.5
 Trinidad and Tobago,Edible roots and tubers,Cassava,2008,508.8
@@ -96,14 +84,12 @@ Colombia,Edible roots and tubers,Cassava,2009,264.5
 Costa Rica,Edible roots and tubers,Cassava,2009,199
 Dominican Republic,Edible roots and tubers,Cassava,2009,342.7
 Ecuador,Edible roots and tubers,Cassava,2009,170
-Grenada,Edible roots and tubers,Cassava,2009,
 Guyana,Edible roots and tubers,Cassava,2009,353.5
 Jamaica,Edible roots and tubers,Cassava,2009,439.2
 Mexico,Edible roots and tubers,Cassava,2009,211.6
 Panama,Edible roots and tubers,Cassava,2009,284
 Paraguay,Edible roots and tubers,Cassava,2009,57
 Peru,Edible roots and tubers,Cassava,2009,142.8
-Puerto Rico,Edible roots and tubers,Cassava,2009,1053.6
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2009,555.2
 Suriname,Edible roots and tubers,Cassava,2009,601.1
 Trinidad and Tobago,Edible roots and tubers,Cassava,2009,444.3
@@ -115,14 +101,12 @@ Colombia,Edible roots and tubers,Cassava,2010,241.3
 Costa Rica,Edible roots and tubers,Cassava,2010,159.7
 Dominican Republic,Edible roots and tubers,Cassava,2010,260
 Ecuador,Edible roots and tubers,Cassava,2010,200
-Grenada,Edible roots and tubers,Cassava,2010,612.4
 Guyana,Edible roots and tubers,Cassava,2010,148.4
 Jamaica,Edible roots and tubers,Cassava,2010,469.6
 Mexico,Edible roots and tubers,Cassava,2010,229.3
 Panama,Edible roots and tubers,Cassava,2010,273
 Paraguay,Edible roots and tubers,Cassava,2010,58.7
 Peru,Edible roots and tubers,Cassava,2010,155.7
-Puerto Rico,Edible roots and tubers,Cassava,2010,678.4
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2010,636.9
 Suriname,Edible roots and tubers,Cassava,2010,539.1
 Trinidad and Tobago,Edible roots and tubers,Cassava,2010,501.9
@@ -134,14 +118,12 @@ Colombia,Edible roots and tubers,Cassava,2011,248.1
 Costa Rica,Edible roots and tubers,Cassava,2011,356
 Dominican Republic,Edible roots and tubers,Cassava,2011,386.2
 Ecuador,Edible roots and tubers,Cassava,2011,210
-Grenada,Edible roots and tubers,Cassava,2011,816.5
 Guyana,Edible roots and tubers,Cassava,2011,435.2
 Jamaica,Edible roots and tubers,Cassava,2011,437.2
 Mexico,Edible roots and tubers,Cassava,2011,214.4
 Panama,Edible roots and tubers,Cassava,2011,431.2
 Paraguay,Edible roots and tubers,Cassava,2011,72.1
 Peru,Edible roots and tubers,Cassava,2011,199.7
-Puerto Rico,Edible roots and tubers,Cassava,2011,631.8
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2011,692.6
 Suriname,Edible roots and tubers,Cassava,2011,581.4
 Trinidad and Tobago,Edible roots and tubers,Cassava,2011,438.4
@@ -153,14 +135,12 @@ Colombia,Edible roots and tubers,Cassava,2012,351
 Costa Rica,Edible roots and tubers,Cassava,2012,262.5
 Dominican Republic,Edible roots and tubers,Cassava,2012,358.6
 Ecuador,Edible roots and tubers,Cassava,2012,260.4
-Grenada,Edible roots and tubers,Cassava,2012,612.4
 Guyana,Edible roots and tubers,Cassava,2012,644.9
 Jamaica,Edible roots and tubers,Cassava,2012,374.1
 Mexico,Edible roots and tubers,Cassava,2012,205
 Panama,Edible roots and tubers,Cassava,2012,531.9
 Paraguay,Edible roots and tubers,Cassava,2012,67.6
 Peru,Edible roots and tubers,Cassava,2012,204.7
-Puerto Rico,Edible roots and tubers,Cassava,2012,683.1
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2012,1665.7
 Suriname,Edible roots and tubers,Cassava,2012,863.6
 Trinidad and Tobago,Edible roots and tubers,Cassava,2012,689
@@ -172,14 +152,12 @@ Colombia,Edible roots and tubers,Cassava,2013,181
 Costa Rica,Edible roots and tubers,Cassava,2013,236
 Dominican Republic,Edible roots and tubers,Cassava,2013,369.5
 Ecuador,Edible roots and tubers,Cassava,2013,324.7
-Grenada,Edible roots and tubers,Cassava,2013,612.4
 Guyana,Edible roots and tubers,Cassava,2013,234.2
 Jamaica,Edible roots and tubers,Cassava,2013,438.6
 Mexico,Edible roots and tubers,Cassava,2013,192.1
 Panama,Edible roots and tubers,Cassava,2013,591.6
 Paraguay,Edible roots and tubers,Cassava,2013,91.2
 Peru,Edible roots and tubers,Cassava,2013,192.5
-Puerto Rico,Edible roots and tubers,Cassava,2013,705.3
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2013,1227.3
 Suriname,Edible roots and tubers,Cassava,2013,530.3
 Trinidad and Tobago,Edible roots and tubers,Cassava,2013,715.5
@@ -191,14 +169,12 @@ Colombia,Edible roots and tubers,Cassava,2014,272.2
 Costa Rica,Edible roots and tubers,Cassava,2014,247.1
 Dominican Republic,Edible roots and tubers,Cassava,2014,219.7
 Ecuador,Edible roots and tubers,Cassava,2014,276.9
-Grenada,Edible roots and tubers,Cassava,2014,816.5
 Guyana,Edible roots and tubers,Cassava,2014,305.7
 Jamaica,Edible roots and tubers,Cassava,2014,477.7
 Mexico,Edible roots and tubers,Cassava,2014,274.7
 Panama,Edible roots and tubers,Cassava,2014,505.5
 Paraguay,Edible roots and tubers,Cassava,2014,91.9
 Peru,Edible roots and tubers,Cassava,2014,192.7
-Puerto Rico,Edible roots and tubers,Cassava,2014,853.9
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2014,2200
 Suriname,Edible roots and tubers,Cassava,2014,369.7
 Trinidad and Tobago,Edible roots and tubers,Cassava,2014,663.3
@@ -210,14 +186,12 @@ Colombia,Edible roots and tubers,Cassava,2015,313.4
 Costa Rica,Edible roots and tubers,Cassava,2015,242.9
 Dominican Republic,Edible roots and tubers,Cassava,2015,408.2
 Ecuador,Edible roots and tubers,Cassava,2015,367.5
-Grenada,Edible roots and tubers,Cassava,2015,816.5
 Guyana,Edible roots and tubers,Cassava,2015,237.8
 Jamaica,Edible roots and tubers,Cassava,2015,389.5
 Mexico,Edible roots and tubers,Cassava,2015,227.4
 Panama,Edible roots and tubers,Cassava,2015,535.5
 Paraguay,Edible roots and tubers,Cassava,2015,38.4
 Peru,Edible roots and tubers,Cassava,2015,186.8
-Puerto Rico,Edible roots and tubers,Cassava,2015,874.7
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2015,2053.3
 Suriname,Edible roots and tubers,Cassava,2015,518
 Trinidad and Tobago,Edible roots and tubers,Cassava,2015,718.4
@@ -229,14 +203,12 @@ Colombia,Edible roots and tubers,Cassava,2016,272
 Costa Rica,Edible roots and tubers,Cassava,2016,227.6
 Dominican Republic,Edible roots and tubers,Cassava,2016,402.9
 Ecuador,Edible roots and tubers,Cassava,2016,187.8
-Grenada,Edible roots and tubers,Cassava,2016,815.8
 Guyana,Edible roots and tubers,Cassava,2016,242.1
 Jamaica,Edible roots and tubers,Cassava,2016,336.5
 Mexico,Edible roots and tubers,Cassava,2016,193.8
 Panama,Edible roots and tubers,Cassava,2016,531.1
 Paraguay,Edible roots and tubers,Cassava,2016,47.1
 Peru,Edible roots and tubers,Cassava,2016,183
-Puerto Rico,Edible roots and tubers,Cassava,2016,
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2016,2430.2
 Suriname,Edible roots and tubers,Cassava,2016,430.3
 Trinidad and Tobago,Edible roots and tubers,Cassava,2016,733.8
@@ -248,1113 +220,721 @@ Colombia,Edible roots and tubers,Cassava,2017,
 Costa Rica,Edible roots and tubers,Cassava,2017,223.8
 Dominican Republic,Edible roots and tubers,Cassava,2017,
 Ecuador,Edible roots and tubers,Cassava,2017,272.4
-Grenada,Edible roots and tubers,Cassava,2017,815.8
 Guyana,Edible roots and tubers,Cassava,2017,378.7
 Jamaica,Edible roots and tubers,Cassava,2017,331.7
 Mexico,Edible roots and tubers,Cassava,2017,195.6
 Panama,Edible roots and tubers,Cassava,2017,394.8
 Paraguay,Edible roots and tubers,Cassava,2017,89
 Peru,Edible roots and tubers,Cassava,2017,193.2
-Puerto Rico,Edible roots and tubers,Cassava,2017,
 Saint Vincent and the Grenadines,Edible roots and tubers,Cassava,2017,2740.7
 Suriname,Edible roots and tubers,Cassava,2017,
 Trinidad and Tobago,Edible roots and tubers,Cassava,2017,
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2008,194.2
-Mexico,"Nuts, in shell",Chestnut,2008,2423.5
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2009,214.5
-Mexico,"Nuts, in shell",Chestnut,2009,2935.4
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2010,229.2
-Mexico,"Nuts, in shell",Chestnut,2010,3493.9
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2011,258
-Mexico,"Nuts, in shell",Chestnut,2011,1708.2
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2012,282.3
-Mexico,"Nuts, in shell",Chestnut,2012,2104.2
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2013,310.1
-Mexico,"Nuts, in shell",Chestnut,2013,1723.7
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2014,746.2
-Mexico,"Nuts, in shell",Chestnut,2014,1779.2
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2015,630.1
-Mexico,"Nuts, in shell",Chestnut,2015,1607.7
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2016,683.9
-Mexico,"Nuts, in shell",Chestnut,2016,1235.9
-Bolivia (Plurinational State of),"Nuts, in shell",Chestnut,2017,1197.1
-Mexico,"Nuts, in shell",Chestnut,2017,1490.2
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2008,194.2
+Mexico,Nuts- in shell,Chestnut,2008,2423.5
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2009,214.5
+Mexico,Nuts- in shell,Chestnut,2009,2935.4
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2010,229.2
+Mexico,Nuts- in shell,Chestnut,2010,3493.9
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2011,258
+Mexico,Nuts- in shell,Chestnut,2011,1708.2
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2012,282.3
+Mexico,Nuts- in shell,Chestnut,2012,2104.2
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2013,310.1
+Mexico,Nuts- in shell,Chestnut,2013,1723.7
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2014,746.2
+Mexico,Nuts- in shell,Chestnut,2014,1779.2
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2015,630.1
+Mexico,Nuts- in shell,Chestnut,2015,1607.7
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2016,683.9
+Mexico,Nuts- in shell,Chestnut,2016,1235.9
+Bolivia (Plurinational State of),Nuts- in shell,Chestnut,2017,1197.1
+Mexico,Nuts- in shell,Chestnut,2017,1490.2
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2008,244.7
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2008,
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2008,286.4
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2008,165.7
 Panama,Oilseeds and oleaginous fruits,Coconuts,2008,298
 Peru,Oilseeds and oleaginous fruits,Coconuts,2008,102.6
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2008,237.9
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2008,
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2008,473.6
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2009,268.9
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2009,
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2009,217.6
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2009,145.4
 Panama,Oilseeds and oleaginous fruits,Coconuts,2009,328
 Peru,Oilseeds and oleaginous fruits,Coconuts,2009,106.3
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2009,160.8
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2009,539.1
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2009,477.2
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2010,257.7
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2010,1224.8
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2010,267.5
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2010,180.1
 Panama,Oilseeds and oleaginous fruits,Coconuts,2010,441
 Peru,Oilseeds and oleaginous fruits,Coconuts,2010,116.8
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2010,215.3
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2010,563.4
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2010,484.4
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2011,282
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2011,1428.9
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2011,252.8
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2011,200.8
 Panama,Oilseeds and oleaginous fruits,Coconuts,2011,312.6
 Peru,Oilseeds and oleaginous fruits,Coconuts,2011,123.5
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2011,340.1
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2011,604.2
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2011,459
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2012,292.8
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2012,1224.8
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2012,295
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2012,139.2
 Panama,Oilseeds and oleaginous fruits,Coconuts,2012,290.7
 Peru,Oilseeds and oleaginous fruits,Coconuts,2012,140.3
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2012,1016.1
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2012,685.9
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2012,475.8
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2013,299.9
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2013,1224.8
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2013,257.2
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2013,147.1
 Panama,Oilseeds and oleaginous fruits,Coconuts,2013,341.3
 Peru,Oilseeds and oleaginous fruits,Coconuts,2013,133.2
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2013,999.4
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2013,553.6
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2013,597
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2014,299
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2014,1360.9
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2014,280.2
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2014,134.7
 Panama,Oilseeds and oleaginous fruits,Coconuts,2014,450.3
 Peru,Oilseeds and oleaginous fruits,Coconuts,2014,127.9
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2014,675.1
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2014,708.9
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2014,851.5
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2015,370.1
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2015,1428.9
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2015,262.6
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2015,127.9
 Panama,Oilseeds and oleaginous fruits,Coconuts,2015,470.6
 Peru,Oilseeds and oleaginous fruits,Coconuts,2015,117.1
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2015,655.2
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2015,774.1
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2015,769.8
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2016,541.4
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2016,1924.8
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2016,329.5
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2016,111.8
 Panama,Oilseeds and oleaginous fruits,Coconuts,2016,768.5
 Peru,Oilseeds and oleaginous fruits,Coconuts,2016,121.2
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2016,
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2016,543.1
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2016,632.6
 Dominican Republic,Oilseeds and oleaginous fruits,Coconuts,2017,
-Grenada,Oilseeds and oleaginous fruits,Coconuts,2017,2039.5
 Guyana,Oilseeds and oleaginous fruits,Coconuts,2017,404.8
 Mexico,Oilseeds and oleaginous fruits,Coconuts,2017,121
 Panama,Oilseeds and oleaginous fruits,Coconuts,2017,486.8
 Peru,Oilseeds and oleaginous fruits,Coconuts,2017,138
-Puerto Rico,Oilseeds and oleaginous fruits,Coconuts,2017,
 Saint Vincent and the Grenadines,Oilseeds and oleaginous fruits,Coconuts,2017,814.8
 Suriname,Oilseeds and oleaginous fruits,Coconuts,2017,
 Barbados,Vegetables,Eggplants (aubergines),2008,1094.6
-Colombia,Vegetables,Eggplants (aubergines),2008,353.5
 Dominican Republic,Vegetables,Eggplants (aubergines),2008,459.1
 Guyana,Vegetables,Eggplants (aubergines),2008,789.5
 Jamaica,Vegetables,Eggplants (aubergines),2008,808.7
 Mexico,Vegetables,Eggplants (aubergines),2008,371.5
 Peru,Vegetables,Eggplants (aubergines),2008,235.9
-Puerto Rico,Vegetables,Eggplants (aubergines),2008,926.9
 Suriname,Vegetables,Eggplants (aubergines),2008,692.2
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2008,798.2
 Barbados,Vegetables,Eggplants (aubergines),2009,1066.8
-Colombia,Vegetables,Eggplants (aubergines),2009,216.9
 Dominican Republic,Vegetables,Eggplants (aubergines),2009,327.1
 Guyana,Vegetables,Eggplants (aubergines),2009,677
 Jamaica,Vegetables,Eggplants (aubergines),2009,784.5
 Mexico,Vegetables,Eggplants (aubergines),2009,379.3
 Peru,Vegetables,Eggplants (aubergines),2009,235.8
-Puerto Rico,Vegetables,Eggplants (aubergines),2009,976.9
 Suriname,Vegetables,Eggplants (aubergines),2009,788.7
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2009,719.4
 Barbados,Vegetables,Eggplants (aubergines),2010,1399.9
-Colombia,Vegetables,Eggplants (aubergines),2010,602.7
 Dominican Republic,Vegetables,Eggplants (aubergines),2010,361.1
 Guyana,Vegetables,Eggplants (aubergines),2010,535.3
 Jamaica,Vegetables,Eggplants (aubergines),2010,745.3
 Mexico,Vegetables,Eggplants (aubergines),2010,485.3
 Peru,Vegetables,Eggplants (aubergines),2010,269
-Puerto Rico,Vegetables,Eggplants (aubergines),2010,942.5
 Suriname,Vegetables,Eggplants (aubergines),2010,1001.7
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2010,980.3
 Barbados,Vegetables,Eggplants (aubergines),2011,1433
-Colombia,Vegetables,Eggplants (aubergines),2011,1024.5
 Dominican Republic,Vegetables,Eggplants (aubergines),2011,305
 Guyana,Vegetables,Eggplants (aubergines),2011,758.9
 Jamaica,Vegetables,Eggplants (aubergines),2011,744
 Mexico,Vegetables,Eggplants (aubergines),2011,431
 Peru,Vegetables,Eggplants (aubergines),2011,279.6
-Puerto Rico,Vegetables,Eggplants (aubergines),2011,910.5
 Suriname,Vegetables,Eggplants (aubergines),2011,824.7
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2011,978.3
 Barbados,Vegetables,Eggplants (aubergines),2012,1565.3
-Colombia,Vegetables,Eggplants (aubergines),2012,328.9
 Dominican Republic,Vegetables,Eggplants (aubergines),2012,391.1
 Guyana,Vegetables,Eggplants (aubergines),2012,836.8
 Jamaica,Vegetables,Eggplants (aubergines),2012,849.8
 Mexico,Vegetables,Eggplants (aubergines),2012,413.6
 Peru,Vegetables,Eggplants (aubergines),2012,341.2
-Puerto Rico,Vegetables,Eggplants (aubergines),2012,985
 Suriname,Vegetables,Eggplants (aubergines),2012,1087.9
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2012,836.8
 Barbados,Vegetables,Eggplants (aubergines),2013,1653.5
-Colombia,Vegetables,Eggplants (aubergines),2013,1182.7
 Dominican Republic,Vegetables,Eggplants (aubergines),2013,429.6
 Guyana,Vegetables,Eggplants (aubergines),2013,734.7
 Jamaica,Vegetables,Eggplants (aubergines),2013,767.4
 Mexico,Vegetables,Eggplants (aubergines),2013,344.3
 Peru,Vegetables,Eggplants (aubergines),2013,362.7
-Puerto Rico,Vegetables,Eggplants (aubergines),2013,1073.4
 Suriname,Vegetables,Eggplants (aubergines),2013,907.6
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2013,805.6
 Barbados,Vegetables,Eggplants (aubergines),2014,1719.6
-Colombia,Vegetables,Eggplants (aubergines),2014,
 Dominican Republic,Vegetables,Eggplants (aubergines),2014,412.2
 Guyana,Vegetables,Eggplants (aubergines),2014,688.1
 Jamaica,Vegetables,Eggplants (aubergines),2014,701
 Mexico,Vegetables,Eggplants (aubergines),2014,514.5
 Peru,Vegetables,Eggplants (aubergines),2014,407.9
-Puerto Rico,Vegetables,Eggplants (aubergines),2014,884.2
 Suriname,Vegetables,Eggplants (aubergines),2014,1027.3
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2014,1126.8
 Barbados,Vegetables,Eggplants (aubergines),2015,1665
-Colombia,Vegetables,Eggplants (aubergines),2015,
 Dominican Republic,Vegetables,Eggplants (aubergines),2015,425.6
 Guyana,Vegetables,Eggplants (aubergines),2015,818.4
 Jamaica,Vegetables,Eggplants (aubergines),2015,826
 Mexico,Vegetables,Eggplants (aubergines),2015,391.6
 Peru,Vegetables,Eggplants (aubergines),2015,382.2
-Puerto Rico,Vegetables,Eggplants (aubergines),2015,959.5
 Suriname,Vegetables,Eggplants (aubergines),2015,1015.6
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2015,1240.8
 Barbados,Vegetables,Eggplants (aubergines),2016,1535
-Colombia,Vegetables,Eggplants (aubergines),2016,
 Dominican Republic,Vegetables,Eggplants (aubergines),2016,384
 Guyana,Vegetables,Eggplants (aubergines),2016,719.1
 Jamaica,Vegetables,Eggplants (aubergines),2016,1092.3
 Mexico,Vegetables,Eggplants (aubergines),2016,363.7
 Peru,Vegetables,Eggplants (aubergines),2016,364.6
-Puerto Rico,Vegetables,Eggplants (aubergines),2016,
 Suriname,Vegetables,Eggplants (aubergines),2016,600.5
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2016,1763.1
 Barbados,Vegetables,Eggplants (aubergines),2017,1560
-Colombia,Vegetables,Eggplants (aubergines),2017,
 Dominican Republic,Vegetables,Eggplants (aubergines),2017,
 Guyana,Vegetables,Eggplants (aubergines),2017,792.2
 Jamaica,Vegetables,Eggplants (aubergines),2017,1021.8
 Mexico,Vegetables,Eggplants (aubergines),2017,396.1
 Peru,Vegetables,Eggplants (aubergines),2017,394.9
-Puerto Rico,Vegetables,Eggplants (aubergines),2017,
 Suriname,Vegetables,Eggplants (aubergines),2017,
 Trinidad and Tobago,Vegetables,Eggplants (aubergines),2017,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2008,
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2008,712.2
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2008,1748.9
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2008,1241.3
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2008,889.4
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2008,
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2008,2812.7
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2008,3527
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2009,
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2009,1824.1
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2009,1399.4
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2009,1232.7
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2009,960.8
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2009,
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2009,3568.4
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2009,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2010,2653.7
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2010,2700.9
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2010,1553.7
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2010,1543.2
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2010,1222.5
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2010,
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2010,3450.7
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2010,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2011,2449.6
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2011,2641.9
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2011,1699.6
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2011,1137.1
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2011,1407.2
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2011,
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2011,3420
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2011,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2012,2653.7
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2012,3661.6
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2012,1751.5
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2012,708.7
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2012,1407.2
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2012,1800.7
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2012,2343.8
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2012,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2013,2653.7
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2013,3815.8
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2013,1702.4
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2013,926.5
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2013,1170.4
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2013,1425.9
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2013,2024
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2013,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2014,1224.8
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2014,2661.5
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2014,1318
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2014,986.9
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2014,1247.9
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2014,2460.7
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2014,6232
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2014,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2015,3266.1
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2015,1634.5
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2015,1397.5
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2015,809.1
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2015,1198.2
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2015,2411.9
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2015,9386.7
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2015,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2016,2868
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2016,2257.1
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2016,1840.7
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2016,833.2
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2016,
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2016,2344.6
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2016,2933.6
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2016,
-Grenada,"Stimulant, spice and aromatic crops",Ginger,2017,2783
-Guyana,"Stimulant, spice and aromatic crops",Ginger,2017,2762.3
-Jamaica,"Stimulant, spice and aromatic crops",Ginger,2017,2885.9
-Mexico,"Stimulant, spice and aromatic crops",Ginger,2017,1027
-Puerto Rico,"Stimulant, spice and aromatic crops",Ginger,2017,
-Saint Vincent and the Grenadines,"Stimulant, spice and aromatic crops",Ginger,2017,
-Trinidad and Tobago,"Stimulant, spice and aromatic crops",Ginger,2017,
-United States of America,"Stimulant, spice and aromatic crops",Ginger,2017,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2008,94.7
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,448.6
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,268.7
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,702.2
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,198
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,147
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,997.5
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,965.4
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2008,348
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2009,107.8
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,539.6
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,243.5
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,1078.7
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,195.7
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,285.6
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,1105
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,432.8
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,998.2
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2009,309
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2010,264.1
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,686.2
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,413.2
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,542.4
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,1224.4
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,210.7
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,155.7
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,502.9
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,530.7
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,976.2
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2010,373
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2011,274
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1403
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,312.6
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,320.8
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1096.3
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,212.6
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,167
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,1242.1
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,783.9
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,826.2
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2011,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2012,281.8
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,1377.5
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,434
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,542.4
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,968.9
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,213
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,235.8
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,996
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,571.6
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,884.8
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2012,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2013,289.6
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,744
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,263.6
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,542.4
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,1456.7
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,225.6
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,125.7
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,1157.4
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,677.7
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,806.1
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2013,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2014,289.4
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,492.2
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,304.5
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,612.4
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,1065.6
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,251.2
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,171.7
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,1230.9
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,912.6
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,624.2
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2014,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2015,298.8
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,433.9
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,274.8
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,577.4
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,193.3
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,239.3
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,1241
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,977.8
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,614.6
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2015,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,224.4
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,463.7
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,525.9
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,170.8
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,171.5
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,1535.9
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,314.7
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2016,
-Bolivia (Plurinational State of),Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Colombia,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Dominican Republic,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Grenada,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,405
-Guyana,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Mexico,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,200.6
-Peru,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,189.5
-Puerto Rico,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Saint Vincent and the Grenadines,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,748.1
-Suriname,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-United States of America,Fruit and nuts,"Mangoes, mangosteens, guavas",2017,
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2008,438.4
-Guyana,Natural rubber,"Meat live weight, goat",2008,
-Mexico,Natural rubber,"Meat live weight, goat",2008,1712.9
-Peru,Natural rubber,"Meat live weight, goat",2008,1166
-Puerto Rico,Natural rubber,"Meat live weight, goat",2008,4023.4
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2008,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2008,4692.2
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2008,2869.9
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2009,324
-Guyana,Natural rubber,"Meat live weight, goat",2009,
-Mexico,Natural rubber,"Meat live weight, goat",2009,1480.5
-Peru,Natural rubber,"Meat live weight, goat",2009,1199.3
-Puerto Rico,Natural rubber,"Meat live weight, goat",2009,6746.8
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2009,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2009,5916.2
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2009,2632.4
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2010,376.3
-Guyana,Natural rubber,"Meat live weight, goat",2010,
-Mexico,Natural rubber,"Meat live weight, goat",2010,1663.3
-Peru,Natural rubber,"Meat live weight, goat",2010,1196.3
-Puerto Rico,Natural rubber,"Meat live weight, goat",2010,5347.9
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2010,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2010,6068.3
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2010,5806.6
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2011,399
-Guyana,Natural rubber,"Meat live weight, goat",2011,
-Mexico,Natural rubber,"Meat live weight, goat",2011,1732.6
-Peru,Natural rubber,"Meat live weight, goat",2011,1283
-Puerto Rico,Natural rubber,"Meat live weight, goat",2011,9397.9
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2011,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2011,7160.3
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2011,6322.1
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2012,508.8
-Guyana,Natural rubber,"Meat live weight, goat",2012,3011.4
-Mexico,Natural rubber,"Meat live weight, goat",2012,1724.1
-Peru,Natural rubber,"Meat live weight, goat",2012,1395.4
-Puerto Rico,Natural rubber,"Meat live weight, goat",2012,13604.3
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2012,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2012,9061.8
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2012,7344.5
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2013,575.6
-Guyana,Natural rubber,"Meat live weight, goat",2013,3454.3
-Mexico,Natural rubber,"Meat live weight, goat",2013,1825.3
-Peru,Natural rubber,"Meat live weight, goat",2013,1455.2
-Puerto Rico,Natural rubber,"Meat live weight, goat",2013,11482.1
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2013,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2013,7212.1
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2013,6458.5
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2014,1222.2
-Guyana,Natural rubber,"Meat live weight, goat",2014,3126.3
-Mexico,Natural rubber,"Meat live weight, goat",2014,1901
-Peru,Natural rubber,"Meat live weight, goat",2014,1421.8
-Puerto Rico,Natural rubber,"Meat live weight, goat",2014,
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2014,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2014,6387.9
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2014,7301.9
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2015,1291.8
-Guyana,Natural rubber,"Meat live weight, goat",2015,3185.3
-Mexico,Natural rubber,"Meat live weight, goat",2015,1725.5
-Peru,Natural rubber,"Meat live weight, goat",2015,1344
-Puerto Rico,Natural rubber,"Meat live weight, goat",2015,
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2015,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2015,6585.4
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2015,7905.9
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2016,1416.2
-Guyana,Natural rubber,"Meat live weight, goat",2016,2135.9
-Mexico,Natural rubber,"Meat live weight, goat",2016,1536.8
-Peru,Natural rubber,"Meat live weight, goat",2016,1378.9
-Puerto Rico,Natural rubber,"Meat live weight, goat",2016,
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2016,7348.7
-Suriname,Natural rubber,"Meat live weight, goat",2016,3612.4
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2016,7721.1
-Bolivia (Plurinational State of),Natural rubber,"Meat live weight, goat",2017,1998
-Guyana,Natural rubber,"Meat live weight, goat",2017,4280.9
-Mexico,Natural rubber,"Meat live weight, goat",2017,1621.3
-Peru,Natural rubber,"Meat live weight, goat",2017,1453.7
-Puerto Rico,Natural rubber,"Meat live weight, goat",2017,
-Saint Vincent and the Grenadines,Natural rubber,"Meat live weight, goat",2017,
-Suriname,Natural rubber,"Meat live weight, goat",2017,
-Trinidad and Tobago,Natural rubber,"Meat live weight, goat",2017,
-Barbados,Natural rubber,"Meat, goat",2008,12736.5
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2008,876.9
-Dominican Republic,Natural rubber,"Meat, goat",2008,3288.9
-Grenada,Natural rubber,"Meat, goat",2008,
-Mexico,Natural rubber,"Meat, goat",2008,3520.7
-Peru,Natural rubber,"Meat, goat",2008,2591.2
-Puerto Rico,Natural rubber,"Meat, goat",2008,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2008,17497
-Suriname,Natural rubber,"Meat, goat",2008,5865.2
-Trinidad and Tobago,Natural rubber,"Meat, goat",2008,5739.8
-Barbados,Natural rubber,"Meat, goat",2009,13200.6
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2009,647.9
-Dominican Republic,Natural rubber,"Meat, goat",2009,3723.7
-Grenada,Natural rubber,"Meat, goat",2009,
-Mexico,Natural rubber,"Meat, goat",2009,2939.9
-Peru,Natural rubber,"Meat, goat",2009,2665.3
-Puerto Rico,Natural rubber,"Meat, goat",2009,17299.5
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2009,17497
-Suriname,Natural rubber,"Meat, goat",2009,7395.3
-Trinidad and Tobago,Natural rubber,"Meat, goat",2009,5264.9
-Barbados,Natural rubber,"Meat, goat",2010,13690.5
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2010,752.6
-Dominican Republic,Natural rubber,"Meat, goat",2010,4178.1
-Grenada,Natural rubber,"Meat, goat",2010,6532.2
-Mexico,Natural rubber,"Meat, goat",2010,3223.2
-Peru,Natural rubber,"Meat, goat",2010,2658.7
-Puerto Rico,Natural rubber,"Meat, goat",2010,13712.5
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2010,17497
-Suriname,Natural rubber,"Meat, goat",2010,7585.4
-Trinidad and Tobago,Natural rubber,"Meat, goat",2010,11613.2
-Barbados,Natural rubber,"Meat, goat",2011,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2011,798
-Dominican Republic,Natural rubber,"Meat, goat",2011,4678
-Grenada,Natural rubber,"Meat, goat",2011,6532.2
-Mexico,Natural rubber,"Meat, goat",2011,3391.7
-Peru,Natural rubber,"Meat, goat",2011,2851.5
-Puerto Rico,Natural rubber,"Meat, goat",2011,24097.1
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2011,17497
-Suriname,Natural rubber,"Meat, goat",2011,8950.4
-Trinidad and Tobago,Natural rubber,"Meat, goat",2011,12644.1
-Barbados,Natural rubber,"Meat, goat",2012,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2012,1017.6
-Dominican Republic,Natural rubber,"Meat, goat",2012,5537.5
-Grenada,Natural rubber,"Meat, goat",2012,6532.2
-Mexico,Natural rubber,"Meat, goat",2012,3417
-Peru,Natural rubber,"Meat, goat",2012,3098.8
-Puerto Rico,Natural rubber,"Meat, goat",2012,34882.8
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2012,17497
-Suriname,Natural rubber,"Meat, goat",2012,11327.3
-Trinidad and Tobago,Natural rubber,"Meat, goat",2012,17071
-Barbados,Natural rubber,"Meat, goat",2013,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2013,1151.2
-Dominican Republic,Natural rubber,"Meat, goat",2013,4322.7
-Grenada,Natural rubber,"Meat, goat",2013,6532.2
-Mexico,Natural rubber,"Meat, goat",2013,3660.6
-Peru,Natural rubber,"Meat, goat",2013,3237.5
-Puerto Rico,Natural rubber,"Meat, goat",2013,29441.4
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2013,17497
-Suriname,Natural rubber,"Meat, goat",2013,9015.2
-Trinidad and Tobago,Natural rubber,"Meat, goat",2013,12917.1
-Barbados,Natural rubber,"Meat, goat",2014,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2014,
-Dominican Republic,Natural rubber,"Meat, goat",2014,3297.5
-Grenada,Natural rubber,"Meat, goat",2014,6532.2
-Mexico,Natural rubber,"Meat, goat",2014,3844.3
-Peru,Natural rubber,"Meat, goat",2014,3159.6
-Puerto Rico,Natural rubber,"Meat, goat",2014,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2014,17497
-Suriname,Natural rubber,"Meat, goat",2014,9739.4
-Trinidad and Tobago,Natural rubber,"Meat, goat",2014,14603.8
-Barbados,Natural rubber,"Meat, goat",2015,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2015,
-Dominican Republic,Natural rubber,"Meat, goat",2015,2364.6
-Grenada,Natural rubber,"Meat, goat",2015,6532.2
-Mexico,Natural rubber,"Meat, goat",2015,3466
-Peru,Natural rubber,"Meat, goat",2015,2985
-Puerto Rico,Natural rubber,"Meat, goat",2015,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2015,17497
-Suriname,Natural rubber,"Meat, goat",2015,10975.6
-Trinidad and Tobago,Natural rubber,"Meat, goat",2015,15811.8
-Barbados,Natural rubber,"Meat, goat",2016,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2016,
-Dominican Republic,Natural rubber,"Meat, goat",2016,
-Grenada,Natural rubber,"Meat, goat",2016,8402.7
-Mexico,Natural rubber,"Meat, goat",2016,3114.7
-Peru,Natural rubber,"Meat, goat",2016,3065.8
-Puerto Rico,Natural rubber,"Meat, goat",2016,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2016,17497
-Suriname,Natural rubber,"Meat, goat",2016,6020.6
-Trinidad and Tobago,Natural rubber,"Meat, goat",2016,15442.1
-Barbados,Natural rubber,"Meat, goat",2017,
-Bolivia (Plurinational State of),Natural rubber,"Meat, goat",2017,
-Dominican Republic,Natural rubber,"Meat, goat",2017,
-Grenada,Natural rubber,"Meat, goat",2017,8157.9
-Mexico,Natural rubber,"Meat, goat",2017,3305.4
-Peru,Natural rubber,"Meat, goat",2017,
-Puerto Rico,Natural rubber,"Meat, goat",2017,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, goat",2017,
-Suriname,Natural rubber,"Meat, goat",2017,
-Trinidad and Tobago,Natural rubber,"Meat, goat",2017,
-Barbados,Natural rubber,"Meat, sheep",2008,6241
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2008,1319.5
-Canada,Natural rubber,"Meat, sheep",2008,2102
-Chile,Natural rubber,"Meat, sheep",2008,2437.3
-Dominican Republic,Natural rubber,"Meat, sheep",2008,868.1
-Grenada,Natural rubber,"Meat, sheep",2008,
-Mexico,Natural rubber,"Meat, sheep",2008,3906
-Peru,Natural rubber,"Meat, sheep",2008,2963.6
-Puerto Rico,Natural rubber,"Meat, sheep",2008,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2008,17090.1
-Suriname,Natural rubber,"Meat, sheep",2008,5865.2
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2008,8089.1
-United States of America,Natural rubber,"Meat, sheep",2008,1276.6
-Uruguay,Natural rubber,"Meat, sheep",2008,2235.9
-Barbados,Natural rubber,"Meat, sheep",2009,6468.4
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2009,753.8
-Canada,Natural rubber,"Meat, sheep",2009,2165.8
-Chile,Natural rubber,"Meat, sheep",2009,2119.9
-Dominican Republic,Natural rubber,"Meat, sheep",2009,743.6
-Grenada,Natural rubber,"Meat, sheep",2009,
-Mexico,Natural rubber,"Meat, sheep",2009,3322.1
-Peru,Natural rubber,"Meat, sheep",2009,3051.3
-Puerto Rico,Natural rubber,"Meat, sheep",2009,7781.7
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2009,17090.1
-Suriname,Natural rubber,"Meat, sheep",2009,7395.3
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2009,8043.7
-United States of America,Natural rubber,"Meat, sheep",2009,1525.5
-Uruguay,Natural rubber,"Meat, sheep",2009,1847.3
-Barbados,Natural rubber,"Meat, sheep",2010,6708.4
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2010,899
-Canada,Natural rubber,"Meat, sheep",2010,3168.1
-Chile,Natural rubber,"Meat, sheep",2010,2454.6
-Dominican Republic,Natural rubber,"Meat, sheep",2010,728.3
-Grenada,Natural rubber,"Meat, sheep",2010,6532.2
-Mexico,Natural rubber,"Meat, sheep",2010,3640.4
-Peru,Natural rubber,"Meat, sheep",2010,3509
-Puerto Rico,Natural rubber,"Meat, sheep",2010,7528.3
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2010,17090.1
-Suriname,Natural rubber,"Meat, sheep",2010,7585.4
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2010,7979.9
-United States of America,Natural rubber,"Meat, sheep",2010,2331.9
-Uruguay,Natural rubber,"Meat, sheep",2010,3865
-Barbados,Natural rubber,"Meat, sheep",2011,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2011,1034
-Canada,Natural rubber,"Meat, sheep",2011,3648
-Chile,Natural rubber,"Meat, sheep",2011,1048.5
-Dominican Republic,Natural rubber,"Meat, sheep",2011,698.6
-Grenada,Natural rubber,"Meat, sheep",2011,6532.2
-Mexico,Natural rubber,"Meat, sheep",2011,3812.3
-Peru,Natural rubber,"Meat, sheep",2011,3639.8
-Puerto Rico,Natural rubber,"Meat, sheep",2011,9515.8
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2011,17090.1
-Suriname,Natural rubber,"Meat, sheep",2011,8950.4
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2011,7937.8
-United States of America,Natural rubber,"Meat, sheep",2011,
-Uruguay,Natural rubber,"Meat, sheep",2011,4747.8
-Barbados,Natural rubber,"Meat, sheep",2012,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2012,1168.3
-Canada,Natural rubber,"Meat, sheep",2012,3265.5
-Chile,Natural rubber,"Meat, sheep",2012,1139.6
-Dominican Republic,Natural rubber,"Meat, sheep",2012,696.8
-Grenada,Natural rubber,"Meat, sheep",2012,6532.2
-Mexico,Natural rubber,"Meat, sheep",2012,3770.2
-Peru,Natural rubber,"Meat, sheep",2012,4114
-Puerto Rico,Natural rubber,"Meat, sheep",2012,10230
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2012,17090.1
-Suriname,Natural rubber,"Meat, sheep",2012,11327.3
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2012,6687.8
-United States of America,Natural rubber,"Meat, sheep",2012,
-Uruguay,Natural rubber,"Meat, sheep",2012,3503.6
-Barbados,Natural rubber,"Meat, sheep",2013,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2013,1445.7
-Canada,Natural rubber,"Meat, sheep",2013,2400.7
-Chile,Natural rubber,"Meat, sheep",2013,
-Dominican Republic,Natural rubber,"Meat, sheep",2013,642.4
-Grenada,Natural rubber,"Meat, sheep",2013,6532.2
-Mexico,Natural rubber,"Meat, sheep",2013,4078.5
-Peru,Natural rubber,"Meat, sheep",2013,4138.1
-Puerto Rico,Natural rubber,"Meat, sheep",2013,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2013,17090.1
-Suriname,Natural rubber,"Meat, sheep",2013,9015.2
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2013,15261.6
-United States of America,Natural rubber,"Meat, sheep",2013,
-Uruguay,Natural rubber,"Meat, sheep",2013,3431.9
-Barbados,Natural rubber,"Meat, sheep",2014,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2014,
-Canada,Natural rubber,"Meat, sheep",2014,3270.3
-Chile,Natural rubber,"Meat, sheep",2014,
-Dominican Republic,Natural rubber,"Meat, sheep",2014,606.6
-Grenada,Natural rubber,"Meat, sheep",2014,6532.2
-Mexico,Natural rubber,"Meat, sheep",2014,4203.8
-Peru,Natural rubber,"Meat, sheep",2014,4484.7
-Puerto Rico,Natural rubber,"Meat, sheep",2014,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2014,17090.1
-Suriname,Natural rubber,"Meat, sheep",2014,9739.4
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2014,18332.6
-United States of America,Natural rubber,"Meat, sheep",2014,
-Uruguay,Natural rubber,"Meat, sheep",2014,3749
-Barbados,Natural rubber,"Meat, sheep",2015,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2015,
-Canada,Natural rubber,"Meat, sheep",2015,3418.8
-Chile,Natural rubber,"Meat, sheep",2015,1633.2
-Dominican Republic,Natural rubber,"Meat, sheep",2015,2364.6
-Grenada,Natural rubber,"Meat, sheep",2015,6532.2
-Mexico,Natural rubber,"Meat, sheep",2015,3891.2
-Peru,Natural rubber,"Meat, sheep",2015,3990.9
-Puerto Rico,Natural rubber,"Meat, sheep",2015,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2015,17090.1
-Suriname,Natural rubber,"Meat, sheep",2015,10975.6
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2015,20042.2
-United States of America,Natural rubber,"Meat, sheep",2015,
-Uruguay,Natural rubber,"Meat, sheep",2015,3694.5
-Barbados,Natural rubber,"Meat, sheep",2016,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2016,
-Canada,Natural rubber,"Meat, sheep",2016,3388.9
-Chile,Natural rubber,"Meat, sheep",2016,
-Dominican Republic,Natural rubber,"Meat, sheep",2016,
-Grenada,Natural rubber,"Meat, sheep",2016,8402.7
-Mexico,Natural rubber,"Meat, sheep",2016,3436.2
-Peru,Natural rubber,"Meat, sheep",2016,3877.3
-Puerto Rico,Natural rubber,"Meat, sheep",2016,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2016,17090.1
-Suriname,Natural rubber,"Meat, sheep",2016,6020.6
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2016,12189.9
-United States of America,Natural rubber,"Meat, sheep",2016,
-Uruguay,Natural rubber,"Meat, sheep",2016,3143
-Barbados,Natural rubber,"Meat, sheep",2017,
-Bolivia (Plurinational State of),Natural rubber,"Meat, sheep",2017,
-Canada,Natural rubber,"Meat, sheep",2017,
-Chile,Natural rubber,"Meat, sheep",2017,
-Dominican Republic,Natural rubber,"Meat, sheep",2017,
-Grenada,Natural rubber,"Meat, sheep",2017,8157.9
-Mexico,Natural rubber,"Meat, sheep",2017,3651.3
-Peru,Natural rubber,"Meat, sheep",2017,
-Puerto Rico,Natural rubber,"Meat, sheep",2017,
-Saint Vincent and the Grenadines,Natural rubber,"Meat, sheep",2017,
-Suriname,Natural rubber,"Meat, sheep",2017,
-Trinidad and Tobago,Natural rubber,"Meat, sheep",2017,
-United States of America,Natural rubber,"Meat, sheep",2017,
-Uruguay,Natural rubber,"Meat, sheep",2017,3261.6
-Barbados,Natural rubber,"Meat, turkey",2008,
-Canada,Natural rubber,"Meat, turkey",2008,2457.3
-Mexico,Natural rubber,"Meat, turkey",2008,3297.9
-United States of America,Natural rubber,"Meat, turkey",2008,1618.2
-Barbados,Natural rubber,"Meat, turkey",2009,2937.3
-Canada,Natural rubber,"Meat, turkey",2009,2302.2
-Mexico,Natural rubber,"Meat, turkey",2009,2933.4
-United States of America,Natural rubber,"Meat, turkey",2009,1431.2
-Barbados,Natural rubber,"Meat, turkey",2010,
-Canada,Natural rubber,"Meat, turkey",2010,2402
-Mexico,Natural rubber,"Meat, turkey",2010,3342.1
-United States of America,Natural rubber,"Meat, turkey",2010,1761
-Barbados,Natural rubber,"Meat, turkey",2011,
-Canada,Natural rubber,"Meat, turkey",2011,2723.6
-Mexico,Natural rubber,"Meat, turkey",2011,3487.3
-United States of America,Natural rubber,"Meat, turkey",2011,1952
-Barbados,Natural rubber,"Meat, turkey",2012,
-Canada,Natural rubber,"Meat, turkey",2012,2868.2
-Mexico,Natural rubber,"Meat, turkey",2012,3637.7
-United States of America,Natural rubber,"Meat, turkey",2012,2064.9
-Barbados,Natural rubber,"Meat, turkey",2013,
-Canada,Natural rubber,"Meat, turkey",2013,2782.9
-Mexico,Natural rubber,"Meat, turkey",2013,4077.8
-United States of America,Natural rubber,"Meat, turkey",2013,1903.9
-Barbados,Natural rubber,"Meat, turkey",2014,
-Canada,Natural rubber,"Meat, turkey",2014,2546.8
-Mexico,Natural rubber,"Meat, turkey",2014,3971
-United States of America,Natural rubber,"Meat, turkey",2014,2103.9
-Barbados,Natural rubber,"Meat, turkey",2015,
-Canada,Natural rubber,"Meat, turkey",2015,2202.4
-Mexico,Natural rubber,"Meat, turkey",2015,3397.6
-United States of America,Natural rubber,"Meat, turkey",2015,2322.1
-Barbados,Natural rubber,"Meat, turkey",2016,
-Canada,Natural rubber,"Meat, turkey",2016,2070.2
-Mexico,Natural rubber,"Meat, turkey",2016,2980.2
-United States of America,Natural rubber,"Meat, turkey",2016,2362.3
-Barbados,Natural rubber,"Meat, turkey",2017,
-Canada,Natural rubber,"Meat, turkey",2017,
-Mexico,Natural rubber,"Meat, turkey",2017,3045.1
-United States of America,Natural rubber,"Meat, turkey",2017,
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2008,172.9
+Guyana,Stimulant- spice and aromatic crops,Ginger,2008,712.2
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2008,1748.9
+Mexico,Stimulant- spice and aromatic crops,Ginger,2008,1241.3
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2008,2812.7
+Guyana,Stimulant- spice and aromatic crops,Ginger,2009,1824.1
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2009,1399.4
+Mexico,Stimulant- spice and aromatic crops,Ginger,2009,1232.7
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2009,3568.4
+Guyana,Stimulant- spice and aromatic crops,Ginger,2010,2700.9
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2010,1553.7
+Mexico,Stimulant- spice and aromatic crops,Ginger,2010,1543.2
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2010,3450.7
+Guyana,Stimulant- spice and aromatic crops,Ginger,2011,2641.9
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2011,1699.6
+Mexico,Stimulant- spice and aromatic crops,Ginger,2011,1137.1
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2011,3420
+Guyana,Stimulant- spice and aromatic crops,Ginger,2012,3661.6
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2012,1751.5
+Mexico,Stimulant- spice and aromatic crops,Ginger,2012,708.7
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2012,2343.8
+Guyana,Stimulant- spice and aromatic crops,Ginger,2013,3815.8
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2013,1702.4
+Mexico,Stimulant- spice and aromatic crops,Ginger,2013,926.5
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2013,2024
+Guyana,Stimulant- spice and aromatic crops,Ginger,2014,2661.5
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2014,1318
+Mexico,Stimulant- spice and aromatic crops,Ginger,2014,986.9
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2014,6232
+Guyana,Stimulant- spice and aromatic crops,Ginger,2015,1634.5
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2015,1397.5
+Mexico,Stimulant- spice and aromatic crops,Ginger,2015,809.1
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2015,9386.7
+Guyana,Stimulant- spice and aromatic crops,Ginger,2016,2257.1
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2016,1840.7
+Mexico,Stimulant- spice and aromatic crops,Ginger,2016,833.2
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2016,2933.6
+Guyana,Stimulant- spice and aromatic crops,Ginger,2017,2762.3
+Jamaica,Stimulant- spice and aromatic crops,Ginger,2017,2885.9
+Mexico,Stimulant- spice and aromatic crops,Ginger,2017,1027
+Trinidad and Tobago,Stimulant- spice and aromatic crops,Ginger,2017,
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2008,448.6
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2008,268.7
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2008,198
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2008,147
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2008,
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2008,965.4
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2009,539.6
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2009,243.5
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2009,195.7
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2009,285.6
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2009,432.8
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2009,998.2
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2010,686.2
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2010,413.2
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2010,210.7
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2010,155.7
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2010,530.7
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2010,976.2
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2011,1403
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2011,312.6
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2011,212.6
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2011,167
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2011,783.9
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2011,826.2
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2012,1377.5
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2012,434
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2012,213
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2012,235.8
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2012,571.6
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2012,884.8
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2013,744
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2013,263.6
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2013,225.6
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2013,125.7
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2013,677.7
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2013,806.1
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2014,492.2
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2014,304.5
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2014,251.2
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2014,171.7
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2014,912.6
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2014,624.2
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2015,433.9
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2015,274.8
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2015,193.3
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2015,239.3
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2015,977.8
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2015,614.6
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2016,224.4
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2016,463.7
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2016,170.8
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2016,171.5
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2016,1535.9
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2016,314.7
+Colombia,Fruit and nuts,Mangoes- mangosteens- guavas,2017,
+Dominican Republic,Fruit and nuts,Mangoes- mangosteens- guavas,2017,
+Mexico,Fruit and nuts,Mangoes- mangosteens- guavas,2017,200.6
+Peru,Fruit and nuts,Mangoes- mangosteens- guavas,2017,189.5
+Saint Vincent and the Grenadines,Fruit and nuts,Mangoes- mangosteens- guavas,2017,748.1
+Suriname,Fruit and nuts,Mangoes- mangosteens- guavas,2017,
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2008,438.4
+Mexico,Natural rubber,Meat live weight- goat,2008,1712.9
+Peru,Natural rubber,Meat live weight- goat,2008,1166
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2008,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2008,4692.2
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2008,2869.9
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2009,324
+Mexico,Natural rubber,Meat live weight- goat,2009,1480.5
+Peru,Natural rubber,Meat live weight- goat,2009,1199.3
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2009,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2009,5916.2
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2009,2632.4
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2010,376.3
+Mexico,Natural rubber,Meat live weight- goat,2010,1663.3
+Peru,Natural rubber,Meat live weight- goat,2010,1196.3
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2010,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2010,6068.3
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2010,5806.6
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2011,399
+Mexico,Natural rubber,Meat live weight- goat,2011,1732.6
+Peru,Natural rubber,Meat live weight- goat,2011,1283
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2011,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2011,7160.3
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2011,6322.1
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2012,508.8
+Mexico,Natural rubber,Meat live weight- goat,2012,1724.1
+Peru,Natural rubber,Meat live weight- goat,2012,1395.4
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2012,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2012,9061.8
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2012,7344.5
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2013,575.6
+Mexico,Natural rubber,Meat live weight- goat,2013,1825.3
+Peru,Natural rubber,Meat live weight- goat,2013,1455.2
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2013,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2013,7212.1
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2013,6458.5
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2014,1222.2
+Mexico,Natural rubber,Meat live weight- goat,2014,1901
+Peru,Natural rubber,Meat live weight- goat,2014,1421.8
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2014,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2014,6387.9
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2014,7301.9
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2015,1291.8
+Mexico,Natural rubber,Meat live weight- goat,2015,1725.5
+Peru,Natural rubber,Meat live weight- goat,2015,1344
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2015,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2015,6585.4
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2015,7905.9
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2016,1416.2
+Mexico,Natural rubber,Meat live weight- goat,2016,1536.8
+Peru,Natural rubber,Meat live weight- goat,2016,1378.9
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2016,7348.7
+Suriname,Natural rubber,Meat live weight- goat,2016,3612.4
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2016,7721.1
+Bolivia (Plurinational State of),Natural rubber,Meat live weight- goat,2017,1998
+Mexico,Natural rubber,Meat live weight- goat,2017,1621.3
+Peru,Natural rubber,Meat live weight- goat,2017,1453.7
+Saint Vincent and the Grenadines,Natural rubber,Meat live weight- goat,2017,
+Suriname,Natural rubber,Meat live weight- goat,2017,
+Trinidad and Tobago,Natural rubber,Meat live weight- goat,2017,
+Mexico,Natural rubber,Meat- goat,2008,3520.7
+Peru,Natural rubber,Meat- goat,2008,2591.2
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2008,17497
+Suriname,Natural rubber,Meat- goat,2008,5865.2
+Trinidad and Tobago,Natural rubber,Meat- goat,2008,5739.8
+Mexico,Natural rubber,Meat- goat,2009,2939.9
+Peru,Natural rubber,Meat- goat,2009,2665.3
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2009,17497
+Suriname,Natural rubber,Meat- goat,2009,7395.3
+Trinidad and Tobago,Natural rubber,Meat- goat,2009,5264.9
+Mexico,Natural rubber,Meat- goat,2010,3223.2
+Peru,Natural rubber,Meat- goat,2010,2658.7
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2010,17497
+Suriname,Natural rubber,Meat- goat,2010,7585.4
+Trinidad and Tobago,Natural rubber,Meat- goat,2010,11613.2
+Mexico,Natural rubber,Meat- goat,2011,3391.7
+Peru,Natural rubber,Meat- goat,2011,2851.5
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2011,17497
+Suriname,Natural rubber,Meat- goat,2011,8950.4
+Trinidad and Tobago,Natural rubber,Meat- goat,2011,12644.1
+Mexico,Natural rubber,Meat- goat,2012,3417
+Peru,Natural rubber,Meat- goat,2012,3098.8
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2012,17497
+Suriname,Natural rubber,Meat- goat,2012,11327.3
+Trinidad and Tobago,Natural rubber,Meat- goat,2012,17071
+Mexico,Natural rubber,Meat- goat,2013,3660.6
+Peru,Natural rubber,Meat- goat,2013,3237.5
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2013,17497
+Suriname,Natural rubber,Meat- goat,2013,9015.2
+Trinidad and Tobago,Natural rubber,Meat- goat,2013,12917.1
+Mexico,Natural rubber,Meat- goat,2014,3844.3
+Peru,Natural rubber,Meat- goat,2014,3159.6
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2014,17497
+Suriname,Natural rubber,Meat- goat,2014,9739.4
+Trinidad and Tobago,Natural rubber,Meat- goat,2014,14603.8
+Mexico,Natural rubber,Meat- goat,2015,3466
+Peru,Natural rubber,Meat- goat,2015,2985
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2015,17497
+Suriname,Natural rubber,Meat- goat,2015,10975.6
+Trinidad and Tobago,Natural rubber,Meat- goat,2015,15811.8
+Mexico,Natural rubber,Meat- goat,2016,3114.7
+Peru,Natural rubber,Meat- goat,2016,3065.8
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2016,17497
+Suriname,Natural rubber,Meat- goat,2016,6020.6
+Trinidad and Tobago,Natural rubber,Meat- goat,2016,15442.1
+Mexico,Natural rubber,Meat- goat,2017,3305.4
+Peru,Natural rubber,Meat- goat,2017,
+Saint Vincent and the Grenadines,Natural rubber,Meat- goat,2017,
+Suriname,Natural rubber,Meat- goat,2017,
+Trinidad and Tobago,Natural rubber,Meat- goat,2017,
+Canada,Natural rubber,Meat- sheep,2008,2102
+Mexico,Natural rubber,Meat- sheep,2008,3906
+Peru,Natural rubber,Meat- sheep,2008,2963.6
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2008,17090.1
+Suriname,Natural rubber,Meat- sheep,2008,5865.2
+Trinidad and Tobago,Natural rubber,Meat- sheep,2008,8089.1
+Uruguay,Natural rubber,Meat- sheep,2008,2235.9
+Canada,Natural rubber,Meat- sheep,2009,2165.8
+Mexico,Natural rubber,Meat- sheep,2009,3322.1
+Peru,Natural rubber,Meat- sheep,2009,3051.3
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2009,17090.1
+Suriname,Natural rubber,Meat- sheep,2009,7395.3
+Trinidad and Tobago,Natural rubber,Meat- sheep,2009,8043.7
+Uruguay,Natural rubber,Meat- sheep,2009,1847.3
+Canada,Natural rubber,Meat- sheep,2010,3168.1
+Mexico,Natural rubber,Meat- sheep,2010,3640.4
+Peru,Natural rubber,Meat- sheep,2010,3509
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2010,17090.1
+Suriname,Natural rubber,Meat- sheep,2010,7585.4
+Trinidad and Tobago,Natural rubber,Meat- sheep,2010,7979.9
+Uruguay,Natural rubber,Meat- sheep,2010,3865
+Canada,Natural rubber,Meat- sheep,2011,3648
+Mexico,Natural rubber,Meat- sheep,2011,3812.3
+Peru,Natural rubber,Meat- sheep,2011,3639.8
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2011,17090.1
+Suriname,Natural rubber,Meat- sheep,2011,8950.4
+Trinidad and Tobago,Natural rubber,Meat- sheep,2011,7937.8
+Uruguay,Natural rubber,Meat- sheep,2011,4747.8
+Canada,Natural rubber,Meat- sheep,2012,3265.5
+Mexico,Natural rubber,Meat- sheep,2012,3770.2
+Peru,Natural rubber,Meat- sheep,2012,4114
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2012,17090.1
+Suriname,Natural rubber,Meat- sheep,2012,11327.3
+Trinidad and Tobago,Natural rubber,Meat- sheep,2012,6687.8
+Uruguay,Natural rubber,Meat- sheep,2012,3503.6
+Canada,Natural rubber,Meat- sheep,2013,2400.7
+Mexico,Natural rubber,Meat- sheep,2013,4078.5
+Peru,Natural rubber,Meat- sheep,2013,4138.1
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2013,17090.1
+Suriname,Natural rubber,Meat- sheep,2013,9015.2
+Trinidad and Tobago,Natural rubber,Meat- sheep,2013,15261.6
+Uruguay,Natural rubber,Meat- sheep,2013,3431.9
+Canada,Natural rubber,Meat- sheep,2014,3270.3
+Mexico,Natural rubber,Meat- sheep,2014,4203.8
+Peru,Natural rubber,Meat- sheep,2014,4484.7
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2014,17090.1
+Suriname,Natural rubber,Meat- sheep,2014,9739.4
+Trinidad and Tobago,Natural rubber,Meat- sheep,2014,18332.6
+Uruguay,Natural rubber,Meat- sheep,2014,3749
+Canada,Natural rubber,Meat- sheep,2015,3418.8
+Mexico,Natural rubber,Meat- sheep,2015,3891.2
+Peru,Natural rubber,Meat- sheep,2015,3990.9
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2015,17090.1
+Suriname,Natural rubber,Meat- sheep,2015,10975.6
+Trinidad and Tobago,Natural rubber,Meat- sheep,2015,20042.2
+Uruguay,Natural rubber,Meat- sheep,2015,3694.5
+Canada,Natural rubber,Meat- sheep,2016,3388.9
+Mexico,Natural rubber,Meat- sheep,2016,3436.2
+Peru,Natural rubber,Meat- sheep,2016,3877.3
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2016,17090.1
+Suriname,Natural rubber,Meat- sheep,2016,6020.6
+Trinidad and Tobago,Natural rubber,Meat- sheep,2016,12189.9
+Uruguay,Natural rubber,Meat- sheep,2016,3143
+Canada,Natural rubber,Meat- sheep,2017,
+Mexico,Natural rubber,Meat- sheep,2017,3651.3
+Peru,Natural rubber,Meat- sheep,2017,
+Saint Vincent and the Grenadines,Natural rubber,Meat- sheep,2017,
+Suriname,Natural rubber,Meat- sheep,2017,
+Trinidad and Tobago,Natural rubber,Meat- sheep,2017,
+Uruguay,Natural rubber,Meat- sheep,2017,3261.6
+Canada,Natural rubber,Meat- turkey,2008,2457.3
+Mexico,Natural rubber,Meat- turkey,2008,3297.9
+Canada,Natural rubber,Meat- turkey,2009,2302.2
+Mexico,Natural rubber,Meat- turkey,2009,2933.4
+Canada,Natural rubber,Meat- turkey,2010,2402
+Mexico,Natural rubber,Meat- turkey,2010,3342.1
+Canada,Natural rubber,Meat- turkey,2011,2723.6
+Mexico,Natural rubber,Meat- turkey,2011,3487.3
+Canada,Natural rubber,Meat- turkey,2012,2868.2
+Mexico,Natural rubber,Meat- turkey,2012,3637.7
+Canada,Natural rubber,Meat- turkey,2013,2782.9
+Mexico,Natural rubber,Meat- turkey,2013,4077.8
+Canada,Natural rubber,Meat- turkey,2014,2546.8
+Mexico,Natural rubber,Meat- turkey,2014,3971
+Canada,Natural rubber,Meat- turkey,2015,2202.4
+Mexico,Natural rubber,Meat- turkey,2015,3397.6
+Canada,Natural rubber,Meat- turkey,2016,2070.2
+Mexico,Natural rubber,Meat- turkey,2016,2980.2
+Canada,Natural rubber,Meat- turkey,2017,
+Mexico,Natural rubber,Meat- turkey,2017,3045.1
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2008,150
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2008,82.1
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2008,195.2
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2008,109.4
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2009,139.1
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2009,110
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2009,81
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2009,214.8
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2009,93
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2010,166.2
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2010,130
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2010,121.5
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2010,288.9
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2010,109.7
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2011,206.6
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2011,180
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2011,135
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2011,288.9
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2011,181.5
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2012,196.2
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2012,172.5
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2012,131.5
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2012,297.8
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2012,200.9
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2013,156.6
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2013,142.3
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2013,110.6
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2013,308.5
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2013,148
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2014,163.2
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2014,153.8
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2014,103.2
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2014,314.9
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2014,143
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2015,140.7
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2015,117.1
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2015,84.3
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2015,308
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2015,112.4
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2016,
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2016,115.4
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2016,76.9
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2016,503
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2016,110
-Colombia,Oilseeds and oleaginous fruits,Oil palm fruit,2017,
 Ecuador,Oilseeds and oleaginous fruits,Oil palm fruit,2017,125.2
 Mexico,Oilseeds and oleaginous fruits,Oil palm fruit,2017,80
 Panama,Oilseeds and oleaginous fruits,Oil palm fruit,2017,
 Peru,Oilseeds and oleaginous fruits,Oil palm fruit,2017,113.5
-Ecuador,Vegetables,"Onions, shallots, green",2008,240
-Jamaica,Vegetables,"Onions, shallots, green",2008,1660.1
-Mexico,Vegetables,"Onions, shallots, green",2008,335.8
-Puerto Rico,Vegetables,"Onions, shallots, green",2008,570.8
-Ecuador,Vegetables,"Onions, shallots, green",2009,340
-Jamaica,Vegetables,"Onions, shallots, green",2009,775.5
-Mexico,Vegetables,"Onions, shallots, green",2009,227.3
-Puerto Rico,Vegetables,"Onions, shallots, green",2009,599.7
-Ecuador,Vegetables,"Onions, shallots, green",2010,290
-Jamaica,Vegetables,"Onions, shallots, green",2010,1158.1
-Mexico,Vegetables,"Onions, shallots, green",2010,330.9
-Puerto Rico,Vegetables,"Onions, shallots, green",2010,626.8
-Ecuador,Vegetables,"Onions, shallots, green",2011,290
-Jamaica,Vegetables,"Onions, shallots, green",2011,969.7
-Mexico,Vegetables,"Onions, shallots, green",2011,262.8
-Puerto Rico,Vegetables,"Onions, shallots, green",2011,590
-Ecuador,Vegetables,"Onions, shallots, green",2012,763.7
-Jamaica,Vegetables,"Onions, shallots, green",2012,1347
-Mexico,Vegetables,"Onions, shallots, green",2012,258.6
-Puerto Rico,Vegetables,"Onions, shallots, green",2012,659.8
-Ecuador,Vegetables,"Onions, shallots, green",2013,667.2
-Jamaica,Vegetables,"Onions, shallots, green",2013,1100.6
-Mexico,Vegetables,"Onions, shallots, green",2013,313.1
-Puerto Rico,Vegetables,"Onions, shallots, green",2013,548.9
-Ecuador,Vegetables,"Onions, shallots, green",2014,778.4
-Jamaica,Vegetables,"Onions, shallots, green",2014,1331.8
-Mexico,Vegetables,"Onions, shallots, green",2014,311.5
-Puerto Rico,Vegetables,"Onions, shallots, green",2014,610.5
-Ecuador,Vegetables,"Onions, shallots, green",2015,512.6
-Jamaica,Vegetables,"Onions, shallots, green",2015,1277.2
-Mexico,Vegetables,"Onions, shallots, green",2015,265.6
-Puerto Rico,Vegetables,"Onions, shallots, green",2015,654.1
-Ecuador,Vegetables,"Onions, shallots, green",2016,586.3
-Jamaica,Vegetables,"Onions, shallots, green",2016,791.2
-Mexico,Vegetables,"Onions, shallots, green",2016,258
-Puerto Rico,Vegetables,"Onions, shallots, green",2016,
-Ecuador,Vegetables,"Onions, shallots, green",2017,536
-Jamaica,Vegetables,"Onions, shallots, green",2017,1735.1
-Mexico,Vegetables,"Onions, shallots, green",2017,264.7
-Puerto Rico,Vegetables,"Onions, shallots, green",2017,
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,1436.4
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,868.9
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2008,4787.3
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,1359.6
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,748.8
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2009,4642.2
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,1437
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,1169.5
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2010,2771.6
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,1435.8
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,1341.8
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2011,2872.1
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,1376.9
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,1249.2
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2012,4450.7
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,1413.1
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,1117.8
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2013,4378.8
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,1200.1
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2014,4165.8
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,1268.3
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2015,5094.5
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,1603
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,839
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2016,7049.2
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,
-Ecuador,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,1147.2
-Mexico,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,772.4
-Peru,"Stimulant, spice and aromatic crops",Pepper (piper spp.),2017,6358
-Chile,Fruit and nuts,Persimmons,2008,
+Ecuador,Vegetables,Onions- shallots- green,2008,240
+Jamaica,Vegetables,Onions- shallots- green,2008,1660.1
+Mexico,Vegetables,Onions- shallots- green,2008,335.8
+Ecuador,Vegetables,Onions- shallots- green,2009,340
+Jamaica,Vegetables,Onions- shallots- green,2009,775.5
+Mexico,Vegetables,Onions- shallots- green,2009,227.3
+Ecuador,Vegetables,Onions- shallots- green,2010,290
+Jamaica,Vegetables,Onions- shallots- green,2010,1158.1
+Mexico,Vegetables,Onions- shallots- green,2010,330.9
+Ecuador,Vegetables,Onions- shallots- green,2011,290
+Jamaica,Vegetables,Onions- shallots- green,2011,969.7
+Mexico,Vegetables,Onions- shallots- green,2011,262.8
+Ecuador,Vegetables,Onions- shallots- green,2012,763.7
+Jamaica,Vegetables,Onions- shallots- green,2012,1347
+Mexico,Vegetables,Onions- shallots- green,2012,258.6
+Ecuador,Vegetables,Onions- shallots- green,2013,667.2
+Jamaica,Vegetables,Onions- shallots- green,2013,1100.6
+Mexico,Vegetables,Onions- shallots- green,2013,313.1
+Ecuador,Vegetables,Onions- shallots- green,2014,778.4
+Jamaica,Vegetables,Onions- shallots- green,2014,1331.8
+Mexico,Vegetables,Onions- shallots- green,2014,311.5
+Ecuador,Vegetables,Onions- shallots- green,2015,512.6
+Jamaica,Vegetables,Onions- shallots- green,2015,1277.2
+Mexico,Vegetables,Onions- shallots- green,2015,265.6
+Ecuador,Vegetables,Onions- shallots- green,2016,586.3
+Jamaica,Vegetables,Onions- shallots- green,2016,791.2
+Mexico,Vegetables,Onions- shallots- green,2016,258
+Ecuador,Vegetables,Onions- shallots- green,2017,536
+Jamaica,Vegetables,Onions- shallots- green,2017,1735.1
+Mexico,Vegetables,Onions- shallots- green,2017,264.7
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2008,868.9
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2008,4787.3
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2009,748.8
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2009,4642.2
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2010,1169.5
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2010,2771.6
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2011,1341.8
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2011,2872.1
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2012,1249.2
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2012,4450.7
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2013,1117.8
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2013,4378.8
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2014,1200.1
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2014,4165.8
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2015,1268.3
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2015,5094.5
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2016,839
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2016,7049.2
+Mexico,Stimulant- spice and aromatic crops,Pepper (piper spp.),2017,772.4
+Peru,Stimulant- spice and aromatic crops,Pepper (piper spp.),2017,6358
 Mexico,Fruit and nuts,Persimmons,2008,490.9
-Chile,Fruit and nuts,Persimmons,2009,
 Mexico,Fruit and nuts,Persimmons,2009,520
-Chile,Fruit and nuts,Persimmons,2010,
 Mexico,Fruit and nuts,Persimmons,2010,833
-Chile,Fruit and nuts,Persimmons,2011,
 Mexico,Fruit and nuts,Persimmons,2011,914.7
-Chile,Fruit and nuts,Persimmons,2012,619.6
 Mexico,Fruit and nuts,Persimmons,2012,893.3
-Chile,Fruit and nuts,Persimmons,2013,697.5
 Mexico,Fruit and nuts,Persimmons,2013,918.9
-Chile,Fruit and nuts,Persimmons,2014,1238.4
 Mexico,Fruit and nuts,Persimmons,2014,926.4
-Chile,Fruit and nuts,Persimmons,2015,977
 Mexico,Fruit and nuts,Persimmons,2015,975.8
-Chile,Fruit and nuts,Persimmons,2016,1098.3
 Mexico,Fruit and nuts,Persimmons,2016,877.8
-Chile,Fruit and nuts,Persimmons,2017,1207.5
 Mexico,Fruit and nuts,Persimmons,2017,928.8
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2008,689.9
 Colombia,Fruit and nuts,Pineapples,2008,290.4
-Costa Rica,Fruit and nuts,Pineapples,2008,630.6
 Dominican Republic,Fruit and nuts,Pineapples,2008,184.1
 Ecuador,Fruit and nuts,Pineapples,2008,188.6
-Grenada,Fruit and nuts,Pineapples,2008,
 Guyana,Fruit and nuts,Pineapples,2008,535.4
 Jamaica,Fruit and nuts,Pineapples,2008,852
 Mexico,Fruit and nuts,Pineapples,2008,243.3
 Panama,Fruit and nuts,Pineapples,2008,286.6
 Peru,Fruit and nuts,Pineapples,2008,153.9
-Puerto Rico,Fruit and nuts,Pineapples,2008,620.4
 Suriname,Fruit and nuts,Pineapples,2008,1395.3
 Trinidad and Tobago,Fruit and nuts,Pineapples,2008,685.3
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2009,734.1
 Colombia,Fruit and nuts,Pineapples,2009,237.6
-Costa Rica,Fruit and nuts,Pineapples,2009,625.1
 Dominican Republic,Fruit and nuts,Pineapples,2009,214.6
 Ecuador,Fruit and nuts,Pineapples,2009,171.6
-Grenada,Fruit and nuts,Pineapples,2009,
 Guyana,Fruit and nuts,Pineapples,2009,527.1
 Jamaica,Fruit and nuts,Pineapples,2009,873
 Mexico,Fruit and nuts,Pineapples,2009,198.9
 Panama,Fruit and nuts,Pineapples,2009,335.1
 Peru,Fruit and nuts,Pineapples,2009,159.4
-Puerto Rico,Fruit and nuts,Pineapples,2009,837.8
 Suriname,Fruit and nuts,Pineapples,2009,1406.2
 Trinidad and Tobago,Fruit and nuts,Pineapples,2009,948.6
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2010,297.5
 Colombia,Fruit and nuts,Pineapples,2010,309
-Costa Rica,Fruit and nuts,Pineapples,2010,652.5
 Dominican Republic,Fruit and nuts,Pineapples,2010,234.7
 Ecuador,Fruit and nuts,Pineapples,2010,370
-Grenada,Fruit and nuts,Pineapples,2010,1633.1
 Guyana,Fruit and nuts,Pineapples,2010,623.7
 Jamaica,Fruit and nuts,Pineapples,2010,1143.9
 Mexico,Fruit and nuts,Pineapples,2010,222.6
 Panama,Fruit and nuts,Pineapples,2010,361.6
 Peru,Fruit and nuts,Pineapples,2010,152.2
-Puerto Rico,Fruit and nuts,Pineapples,2010,779.8
 Suriname,Fruit and nuts,Pineapples,2010,1733.8
 Trinidad and Tobago,Fruit and nuts,Pineapples,2010,762.3
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2011,311.5
 Colombia,Fruit and nuts,Pineapples,2011,375
-Costa Rica,Fruit and nuts,Pineapples,2011,692.2
 Dominican Republic,Fruit and nuts,Pineapples,2011,192.5
 Ecuador,Fruit and nuts,Pineapples,2011,190
-Grenada,Fruit and nuts,Pineapples,2011,1939.2
 Guyana,Fruit and nuts,Pineapples,2011,652.6
 Jamaica,Fruit and nuts,Pineapples,2011,1187.3
 Mexico,Fruit and nuts,Pineapples,2011,230.2
 Panama,Fruit and nuts,Pineapples,2011,476.2
 Peru,Fruit and nuts,Pineapples,2011,163.4
-Puerto Rico,Fruit and nuts,Pineapples,2011,991.6
 Suriname,Fruit and nuts,Pineapples,2011,1545.3
 Trinidad and Tobago,Fruit and nuts,Pineapples,2011,959.5
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2012,323.9
 Colombia,Fruit and nuts,Pineapples,2012,368.2
-Costa Rica,Fruit and nuts,Pineapples,2012,646.4
 Dominican Republic,Fruit and nuts,Pineapples,2012,203
 Ecuador,Fruit and nuts,Pineapples,2012,247.1
-Grenada,Fruit and nuts,Pineapples,2012,1633.1
 Guyana,Fruit and nuts,Pineapples,2012,557.1
 Jamaica,Fruit and nuts,Pineapples,2012,1122.1
 Mexico,Fruit and nuts,Pineapples,2012,226.5
 Panama,Fruit and nuts,Pineapples,2012,727.1
 Peru,Fruit and nuts,Pineapples,2012,204.7
-Puerto Rico,Fruit and nuts,Pineapples,2012,1100.2
 Suriname,Fruit and nuts,Pineapples,2012,1587.9
 Trinidad and Tobago,Fruit and nuts,Pineapples,2012,933.2
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2013,331.4
 Colombia,Fruit and nuts,Pineapples,2013,578.1
-Costa Rica,Fruit and nuts,Pineapples,2013,708.6
 Dominican Republic,Fruit and nuts,Pineapples,2013,200.4
 Ecuador,Fruit and nuts,Pineapples,2013,281
-Grenada,Fruit and nuts,Pineapples,2013,1633.1
 Guyana,Fruit and nuts,Pineapples,2013,678.5
 Jamaica,Fruit and nuts,Pineapples,2013,1045.5
 Mexico,Fruit and nuts,Pineapples,2013,250.8
 Panama,Fruit and nuts,Pineapples,2013,679.4
 Peru,Fruit and nuts,Pineapples,2013,214.7
-Puerto Rico,Fruit and nuts,Pineapples,2013,1119.2
 Suriname,Fruit and nuts,Pineapples,2013,1742.4
 Trinidad and Tobago,Fruit and nuts,Pineapples,2013,1131.5
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2014,332.5
 Colombia,Fruit and nuts,Pineapples,2014,648.2
-Costa Rica,Fruit and nuts,Pineapples,2014,717.3
 Dominican Republic,Fruit and nuts,Pineapples,2014,233.1
 Ecuador,Fruit and nuts,Pineapples,2014,302.2
-Grenada,Fruit and nuts,Pineapples,2014,2245.4
 Guyana,Fruit and nuts,Pineapples,2014,560.9
 Jamaica,Fruit and nuts,Pineapples,2014,923.4
 Mexico,Fruit and nuts,Pineapples,2014,254.2
 Panama,Fruit and nuts,Pineapples,2014,467.4
 Peru,Fruit and nuts,Pineapples,2014,221.9
-Puerto Rico,Fruit and nuts,Pineapples,2014,1029.7
 Suriname,Fruit and nuts,Pineapples,2014,1748.5
 Trinidad and Tobago,Fruit and nuts,Pineapples,2014,1165.9
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2015,330.9
 Colombia,Fruit and nuts,Pineapples,2015,807
-Costa Rica,Fruit and nuts,Pineapples,2015,
 Dominican Republic,Fruit and nuts,Pineapples,2015,274.4
 Ecuador,Fruit and nuts,Pineapples,2015,375
-Grenada,Fruit and nuts,Pineapples,2015,2041.3
 Guyana,Fruit and nuts,Pineapples,2015,633
 Jamaica,Fruit and nuts,Pineapples,2015,1042.1
 Mexico,Fruit and nuts,Pineapples,2015,217.7
 Panama,Fruit and nuts,Pineapples,2015,582
 Peru,Fruit and nuts,Pineapples,2015,212.9
-Puerto Rico,Fruit and nuts,Pineapples,2015,1062.8
 Suriname,Fruit and nuts,Pineapples,2015,1097.3
 Trinidad and Tobago,Fruit and nuts,Pineapples,2015,1256.5
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2016,
 Colombia,Fruit and nuts,Pineapples,2016,173.5
-Costa Rica,Fruit and nuts,Pineapples,2016,
 Dominican Republic,Fruit and nuts,Pineapples,2016,321.5
 Ecuador,Fruit and nuts,Pineapples,2016,354.7
-Grenada,Fruit and nuts,Pineapples,2016,2099
 Guyana,Fruit and nuts,Pineapples,2016,588.5
 Jamaica,Fruit and nuts,Pineapples,2016,1069.7
 Mexico,Fruit and nuts,Pineapples,2016,200.5
 Panama,Fruit and nuts,Pineapples,2016,652.6
 Peru,Fruit and nuts,Pineapples,2016,209.1
-Puerto Rico,Fruit and nuts,Pineapples,2016,
 Suriname,Fruit and nuts,Pineapples,2016,1083.7
 Trinidad and Tobago,Fruit and nuts,Pineapples,2016,1035.4
-Bolivia (Plurinational State of),Fruit and nuts,Pineapples,2017,
 Colombia,Fruit and nuts,Pineapples,2017,
-Costa Rica,Fruit and nuts,Pineapples,2017,
 Dominican Republic,Fruit and nuts,Pineapples,2017,
 Ecuador,Fruit and nuts,Pineapples,2017,385.6
-Grenada,Fruit and nuts,Pineapples,2017,2243.4
 Guyana,Fruit and nuts,Pineapples,2017,498.6
 Jamaica,Fruit and nuts,Pineapples,2017,1143.2
 Mexico,Fruit and nuts,Pineapples,2017,221.7
 Panama,Fruit and nuts,Pineapples,2017,573.2
 Peru,Fruit and nuts,Pineapples,2017,223.9
-Puerto Rico,Fruit and nuts,Pineapples,2017,
 Suriname,Fruit and nuts,Pineapples,2017,
 Trinidad and Tobago,Fruit and nuts,Pineapples,2017,
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2008,376.5
 Chile,Fruit and nuts,Quinces,2008,227.5
 Mexico,Fruit and nuts,Quinces,2008,400.7
 Peru,Fruit and nuts,Quinces,2008,379.6
 Uruguay,Fruit and nuts,Quinces,2008,934.5
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2009,382.7
 Chile,Fruit and nuts,Quinces,2009,226.2
 Mexico,Fruit and nuts,Quinces,2009,335.5
 Peru,Fruit and nuts,Quinces,2009,378.5
 Uruguay,Fruit and nuts,Quinces,2009,931.9
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2010,228.1
 Chile,Fruit and nuts,Quinces,2010,307.5
 Mexico,Fruit and nuts,Quinces,2010,468.6
 Peru,Fruit and nuts,Quinces,2010,474.3
 Uruguay,Fruit and nuts,Quinces,2010,791.2
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2011,233.4
 Chile,Fruit and nuts,Quinces,2011,316
 Mexico,Fruit and nuts,Quinces,2011,534.8
 Peru,Fruit and nuts,Quinces,2011,443
 Uruguay,Fruit and nuts,Quinces,2011,634.8
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2012,236.9
 Chile,Fruit and nuts,Quinces,2012,455.9
 Mexico,Fruit and nuts,Quinces,2012,565.9
 Peru,Fruit and nuts,Quinces,2012,519.4
 Uruguay,Fruit and nuts,Quinces,2012,486.4
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2013,236.9
 Chile,Fruit and nuts,Quinces,2013,509.1
 Mexico,Fruit and nuts,Quinces,2013,558.9
 Peru,Fruit and nuts,Quinces,2013,444.1
 Uruguay,Fruit and nuts,Quinces,2013,724.2
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2014,234.9
 Chile,Fruit and nuts,Quinces,2014,845.2
 Mexico,Fruit and nuts,Quinces,2014,670.8
 Peru,Fruit and nuts,Quinces,2014,498.4
 Uruguay,Fruit and nuts,Quinces,2014,1127.5
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2015,239.4
 Chile,Fruit and nuts,Quinces,2015,590.8
 Mexico,Fruit and nuts,Quinces,2015,482.6
 Peru,Fruit and nuts,Quinces,2015,467
 Uruguay,Fruit and nuts,Quinces,2015,872.8
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2016,
 Chile,Fruit and nuts,Quinces,2016,789.1
 Mexico,Fruit and nuts,Quinces,2016,323
 Peru,Fruit and nuts,Quinces,2016,501.8
 Uruguay,Fruit and nuts,Quinces,2016,642.2
-Bolivia (Plurinational State of),Fruit and nuts,Quinces,2017,
 Chile,Fruit and nuts,Quinces,2017,654.5
 Mexico,Fruit and nuts,Quinces,2017,511.2
 Peru,Fruit and nuts,Quinces,2017,549
@@ -1389,153 +969,83 @@ Peru,Oilseeds and oleaginous fruits,Sesame seed,2016,1207.4
 Mexico,Oilseeds and oleaginous fruits,Sesame seed,2017,850.2
 Paraguay,Oilseeds and oleaginous fruits,Sesame seed,2017,978.8
 Peru,Oilseeds and oleaginous fruits,Sesame seed,2017,1248.6
-Argentina,"Stimulant, spice and aromatic crops",Tea,2008,66.9
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2008,219.7
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2008,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2008,225.7
-Peru,"Stimulant, spice and aromatic crops",Tea,2008,167.6
-Argentina,"Stimulant, spice and aromatic crops",Tea,2009,56.4
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2009,238.1
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2009,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2009,241
-Peru,"Stimulant, spice and aromatic crops",Tea,2009,186
-Argentina,"Stimulant, spice and aromatic crops",Tea,2010,92.3
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2010,262
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2010,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2010,250.2
-Peru,"Stimulant, spice and aromatic crops",Tea,2010,184.1
-Argentina,"Stimulant, spice and aromatic crops",Tea,2011,107.5
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2011,251.8
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2011,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2011,114.3
-Peru,"Stimulant, spice and aromatic crops",Tea,2011,239.6
-Argentina,"Stimulant, spice and aromatic crops",Tea,2012,127.6
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2012,261.4
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2012,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2012,493.6
-Peru,"Stimulant, spice and aromatic crops",Tea,2012,265.4
-Argentina,"Stimulant, spice and aromatic crops",Tea,2013,137.4
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2013,267.2
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2013,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2013,495.9
-Peru,"Stimulant, spice and aromatic crops",Tea,2013,285
-Argentina,"Stimulant, spice and aromatic crops",Tea,2014,103.7
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2014,
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2014,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2014,122.7
-Peru,"Stimulant, spice and aromatic crops",Tea,2014,302.9
-Argentina,"Stimulant, spice and aromatic crops",Tea,2015,99.5
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2015,
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2015,
-Mexico,"Stimulant, spice and aromatic crops",Tea,2015,95.4
-Peru,"Stimulant, spice and aromatic crops",Tea,2015,234.6
-Argentina,"Stimulant, spice and aromatic crops",Tea,2016,78.3
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2016,
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2016,10000
-Mexico,"Stimulant, spice and aromatic crops",Tea,2016,80.1
-Peru,"Stimulant, spice and aromatic crops",Tea,2016,200.2
-Argentina,"Stimulant, spice and aromatic crops",Tea,2017,90.6
-Bolivia (Plurinational State of),"Stimulant, spice and aromatic crops",Tea,2017,
-Ecuador,"Stimulant, spice and aromatic crops",Tea,2017,10000
-Mexico,"Stimulant, spice and aromatic crops",Tea,2017,72.3
-Peru,"Stimulant, spice and aromatic crops",Tea,2017,205.5
-Argentina,Other animal products,"Wool, greasy",2008,1666.8
-Canada,Other animal products,"Wool, greasy",2008,562.3
-Mexico,Other animal products,"Wool, greasy",2008,307.4
-United States of America,Other animal products,"Wool, greasy",2008,1082
-Uruguay,Other animal products,"Wool, greasy",2008,2179.2
-Argentina,Other animal products,"Wool, greasy",2009,2121.7
-Canada,Other animal products,"Wool, greasy",2009,
-Mexico,Other animal products,"Wool, greasy",2009,250.6
-United States of America,Other animal products,"Wool, greasy",2009,1429
-Uruguay,Other animal products,"Wool, greasy",2009,1923.7
-Argentina,Other animal products,"Wool, greasy",2010,2511.1
-Canada,Other animal products,"Wool, greasy",2010,
-Mexico,Other animal products,"Wool, greasy",2010,282.9
-United States of America,Other animal products,"Wool, greasy",2010,1834
-Uruguay,Other animal products,"Wool, greasy",2010,3416.4
-Argentina,Other animal products,"Wool, greasy",2011,3559.6
-Canada,Other animal products,"Wool, greasy",2011,
-Mexico,Other animal products,"Wool, greasy",2011,311.3
-United States of America,Other animal products,"Wool, greasy",2011,
-Uruguay,Other animal products,"Wool, greasy",2011,3598
-Argentina,Other animal products,"Wool, greasy",2012,3568.4
-Canada,Other animal products,"Wool, greasy",2012,
-Mexico,Other animal products,"Wool, greasy",2012,294.8
-United States of America,Other animal products,"Wool, greasy",2012,
-Uruguay,Other animal products,"Wool, greasy",2012,3066
-Argentina,Other animal products,"Wool, greasy",2013,3315.8
-Canada,Other animal products,"Wool, greasy",2013,
-Mexico,Other animal products,"Wool, greasy",2013,330.6
-United States of America,Other animal products,"Wool, greasy",2013,
-Uruguay,Other animal products,"Wool, greasy",2013,3091.7
-Argentina,Other animal products,"Wool, greasy",2014,2785.1
-Canada,Other animal products,"Wool, greasy",2014,
-Mexico,Other animal products,"Wool, greasy",2014,336.3
-United States of America,Other animal products,"Wool, greasy",2014,
-Uruguay,Other animal products,"Wool, greasy",2014,3329.4
-Argentina,Other animal products,"Wool, greasy",2015,
-Canada,Other animal products,"Wool, greasy",2015,
-Mexico,Other animal products,"Wool, greasy",2015,288.4
-United States of America,Other animal products,"Wool, greasy",2015,
-Uruguay,Other animal products,"Wool, greasy",2015,136.7
-Argentina,Other animal products,"Wool, greasy",2016,
-Canada,Other animal products,"Wool, greasy",2016,
-Mexico,Other animal products,"Wool, greasy",2016,273.3
-United States of America,Other animal products,"Wool, greasy",2016,
-Uruguay,Other animal products,"Wool, greasy",2016,92.9
-Argentina,Other animal products,"Wool, greasy",2017,
-Canada,Other animal products,"Wool, greasy",2017,
-Mexico,Other animal products,"Wool, greasy",2017,269.4
-United States of America,Other animal products,"Wool, greasy",2017,
-Uruguay,Other animal products,"Wool, greasy",2017,102.5
+Argentina,Stimulant- spice and aromatic crops,Tea,2008,66.9
+Mexico,Stimulant- spice and aromatic crops,Tea,2008,225.7
+Peru,Stimulant- spice and aromatic crops,Tea,2008,167.6
+Argentina,Stimulant- spice and aromatic crops,Tea,2009,56.4
+Mexico,Stimulant- spice and aromatic crops,Tea,2009,241
+Peru,Stimulant- spice and aromatic crops,Tea,2009,186
+Argentina,Stimulant- spice and aromatic crops,Tea,2010,92.3
+Mexico,Stimulant- spice and aromatic crops,Tea,2010,250.2
+Peru,Stimulant- spice and aromatic crops,Tea,2010,184.1
+Argentina,Stimulant- spice and aromatic crops,Tea,2011,107.5
+Mexico,Stimulant- spice and aromatic crops,Tea,2011,114.3
+Peru,Stimulant- spice and aromatic crops,Tea,2011,239.6
+Argentina,Stimulant- spice and aromatic crops,Tea,2012,127.6
+Mexico,Stimulant- spice and aromatic crops,Tea,2012,493.6
+Peru,Stimulant- spice and aromatic crops,Tea,2012,265.4
+Argentina,Stimulant- spice and aromatic crops,Tea,2013,137.4
+Mexico,Stimulant- spice and aromatic crops,Tea,2013,495.9
+Peru,Stimulant- spice and aromatic crops,Tea,2013,285
+Argentina,Stimulant- spice and aromatic crops,Tea,2014,103.7
+Mexico,Stimulant- spice and aromatic crops,Tea,2014,122.7
+Peru,Stimulant- spice and aromatic crops,Tea,2014,302.9
+Argentina,Stimulant- spice and aromatic crops,Tea,2015,99.5
+Mexico,Stimulant- spice and aromatic crops,Tea,2015,95.4
+Peru,Stimulant- spice and aromatic crops,Tea,2015,234.6
+Argentina,Stimulant- spice and aromatic crops,Tea,2016,78.3
+Mexico,Stimulant- spice and aromatic crops,Tea,2016,80.1
+Peru,Stimulant- spice and aromatic crops,Tea,2016,200.2
+Argentina,Stimulant- spice and aromatic crops,Tea,2017,90.6
+Mexico,Stimulant- spice and aromatic crops,Tea,2017,72.3
+Peru,Stimulant- spice and aromatic crops,Tea,2017,205.5
+Mexico,Other animal products,Wool- greasy,2008,307.4
+Uruguay,Other animal products,Wool- greasy,2008,2179.2
+Mexico,Other animal products,Wool- greasy,2009,250.6
+Uruguay,Other animal products,Wool- greasy,2009,1923.7
+Mexico,Other animal products,Wool- greasy,2010,282.9
+Uruguay,Other animal products,Wool- greasy,2010,3416.4
+Mexico,Other animal products,Wool- greasy,2011,311.3
+Uruguay,Other animal products,Wool- greasy,2011,3598
+Mexico,Other animal products,Wool- greasy,2012,294.8
+Uruguay,Other animal products,Wool- greasy,2012,3066
+Mexico,Other animal products,Wool- greasy,2013,330.6
+Uruguay,Other animal products,Wool- greasy,2013,3091.7
+Mexico,Other animal products,Wool- greasy,2014,336.3
+Uruguay,Other animal products,Wool- greasy,2014,3329.4
+Mexico,Other animal products,Wool- greasy,2015,288.4
+Uruguay,Other animal products,Wool- greasy,2015,136.7
+Mexico,Other animal products,Wool- greasy,2016,273.3
+Uruguay,Other animal products,Wool- greasy,2016,92.9
+Mexico,Other animal products,Wool- greasy,2017,269.4
+Uruguay,Other animal products,Wool- greasy,2017,102.5
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2008,768.7
 Mexico,Edible roots and tubers,Yautia (cocoyam),2008,360.4
 Panama,Edible roots and tubers,Yautia (cocoyam),2008,314.6
-Peru,Edible roots and tubers,Yautia (cocoyam),2008,
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2008,1149.3
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2009,846.9
 Mexico,Edible roots and tubers,Yautia (cocoyam),2009,267.1
 Panama,Edible roots and tubers,Yautia (cocoyam),2009,280.2
-Peru,Edible roots and tubers,Yautia (cocoyam),2009,
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2009,1260.6
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2010,833.7
 Mexico,Edible roots and tubers,Yautia (cocoyam),2010,291.1
 Panama,Edible roots and tubers,Yautia (cocoyam),2010,269.4
-Peru,Edible roots and tubers,Yautia (cocoyam),2010,
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2010,1488.1
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2011,793.4
 Mexico,Edible roots and tubers,Yautia (cocoyam),2011,235.5
 Panama,Edible roots and tubers,Yautia (cocoyam),2011,425.2
-Peru,Edible roots and tubers,Yautia (cocoyam),2011,
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2011,1360
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2012,768.9
 Mexico,Edible roots and tubers,Yautia (cocoyam),2012,613
 Panama,Edible roots and tubers,Yautia (cocoyam),2012,1086.7
-Peru,Edible roots and tubers,Yautia (cocoyam),2012,392
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2012,1966.9
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2013,900.5
 Mexico,Edible roots and tubers,Yautia (cocoyam),2013,462
 Panama,Edible roots and tubers,Yautia (cocoyam),2013,1072.9
-Peru,Edible roots and tubers,Yautia (cocoyam),2013,501.1
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2013,1532.9
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2014,770.4
 Mexico,Edible roots and tubers,Yautia (cocoyam),2014,450.6
 Panama,Edible roots and tubers,Yautia (cocoyam),2014,1131.8
-Peru,Edible roots and tubers,Yautia (cocoyam),2014,481.1
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2014,2011.8
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2015,764.6
 Mexico,Edible roots and tubers,Yautia (cocoyam),2015,253
 Panama,Edible roots and tubers,Yautia (cocoyam),2015,1182.1
-Peru,Edible roots and tubers,Yautia (cocoyam),2015,415.8
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2015,2088.3
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2016,1155
 Mexico,Edible roots and tubers,Yautia (cocoyam),2016,225.7
 Panama,Edible roots and tubers,Yautia (cocoyam),2016,1317.7
-Peru,Edible roots and tubers,Yautia (cocoyam),2016,280
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2016,
 Dominican Republic,Edible roots and tubers,Yautia (cocoyam),2017,
 Mexico,Edible roots and tubers,Yautia (cocoyam),2017,242.8
 Panama,Edible roots and tubers,Yautia (cocoyam),2017,1153
-Peru,Edible roots and tubers,Yautia (cocoyam),2017,388
-Puerto Rico,Edible roots and tubers,Yautia (cocoyam),2017,
