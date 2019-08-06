@@ -52,59 +52,59 @@ Canada,Bovine Meat,2010,1016737.21
 Canada,Bovine Meat,2011,1011494.8
 Canada,Bovine Meat,2012,1062911.41
 Canada,Bovine Meat,2013,1064325.19
-Canada,"Butter, Ghee",1961,136158
-Canada,"Butter, Ghee",1962,150607
-Canada,"Butter, Ghee",1963,170176
-Canada,"Butter, Ghee",1964,154165
-Canada,"Butter, Ghee",1965,167229
-Canada,"Butter, Ghee",1966,172295
-Canada,"Butter, Ghee",1967,159850
-Canada,"Butter, Ghee",1968,153704
-Canada,"Butter, Ghee",1969,151427
-Canada,"Butter, Ghee",1970,153598
-Canada,"Butter, Ghee",1971,151179
-Canada,"Butter, Ghee",1972,150114
-Canada,"Butter, Ghee",1973,137053
-Canada,"Butter, Ghee",1974,135480
-Canada,"Butter, Ghee",1975,123934
-Canada,"Butter, Ghee",1976,124366
-Canada,"Butter, Ghee",1977,112637
-Canada,"Butter, Ghee",1978,110756
-Canada,"Butter, Ghee",1979,109245
-Canada,"Butter, Ghee",1980,112466
-Canada,"Butter, Ghee",1981,111821
-Canada,"Butter, Ghee",1982,109166
-Canada,"Butter, Ghee",1983,112864
-Canada,"Butter, Ghee",1984,111164
-Canada,"Butter, Ghee",1985,108244
-Canada,"Butter, Ghee",1986,103585
-Canada,"Butter, Ghee",1987,104363
-Canada,"Butter, Ghee",1988,103628
-Canada,"Butter, Ghee",1989,99882
-Canada,"Butter, Ghee",1990,95877
-Canada,"Butter, Ghee",1991,92422
-Canada,"Butter, Ghee",1992,85373
-Canada,"Butter, Ghee",1993,86492
-Canada,"Butter, Ghee",1994,88004
-Canada,"Butter, Ghee",1995,85180
-Canada,"Butter, Ghee",1996,87578
-Canada,"Butter, Ghee",1997,83364
-Canada,"Butter, Ghee",1998,88048
-Canada,"Butter, Ghee",1999,82058
-Canada,"Butter, Ghee",2000,89687
-Canada,"Butter, Ghee",2001,89772
-Canada,"Butter, Ghee",2002,91130
-Canada,"Butter, Ghee",2003,93584
-Canada,"Butter, Ghee",2004,91265
-Canada,"Butter, Ghee",2005,89792
-Canada,"Butter, Ghee",2006,75788
-Canada,"Butter, Ghee",2007,82696
-Canada,"Butter, Ghee",2008,91735
-Canada,"Butter, Ghee",2009,92873
-Canada,"Butter, Ghee",2010,87293
-Canada,"Butter, Ghee",2011,96762
-Canada,"Butter, Ghee",2012,104490
-Canada,"Butter, Ghee",2013,95059
+Canada,Butter- Ghee,1961,136158
+Canada,Butter- Ghee,1962,150607
+Canada,Butter- Ghee,1963,170176
+Canada,Butter- Ghee,1964,154165
+Canada,Butter- Ghee,1965,167229
+Canada,Butter- Ghee,1966,172295
+Canada,Butter- Ghee,1967,159850
+Canada,Butter- Ghee,1968,153704
+Canada,Butter- Ghee,1969,151427
+Canada,Butter- Ghee,1970,153598
+Canada,Butter- Ghee,1971,151179
+Canada,Butter- Ghee,1972,150114
+Canada,Butter- Ghee,1973,137053
+Canada,Butter- Ghee,1974,135480
+Canada,Butter- Ghee,1975,123934
+Canada,Butter- Ghee,1976,124366
+Canada,Butter- Ghee,1977,112637
+Canada,Butter- Ghee,1978,110756
+Canada,Butter- Ghee,1979,109245
+Canada,Butter- Ghee,1980,112466
+Canada,Butter- Ghee,1981,111821
+Canada,Butter- Ghee,1982,109166
+Canada,Butter- Ghee,1983,112864
+Canada,Butter- Ghee,1984,111164
+Canada,Butter- Ghee,1985,108244
+Canada,Butter- Ghee,1986,103585
+Canada,Butter- Ghee,1987,104363
+Canada,Butter- Ghee,1988,103628
+Canada,Butter- Ghee,1989,99882
+Canada,Butter- Ghee,1990,95877
+Canada,Butter- Ghee,1991,92422
+Canada,Butter- Ghee,1992,85373
+Canada,Butter- Ghee,1993,86492
+Canada,Butter- Ghee,1994,88004
+Canada,Butter- Ghee,1995,85180
+Canada,Butter- Ghee,1996,87578
+Canada,Butter- Ghee,1997,83364
+Canada,Butter- Ghee,1998,88048
+Canada,Butter- Ghee,1999,82058
+Canada,Butter- Ghee,2000,89687
+Canada,Butter- Ghee,2001,89772
+Canada,Butter- Ghee,2002,91130
+Canada,Butter- Ghee,2003,93584
+Canada,Butter- Ghee,2004,91265
+Canada,Butter- Ghee,2005,89792
+Canada,Butter- Ghee,2006,75788
+Canada,Butter- Ghee,2007,82696
+Canada,Butter- Ghee,2008,91735
+Canada,Butter- Ghee,2009,92873
+Canada,Butter- Ghee,2010,87293
+Canada,Butter- Ghee,2011,96762
+Canada,Butter- Ghee,2012,104490
+Canada,Butter- Ghee,2013,95059
 Canada,Cheese,1961,65172
 Canada,Cheese,1962,71669
 Canada,Cheese,1963,74725
@@ -317,59 +317,59 @@ Canada,Eggs,2010,425623.59
 Canada,Eggs,2011,431515.58
 Canada,Eggs,2012,441423.53
 Canada,Eggs,2013,455474.85
-Canada,"Fats, Animals, Raw",1961,148985.46
-Canada,"Fats, Animals, Raw",1962,153496.25
-Canada,"Fats, Animals, Raw",1963,161615.47
-Canada,"Fats, Animals, Raw",1964,167381.25
-Canada,"Fats, Animals, Raw",1965,156647.47
-Canada,"Fats, Animals, Raw",1966,157245.73
-Canada,"Fats, Animals, Raw",1967,185121.47
-Canada,"Fats, Animals, Raw",1968,182475.43
-Canada,"Fats, Animals, Raw",1969,181982.43
-Canada,"Fats, Animals, Raw",1970,163873.21
-Canada,"Fats, Animals, Raw",1971,182340.91
-Canada,"Fats, Animals, Raw",1972,160550.68
-Canada,"Fats, Animals, Raw",1973,168376.93
-Canada,"Fats, Animals, Raw",1974,200410.48
-Canada,"Fats, Animals, Raw",1975,193609.55
-Canada,"Fats, Animals, Raw",1976,197016.79
-Canada,"Fats, Animals, Raw",1977,202444.71
-Canada,"Fats, Animals, Raw",1978,212331.67
-Canada,"Fats, Animals, Raw",1979,180435.1
-Canada,"Fats, Animals, Raw",1980,205608.46
-Canada,"Fats, Animals, Raw",1981,193505
-Canada,"Fats, Animals, Raw",1982,169513.91
-Canada,"Fats, Animals, Raw",1983,189398.72
-Canada,"Fats, Animals, Raw",1984,184679.41
-Canada,"Fats, Animals, Raw",1985,194881
-Canada,"Fats, Animals, Raw",1986,187554.93
-Canada,"Fats, Animals, Raw",1987,182288.87
-Canada,"Fats, Animals, Raw",1988,185539.56
-Canada,"Fats, Animals, Raw",1989,212351.3
-Canada,"Fats, Animals, Raw",1990,189992.81
-Canada,"Fats, Animals, Raw",1991,193630.68
-Canada,"Fats, Animals, Raw",1992,187863.73
-Canada,"Fats, Animals, Raw",1993,167652.81
-Canada,"Fats, Animals, Raw",1994,170653.09
-Canada,"Fats, Animals, Raw",1995,175827.64
-Canada,"Fats, Animals, Raw",1996,138929.2
-Canada,"Fats, Animals, Raw",1997,155544.35
-Canada,"Fats, Animals, Raw",1998,188387.2
-Canada,"Fats, Animals, Raw",1999,205666.33
-Canada,"Fats, Animals, Raw",2000,208115.38
-Canada,"Fats, Animals, Raw",2001,214092.14
-Canada,"Fats, Animals, Raw",2002,230932.71
-Canada,"Fats, Animals, Raw",2003,235713
-Canada,"Fats, Animals, Raw",2004,251714.02
-Canada,"Fats, Animals, Raw",2005,241411.21
-Canada,"Fats, Animals, Raw",2006,228917.9
-Canada,"Fats, Animals, Raw",2007,222477.55
-Canada,"Fats, Animals, Raw",2008,218438.6
-Canada,"Fats, Animals, Raw",2009,224366.44
-Canada,"Fats, Animals, Raw",2010,220095.34
-Canada,"Fats, Animals, Raw",2011,229050.15
-Canada,"Fats, Animals, Raw",2012,199553.86
-Canada,"Fats, Animals, Raw",2013,192143.86
+Canada,Fats- Animals- Raw,1961,148985.46
+Canada,Fats- Animals- Raw,1962,153496.25
+Canada,Fats- Animals- Raw,1963,161615.47
+Canada,Fats- Animals- Raw,1964,167381.25
+Canada,Fats- Animals- Raw,1965,156647.47
+Canada,Fats- Animals- Raw,1966,157245.73
+Canada,Fats- Animals- Raw,1967,185121.47
+Canada,Fats- Animals- Raw,1968,182475.43
+Canada,Fats- Animals- Raw,1969,181982.43
+Canada,Fats- Animals- Raw,1970,163873.21
+Canada,Fats- Animals- Raw,1971,182340.91
+Canada,Fats- Animals- Raw,1972,160550.68
+Canada,Fats- Animals- Raw,1973,168376.93
+Canada,Fats- Animals- Raw,1974,200410.48
+Canada,Fats- Animals- Raw,1975,193609.55
+Canada,Fats- Animals- Raw,1976,197016.79
+Canada,Fats- Animals- Raw,1977,202444.71
+Canada,Fats- Animals- Raw,1978,212331.67
+Canada,Fats- Animals- Raw,1979,180435.1
+Canada,Fats- Animals- Raw,1980,205608.46
+Canada,Fats- Animals- Raw,1981,193505
+Canada,Fats- Animals- Raw,1982,169513.91
+Canada,Fats- Animals- Raw,1983,189398.72
+Canada,Fats- Animals- Raw,1984,184679.41
+Canada,Fats- Animals- Raw,1985,194881
+Canada,Fats- Animals- Raw,1986,187554.93
+Canada,Fats- Animals- Raw,1987,182288.87
+Canada,Fats- Animals- Raw,1988,185539.56
+Canada,Fats- Animals- Raw,1989,212351.3
+Canada,Fats- Animals- Raw,1990,189992.81
+Canada,Fats- Animals- Raw,1991,193630.68
+Canada,Fats- Animals- Raw,1992,187863.73
+Canada,Fats- Animals- Raw,1993,167652.81
+Canada,Fats- Animals- Raw,1994,170653.09
+Canada,Fats- Animals- Raw,1995,175827.64
+Canada,Fats- Animals- Raw,1996,138929.2
+Canada,Fats- Animals- Raw,1997,155544.35
+Canada,Fats- Animals- Raw,1998,188387.2
+Canada,Fats- Animals- Raw,1999,205666.33
+Canada,Fats- Animals- Raw,2000,208115.38
+Canada,Fats- Animals- Raw,2001,214092.14
+Canada,Fats- Animals- Raw,2002,230932.71
+Canada,Fats- Animals- Raw,2003,235713
+Canada,Fats- Animals- Raw,2004,251714.02
+Canada,Fats- Animals- Raw,2005,241411.21
+Canada,Fats- Animals- Raw,2006,228917.9
+Canada,Fats- Animals- Raw,2007,222477.55
+Canada,Fats- Animals- Raw,2008,218438.6
+Canada,Fats- Animals- Raw,2009,224366.44
+Canada,Fats- Animals- Raw,2010,220095.34
+Canada,Fats- Animals- Raw,2011,229050.15
+Canada,Fats- Animals- Raw,2012,199553.86
+Canada,Fats- Animals- Raw,2013,192143.86
 Canada,Freshwater Fish,1961,57050.89
 Canada,Freshwater Fish,1962,78035.61
 Canada,Freshwater Fish,1963,46876.57
@@ -476,112 +476,112 @@ Canada,Honey,2010,25158
 Canada,Honey,2011,29481
 Canada,Honey,2012,26263
 Canada,Honey,2013,27893
-Canada,"Marine Fish, Other",1961,900
-Canada,"Marine Fish, Other",1962,1500
-Canada,"Marine Fish, Other",1963,800
-Canada,"Marine Fish, Other",1964,6000
-Canada,"Marine Fish, Other",1965,6200
-Canada,"Marine Fish, Other",1966,800
-Canada,"Marine Fish, Other",1967,3400
-Canada,"Marine Fish, Other",1968,1600
-Canada,"Marine Fish, Other",1969,5500
-Canada,"Marine Fish, Other",1970,3500
-Canada,"Marine Fish, Other",1971,5400
-Canada,"Marine Fish, Other",1972,4600
-Canada,"Marine Fish, Other",1973,4500
-Canada,"Marine Fish, Other",1974,4468
-Canada,"Marine Fish, Other",1975,3896
-Canada,"Marine Fish, Other",1976,3254
-Canada,"Marine Fish, Other",1977,3907
-Canada,"Marine Fish, Other",1978,9426
-Canada,"Marine Fish, Other",1979,9489
-Canada,"Marine Fish, Other",1980,18314
-Canada,"Marine Fish, Other",1981,5098
-Canada,"Marine Fish, Other",1982,3674
-Canada,"Marine Fish, Other",1983,2039
-Canada,"Marine Fish, Other",1984,812
-Canada,"Marine Fish, Other",1985,1604
-Canada,"Marine Fish, Other",1986,3715
-Canada,"Marine Fish, Other",1987,2945
-Canada,"Marine Fish, Other",1988,10166
-Canada,"Marine Fish, Other",1989,12070
-Canada,"Marine Fish, Other",1990,15893
-Canada,"Marine Fish, Other",1991,14747
-Canada,"Marine Fish, Other",1992,17152
-Canada,"Marine Fish, Other",1993,15026
-Canada,"Marine Fish, Other",1994,17793
-Canada,"Marine Fish, Other",1995,13872
-Canada,"Marine Fish, Other",1996,15363
-Canada,"Marine Fish, Other",1997,14126
-Canada,"Marine Fish, Other",1998,15240
-Canada,"Marine Fish, Other",1999,16447
-Canada,"Marine Fish, Other",2000,16632
-Canada,"Marine Fish, Other",2001,15771
-Canada,"Marine Fish, Other",2002,10343
-Canada,"Marine Fish, Other",2003,14285
-Canada,"Marine Fish, Other",2004,16521
-Canada,"Marine Fish, Other",2005,26127
-Canada,"Marine Fish, Other",2006,12097
-Canada,"Marine Fish, Other",2007,9925
-Canada,"Marine Fish, Other",2008,11823
-Canada,"Marine Fish, Other",2009,17430
-Canada,"Marine Fish, Other",2010,22503
-Canada,"Marine Fish, Other",2011,23789
-Canada,"Marine Fish, Other",2012,18057
-Canada,"Marine Fish, Other",2013,5342
-Canada,"Meat, Other",1961,4531.78
-Canada,"Meat, Other",1962,729.78
-Canada,"Meat, Other",1963,96.76
-Canada,"Meat, Other",1964,168.53
-Canada,"Meat, Other",1965,361.99
-Canada,"Meat, Other",1966,3305.48
-Canada,"Meat, Other",1967,4920.75
-Canada,"Meat, Other",1968,5107.18
-Canada,"Meat, Other",1969,7356.18
-Canada,"Meat, Other",1970,4718.21
-Canada,"Meat, Other",1971,5051.12
-Canada,"Meat, Other",1972,5437.18
-Canada,"Meat, Other",1973,5277.54
-Canada,"Meat, Other",1974,4899.67
-Canada,"Meat, Other",1975,3292
-Canada,"Meat, Other",1976,7865.29
-Canada,"Meat, Other",1977,3962.71
-Canada,"Meat, Other",1978,5012.53
-Canada,"Meat, Other",1979,4397.73
-Canada,"Meat, Other",1980,1611.33
-Canada,"Meat, Other",1981,3452.35
-Canada,"Meat, Other",1982,3790.07
-Canada,"Meat, Other",1983,1000.34
-Canada,"Meat, Other",1984,2515.35
-Canada,"Meat, Other",1985,1936.65
-Canada,"Meat, Other",1986,2485.65
-Canada,"Meat, Other",1987,4032.78
-Canada,"Meat, Other",1988,400.41
-Canada,"Meat, Other",1989,568.29
-Canada,"Meat, Other",1990,547.2
-Canada,"Meat, Other",1991,570.81
-Canada,"Meat, Other",1992,378.82
-Canada,"Meat, Other",1993,295.12
-Canada,"Meat, Other",1994,445.13
-Canada,"Meat, Other",1995,240.72
-Canada,"Meat, Other",1996,189.87
-Canada,"Meat, Other",1997,202.81
-Canada,"Meat, Other",1998,532.35
-Canada,"Meat, Other",1999,710.06
-Canada,"Meat, Other",2000,1082.24
-Canada,"Meat, Other",2001,1030.88
-Canada,"Meat, Other",2002,2027.06
-Canada,"Meat, Other",2003,834.53
-Canada,"Meat, Other",2004,495.76
-Canada,"Meat, Other",2005,323.53
-Canada,"Meat, Other",2006,540.82
-Canada,"Meat, Other",2007,738
-Canada,"Meat, Other",2008,1008.29
-Canada,"Meat, Other",2009,1218.35
-Canada,"Meat, Other",2010,1833.29
-Canada,"Meat, Other",2011,1977
-Canada,"Meat, Other",2012,1984.18
-Canada,"Meat, Other",2013,1680.59
+Canada,Marine Fish- Other,1961,900
+Canada,Marine Fish- Other,1962,1500
+Canada,Marine Fish- Other,1963,800
+Canada,Marine Fish- Other,1964,6000
+Canada,Marine Fish- Other,1965,6200
+Canada,Marine Fish- Other,1966,800
+Canada,Marine Fish- Other,1967,3400
+Canada,Marine Fish- Other,1968,1600
+Canada,Marine Fish- Other,1969,5500
+Canada,Marine Fish- Other,1970,3500
+Canada,Marine Fish- Other,1971,5400
+Canada,Marine Fish- Other,1972,4600
+Canada,Marine Fish- Other,1973,4500
+Canada,Marine Fish- Other,1974,4468
+Canada,Marine Fish- Other,1975,3896
+Canada,Marine Fish- Other,1976,3254
+Canada,Marine Fish- Other,1977,3907
+Canada,Marine Fish- Other,1978,9426
+Canada,Marine Fish- Other,1979,9489
+Canada,Marine Fish- Other,1980,18314
+Canada,Marine Fish- Other,1981,5098
+Canada,Marine Fish- Other,1982,3674
+Canada,Marine Fish- Other,1983,2039
+Canada,Marine Fish- Other,1984,812
+Canada,Marine Fish- Other,1985,1604
+Canada,Marine Fish- Other,1986,3715
+Canada,Marine Fish- Other,1987,2945
+Canada,Marine Fish- Other,1988,10166
+Canada,Marine Fish- Other,1989,12070
+Canada,Marine Fish- Other,1990,15893
+Canada,Marine Fish- Other,1991,14747
+Canada,Marine Fish- Other,1992,17152
+Canada,Marine Fish- Other,1993,15026
+Canada,Marine Fish- Other,1994,17793
+Canada,Marine Fish- Other,1995,13872
+Canada,Marine Fish- Other,1996,15363
+Canada,Marine Fish- Other,1997,14126
+Canada,Marine Fish- Other,1998,15240
+Canada,Marine Fish- Other,1999,16447
+Canada,Marine Fish- Other,2000,16632
+Canada,Marine Fish- Other,2001,15771
+Canada,Marine Fish- Other,2002,10343
+Canada,Marine Fish- Other,2003,14285
+Canada,Marine Fish- Other,2004,16521
+Canada,Marine Fish- Other,2005,26127
+Canada,Marine Fish- Other,2006,12097
+Canada,Marine Fish- Other,2007,9925
+Canada,Marine Fish- Other,2008,11823
+Canada,Marine Fish- Other,2009,17430
+Canada,Marine Fish- Other,2010,22503
+Canada,Marine Fish- Other,2011,23789
+Canada,Marine Fish- Other,2012,18057
+Canada,Marine Fish- Other,2013,5342
+Canada,Meat- Other,1961,4531.78
+Canada,Meat- Other,1962,729.78
+Canada,Meat- Other,1963,96.76
+Canada,Meat- Other,1964,168.53
+Canada,Meat- Other,1965,361.99
+Canada,Meat- Other,1966,3305.48
+Canada,Meat- Other,1967,4920.75
+Canada,Meat- Other,1968,5107.18
+Canada,Meat- Other,1969,7356.18
+Canada,Meat- Other,1970,4718.21
+Canada,Meat- Other,1971,5051.12
+Canada,Meat- Other,1972,5437.18
+Canada,Meat- Other,1973,5277.54
+Canada,Meat- Other,1974,4899.67
+Canada,Meat- Other,1975,3292
+Canada,Meat- Other,1976,7865.29
+Canada,Meat- Other,1977,3962.71
+Canada,Meat- Other,1978,5012.53
+Canada,Meat- Other,1979,4397.73
+Canada,Meat- Other,1980,1611.33
+Canada,Meat- Other,1981,3452.35
+Canada,Meat- Other,1982,3790.07
+Canada,Meat- Other,1983,1000.34
+Canada,Meat- Other,1984,2515.35
+Canada,Meat- Other,1985,1936.65
+Canada,Meat- Other,1986,2485.65
+Canada,Meat- Other,1987,4032.78
+Canada,Meat- Other,1988,400.41
+Canada,Meat- Other,1989,568.29
+Canada,Meat- Other,1990,547.2
+Canada,Meat- Other,1991,570.81
+Canada,Meat- Other,1992,378.82
+Canada,Meat- Other,1993,295.12
+Canada,Meat- Other,1994,445.13
+Canada,Meat- Other,1995,240.72
+Canada,Meat- Other,1996,189.87
+Canada,Meat- Other,1997,202.81
+Canada,Meat- Other,1998,532.35
+Canada,Meat- Other,1999,710.06
+Canada,Meat- Other,2000,1082.24
+Canada,Meat- Other,2001,1030.88
+Canada,Meat- Other,2002,2027.06
+Canada,Meat- Other,2003,834.53
+Canada,Meat- Other,2004,495.76
+Canada,Meat- Other,2005,323.53
+Canada,Meat- Other,2006,540.82
+Canada,Meat- Other,2007,738
+Canada,Meat- Other,2008,1008.29
+Canada,Meat- Other,2009,1218.35
+Canada,Meat- Other,2010,1833.29
+Canada,Meat- Other,2011,1977
+Canada,Meat- Other,2012,1984.18
+Canada,Meat- Other,2013,1680.59
 Canada,Milk - Excluding Butter,1961,4594716.31
 Canada,Milk - Excluding Butter,1962,4509102.84
 Canada,Milk - Excluding Butter,1963,4624797.84
@@ -635,112 +635,112 @@ Canada,Milk - Excluding Butter,2010,6900113.83
 Canada,Milk - Excluding Butter,2011,7166630.72
 Canada,Milk - Excluding Butter,2012,6712365.8
 Canada,Milk - Excluding Butter,2013,6606083.93
-Canada,"Milk, Whole",1961,2976635.53
-Canada,"Milk, Whole",1962,2916211.67
-Canada,"Milk, Whole",1963,2960992.7
-Canada,"Milk, Whole",1964,2909240.64
-Canada,"Milk, Whole",1965,2995288.44
-Canada,"Milk, Whole",1966,3091851.93
-Canada,"Milk, Whole",1967,3096324.95
-Canada,"Milk, Whole",1968,3016691.59
-Canada,"Milk, Whole",1969,3023325.06
-Canada,"Milk, Whole",1970,3049980.55
-Canada,"Milk, Whole",1971,2948620.39
-Canada,"Milk, Whole",1972,3018948.67
-Canada,"Milk, Whole",1973,3038828.07
-Canada,"Milk, Whole",1974,3050654.09
-Canada,"Milk, Whole",1975,2730733.81
-Canada,"Milk, Whole",1976,2761264.69
-Canada,"Milk, Whole",1977,2750877.15
-Canada,"Milk, Whole",1978,2482133.67
-Canada,"Milk, Whole",1979,2293912.99
-Canada,"Milk, Whole",1980,2287824.54
-Canada,"Milk, Whole",1981,2221848.62
-Canada,"Milk, Whole",1982,2605051.34
-Canada,"Milk, Whole",1983,2411617.96
-Canada,"Milk, Whole",1984,2270169.34
-Canada,"Milk, Whole",1985,2211776.92
-Canada,"Milk, Whole",1986,2142897.8
-Canada,"Milk, Whole",1987,2107757.79
-Canada,"Milk, Whole",1988,2028614.48
-Canada,"Milk, Whole",1989,2393047.33
-Canada,"Milk, Whole",1990,2253764.01
-Canada,"Milk, Whole",1991,2075378.16
-Canada,"Milk, Whole",1992,2137872.34
-Canada,"Milk, Whole",1993,2005152.26
-Canada,"Milk, Whole",1994,1957992.16
-Canada,"Milk, Whole",1995,1946847.27
-Canada,"Milk, Whole",1996,1841857.23
-Canada,"Milk, Whole",1997,1560362.48
-Canada,"Milk, Whole",1998,1730684.64
-Canada,"Milk, Whole",1999,1691409.11
-Canada,"Milk, Whole",2000,1815564.88
-Canada,"Milk, Whole",2001,1645330.69
-Canada,"Milk, Whole",2002,1622103.73
-Canada,"Milk, Whole",2003,1110442.99
-Canada,"Milk, Whole",2004,1215097.66
-Canada,"Milk, Whole",2005,1116583.83
-Canada,"Milk, Whole",2006,1336945.19
-Canada,"Milk, Whole",2007,1167843.62
-Canada,"Milk, Whole",2008,1169549.18
-Canada,"Milk, Whole",2009,1025546.08
-Canada,"Milk, Whole",2010,1069438.87
-Canada,"Milk, Whole",2011,1107639.13
-Canada,"Milk, Whole",2012,858314.02
-Canada,"Milk, Whole",2013,745512.01
-Canada,"Molluscs, Other",1961,26584.26
-Canada,"Molluscs, Other",1962,27203.03
-Canada,"Molluscs, Other",1963,37910.29
-Canada,"Molluscs, Other",1964,23236.88
-Canada,"Molluscs, Other",1965,17542.17
-Canada,"Molluscs, Other",1966,25823.16
-Canada,"Molluscs, Other",1967,24284.21
-Canada,"Molluscs, Other",1968,40961.8
-Canada,"Molluscs, Other",1969,44485.71
-Canada,"Molluscs, Other",1970,45594.12
-Canada,"Molluscs, Other",1971,44488.57
-Canada,"Molluscs, Other",1972,41328.57
-Canada,"Molluscs, Other",1973,56820
-Canada,"Molluscs, Other",1974,63167.53
-Canada,"Molluscs, Other",1975,61968.24
-Canada,"Molluscs, Other",1976,71228.04
-Canada,"Molluscs, Other",1977,94310.8
-Canada,"Molluscs, Other",1978,28565.69
-Canada,"Molluscs, Other",1979,90124.9
-Canada,"Molluscs, Other",1980,68626.54
-Canada,"Molluscs, Other",1981,76174.5
-Canada,"Molluscs, Other",1982,65947.54
-Canada,"Molluscs, Other",1983,32056.97
-Canada,"Molluscs, Other",1984,50530.84
-Canada,"Molluscs, Other",1985,33241.26
-Canada,"Molluscs, Other",1986,35972.84
-Canada,"Molluscs, Other",1987,51370.74
-Canada,"Molluscs, Other",1988,98678
-Canada,"Molluscs, Other",1989,94026.77
-Canada,"Molluscs, Other",1990,90452.56
-Canada,"Molluscs, Other",1991,75081.14
-Canada,"Molluscs, Other",1992,130752.14
-Canada,"Molluscs, Other",1993,122404
-Canada,"Molluscs, Other",1994,131506.31
-Canada,"Molluscs, Other",1995,126743.05
-Canada,"Molluscs, Other",1996,124522.45
-Canada,"Molluscs, Other",1997,127124.58
-Canada,"Molluscs, Other",1998,133906.81
-Canada,"Molluscs, Other",1999,131508.89
-Canada,"Molluscs, Other",2000,120568.13
-Canada,"Molluscs, Other",2001,135868.7
-Canada,"Molluscs, Other",2002,139119.31
-Canada,"Molluscs, Other",2003,144555.99
-Canada,"Molluscs, Other",2004,130632.99
-Canada,"Molluscs, Other",2005,119886.29
-Canada,"Molluscs, Other",2006,122639.67
-Canada,"Molluscs, Other",2007,128849.33
-Canada,"Molluscs, Other",2008,118758.87
-Canada,"Molluscs, Other",2009,119953.56
-Canada,"Molluscs, Other",2010,116295.53
-Canada,"Molluscs, Other",2011,120039.76
-Canada,"Molluscs, Other",2012,109277.42
-Canada,"Molluscs, Other",2013,119946.41
+Canada,Milk- Whole,1961,2976635.53
+Canada,Milk- Whole,1962,2916211.67
+Canada,Milk- Whole,1963,2960992.7
+Canada,Milk- Whole,1964,2909240.64
+Canada,Milk- Whole,1965,2995288.44
+Canada,Milk- Whole,1966,3091851.93
+Canada,Milk- Whole,1967,3096324.95
+Canada,Milk- Whole,1968,3016691.59
+Canada,Milk- Whole,1969,3023325.06
+Canada,Milk- Whole,1970,3049980.55
+Canada,Milk- Whole,1971,2948620.39
+Canada,Milk- Whole,1972,3018948.67
+Canada,Milk- Whole,1973,3038828.07
+Canada,Milk- Whole,1974,3050654.09
+Canada,Milk- Whole,1975,2730733.81
+Canada,Milk- Whole,1976,2761264.69
+Canada,Milk- Whole,1977,2750877.15
+Canada,Milk- Whole,1978,2482133.67
+Canada,Milk- Whole,1979,2293912.99
+Canada,Milk- Whole,1980,2287824.54
+Canada,Milk- Whole,1981,2221848.62
+Canada,Milk- Whole,1982,2605051.34
+Canada,Milk- Whole,1983,2411617.96
+Canada,Milk- Whole,1984,2270169.34
+Canada,Milk- Whole,1985,2211776.92
+Canada,Milk- Whole,1986,2142897.8
+Canada,Milk- Whole,1987,2107757.79
+Canada,Milk- Whole,1988,2028614.48
+Canada,Milk- Whole,1989,2393047.33
+Canada,Milk- Whole,1990,2253764.01
+Canada,Milk- Whole,1991,2075378.16
+Canada,Milk- Whole,1992,2137872.34
+Canada,Milk- Whole,1993,2005152.26
+Canada,Milk- Whole,1994,1957992.16
+Canada,Milk- Whole,1995,1946847.27
+Canada,Milk- Whole,1996,1841857.23
+Canada,Milk- Whole,1997,1560362.48
+Canada,Milk- Whole,1998,1730684.64
+Canada,Milk- Whole,1999,1691409.11
+Canada,Milk- Whole,2000,1815564.88
+Canada,Milk- Whole,2001,1645330.69
+Canada,Milk- Whole,2002,1622103.73
+Canada,Milk- Whole,2003,1110442.99
+Canada,Milk- Whole,2004,1215097.66
+Canada,Milk- Whole,2005,1116583.83
+Canada,Milk- Whole,2006,1336945.19
+Canada,Milk- Whole,2007,1167843.62
+Canada,Milk- Whole,2008,1169549.18
+Canada,Milk- Whole,2009,1025546.08
+Canada,Milk- Whole,2010,1069438.87
+Canada,Milk- Whole,2011,1107639.13
+Canada,Milk- Whole,2012,858314.02
+Canada,Milk- Whole,2013,745512.01
+Canada,Molluscs- Other,1961,26584.26
+Canada,Molluscs- Other,1962,27203.03
+Canada,Molluscs- Other,1963,37910.29
+Canada,Molluscs- Other,1964,23236.88
+Canada,Molluscs- Other,1965,17542.17
+Canada,Molluscs- Other,1966,25823.16
+Canada,Molluscs- Other,1967,24284.21
+Canada,Molluscs- Other,1968,40961.8
+Canada,Molluscs- Other,1969,44485.71
+Canada,Molluscs- Other,1970,45594.12
+Canada,Molluscs- Other,1971,44488.57
+Canada,Molluscs- Other,1972,41328.57
+Canada,Molluscs- Other,1973,56820
+Canada,Molluscs- Other,1974,63167.53
+Canada,Molluscs- Other,1975,61968.24
+Canada,Molluscs- Other,1976,71228.04
+Canada,Molluscs- Other,1977,94310.8
+Canada,Molluscs- Other,1978,28565.69
+Canada,Molluscs- Other,1979,90124.9
+Canada,Molluscs- Other,1980,68626.54
+Canada,Molluscs- Other,1981,76174.5
+Canada,Molluscs- Other,1982,65947.54
+Canada,Molluscs- Other,1983,32056.97
+Canada,Molluscs- Other,1984,50530.84
+Canada,Molluscs- Other,1985,33241.26
+Canada,Molluscs- Other,1986,35972.84
+Canada,Molluscs- Other,1987,51370.74
+Canada,Molluscs- Other,1988,98678
+Canada,Molluscs- Other,1989,94026.77
+Canada,Molluscs- Other,1990,90452.56
+Canada,Molluscs- Other,1991,75081.14
+Canada,Molluscs- Other,1992,130752.14
+Canada,Molluscs- Other,1993,122404
+Canada,Molluscs- Other,1994,131506.31
+Canada,Molluscs- Other,1995,126743.05
+Canada,Molluscs- Other,1996,124522.45
+Canada,Molluscs- Other,1997,127124.58
+Canada,Molluscs- Other,1998,133906.81
+Canada,Molluscs- Other,1999,131508.89
+Canada,Molluscs- Other,2000,120568.13
+Canada,Molluscs- Other,2001,135868.7
+Canada,Molluscs- Other,2002,139119.31
+Canada,Molluscs- Other,2003,144555.99
+Canada,Molluscs- Other,2004,130632.99
+Canada,Molluscs- Other,2005,119886.29
+Canada,Molluscs- Other,2006,122639.67
+Canada,Molluscs- Other,2007,128849.33
+Canada,Molluscs- Other,2008,118758.87
+Canada,Molluscs- Other,2009,119953.56
+Canada,Molluscs- Other,2010,116295.53
+Canada,Molluscs- Other,2011,120039.76
+Canada,Molluscs- Other,2012,109277.42
+Canada,Molluscs- Other,2013,119946.41
 Canada,Mutton & Goat Meat,1961,29630
 Canada,Mutton & Goat Meat,1962,31968
 Canada,Mutton & Goat Meat,1963,34692
@@ -794,59 +794,59 @@ Canada,Mutton & Goat Meat,2010,34831
 Canada,Mutton & Goat Meat,2011,35153
 Canada,Mutton & Goat Meat,2012,31220
 Canada,Mutton & Goat Meat,2013,34008
-Canada,"Offals, Edible",1961,38849
-Canada,"Offals, Edible",1962,39158
-Canada,"Offals, Edible",1963,39302
-Canada,"Offals, Edible",1964,38475
-Canada,"Offals, Edible",1965,35785
-Canada,"Offals, Edible",1966,37123
-Canada,"Offals, Edible",1967,40629
-Canada,"Offals, Edible",1968,38277
-Canada,"Offals, Edible",1969,38982
-Canada,"Offals, Edible",1970,36266
-Canada,"Offals, Edible",1971,44256
-Canada,"Offals, Edible",1972,41485
-Canada,"Offals, Edible",1973,41672
-Canada,"Offals, Edible",1974,37761
-Canada,"Offals, Edible",1975,38248
-Canada,"Offals, Edible",1976,41257
-Canada,"Offals, Edible",1977,40131
-Canada,"Offals, Edible",1978,30814
-Canada,"Offals, Edible",1979,22499
-Canada,"Offals, Edible",1980,18737
-Canada,"Offals, Edible",1981,16882
-Canada,"Offals, Edible",1982,13155
-Canada,"Offals, Edible",1983,18125
-Canada,"Offals, Edible",1984,17379
-Canada,"Offals, Edible",1985,17389
-Canada,"Offals, Edible",1986,14365
-Canada,"Offals, Edible",1987,17583
-Canada,"Offals, Edible",1988,28554
-Canada,"Offals, Edible",1989,27386
-Canada,"Offals, Edible",1990,51653
-Canada,"Offals, Edible",1991,49829
-Canada,"Offals, Edible",1992,44690
-Canada,"Offals, Edible",1993,33458
-Canada,"Offals, Edible",1994,49646
-Canada,"Offals, Edible",1995,43658
-Canada,"Offals, Edible",1996,46399
-Canada,"Offals, Edible",1997,42134
-Canada,"Offals, Edible",1998,46926
-Canada,"Offals, Edible",1999,59690
-Canada,"Offals, Edible",2000,38486
-Canada,"Offals, Edible",2001,37545
-Canada,"Offals, Edible",2002,49726
-Canada,"Offals, Edible",2003,53350
-Canada,"Offals, Edible",2004,59494
-Canada,"Offals, Edible",2005,45544
-Canada,"Offals, Edible",2006,44274
-Canada,"Offals, Edible",2007,46758
-Canada,"Offals, Edible",2008,40154
-Canada,"Offals, Edible",2009,54591
-Canada,"Offals, Edible",2010,50895.67
-Canada,"Offals, Edible",2011,30491
-Canada,"Offals, Edible",2012,34820.33
-Canada,"Offals, Edible",2013,30172
+Canada,Offals- Edible,1961,38849
+Canada,Offals- Edible,1962,39158
+Canada,Offals- Edible,1963,39302
+Canada,Offals- Edible,1964,38475
+Canada,Offals- Edible,1965,35785
+Canada,Offals- Edible,1966,37123
+Canada,Offals- Edible,1967,40629
+Canada,Offals- Edible,1968,38277
+Canada,Offals- Edible,1969,38982
+Canada,Offals- Edible,1970,36266
+Canada,Offals- Edible,1971,44256
+Canada,Offals- Edible,1972,41485
+Canada,Offals- Edible,1973,41672
+Canada,Offals- Edible,1974,37761
+Canada,Offals- Edible,1975,38248
+Canada,Offals- Edible,1976,41257
+Canada,Offals- Edible,1977,40131
+Canada,Offals- Edible,1978,30814
+Canada,Offals- Edible,1979,22499
+Canada,Offals- Edible,1980,18737
+Canada,Offals- Edible,1981,16882
+Canada,Offals- Edible,1982,13155
+Canada,Offals- Edible,1983,18125
+Canada,Offals- Edible,1984,17379
+Canada,Offals- Edible,1985,17389
+Canada,Offals- Edible,1986,14365
+Canada,Offals- Edible,1987,17583
+Canada,Offals- Edible,1988,28554
+Canada,Offals- Edible,1989,27386
+Canada,Offals- Edible,1990,51653
+Canada,Offals- Edible,1991,49829
+Canada,Offals- Edible,1992,44690
+Canada,Offals- Edible,1993,33458
+Canada,Offals- Edible,1994,49646
+Canada,Offals- Edible,1995,43658
+Canada,Offals- Edible,1996,46399
+Canada,Offals- Edible,1997,42134
+Canada,Offals- Edible,1998,46926
+Canada,Offals- Edible,1999,59690
+Canada,Offals- Edible,2000,38486
+Canada,Offals- Edible,2001,37545
+Canada,Offals- Edible,2002,49726
+Canada,Offals- Edible,2003,53350
+Canada,Offals- Edible,2004,59494
+Canada,Offals- Edible,2005,45544
+Canada,Offals- Edible,2006,44274
+Canada,Offals- Edible,2007,46758
+Canada,Offals- Edible,2008,40154
+Canada,Offals- Edible,2009,54591
+Canada,Offals- Edible,2010,50895.67
+Canada,Offals- Edible,2011,30491
+Canada,Offals- Edible,2012,34820.33
+Canada,Offals- Edible,2013,30172
 Canada,Pelagic Fish,1961,42019.53
 Canada,Pelagic Fish,1962,50822.41
 Canada,Pelagic Fish,1963,47117.6
@@ -1059,59 +1059,59 @@ Mexico,Bovine Meat,2010,1922021.93
 Mexico,Bovine Meat,2011,1914965.83
 Mexico,Bovine Meat,2012,1843015.19
 Mexico,Bovine Meat,2013,1875526.17
-Mexico,"Butter, Ghee",1961,11008
-Mexico,"Butter, Ghee",1962,12000
-Mexico,"Butter, Ghee",1963,13262
-Mexico,"Butter, Ghee",1964,14438
-Mexico,"Butter, Ghee",1965,14013
-Mexico,"Butter, Ghee",1966,14224
-Mexico,"Butter, Ghee",1967,15406
-Mexico,"Butter, Ghee",1968,16430
-Mexico,"Butter, Ghee",1969,18413
-Mexico,"Butter, Ghee",1970,21549
-Mexico,"Butter, Ghee",1971,22064
-Mexico,"Butter, Ghee",1972,22398
-Mexico,"Butter, Ghee",1973,26417
-Mexico,"Butter, Ghee",1974,29850
-Mexico,"Butter, Ghee",1975,26051
-Mexico,"Butter, Ghee",1976,31718
-Mexico,"Butter, Ghee",1977,38401
-Mexico,"Butter, Ghee",1978,38811
-Mexico,"Butter, Ghee",1979,42899
-Mexico,"Butter, Ghee",1980,46154
-Mexico,"Butter, Ghee",1981,47669
-Mexico,"Butter, Ghee",1982,41844
-Mexico,"Butter, Ghee",1983,40620
-Mexico,"Butter, Ghee",1984,42928
-Mexico,"Butter, Ghee",1985,50444
-Mexico,"Butter, Ghee",1986,45543
-Mexico,"Butter, Ghee",1987,47382
-Mexico,"Butter, Ghee",1988,51075
-Mexico,"Butter, Ghee",1989,58432
-Mexico,"Butter, Ghee",1990,65106
-Mexico,"Butter, Ghee",1991,63018
-Mexico,"Butter, Ghee",1992,77668
-Mexico,"Butter, Ghee",1993,74744
-Mexico,"Butter, Ghee",1994,66131
-Mexico,"Butter, Ghee",1995,50770
-Mexico,"Butter, Ghee",1996,46554
-Mexico,"Butter, Ghee",1997,57607
-Mexico,"Butter, Ghee",1998,40387
-Mexico,"Butter, Ghee",1999,48924
-Mexico,"Butter, Ghee",2000,49495
-Mexico,"Butter, Ghee",2001,51936
-Mexico,"Butter, Ghee",2002,59830
-Mexico,"Butter, Ghee",2003,65629
-Mexico,"Butter, Ghee",2004,85324
-Mexico,"Butter, Ghee",2005,68274
-Mexico,"Butter, Ghee",2006,66523
-Mexico,"Butter, Ghee",2007,75810
-Mexico,"Butter, Ghee",2008,60293
-Mexico,"Butter, Ghee",2009,79215
-Mexico,"Butter, Ghee",2010,60449
-Mexico,"Butter, Ghee",2011,49455
-Mexico,"Butter, Ghee",2012,49636
-Mexico,"Butter, Ghee",2013,56571
+Mexico,Butter- Ghee,1961,11008
+Mexico,Butter- Ghee,1962,12000
+Mexico,Butter- Ghee,1963,13262
+Mexico,Butter- Ghee,1964,14438
+Mexico,Butter- Ghee,1965,14013
+Mexico,Butter- Ghee,1966,14224
+Mexico,Butter- Ghee,1967,15406
+Mexico,Butter- Ghee,1968,16430
+Mexico,Butter- Ghee,1969,18413
+Mexico,Butter- Ghee,1970,21549
+Mexico,Butter- Ghee,1971,22064
+Mexico,Butter- Ghee,1972,22398
+Mexico,Butter- Ghee,1973,26417
+Mexico,Butter- Ghee,1974,29850
+Mexico,Butter- Ghee,1975,26051
+Mexico,Butter- Ghee,1976,31718
+Mexico,Butter- Ghee,1977,38401
+Mexico,Butter- Ghee,1978,38811
+Mexico,Butter- Ghee,1979,42899
+Mexico,Butter- Ghee,1980,46154
+Mexico,Butter- Ghee,1981,47669
+Mexico,Butter- Ghee,1982,41844
+Mexico,Butter- Ghee,1983,40620
+Mexico,Butter- Ghee,1984,42928
+Mexico,Butter- Ghee,1985,50444
+Mexico,Butter- Ghee,1986,45543
+Mexico,Butter- Ghee,1987,47382
+Mexico,Butter- Ghee,1988,51075
+Mexico,Butter- Ghee,1989,58432
+Mexico,Butter- Ghee,1990,65106
+Mexico,Butter- Ghee,1991,63018
+Mexico,Butter- Ghee,1992,77668
+Mexico,Butter- Ghee,1993,74744
+Mexico,Butter- Ghee,1994,66131
+Mexico,Butter- Ghee,1995,50770
+Mexico,Butter- Ghee,1996,46554
+Mexico,Butter- Ghee,1997,57607
+Mexico,Butter- Ghee,1998,40387
+Mexico,Butter- Ghee,1999,48924
+Mexico,Butter- Ghee,2000,49495
+Mexico,Butter- Ghee,2001,51936
+Mexico,Butter- Ghee,2002,59830
+Mexico,Butter- Ghee,2003,65629
+Mexico,Butter- Ghee,2004,85324
+Mexico,Butter- Ghee,2005,68274
+Mexico,Butter- Ghee,2006,66523
+Mexico,Butter- Ghee,2007,75810
+Mexico,Butter- Ghee,2008,60293
+Mexico,Butter- Ghee,2009,79215
+Mexico,Butter- Ghee,2010,60449
+Mexico,Butter- Ghee,2011,49455
+Mexico,Butter- Ghee,2012,49636
+Mexico,Butter- Ghee,2013,56571
 Mexico,Cheese,1961,59859
 Mexico,Cheese,1962,61776
 Mexico,Cheese,1963,65009
@@ -1324,59 +1324,59 @@ Mexico,Eggs,2010,2044707.72
 Mexico,Eggs,2011,2109838.74
 Mexico,Eggs,2012,2002060.26
 Mexico,Eggs,2013,2243043.79
-Mexico,"Fats, Animals, Raw",1961,44607.55
-Mexico,"Fats, Animals, Raw",1962,44072.78
-Mexico,"Fats, Animals, Raw",1963,44899.12
-Mexico,"Fats, Animals, Raw",1964,41460.38
-Mexico,"Fats, Animals, Raw",1965,42140.31
-Mexico,"Fats, Animals, Raw",1966,43101.3
-Mexico,"Fats, Animals, Raw",1967,46384.89
-Mexico,"Fats, Animals, Raw",1968,49730.22
-Mexico,"Fats, Animals, Raw",1969,51438.89
-Mexico,"Fats, Animals, Raw",1970,53400.67
-Mexico,"Fats, Animals, Raw",1971,53319.73
-Mexico,"Fats, Animals, Raw",1972,67849.2
-Mexico,"Fats, Animals, Raw",1973,71233.52
-Mexico,"Fats, Animals, Raw",1974,75063.72
-Mexico,"Fats, Animals, Raw",1975,82691.97
-Mexico,"Fats, Animals, Raw",1976,91937.93
-Mexico,"Fats, Animals, Raw",1977,103117.84
-Mexico,"Fats, Animals, Raw",1978,104373.01
-Mexico,"Fats, Animals, Raw",1979,111029.52
-Mexico,"Fats, Animals, Raw",1980,113328.87
-Mexico,"Fats, Animals, Raw",1981,124370.65
-Mexico,"Fats, Animals, Raw",1982,134272.85
-Mexico,"Fats, Animals, Raw",1983,139929.47
-Mexico,"Fats, Animals, Raw",1984,174945.75
-Mexico,"Fats, Animals, Raw",1985,177346.83
-Mexico,"Fats, Animals, Raw",1986,233046
-Mexico,"Fats, Animals, Raw",1987,262827.97
-Mexico,"Fats, Animals, Raw",1988,281026.26
-Mexico,"Fats, Animals, Raw",1989,266413.83
-Mexico,"Fats, Animals, Raw",1990,260433.76
-Mexico,"Fats, Animals, Raw",1991,263445.72
-Mexico,"Fats, Animals, Raw",1992,245540.42
-Mexico,"Fats, Animals, Raw",1993,252287.2
-Mexico,"Fats, Animals, Raw",1994,262828.3
-Mexico,"Fats, Animals, Raw",1995,285932.74
-Mexico,"Fats, Animals, Raw",1996,277788.58
-Mexico,"Fats, Animals, Raw",1997,265100.59
-Mexico,"Fats, Animals, Raw",1998,264171.02
-Mexico,"Fats, Animals, Raw",1999,263776.49
-Mexico,"Fats, Animals, Raw",2000,256654.02
-Mexico,"Fats, Animals, Raw",2001,263040.41
-Mexico,"Fats, Animals, Raw",2002,259358.14
-Mexico,"Fats, Animals, Raw",2003,285258.91
-Mexico,"Fats, Animals, Raw",2004,304109.73
-Mexico,"Fats, Animals, Raw",2005,302499.06
-Mexico,"Fats, Animals, Raw",2006,287092.93
-Mexico,"Fats, Animals, Raw",2007,296933.57
-Mexico,"Fats, Animals, Raw",2008,308569.55
-Mexico,"Fats, Animals, Raw",2009,323709.41
-Mexico,"Fats, Animals, Raw",2010,313690.78
-Mexico,"Fats, Animals, Raw",2011,287900.9
-Mexico,"Fats, Animals, Raw",2012,297247.18
-Mexico,"Fats, Animals, Raw",2013,302850.52
+Mexico,Fats- Animals- Raw,1961,44607.55
+Mexico,Fats- Animals- Raw,1962,44072.78
+Mexico,Fats- Animals- Raw,1963,44899.12
+Mexico,Fats- Animals- Raw,1964,41460.38
+Mexico,Fats- Animals- Raw,1965,42140.31
+Mexico,Fats- Animals- Raw,1966,43101.3
+Mexico,Fats- Animals- Raw,1967,46384.89
+Mexico,Fats- Animals- Raw,1968,49730.22
+Mexico,Fats- Animals- Raw,1969,51438.89
+Mexico,Fats- Animals- Raw,1970,53400.67
+Mexico,Fats- Animals- Raw,1971,53319.73
+Mexico,Fats- Animals- Raw,1972,67849.2
+Mexico,Fats- Animals- Raw,1973,71233.52
+Mexico,Fats- Animals- Raw,1974,75063.72
+Mexico,Fats- Animals- Raw,1975,82691.97
+Mexico,Fats- Animals- Raw,1976,91937.93
+Mexico,Fats- Animals- Raw,1977,103117.84
+Mexico,Fats- Animals- Raw,1978,104373.01
+Mexico,Fats- Animals- Raw,1979,111029.52
+Mexico,Fats- Animals- Raw,1980,113328.87
+Mexico,Fats- Animals- Raw,1981,124370.65
+Mexico,Fats- Animals- Raw,1982,134272.85
+Mexico,Fats- Animals- Raw,1983,139929.47
+Mexico,Fats- Animals- Raw,1984,174945.75
+Mexico,Fats- Animals- Raw,1985,177346.83
+Mexico,Fats- Animals- Raw,1986,233046
+Mexico,Fats- Animals- Raw,1987,262827.97
+Mexico,Fats- Animals- Raw,1988,281026.26
+Mexico,Fats- Animals- Raw,1989,266413.83
+Mexico,Fats- Animals- Raw,1990,260433.76
+Mexico,Fats- Animals- Raw,1991,263445.72
+Mexico,Fats- Animals- Raw,1992,245540.42
+Mexico,Fats- Animals- Raw,1993,252287.2
+Mexico,Fats- Animals- Raw,1994,262828.3
+Mexico,Fats- Animals- Raw,1995,285932.74
+Mexico,Fats- Animals- Raw,1996,277788.58
+Mexico,Fats- Animals- Raw,1997,265100.59
+Mexico,Fats- Animals- Raw,1998,264171.02
+Mexico,Fats- Animals- Raw,1999,263776.49
+Mexico,Fats- Animals- Raw,2000,256654.02
+Mexico,Fats- Animals- Raw,2001,263040.41
+Mexico,Fats- Animals- Raw,2002,259358.14
+Mexico,Fats- Animals- Raw,2003,285258.91
+Mexico,Fats- Animals- Raw,2004,304109.73
+Mexico,Fats- Animals- Raw,2005,302499.06
+Mexico,Fats- Animals- Raw,2006,287092.93
+Mexico,Fats- Animals- Raw,2007,296933.57
+Mexico,Fats- Animals- Raw,2008,308569.55
+Mexico,Fats- Animals- Raw,2009,323709.41
+Mexico,Fats- Animals- Raw,2010,313690.78
+Mexico,Fats- Animals- Raw,2011,287900.9
+Mexico,Fats- Animals- Raw,2012,297247.18
+Mexico,Fats- Animals- Raw,2013,302850.52
 Mexico,Freshwater Fish,1961,6715
 Mexico,Freshwater Fish,1962,4000
 Mexico,Freshwater Fish,1963,6200
@@ -1483,112 +1483,112 @@ Mexico,Honey,2010,29292
 Mexico,Honey,2011,30902
 Mexico,Honey,2012,26570
 Mexico,Honey,2013,23457
-Mexico,"Marine Fish, Other",1961,4700
-Mexico,"Marine Fish, Other",1962,7800
-Mexico,"Marine Fish, Other",1963,9400
-Mexico,"Marine Fish, Other",1964,5500
-Mexico,"Marine Fish, Other",1965,6900
-Mexico,"Marine Fish, Other",1966,5500
-Mexico,"Marine Fish, Other",1967,4000
-Mexico,"Marine Fish, Other",1968,5000
-Mexico,"Marine Fish, Other",1969,7000
-Mexico,"Marine Fish, Other",1970,5800
-Mexico,"Marine Fish, Other",1971,18300
-Mexico,"Marine Fish, Other",1972,9800
-Mexico,"Marine Fish, Other",1973,10100
-Mexico,"Marine Fish, Other",1974,8346
-Mexico,"Marine Fish, Other",1975,855
-Mexico,"Marine Fish, Other",1976,41910.44
-Mexico,"Marine Fish, Other",1977,3623.1
-Mexico,"Marine Fish, Other",1978,143457.11
-Mexico,"Marine Fish, Other",1979,216050.33
-Mexico,"Marine Fish, Other",1980,196714.65
-Mexico,"Marine Fish, Other",1981,348786.18
-Mexico,"Marine Fish, Other",1982,121463.4
-Mexico,"Marine Fish, Other",1983,163566.82
-Mexico,"Marine Fish, Other",1984,205075.52
-Mexico,"Marine Fish, Other",1985,206407.95
-Mexico,"Marine Fish, Other",1986,200505.77
-Mexico,"Marine Fish, Other",1987,171875.89
-Mexico,"Marine Fish, Other",1988,157742.56
-Mexico,"Marine Fish, Other",1989,160378.2
-Mexico,"Marine Fish, Other",1990,368462.44
-Mexico,"Marine Fish, Other",1991,396960.51
-Mexico,"Marine Fish, Other",1992,280500.21
-Mexico,"Marine Fish, Other",1993,246564.25
-Mexico,"Marine Fish, Other",1994,315100.06
-Mexico,"Marine Fish, Other",1995,295180.32
-Mexico,"Marine Fish, Other",1996,228455.47
-Mexico,"Marine Fish, Other",1997,215386.11
-Mexico,"Marine Fish, Other",1998,187888.36
-Mexico,"Marine Fish, Other",1999,122144.05
-Mexico,"Marine Fish, Other",2000,132729.32
-Mexico,"Marine Fish, Other",2001,133969.32
-Mexico,"Marine Fish, Other",2002,158769.38
-Mexico,"Marine Fish, Other",2003,180158.99
-Mexico,"Marine Fish, Other",2004,190906.07
-Mexico,"Marine Fish, Other",2005,186193.89
-Mexico,"Marine Fish, Other",2006,220141.5
-Mexico,"Marine Fish, Other",2007,226178.39
-Mexico,"Marine Fish, Other",2008,211855.45
-Mexico,"Marine Fish, Other",2009,193062.19
-Mexico,"Marine Fish, Other",2010,213620.63
-Mexico,"Marine Fish, Other",2011,217102.65
-Mexico,"Marine Fish, Other",2012,217102.65
-Mexico,"Marine Fish, Other",2013,217102.65
-Mexico,"Meat, Other",1961,40948.39
-Mexico,"Meat, Other",1962,38239.1
-Mexico,"Meat, Other",1963,38692.61
-Mexico,"Meat, Other",1964,39936.18
-Mexico,"Meat, Other",1965,40374.4
-Mexico,"Meat, Other",1966,39256.12
-Mexico,"Meat, Other",1967,38607.69
-Mexico,"Meat, Other",1968,38255.34
-Mexico,"Meat, Other",1969,35826.5
-Mexico,"Meat, Other",1970,36024.27
-Mexico,"Meat, Other",1971,39572.35
-Mexico,"Meat, Other",1972,41580.97
-Mexico,"Meat, Other",1973,37318.44
-Mexico,"Meat, Other",1974,39546.44
-Mexico,"Meat, Other",1975,45713.78
-Mexico,"Meat, Other",1976,48007.76
-Mexico,"Meat, Other",1977,47429.07
-Mexico,"Meat, Other",1978,43157.44
-Mexico,"Meat, Other",1979,42615.33
-Mexico,"Meat, Other",1980,44620.69
-Mexico,"Meat, Other",1981,59691.58
-Mexico,"Meat, Other",1982,60936.71
-Mexico,"Meat, Other",1983,60202.76
-Mexico,"Meat, Other",1984,58900.41
-Mexico,"Meat, Other",1985,67453.58
-Mexico,"Meat, Other",1986,65670.62
-Mexico,"Meat, Other",1987,69904.72
-Mexico,"Meat, Other",1988,85026.38
-Mexico,"Meat, Other",1989,89778.67
-Mexico,"Meat, Other",1990,94590.92
-Mexico,"Meat, Other",1991,95410.23
-Mexico,"Meat, Other",1992,98850.1
-Mexico,"Meat, Other",1993,107408.37
-Mexico,"Meat, Other",1994,111354.46
-Mexico,"Meat, Other",1995,95325.83
-Mexico,"Meat, Other",1996,94265.44
-Mexico,"Meat, Other",1997,95225.02
-Mexico,"Meat, Other",1998,136480.4
-Mexico,"Meat, Other",1999,126278.59
-Mexico,"Meat, Other",2000,157828.76
-Mexico,"Meat, Other",2001,193883.18
-Mexico,"Meat, Other",2002,168880.63
-Mexico,"Meat, Other",2003,119408.25
-Mexico,"Meat, Other",2004,108003.46
-Mexico,"Meat, Other",2005,105638.56
-Mexico,"Meat, Other",2006,98283.73
-Mexico,"Meat, Other",2007,93240.89
-Mexico,"Meat, Other",2008,86431.7
-Mexico,"Meat, Other",2009,84173.63
-Mexico,"Meat, Other",2010,83147.69
-Mexico,"Meat, Other",2011,77905.64
-Mexico,"Meat, Other",2012,73809.37
-Mexico,"Meat, Other",2013,79501.54
+Mexico,Marine Fish- Other,1961,4700
+Mexico,Marine Fish- Other,1962,7800
+Mexico,Marine Fish- Other,1963,9400
+Mexico,Marine Fish- Other,1964,5500
+Mexico,Marine Fish- Other,1965,6900
+Mexico,Marine Fish- Other,1966,5500
+Mexico,Marine Fish- Other,1967,4000
+Mexico,Marine Fish- Other,1968,5000
+Mexico,Marine Fish- Other,1969,7000
+Mexico,Marine Fish- Other,1970,5800
+Mexico,Marine Fish- Other,1971,18300
+Mexico,Marine Fish- Other,1972,9800
+Mexico,Marine Fish- Other,1973,10100
+Mexico,Marine Fish- Other,1974,8346
+Mexico,Marine Fish- Other,1975,855
+Mexico,Marine Fish- Other,1976,41910.44
+Mexico,Marine Fish- Other,1977,3623.1
+Mexico,Marine Fish- Other,1978,143457.11
+Mexico,Marine Fish- Other,1979,216050.33
+Mexico,Marine Fish- Other,1980,196714.65
+Mexico,Marine Fish- Other,1981,348786.18
+Mexico,Marine Fish- Other,1982,121463.4
+Mexico,Marine Fish- Other,1983,163566.82
+Mexico,Marine Fish- Other,1984,205075.52
+Mexico,Marine Fish- Other,1985,206407.95
+Mexico,Marine Fish- Other,1986,200505.77
+Mexico,Marine Fish- Other,1987,171875.89
+Mexico,Marine Fish- Other,1988,157742.56
+Mexico,Marine Fish- Other,1989,160378.2
+Mexico,Marine Fish- Other,1990,368462.44
+Mexico,Marine Fish- Other,1991,396960.51
+Mexico,Marine Fish- Other,1992,280500.21
+Mexico,Marine Fish- Other,1993,246564.25
+Mexico,Marine Fish- Other,1994,315100.06
+Mexico,Marine Fish- Other,1995,295180.32
+Mexico,Marine Fish- Other,1996,228455.47
+Mexico,Marine Fish- Other,1997,215386.11
+Mexico,Marine Fish- Other,1998,187888.36
+Mexico,Marine Fish- Other,1999,122144.05
+Mexico,Marine Fish- Other,2000,132729.32
+Mexico,Marine Fish- Other,2001,133969.32
+Mexico,Marine Fish- Other,2002,158769.38
+Mexico,Marine Fish- Other,2003,180158.99
+Mexico,Marine Fish- Other,2004,190906.07
+Mexico,Marine Fish- Other,2005,186193.89
+Mexico,Marine Fish- Other,2006,220141.5
+Mexico,Marine Fish- Other,2007,226178.39
+Mexico,Marine Fish- Other,2008,211855.45
+Mexico,Marine Fish- Other,2009,193062.19
+Mexico,Marine Fish- Other,2010,213620.63
+Mexico,Marine Fish- Other,2011,217102.65
+Mexico,Marine Fish- Other,2012,217102.65
+Mexico,Marine Fish- Other,2013,217102.65
+Mexico,Meat- Other,1961,40948.39
+Mexico,Meat- Other,1962,38239.1
+Mexico,Meat- Other,1963,38692.61
+Mexico,Meat- Other,1964,39936.18
+Mexico,Meat- Other,1965,40374.4
+Mexico,Meat- Other,1966,39256.12
+Mexico,Meat- Other,1967,38607.69
+Mexico,Meat- Other,1968,38255.34
+Mexico,Meat- Other,1969,35826.5
+Mexico,Meat- Other,1970,36024.27
+Mexico,Meat- Other,1971,39572.35
+Mexico,Meat- Other,1972,41580.97
+Mexico,Meat- Other,1973,37318.44
+Mexico,Meat- Other,1974,39546.44
+Mexico,Meat- Other,1975,45713.78
+Mexico,Meat- Other,1976,48007.76
+Mexico,Meat- Other,1977,47429.07
+Mexico,Meat- Other,1978,43157.44
+Mexico,Meat- Other,1979,42615.33
+Mexico,Meat- Other,1980,44620.69
+Mexico,Meat- Other,1981,59691.58
+Mexico,Meat- Other,1982,60936.71
+Mexico,Meat- Other,1983,60202.76
+Mexico,Meat- Other,1984,58900.41
+Mexico,Meat- Other,1985,67453.58
+Mexico,Meat- Other,1986,65670.62
+Mexico,Meat- Other,1987,69904.72
+Mexico,Meat- Other,1988,85026.38
+Mexico,Meat- Other,1989,89778.67
+Mexico,Meat- Other,1990,94590.92
+Mexico,Meat- Other,1991,95410.23
+Mexico,Meat- Other,1992,98850.1
+Mexico,Meat- Other,1993,107408.37
+Mexico,Meat- Other,1994,111354.46
+Mexico,Meat- Other,1995,95325.83
+Mexico,Meat- Other,1996,94265.44
+Mexico,Meat- Other,1997,95225.02
+Mexico,Meat- Other,1998,136480.4
+Mexico,Meat- Other,1999,126278.59
+Mexico,Meat- Other,2000,157828.76
+Mexico,Meat- Other,2001,193883.18
+Mexico,Meat- Other,2002,168880.63
+Mexico,Meat- Other,2003,119408.25
+Mexico,Meat- Other,2004,108003.46
+Mexico,Meat- Other,2005,105638.56
+Mexico,Meat- Other,2006,98283.73
+Mexico,Meat- Other,2007,93240.89
+Mexico,Meat- Other,2008,86431.7
+Mexico,Meat- Other,2009,84173.63
+Mexico,Meat- Other,2010,83147.69
+Mexico,Meat- Other,2011,77905.64
+Mexico,Meat- Other,2012,73809.37
+Mexico,Meat- Other,2013,79501.54
 Mexico,Milk - Excluding Butter,1961,2292591.82
 Mexico,Milk - Excluding Butter,1962,2357421.93
 Mexico,Milk - Excluding Butter,1963,2366341.15
@@ -1642,112 +1642,112 @@ Mexico,Milk - Excluding Butter,2010,12575904.79
 Mexico,Milk - Excluding Butter,2011,13272003.96
 Mexico,Milk - Excluding Butter,2012,13779349.11
 Mexico,Milk - Excluding Butter,2013,13685084.32
-Mexico,"Milk, Whole",1961,1776391.09
-Mexico,"Milk, Whole",1962,1782115.19
-Mexico,"Milk, Whole",1963,1500499.81
-Mexico,"Milk, Whole",1964,1771489.09
-Mexico,"Milk, Whole",1965,1693757.63
-Mexico,"Milk, Whole",1966,2399182.71
-Mexico,"Milk, Whole",1967,2561831.66
-Mexico,"Milk, Whole",1968,2605243.46
-Mexico,"Milk, Whole",1969,2983403.28
-Mexico,"Milk, Whole",1970,3192720.66
-Mexico,"Milk, Whole",1971,3447200.65
-Mexico,"Milk, Whole",1972,4414542.65
-Mexico,"Milk, Whole",1973,4684429.04
-Mexico,"Milk, Whole",1974,5376114.2
-Mexico,"Milk, Whole",1975,4862884.02
-Mexico,"Milk, Whole",1976,4894666.64
-Mexico,"Milk, Whole",1977,5609567.24
-Mexico,"Milk, Whole",1978,5732201.25
-Mexico,"Milk, Whole",1979,6034114.34
-Mexico,"Milk, Whole",1980,7217698.15
-Mexico,"Milk, Whole",1981,7065849.31
-Mexico,"Milk, Whole",1982,6661536.71
-Mexico,"Milk, Whole",1983,6487046.5
-Mexico,"Milk, Whole",1984,6363732.4
-Mexico,"Milk, Whole",1985,7402405
-Mexico,"Milk, Whole",1986,6087109.04
-Mexico,"Milk, Whole",1987,6314953.07
-Mexico,"Milk, Whole",1988,5868454.76
-Mexico,"Milk, Whole",1989,5972430.35
-Mexico,"Milk, Whole",1990,6473099.31
-Mexico,"Milk, Whole",1991,5196927.56
-Mexico,"Milk, Whole",1992,6631351.32
-Mexico,"Milk, Whole",1993,6106197.45
-Mexico,"Milk, Whole",1994,6712250.86
-Mexico,"Milk, Whole",1995,6543204.02
-Mexico,"Milk, Whole",1996,5734100.8
-Mexico,"Milk, Whole",1997,5976910.82
-Mexico,"Milk, Whole",1998,7778860.02
-Mexico,"Milk, Whole",1999,7811247.55
-Mexico,"Milk, Whole",2000,8697744.71
-Mexico,"Milk, Whole",2001,8531173.46
-Mexico,"Milk, Whole",2002,9133981.85
-Mexico,"Milk, Whole",2003,9346851.17
-Mexico,"Milk, Whole",2004,9439867.13
-Mexico,"Milk, Whole",2005,9621140.91
-Mexico,"Milk, Whole",2006,8319720.72
-Mexico,"Milk, Whole",2007,9793006.27
-Mexico,"Milk, Whole",2008,8885285.77
-Mexico,"Milk, Whole",2009,8888039.62
-Mexico,"Milk, Whole",2010,8764916.02
-Mexico,"Milk, Whole",2011,9047119.79
-Mexico,"Milk, Whole",2012,9101441.81
-Mexico,"Milk, Whole",2013,9135924.5
-Mexico,"Molluscs, Other",1961,21615.38
-Mexico,"Molluscs, Other",1962,20493.55
-Mexico,"Molluscs, Other",1963,24300
-Mexico,"Molluscs, Other",1964,27303.45
-Mexico,"Molluscs, Other",1965,32291.89
-Mexico,"Molluscs, Other",1966,27807.14
-Mexico,"Molluscs, Other",1967,32452.17
-Mexico,"Molluscs, Other",1968,38969.23
-Mexico,"Molluscs, Other",1969,46400
-Mexico,"Molluscs, Other",1970,42400
-Mexico,"Molluscs, Other",1971,39400
-Mexico,"Molluscs, Other",1972,44300
-Mexico,"Molluscs, Other",1973,37100
-Mexico,"Molluscs, Other",1974,41840.86
-Mexico,"Molluscs, Other",1975,39636.07
-Mexico,"Molluscs, Other",1976,33776.69
-Mexico,"Molluscs, Other",1977,30548.33
-Mexico,"Molluscs, Other",1978,48586.1
-Mexico,"Molluscs, Other",1979,52192.43
-Mexico,"Molluscs, Other",1980,59746.1
-Mexico,"Molluscs, Other",1981,60716.2
-Mexico,"Molluscs, Other",1982,61693.98
-Mexico,"Molluscs, Other",1983,50209.05
-Mexico,"Molluscs, Other",1984,61034.02
-Mexico,"Molluscs, Other",1985,63113.17
-Mexico,"Molluscs, Other",1986,67099.69
-Mexico,"Molluscs, Other",1987,74459.99
-Mexico,"Molluscs, Other",1988,86419.47
-Mexico,"Molluscs, Other",1989,97418.96
-Mexico,"Molluscs, Other",1990,99950.66
-Mexico,"Molluscs, Other",1991,72857.53
-Mexico,"Molluscs, Other",1992,56047.76
-Mexico,"Molluscs, Other",1993,48156.53
-Mexico,"Molluscs, Other",1994,61233.55
-Mexico,"Molluscs, Other",1995,40365.76
-Mexico,"Molluscs, Other",1996,41679.53
-Mexico,"Molluscs, Other",1997,43398.18
-Mexico,"Molluscs, Other",1998,48314.99
-Mexico,"Molluscs, Other",1999,54998.48
-Mexico,"Molluscs, Other",2000,64345.96
-Mexico,"Molluscs, Other",2001,70884.94
-Mexico,"Molluscs, Other",2002,59249.6
-Mexico,"Molluscs, Other",2003,62387.74
-Mexico,"Molluscs, Other",2004,56159.63
-Mexico,"Molluscs, Other",2005,74055.07
-Mexico,"Molluscs, Other",2006,79210.54
-Mexico,"Molluscs, Other",2007,82611.7
-Mexico,"Molluscs, Other",2008,72768.35
-Mexico,"Molluscs, Other",2009,65013.76
-Mexico,"Molluscs, Other",2010,72488.83
-Mexico,"Molluscs, Other",2011,113929.59
-Mexico,"Molluscs, Other",2012,113929.59
-Mexico,"Molluscs, Other",2013,113929.59
+Mexico,Milk- Whole,1961,1776391.09
+Mexico,Milk- Whole,1962,1782115.19
+Mexico,Milk- Whole,1963,1500499.81
+Mexico,Milk- Whole,1964,1771489.09
+Mexico,Milk- Whole,1965,1693757.63
+Mexico,Milk- Whole,1966,2399182.71
+Mexico,Milk- Whole,1967,2561831.66
+Mexico,Milk- Whole,1968,2605243.46
+Mexico,Milk- Whole,1969,2983403.28
+Mexico,Milk- Whole,1970,3192720.66
+Mexico,Milk- Whole,1971,3447200.65
+Mexico,Milk- Whole,1972,4414542.65
+Mexico,Milk- Whole,1973,4684429.04
+Mexico,Milk- Whole,1974,5376114.2
+Mexico,Milk- Whole,1975,4862884.02
+Mexico,Milk- Whole,1976,4894666.64
+Mexico,Milk- Whole,1977,5609567.24
+Mexico,Milk- Whole,1978,5732201.25
+Mexico,Milk- Whole,1979,6034114.34
+Mexico,Milk- Whole,1980,7217698.15
+Mexico,Milk- Whole,1981,7065849.31
+Mexico,Milk- Whole,1982,6661536.71
+Mexico,Milk- Whole,1983,6487046.5
+Mexico,Milk- Whole,1984,6363732.4
+Mexico,Milk- Whole,1985,7402405
+Mexico,Milk- Whole,1986,6087109.04
+Mexico,Milk- Whole,1987,6314953.07
+Mexico,Milk- Whole,1988,5868454.76
+Mexico,Milk- Whole,1989,5972430.35
+Mexico,Milk- Whole,1990,6473099.31
+Mexico,Milk- Whole,1991,5196927.56
+Mexico,Milk- Whole,1992,6631351.32
+Mexico,Milk- Whole,1993,6106197.45
+Mexico,Milk- Whole,1994,6712250.86
+Mexico,Milk- Whole,1995,6543204.02
+Mexico,Milk- Whole,1996,5734100.8
+Mexico,Milk- Whole,1997,5976910.82
+Mexico,Milk- Whole,1998,7778860.02
+Mexico,Milk- Whole,1999,7811247.55
+Mexico,Milk- Whole,2000,8697744.71
+Mexico,Milk- Whole,2001,8531173.46
+Mexico,Milk- Whole,2002,9133981.85
+Mexico,Milk- Whole,2003,9346851.17
+Mexico,Milk- Whole,2004,9439867.13
+Mexico,Milk- Whole,2005,9621140.91
+Mexico,Milk- Whole,2006,8319720.72
+Mexico,Milk- Whole,2007,9793006.27
+Mexico,Milk- Whole,2008,8885285.77
+Mexico,Milk- Whole,2009,8888039.62
+Mexico,Milk- Whole,2010,8764916.02
+Mexico,Milk- Whole,2011,9047119.79
+Mexico,Milk- Whole,2012,9101441.81
+Mexico,Milk- Whole,2013,9135924.5
+Mexico,Molluscs- Other,1961,21615.38
+Mexico,Molluscs- Other,1962,20493.55
+Mexico,Molluscs- Other,1963,24300
+Mexico,Molluscs- Other,1964,27303.45
+Mexico,Molluscs- Other,1965,32291.89
+Mexico,Molluscs- Other,1966,27807.14
+Mexico,Molluscs- Other,1967,32452.17
+Mexico,Molluscs- Other,1968,38969.23
+Mexico,Molluscs- Other,1969,46400
+Mexico,Molluscs- Other,1970,42400
+Mexico,Molluscs- Other,1971,39400
+Mexico,Molluscs- Other,1972,44300
+Mexico,Molluscs- Other,1973,37100
+Mexico,Molluscs- Other,1974,41840.86
+Mexico,Molluscs- Other,1975,39636.07
+Mexico,Molluscs- Other,1976,33776.69
+Mexico,Molluscs- Other,1977,30548.33
+Mexico,Molluscs- Other,1978,48586.1
+Mexico,Molluscs- Other,1979,52192.43
+Mexico,Molluscs- Other,1980,59746.1
+Mexico,Molluscs- Other,1981,60716.2
+Mexico,Molluscs- Other,1982,61693.98
+Mexico,Molluscs- Other,1983,50209.05
+Mexico,Molluscs- Other,1984,61034.02
+Mexico,Molluscs- Other,1985,63113.17
+Mexico,Molluscs- Other,1986,67099.69
+Mexico,Molluscs- Other,1987,74459.99
+Mexico,Molluscs- Other,1988,86419.47
+Mexico,Molluscs- Other,1989,97418.96
+Mexico,Molluscs- Other,1990,99950.66
+Mexico,Molluscs- Other,1991,72857.53
+Mexico,Molluscs- Other,1992,56047.76
+Mexico,Molluscs- Other,1993,48156.53
+Mexico,Molluscs- Other,1994,61233.55
+Mexico,Molluscs- Other,1995,40365.76
+Mexico,Molluscs- Other,1996,41679.53
+Mexico,Molluscs- Other,1997,43398.18
+Mexico,Molluscs- Other,1998,48314.99
+Mexico,Molluscs- Other,1999,54998.48
+Mexico,Molluscs- Other,2000,64345.96
+Mexico,Molluscs- Other,2001,70884.94
+Mexico,Molluscs- Other,2002,59249.6
+Mexico,Molluscs- Other,2003,62387.74
+Mexico,Molluscs- Other,2004,56159.63
+Mexico,Molluscs- Other,2005,74055.07
+Mexico,Molluscs- Other,2006,79210.54
+Mexico,Molluscs- Other,2007,82611.7
+Mexico,Molluscs- Other,2008,72768.35
+Mexico,Molluscs- Other,2009,65013.76
+Mexico,Molluscs- Other,2010,72488.83
+Mexico,Molluscs- Other,2011,113929.59
+Mexico,Molluscs- Other,2012,113929.59
+Mexico,Molluscs- Other,2013,113929.59
 Mexico,Mutton & Goat Meat,1961,30096
 Mexico,Mutton & Goat Meat,1962,29531
 Mexico,Mutton & Goat Meat,1963,30554
@@ -1801,59 +1801,59 @@ Mexico,Mutton & Goat Meat,2010,113393
 Mexico,Mutton & Goat Meat,2011,110932
 Mexico,Mutton & Goat Meat,2012,107318
 Mexico,Mutton & Goat Meat,2013,109233
-Mexico,"Offals, Edible",1961,101113
-Mexico,"Offals, Edible",1962,110460
-Mexico,"Offals, Edible",1963,115271
-Mexico,"Offals, Edible",1964,120712
-Mexico,"Offals, Edible",1965,122298
-Mexico,"Offals, Edible",1966,123512
-Mexico,"Offals, Edible",1967,128648
-Mexico,"Offals, Edible",1968,130602
-Mexico,"Offals, Edible",1969,134746
-Mexico,"Offals, Edible",1970,136136
-Mexico,"Offals, Edible",1971,135326
-Mexico,"Offals, Edible",1972,145037
-Mexico,"Offals, Edible",1973,148052
-Mexico,"Offals, Edible",1974,160122
-Mexico,"Offals, Edible",1975,176529
-Mexico,"Offals, Edible",1976,206099
-Mexico,"Offals, Edible",1977,223580
-Mexico,"Offals, Edible",1978,236210
-Mexico,"Offals, Edible",1979,246676
-Mexico,"Offals, Edible",1980,273448
-Mexico,"Offals, Edible",1981,313545
-Mexico,"Offals, Edible",1982,308508
-Mexico,"Offals, Edible",1983,308091
-Mexico,"Offals, Edible",1984,335108
-Mexico,"Offals, Edible",1985,355653
-Mexico,"Offals, Edible",1986,359906
-Mexico,"Offals, Edible",1987,360795
-Mexico,"Offals, Edible",1988,408055.67
-Mexico,"Offals, Edible",1989,404807
-Mexico,"Offals, Edible",1990,417916
-Mexico,"Offals, Edible",1991,427080.67
-Mexico,"Offals, Edible",1992,453066
-Mexico,"Offals, Edible",1993,457725.33
-Mexico,"Offals, Edible",1994,482776
-Mexico,"Offals, Edible",1995,461103
-Mexico,"Offals, Edible",1996,464898.67
-Mexico,"Offals, Edible",1997,457373.67
-Mexico,"Offals, Edible",1998,479611.67
-Mexico,"Offals, Edible",1999,496044.33
-Mexico,"Offals, Edible",2000,530976.33
-Mexico,"Offals, Edible",2001,548214.33
-Mexico,"Offals, Edible",2002,567467.33
-Mexico,"Offals, Edible",2003,549525.67
-Mexico,"Offals, Edible",2004,564156.67
-Mexico,"Offals, Edible",2005,571634
-Mexico,"Offals, Edible",2006,580934
-Mexico,"Offals, Edible",2007,590791.33
-Mexico,"Offals, Edible",2008,593899.67
-Mexico,"Offals, Edible",2009,602849.67
-Mexico,"Offals, Edible",2010,622714.67
-Mexico,"Offals, Edible",2011,618467.33
-Mexico,"Offals, Edible",2012,622699
-Mexico,"Offals, Edible",2013,623187.33
+Mexico,Offals- Edible,1961,101113
+Mexico,Offals- Edible,1962,110460
+Mexico,Offals- Edible,1963,115271
+Mexico,Offals- Edible,1964,120712
+Mexico,Offals- Edible,1965,122298
+Mexico,Offals- Edible,1966,123512
+Mexico,Offals- Edible,1967,128648
+Mexico,Offals- Edible,1968,130602
+Mexico,Offals- Edible,1969,134746
+Mexico,Offals- Edible,1970,136136
+Mexico,Offals- Edible,1971,135326
+Mexico,Offals- Edible,1972,145037
+Mexico,Offals- Edible,1973,148052
+Mexico,Offals- Edible,1974,160122
+Mexico,Offals- Edible,1975,176529
+Mexico,Offals- Edible,1976,206099
+Mexico,Offals- Edible,1977,223580
+Mexico,Offals- Edible,1978,236210
+Mexico,Offals- Edible,1979,246676
+Mexico,Offals- Edible,1980,273448
+Mexico,Offals- Edible,1981,313545
+Mexico,Offals- Edible,1982,308508
+Mexico,Offals- Edible,1983,308091
+Mexico,Offals- Edible,1984,335108
+Mexico,Offals- Edible,1985,355653
+Mexico,Offals- Edible,1986,359906
+Mexico,Offals- Edible,1987,360795
+Mexico,Offals- Edible,1988,408055.67
+Mexico,Offals- Edible,1989,404807
+Mexico,Offals- Edible,1990,417916
+Mexico,Offals- Edible,1991,427080.67
+Mexico,Offals- Edible,1992,453066
+Mexico,Offals- Edible,1993,457725.33
+Mexico,Offals- Edible,1994,482776
+Mexico,Offals- Edible,1995,461103
+Mexico,Offals- Edible,1996,464898.67
+Mexico,Offals- Edible,1997,457373.67
+Mexico,Offals- Edible,1998,479611.67
+Mexico,Offals- Edible,1999,496044.33
+Mexico,Offals- Edible,2000,530976.33
+Mexico,Offals- Edible,2001,548214.33
+Mexico,Offals- Edible,2002,567467.33
+Mexico,Offals- Edible,2003,549525.67
+Mexico,Offals- Edible,2004,564156.67
+Mexico,Offals- Edible,2005,571634
+Mexico,Offals- Edible,2006,580934
+Mexico,Offals- Edible,2007,590791.33
+Mexico,Offals- Edible,2008,593899.67
+Mexico,Offals- Edible,2009,602849.67
+Mexico,Offals- Edible,2010,622714.67
+Mexico,Offals- Edible,2011,618467.33
+Mexico,Offals- Edible,2012,622699
+Mexico,Offals- Edible,2013,623187.33
 Mexico,Pelagic Fish,1961,33677.78
 Mexico,Pelagic Fish,1962,29579.55
 Mexico,Pelagic Fish,1963,36476.05
@@ -2066,59 +2066,59 @@ United States of America,Bovine Meat,2010,12071343.43
 United States of America,Bovine Meat,2011,11602379.11
 United States of America,Bovine Meat,2012,11736155.3
 United States of America,Bovine Meat,2013,11598298.52
-United States of America,"Butter, Ghee",1961,626000
-United States of America,"Butter, Ghee",1962,637000
-United States of America,"Butter, Ghee",1963,609000
-United States of America,"Butter, Ghee",1964,618000
-United States of America,"Butter, Ghee",1965,586000
-United States of America,"Butter, Ghee",1966,513000
-United States of America,"Butter, Ghee",1967,498000
-United States of America,"Butter, Ghee",1968,538000
-United States of America,"Butter, Ghee",1969,512000
-United States of America,"Butter, Ghee",1970,502000
-United States of America,"Butter, Ghee",1971,486000
-United States of America,"Butter, Ghee",1972,472000
-United States of America,"Butter, Ghee",1973,457000
-United States of America,"Butter, Ghee",1974,438000
-United States of America,"Butter, Ghee",1975,463100
-United States of America,"Butter, Ghee",1976,426800
-United States of America,"Butter, Ghee",1977,429100
-United States of America,"Butter, Ghee",1978,439500
-United States of America,"Butter, Ghee",1979,458600
-United States of America,"Butter, Ghee",1980,461300
-United States of America,"Butter, Ghee",1981,441800
-United States of America,"Butter, Ghee",1982,458600
-United States of America,"Butter, Ghee",1983,522617
-United States of America,"Butter, Ghee",1984,528088
-United States of America,"Butter, Ghee",1985,530050
-United States of America,"Butter, Ghee",1986,506194
-United States of America,"Butter, Ghee",1987,515670
-United States of America,"Butter, Ghee",1988,502080
-United States of America,"Butter, Ghee",1989,488580
-United States of America,"Butter, Ghee",1990,496465
-United States of America,"Butter, Ghee",1991,499214
-United States of America,"Butter, Ghee",1992,505191
-United States of America,"Butter, Ghee",1993,548141
-United States of America,"Butter, Ghee",1994,570085
-United States of America,"Butter, Ghee",1995,537084
-United States of America,"Butter, Ghee",1996,519022
-United States of America,"Butter, Ghee",1997,506142
-United States of America,"Butter, Ghee",1998,558360
-United States of America,"Butter, Ghee",1999,603703
-United States of America,"Butter, Ghee",2000,581312
-United States of America,"Butter, Ghee",2001,590879
-United States of America,"Butter, Ghee",2002,598192
-United States of America,"Butter, Ghee",2003,600954
-United States of America,"Butter, Ghee",2004,633476
-United States of America,"Butter, Ghee",2005,633412
-United States of America,"Butter, Ghee",2006,629333
-United States of America,"Butter, Ghee",2007,624052
-United States of America,"Butter, Ghee",2008,617013
-United States of America,"Butter, Ghee",2009,628808
-United States of America,"Butter, Ghee",2010,620286
-United States of America,"Butter, Ghee",2011,660027
-United States of America,"Butter, Ghee",2012,685920
-United States of America,"Butter, Ghee",2013,680626
+United States of America,Butter- Ghee,1961,626000
+United States of America,Butter- Ghee,1962,637000
+United States of America,Butter- Ghee,1963,609000
+United States of America,Butter- Ghee,1964,618000
+United States of America,Butter- Ghee,1965,586000
+United States of America,Butter- Ghee,1966,513000
+United States of America,Butter- Ghee,1967,498000
+United States of America,Butter- Ghee,1968,538000
+United States of America,Butter- Ghee,1969,512000
+United States of America,Butter- Ghee,1970,502000
+United States of America,Butter- Ghee,1971,486000
+United States of America,Butter- Ghee,1972,472000
+United States of America,Butter- Ghee,1973,457000
+United States of America,Butter- Ghee,1974,438000
+United States of America,Butter- Ghee,1975,463100
+United States of America,Butter- Ghee,1976,426800
+United States of America,Butter- Ghee,1977,429100
+United States of America,Butter- Ghee,1978,439500
+United States of America,Butter- Ghee,1979,458600
+United States of America,Butter- Ghee,1980,461300
+United States of America,Butter- Ghee,1981,441800
+United States of America,Butter- Ghee,1982,458600
+United States of America,Butter- Ghee,1983,522617
+United States of America,Butter- Ghee,1984,528088
+United States of America,Butter- Ghee,1985,530050
+United States of America,Butter- Ghee,1986,506194
+United States of America,Butter- Ghee,1987,515670
+United States of America,Butter- Ghee,1988,502080
+United States of America,Butter- Ghee,1989,488580
+United States of America,Butter- Ghee,1990,496465
+United States of America,Butter- Ghee,1991,499214
+United States of America,Butter- Ghee,1992,505191
+United States of America,Butter- Ghee,1993,548141
+United States of America,Butter- Ghee,1994,570085
+United States of America,Butter- Ghee,1995,537084
+United States of America,Butter- Ghee,1996,519022
+United States of America,Butter- Ghee,1997,506142
+United States of America,Butter- Ghee,1998,558360
+United States of America,Butter- Ghee,1999,603703
+United States of America,Butter- Ghee,2000,581312
+United States of America,Butter- Ghee,2001,590879
+United States of America,Butter- Ghee,2002,598192
+United States of America,Butter- Ghee,2003,600954
+United States of America,Butter- Ghee,2004,633476
+United States of America,Butter- Ghee,2005,633412
+United States of America,Butter- Ghee,2006,629333
+United States of America,Butter- Ghee,2007,624052
+United States of America,Butter- Ghee,2008,617013
+United States of America,Butter- Ghee,2009,628808
+United States of America,Butter- Ghee,2010,620286
+United States of America,Butter- Ghee,2011,660027
+United States of America,Butter- Ghee,2012,685920
+United States of America,Butter- Ghee,2013,680626
 United States of America,Cheese,1961,1070463
 United States of America,Cheese,1962,1135024
 United States of America,Cheese,1963,1161035
@@ -2331,59 +2331,59 @@ United States of America,Eggs,2010,4378632.3
 United States of America,Eggs,2011,4397535.78
 United States of America,Eggs,2012,4522619.49
 United States of America,Eggs,2013,4667263.66
-United States of America,"Fats, Animals, Raw",1961,1341879.51
-United States of America,"Fats, Animals, Raw",1962,1341488.93
-United States of America,"Fats, Animals, Raw",1963,1315909.07
-United States of America,"Fats, Animals, Raw",1964,1276100.8
-United States of America,"Fats, Animals, Raw",1965,1305434.28
-United States of America,"Fats, Animals, Raw",1966,1198516.88
-United States of America,"Fats, Animals, Raw",1967,1327870.9
-United States of America,"Fats, Animals, Raw",1968,1367120.77
-United States of America,"Fats, Animals, Raw",1969,1200451.18
-United States of America,"Fats, Animals, Raw",1970,1193504.49
-United States of America,"Fats, Animals, Raw",1971,1270832.67
-United States of America,"Fats, Animals, Raw",1972,1174150.28
-United States of America,"Fats, Animals, Raw",1973,961949.09
-United States of America,"Fats, Animals, Raw",1974,1053430.03
-United States of America,"Fats, Animals, Raw",1975,925880.88
-United States of America,"Fats, Animals, Raw",1976,932539.91
-United States of America,"Fats, Animals, Raw",1977,1012714.15
-United States of America,"Fats, Animals, Raw",1978,1034269.44
-United States of America,"Fats, Animals, Raw",1979,1000202.07
-United States of America,"Fats, Animals, Raw",1980,1122518.28
-United States of America,"Fats, Animals, Raw",1981,1061042.11
-United States of America,"Fats, Animals, Raw",1982,1027672.98
-United States of America,"Fats, Animals, Raw",1983,1090760.47
-United States of America,"Fats, Animals, Raw",1984,1102985.69
-United States of America,"Fats, Animals, Raw",1985,1275229.89
-United States of America,"Fats, Animals, Raw",1986,1195687.95
-United States of America,"Fats, Animals, Raw",1987,977613.53
-United States of America,"Fats, Animals, Raw",1988,938969.18
-United States of America,"Fats, Animals, Raw",1989,852630.82
-United States of America,"Fats, Animals, Raw",1990,819775.81
-United States of America,"Fats, Animals, Raw",1991,841645.81
-United States of America,"Fats, Animals, Raw",1992,989864.53
-United States of America,"Fats, Animals, Raw",1993,918504.76
-United States of America,"Fats, Animals, Raw",1994,1085351.8
-United States of America,"Fats, Animals, Raw",1995,719152.29
-United States of America,"Fats, Animals, Raw",1996,800059.96
-United States of America,"Fats, Animals, Raw",1997,841769.57
-United States of America,"Fats, Animals, Raw",1998,917220.55
-United States of America,"Fats, Animals, Raw",1999,910536.56
-United States of America,"Fats, Animals, Raw",2000,1012174.23
-United States of America,"Fats, Animals, Raw",2001,916316.9
-United States of America,"Fats, Animals, Raw",2002,1000312.27
-United States of America,"Fats, Animals, Raw",2003,1068070.79
-United States of America,"Fats, Animals, Raw",2004,1014721.97
-United States of America,"Fats, Animals, Raw",2005,1123710.86
-United States of America,"Fats, Animals, Raw",2006,1153647.41
-United States of America,"Fats, Animals, Raw",2007,1013521.31
-United States of America,"Fats, Animals, Raw",2008,930465.95
-United States of America,"Fats, Animals, Raw",2009,978258.36
-United States of America,"Fats, Animals, Raw",2010,1042678.28
-United States of America,"Fats, Animals, Raw",2011,983188.75
-United States of America,"Fats, Animals, Raw",2012,1008736.81
-United States of America,"Fats, Animals, Raw",2013,999057.62
+United States of America,Fats- Animals- Raw,1961,1341879.51
+United States of America,Fats- Animals- Raw,1962,1341488.93
+United States of America,Fats- Animals- Raw,1963,1315909.07
+United States of America,Fats- Animals- Raw,1964,1276100.8
+United States of America,Fats- Animals- Raw,1965,1305434.28
+United States of America,Fats- Animals- Raw,1966,1198516.88
+United States of America,Fats- Animals- Raw,1967,1327870.9
+United States of America,Fats- Animals- Raw,1968,1367120.77
+United States of America,Fats- Animals- Raw,1969,1200451.18
+United States of America,Fats- Animals- Raw,1970,1193504.49
+United States of America,Fats- Animals- Raw,1971,1270832.67
+United States of America,Fats- Animals- Raw,1972,1174150.28
+United States of America,Fats- Animals- Raw,1973,961949.09
+United States of America,Fats- Animals- Raw,1974,1053430.03
+United States of America,Fats- Animals- Raw,1975,925880.88
+United States of America,Fats- Animals- Raw,1976,932539.91
+United States of America,Fats- Animals- Raw,1977,1012714.15
+United States of America,Fats- Animals- Raw,1978,1034269.44
+United States of America,Fats- Animals- Raw,1979,1000202.07
+United States of America,Fats- Animals- Raw,1980,1122518.28
+United States of America,Fats- Animals- Raw,1981,1061042.11
+United States of America,Fats- Animals- Raw,1982,1027672.98
+United States of America,Fats- Animals- Raw,1983,1090760.47
+United States of America,Fats- Animals- Raw,1984,1102985.69
+United States of America,Fats- Animals- Raw,1985,1275229.89
+United States of America,Fats- Animals- Raw,1986,1195687.95
+United States of America,Fats- Animals- Raw,1987,977613.53
+United States of America,Fats- Animals- Raw,1988,938969.18
+United States of America,Fats- Animals- Raw,1989,852630.82
+United States of America,Fats- Animals- Raw,1990,819775.81
+United States of America,Fats- Animals- Raw,1991,841645.81
+United States of America,Fats- Animals- Raw,1992,989864.53
+United States of America,Fats- Animals- Raw,1993,918504.76
+United States of America,Fats- Animals- Raw,1994,1085351.8
+United States of America,Fats- Animals- Raw,1995,719152.29
+United States of America,Fats- Animals- Raw,1996,800059.96
+United States of America,Fats- Animals- Raw,1997,841769.57
+United States of America,Fats- Animals- Raw,1998,917220.55
+United States of America,Fats- Animals- Raw,1999,910536.56
+United States of America,Fats- Animals- Raw,2000,1012174.23
+United States of America,Fats- Animals- Raw,2001,916316.9
+United States of America,Fats- Animals- Raw,2002,1000312.27
+United States of America,Fats- Animals- Raw,2003,1068070.79
+United States of America,Fats- Animals- Raw,2004,1014721.97
+United States of America,Fats- Animals- Raw,2005,1123710.86
+United States of America,Fats- Animals- Raw,2006,1153647.41
+United States of America,Fats- Animals- Raw,2007,1013521.31
+United States of America,Fats- Animals- Raw,2008,930465.95
+United States of America,Fats- Animals- Raw,2009,978258.36
+United States of America,Fats- Animals- Raw,2010,1042678.28
+United States of America,Fats- Animals- Raw,2011,983188.75
+United States of America,Fats- Animals- Raw,2012,1008736.81
+United States of America,Fats- Animals- Raw,2013,999057.62
 United States of America,Freshwater Fish,1961,289908.67
 United States of America,Freshwater Fish,1962,279237.33
 United States of America,Freshwater Fish,1963,269687.16
@@ -2490,112 +2490,112 @@ United States of America,Honey,2010,183166
 United States of America,Honey,2011,191347
 United States of America,Honey,2012,199798
 United States of America,Honey,2013,214449
-United States of America,"Marine Fish, Other",1961,70432
-United States of America,"Marine Fish, Other",1962,101683
-United States of America,"Marine Fish, Other",1963,103264
-United States of America,"Marine Fish, Other",1964,123168
-United States of America,"Marine Fish, Other",1965,124949
-United States of America,"Marine Fish, Other",1966,93872
-United States of America,"Marine Fish, Other",1967,101328
-United States of America,"Marine Fish, Other",1968,94080
-United States of America,"Marine Fish, Other",1969,84647
-United States of America,"Marine Fish, Other",1970,74700
-United States of America,"Marine Fish, Other",1971,65600
-United States of America,"Marine Fish, Other",1972,60700
-United States of America,"Marine Fish, Other",1973,81100
-United States of America,"Marine Fish, Other",1974,76376
-United States of America,"Marine Fish, Other",1975,69907
-United States of America,"Marine Fish, Other",1976,74426
-United States of America,"Marine Fish, Other",1977,72281
-United States of America,"Marine Fish, Other",1978,67095
-United States of America,"Marine Fish, Other",1979,62078
-United States of America,"Marine Fish, Other",1980,65543
-United States of America,"Marine Fish, Other",1981,62237
-United States of America,"Marine Fish, Other",1982,52806
-United States of America,"Marine Fish, Other",1983,52270
-United States of America,"Marine Fish, Other",1984,55056
-United States of America,"Marine Fish, Other",1985,42670
-United States of America,"Marine Fish, Other",1986,54008
-United States of America,"Marine Fish, Other",1987,63435
-United States of America,"Marine Fish, Other",1988,45627
-United States of America,"Marine Fish, Other",1989,38419
-United States of America,"Marine Fish, Other",1990,49155
-United States of America,"Marine Fish, Other",1991,42287
-United States of America,"Marine Fish, Other",1992,54658
-United States of America,"Marine Fish, Other",1993,72620
-United States of America,"Marine Fish, Other",1994,35772
-United States of America,"Marine Fish, Other",1995,33379
-United States of America,"Marine Fish, Other",1996,23561
-United States of America,"Marine Fish, Other",1997,25081
-United States of America,"Marine Fish, Other",1998,15122
-United States of America,"Marine Fish, Other",1999,13681
-United States of America,"Marine Fish, Other",2000,15191
-United States of America,"Marine Fish, Other",2001,13212
-United States of America,"Marine Fish, Other",2002,10373
-United States of America,"Marine Fish, Other",2003,17027
-United States of America,"Marine Fish, Other",2004,5258
-United States of America,"Marine Fish, Other",2005,4740
-United States of America,"Marine Fish, Other",2006,4097
-United States of America,"Marine Fish, Other",2007,4426
-United States of America,"Marine Fish, Other",2008,4048
-United States of America,"Marine Fish, Other",2009,3824
-United States of America,"Marine Fish, Other",2010,3545
-United States of America,"Marine Fish, Other",2011,5670
-United States of America,"Marine Fish, Other",2012,3794
-United States of America,"Marine Fish, Other",2013,3315
-United States of America,"Meat, Other",1961,227182.59
-United States of America,"Meat, Other",1962,212504.94
-United States of America,"Meat, Other",1963,213654.06
-United States of America,"Meat, Other",1964,217274.12
-United States of America,"Meat, Other",1965,222807.94
-United States of America,"Meat, Other",1966,226637.35
-United States of America,"Meat, Other",1967,226079.76
-United States of America,"Meat, Other",1968,227269.12
-United States of America,"Meat, Other",1969,230282.12
-United States of America,"Meat, Other",1970,236968.53
-United States of America,"Meat, Other",1971,236444.71
-United States of America,"Meat, Other",1972,235641.35
-United States of America,"Meat, Other",1973,238577
-United States of America,"Meat, Other",1974,238539
-United States of America,"Meat, Other",1975,237377.25
-United States of America,"Meat, Other",1976,230181
-United States of America,"Meat, Other",1977,226880.5
-United States of America,"Meat, Other",1978,233346.24
-United States of America,"Meat, Other",1979,236328.53
-United States of America,"Meat, Other",1980,223902.24
-United States of America,"Meat, Other",1981,227042.35
-United States of America,"Meat, Other",1982,223933.35
-United States of America,"Meat, Other",1983,221898.99
-United States of America,"Meat, Other",1984,207739
-United States of America,"Meat, Other",1985,207153.1
-United States of America,"Meat, Other",1986,205603.85
-United States of America,"Meat, Other",1987,200853.68
-United States of America,"Meat, Other",1988,201250.57
-United States of America,"Meat, Other",1989,190802.96
-United States of America,"Meat, Other",1990,186871.81
-United States of America,"Meat, Other",1991,192342.56
-United States of America,"Meat, Other",1992,193623.14
-United States of America,"Meat, Other",1993,192678.86
-United States of America,"Meat, Other",1994,202247.31
-United States of America,"Meat, Other",1995,208588.23
-United States of America,"Meat, Other",1996,195430.81
-United States of America,"Meat, Other",1997,176867.13
-United States of America,"Meat, Other",1998,192073.92
-United States of America,"Meat, Other",1999,210656.35
-United States of America,"Meat, Other",2000,205218.4
-United States of America,"Meat, Other",2001,199438.25
-United States of America,"Meat, Other",2002,227895.06
-United States of America,"Meat, Other",2003,224897.87
-United States of America,"Meat, Other",2004,226881.1
-United States of America,"Meat, Other",2005,229949.69
-United States of America,"Meat, Other",2006,239740.77
-United States of America,"Meat, Other",2007,248911.81
-United States of America,"Meat, Other",2008,256473.94
-United States of America,"Meat, Other",2009,253727.6
-United States of America,"Meat, Other",2010,249816.52
-United States of America,"Meat, Other",2011,251838.46
-United States of America,"Meat, Other",2012,255781.92
-United States of America,"Meat, Other",2013,258652.42
+United States of America,Marine Fish- Other,1961,70432
+United States of America,Marine Fish- Other,1962,101683
+United States of America,Marine Fish- Other,1963,103264
+United States of America,Marine Fish- Other,1964,123168
+United States of America,Marine Fish- Other,1965,124949
+United States of America,Marine Fish- Other,1966,93872
+United States of America,Marine Fish- Other,1967,101328
+United States of America,Marine Fish- Other,1968,94080
+United States of America,Marine Fish- Other,1969,84647
+United States of America,Marine Fish- Other,1970,74700
+United States of America,Marine Fish- Other,1971,65600
+United States of America,Marine Fish- Other,1972,60700
+United States of America,Marine Fish- Other,1973,81100
+United States of America,Marine Fish- Other,1974,76376
+United States of America,Marine Fish- Other,1975,69907
+United States of America,Marine Fish- Other,1976,74426
+United States of America,Marine Fish- Other,1977,72281
+United States of America,Marine Fish- Other,1978,67095
+United States of America,Marine Fish- Other,1979,62078
+United States of America,Marine Fish- Other,1980,65543
+United States of America,Marine Fish- Other,1981,62237
+United States of America,Marine Fish- Other,1982,52806
+United States of America,Marine Fish- Other,1983,52270
+United States of America,Marine Fish- Other,1984,55056
+United States of America,Marine Fish- Other,1985,42670
+United States of America,Marine Fish- Other,1986,54008
+United States of America,Marine Fish- Other,1987,63435
+United States of America,Marine Fish- Other,1988,45627
+United States of America,Marine Fish- Other,1989,38419
+United States of America,Marine Fish- Other,1990,49155
+United States of America,Marine Fish- Other,1991,42287
+United States of America,Marine Fish- Other,1992,54658
+United States of America,Marine Fish- Other,1993,72620
+United States of America,Marine Fish- Other,1994,35772
+United States of America,Marine Fish- Other,1995,33379
+United States of America,Marine Fish- Other,1996,23561
+United States of America,Marine Fish- Other,1997,25081
+United States of America,Marine Fish- Other,1998,15122
+United States of America,Marine Fish- Other,1999,13681
+United States of America,Marine Fish- Other,2000,15191
+United States of America,Marine Fish- Other,2001,13212
+United States of America,Marine Fish- Other,2002,10373
+United States of America,Marine Fish- Other,2003,17027
+United States of America,Marine Fish- Other,2004,5258
+United States of America,Marine Fish- Other,2005,4740
+United States of America,Marine Fish- Other,2006,4097
+United States of America,Marine Fish- Other,2007,4426
+United States of America,Marine Fish- Other,2008,4048
+United States of America,Marine Fish- Other,2009,3824
+United States of America,Marine Fish- Other,2010,3545
+United States of America,Marine Fish- Other,2011,5670
+United States of America,Marine Fish- Other,2012,3794
+United States of America,Marine Fish- Other,2013,3315
+United States of America,Meat- Other,1961,227182.59
+United States of America,Meat- Other,1962,212504.94
+United States of America,Meat- Other,1963,213654.06
+United States of America,Meat- Other,1964,217274.12
+United States of America,Meat- Other,1965,222807.94
+United States of America,Meat- Other,1966,226637.35
+United States of America,Meat- Other,1967,226079.76
+United States of America,Meat- Other,1968,227269.12
+United States of America,Meat- Other,1969,230282.12
+United States of America,Meat- Other,1970,236968.53
+United States of America,Meat- Other,1971,236444.71
+United States of America,Meat- Other,1972,235641.35
+United States of America,Meat- Other,1973,238577
+United States of America,Meat- Other,1974,238539
+United States of America,Meat- Other,1975,237377.25
+United States of America,Meat- Other,1976,230181
+United States of America,Meat- Other,1977,226880.5
+United States of America,Meat- Other,1978,233346.24
+United States of America,Meat- Other,1979,236328.53
+United States of America,Meat- Other,1980,223902.24
+United States of America,Meat- Other,1981,227042.35
+United States of America,Meat- Other,1982,223933.35
+United States of America,Meat- Other,1983,221898.99
+United States of America,Meat- Other,1984,207739
+United States of America,Meat- Other,1985,207153.1
+United States of America,Meat- Other,1986,205603.85
+United States of America,Meat- Other,1987,200853.68
+United States of America,Meat- Other,1988,201250.57
+United States of America,Meat- Other,1989,190802.96
+United States of America,Meat- Other,1990,186871.81
+United States of America,Meat- Other,1991,192342.56
+United States of America,Meat- Other,1992,193623.14
+United States of America,Meat- Other,1993,192678.86
+United States of America,Meat- Other,1994,202247.31
+United States of America,Meat- Other,1995,208588.23
+United States of America,Meat- Other,1996,195430.81
+United States of America,Meat- Other,1997,176867.13
+United States of America,Meat- Other,1998,192073.92
+United States of America,Meat- Other,1999,210656.35
+United States of America,Meat- Other,2000,205218.4
+United States of America,Meat- Other,2001,199438.25
+United States of America,Meat- Other,2002,227895.06
+United States of America,Meat- Other,2003,224897.87
+United States of America,Meat- Other,2004,226881.1
+United States of America,Meat- Other,2005,229949.69
+United States of America,Meat- Other,2006,239740.77
+United States of America,Meat- Other,2007,248911.81
+United States of America,Meat- Other,2008,256473.94
+United States of America,Meat- Other,2009,253727.6
+United States of America,Meat- Other,2010,249816.52
+United States of America,Meat- Other,2011,251838.46
+United States of America,Meat- Other,2012,255781.92
+United States of America,Meat- Other,2013,258652.42
 United States of America,Milk - Excluding Butter,1961,50289293.01
 United States of America,Milk - Excluding Butter,1962,49325726.03
 United States of America,Milk - Excluding Butter,1963,50260127.42
@@ -2649,112 +2649,112 @@ United States of America,Milk - Excluding Butter,2010,78596178.32
 United States of America,Milk - Excluding Butter,2011,78751502.89
 United States of America,Milk - Excluding Butter,2012,81287119.33
 United States of America,Milk - Excluding Butter,2013,81512731.26
-United States of America,"Milk, Whole",1961,36066331.55
-United States of America,"Milk, Whole",1962,31027998.98
-United States of America,"Milk, Whole",1963,34608786.83
-United States of America,"Milk, Whole",1964,35398581.41
-United States of America,"Milk, Whole",1965,37086123.88
-United States of America,"Milk, Whole",1966,38986822.13
-United States of America,"Milk, Whole",1967,37124350.05
-United States of America,"Milk, Whole",1968,37771070.38
-United States of America,"Milk, Whole",1969,36975684.27
-United States of America,"Milk, Whole",1970,37066027.74
-United States of America,"Milk, Whole",1971,37577901.6
-United States of America,"Milk, Whole",1972,32472116.82
-United States of America,"Milk, Whole",1973,37645884.59
-United States of America,"Milk, Whole",1974,30845952.25
-United States of America,"Milk, Whole",1975,31378560.87
-United States of America,"Milk, Whole",1976,33490053.36
-United States of America,"Milk, Whole",1977,31727627.11
-United States of America,"Milk, Whole",1978,31773783.32
-United States of America,"Milk, Whole",1979,35965009.93
-United States of America,"Milk, Whole",1980,31522174.24
-United States of America,"Milk, Whole",1981,31483455.1
-United States of America,"Milk, Whole",1982,34906857.27
-United States of America,"Milk, Whole",1983,35947525.4
-United States of America,"Milk, Whole",1984,32727878.28
-United States of America,"Milk, Whole",1985,33842281.06
-United States of America,"Milk, Whole",1986,34262229.08
-United States of America,"Milk, Whole",1987,34985206.36
-United States of America,"Milk, Whole",1988,34494729.91
-United States of America,"Milk, Whole",1989,33142499.81
-United States of America,"Milk, Whole",1990,32993346.67
-United States of America,"Milk, Whole",1991,32997958.5
-United States of America,"Milk, Whole",1992,32687155.71
-United States of America,"Milk, Whole",1993,32726078.7
-United States of America,"Milk, Whole",1994,33436909.12
-United States of America,"Milk, Whole",1995,34007309.8
-United States of America,"Milk, Whole",1996,32116135.7
-United States of America,"Milk, Whole",1997,32596333.78
-United States of America,"Milk, Whole",1998,32829354
-United States of America,"Milk, Whole",1999,32712559.56
-United States of America,"Milk, Whole",2000,34261349.15
-United States of America,"Milk, Whole",2001,39417314.7
-United States of America,"Milk, Whole",2002,33814295.52
-United States of America,"Milk, Whole",2003,34813492.58
-United States of America,"Milk, Whole",2004,38869273.79
-United States of America,"Milk, Whole",2005,34799053.01
-United States of America,"Milk, Whole",2006,34726129.35
-United States of America,"Milk, Whole",2007,39523087.13
-United States of America,"Milk, Whole",2008,35116588.47
-United States of America,"Milk, Whole",2009,34940609.89
-United States of America,"Milk, Whole",2010,35107398.12
-United States of America,"Milk, Whole",2011,33505813.81
-United States of America,"Milk, Whole",2012,34112863.72
-United States of America,"Milk, Whole",2013,33333540.46
-United States of America,"Molluscs, Other",1961,598705.76
-United States of America,"Molluscs, Other",1962,583505.54
-United States of America,"Molluscs, Other",1963,611441.43
-United States of America,"Molluscs, Other",1964,611732.44
-United States of America,"Molluscs, Other",1965,607879.67
-United States of America,"Molluscs, Other",1966,581721.74
-United States of America,"Molluscs, Other",1967,612156
-United States of America,"Molluscs, Other",1968,626970.98
-United States of America,"Molluscs, Other",1969,614419.59
-United States of America,"Molluscs, Other",1970,710886.67
-United States of America,"Molluscs, Other",1971,710250
-United States of America,"Molluscs, Other",1972,710684.49
-United States of America,"Molluscs, Other",1973,676255
-United States of America,"Molluscs, Other",1974,684808.82
-United States of America,"Molluscs, Other",1975,754647
-United States of America,"Molluscs, Other",1976,784885.42
-United States of America,"Molluscs, Other",1977,873148.15
-United States of America,"Molluscs, Other",1978,920770.36
-United States of America,"Molluscs, Other",1979,919674.11
-United States of America,"Molluscs, Other",1980,921381.1
-United States of America,"Molluscs, Other",1981,1184142.37
-United States of America,"Molluscs, Other",1982,1090136.92
-United States of America,"Molluscs, Other",1983,1158769.78
-United States of America,"Molluscs, Other",1984,1493235.85
-United States of America,"Molluscs, Other",1985,1323486.39
-United States of America,"Molluscs, Other",1986,1200017.13
-United States of America,"Molluscs, Other",1987,1262335.33
-United States of America,"Molluscs, Other",1988,1204316.16
-United States of America,"Molluscs, Other",1989,998378.45
-United States of America,"Molluscs, Other",1990,895769.63
-United States of America,"Molluscs, Other",1991,851891.47
-United States of America,"Molluscs, Other",1992,910122.46
-United States of America,"Molluscs, Other",1993,957624.46
-United States of America,"Molluscs, Other",1994,949923.13
-United States of America,"Molluscs, Other",1995,907054.51
-United States of America,"Molluscs, Other",1996,852171.04
-United States of America,"Molluscs, Other",1997,796407.96
-United States of America,"Molluscs, Other",1998,802871.99
-United States of America,"Molluscs, Other",1999,823492.24
-United States of America,"Molluscs, Other",2000,988663.83
-United States of America,"Molluscs, Other",2001,1001551.9
-United States of America,"Molluscs, Other",2002,1091891.32
-United States of America,"Molluscs, Other",2003,1154474.31
-United States of America,"Molluscs, Other",2004,1176307.25
-United States of America,"Molluscs, Other",2005,1047110.67
-United States of America,"Molluscs, Other",2006,1086880.43
-United States of America,"Molluscs, Other",2007,1094460.17
-United States of America,"Molluscs, Other",2008,1045964.43
-United States of America,"Molluscs, Other",2009,1067750.67
-United States of America,"Molluscs, Other",2010,1085794.03
-United States of America,"Molluscs, Other",2011,1077979.48
-United States of America,"Molluscs, Other",2012,1014210.82
-United States of America,"Molluscs, Other",2013,1057882.44
+United States of America,Milk- Whole,1961,36066331.55
+United States of America,Milk- Whole,1962,31027998.98
+United States of America,Milk- Whole,1963,34608786.83
+United States of America,Milk- Whole,1964,35398581.41
+United States of America,Milk- Whole,1965,37086123.88
+United States of America,Milk- Whole,1966,38986822.13
+United States of America,Milk- Whole,1967,37124350.05
+United States of America,Milk- Whole,1968,37771070.38
+United States of America,Milk- Whole,1969,36975684.27
+United States of America,Milk- Whole,1970,37066027.74
+United States of America,Milk- Whole,1971,37577901.6
+United States of America,Milk- Whole,1972,32472116.82
+United States of America,Milk- Whole,1973,37645884.59
+United States of America,Milk- Whole,1974,30845952.25
+United States of America,Milk- Whole,1975,31378560.87
+United States of America,Milk- Whole,1976,33490053.36
+United States of America,Milk- Whole,1977,31727627.11
+United States of America,Milk- Whole,1978,31773783.32
+United States of America,Milk- Whole,1979,35965009.93
+United States of America,Milk- Whole,1980,31522174.24
+United States of America,Milk- Whole,1981,31483455.1
+United States of America,Milk- Whole,1982,34906857.27
+United States of America,Milk- Whole,1983,35947525.4
+United States of America,Milk- Whole,1984,32727878.28
+United States of America,Milk- Whole,1985,33842281.06
+United States of America,Milk- Whole,1986,34262229.08
+United States of America,Milk- Whole,1987,34985206.36
+United States of America,Milk- Whole,1988,34494729.91
+United States of America,Milk- Whole,1989,33142499.81
+United States of America,Milk- Whole,1990,32993346.67
+United States of America,Milk- Whole,1991,32997958.5
+United States of America,Milk- Whole,1992,32687155.71
+United States of America,Milk- Whole,1993,32726078.7
+United States of America,Milk- Whole,1994,33436909.12
+United States of America,Milk- Whole,1995,34007309.8
+United States of America,Milk- Whole,1996,32116135.7
+United States of America,Milk- Whole,1997,32596333.78
+United States of America,Milk- Whole,1998,32829354
+United States of America,Milk- Whole,1999,32712559.56
+United States of America,Milk- Whole,2000,34261349.15
+United States of America,Milk- Whole,2001,39417314.7
+United States of America,Milk- Whole,2002,33814295.52
+United States of America,Milk- Whole,2003,34813492.58
+United States of America,Milk- Whole,2004,38869273.79
+United States of America,Milk- Whole,2005,34799053.01
+United States of America,Milk- Whole,2006,34726129.35
+United States of America,Milk- Whole,2007,39523087.13
+United States of America,Milk- Whole,2008,35116588.47
+United States of America,Milk- Whole,2009,34940609.89
+United States of America,Milk- Whole,2010,35107398.12
+United States of America,Milk- Whole,2011,33505813.81
+United States of America,Milk- Whole,2012,34112863.72
+United States of America,Milk- Whole,2013,33333540.46
+United States of America,Molluscs- Other,1961,598705.76
+United States of America,Molluscs- Other,1962,583505.54
+United States of America,Molluscs- Other,1963,611441.43
+United States of America,Molluscs- Other,1964,611732.44
+United States of America,Molluscs- Other,1965,607879.67
+United States of America,Molluscs- Other,1966,581721.74
+United States of America,Molluscs- Other,1967,612156
+United States of America,Molluscs- Other,1968,626970.98
+United States of America,Molluscs- Other,1969,614419.59
+United States of America,Molluscs- Other,1970,710886.67
+United States of America,Molluscs- Other,1971,710250
+United States of America,Molluscs- Other,1972,710684.49
+United States of America,Molluscs- Other,1973,676255
+United States of America,Molluscs- Other,1974,684808.82
+United States of America,Molluscs- Other,1975,754647
+United States of America,Molluscs- Other,1976,784885.42
+United States of America,Molluscs- Other,1977,873148.15
+United States of America,Molluscs- Other,1978,920770.36
+United States of America,Molluscs- Other,1979,919674.11
+United States of America,Molluscs- Other,1980,921381.1
+United States of America,Molluscs- Other,1981,1184142.37
+United States of America,Molluscs- Other,1982,1090136.92
+United States of America,Molluscs- Other,1983,1158769.78
+United States of America,Molluscs- Other,1984,1493235.85
+United States of America,Molluscs- Other,1985,1323486.39
+United States of America,Molluscs- Other,1986,1200017.13
+United States of America,Molluscs- Other,1987,1262335.33
+United States of America,Molluscs- Other,1988,1204316.16
+United States of America,Molluscs- Other,1989,998378.45
+United States of America,Molluscs- Other,1990,895769.63
+United States of America,Molluscs- Other,1991,851891.47
+United States of America,Molluscs- Other,1992,910122.46
+United States of America,Molluscs- Other,1993,957624.46
+United States of America,Molluscs- Other,1994,949923.13
+United States of America,Molluscs- Other,1995,907054.51
+United States of America,Molluscs- Other,1996,852171.04
+United States of America,Molluscs- Other,1997,796407.96
+United States of America,Molluscs- Other,1998,802871.99
+United States of America,Molluscs- Other,1999,823492.24
+United States of America,Molluscs- Other,2000,988663.83
+United States of America,Molluscs- Other,2001,1001551.9
+United States of America,Molluscs- Other,2002,1091891.32
+United States of America,Molluscs- Other,2003,1154474.31
+United States of America,Molluscs- Other,2004,1176307.25
+United States of America,Molluscs- Other,2005,1047110.67
+United States of America,Molluscs- Other,2006,1086880.43
+United States of America,Molluscs- Other,2007,1094460.17
+United States of America,Molluscs- Other,2008,1045964.43
+United States of America,Molluscs- Other,2009,1067750.67
+United States of America,Molluscs- Other,2010,1085794.03
+United States of America,Molluscs- Other,2011,1077979.48
+United States of America,Molluscs- Other,2012,1014210.82
+United States of America,Molluscs- Other,2013,1057882.44
 United States of America,Mutton & Goat Meat,1961,398982
 United States of America,Mutton & Goat Meat,1962,402418
 United States of America,Mutton & Goat Meat,1963,384905
@@ -2808,59 +2808,59 @@ United States of America,Mutton & Goat Meat,2010,135418
 United States of America,Mutton & Goat Meat,2011,126250
 United States of America,Mutton & Goat Meat,2012,130408
 United States of America,Mutton & Goat Meat,2013,138877
-United States of America,"Offals, Edible",1961,375789
-United States of America,"Offals, Edible",1962,380988
-United States of America,"Offals, Edible",1963,390257
-United States of America,"Offals, Edible",1964,391148
-United States of America,"Offals, Edible",1965,397080
-United States of America,"Offals, Edible",1966,405488
-United States of America,"Offals, Edible",1967,425481
-United States of America,"Offals, Edible",1968,438919
-United States of America,"Offals, Edible",1969,433465
-United States of America,"Offals, Edible",1970,448242
-United States of America,"Offals, Edible",1971,452671
-United States of America,"Offals, Edible",1972,442004
-United States of America,"Offals, Edible",1973,406416
-United States of America,"Offals, Edible",1974,452235
-United States of America,"Offals, Edible",1975,434714
-United States of America,"Offals, Edible",1976,436224
-United States of America,"Offals, Edible",1977,438843
-United States of America,"Offals, Edible",1978,410791
-United States of America,"Offals, Edible",1979,414042
-United States of America,"Offals, Edible",1980,401696
-United States of America,"Offals, Edible",1981,391594
-United States of America,"Offals, Edible",1982,352606
-United States of America,"Offals, Edible",1983,388481
-United States of America,"Offals, Edible",1984,384919
-United States of America,"Offals, Edible",1985,367950
-United States of America,"Offals, Edible",1986,350935
-United States of America,"Offals, Edible",1987,358800
-United States of America,"Offals, Edible",1988,303804
-United States of America,"Offals, Edible",1989,360393
-United States of America,"Offals, Edible",1990,357656
-United States of America,"Offals, Edible",1991,320062
-United States of America,"Offals, Edible",1992,328175
-United States of America,"Offals, Edible",1993,310096
-United States of America,"Offals, Edible",1994,304630
-United States of America,"Offals, Edible",1995,240874
-United States of America,"Offals, Edible",1996,222824.67
-United States of America,"Offals, Edible",1997,273256
-United States of America,"Offals, Edible",1998,284662.67
-United States of America,"Offals, Edible",1999,278179
-United States of America,"Offals, Edible",2000,171158
-United States of America,"Offals, Edible",2001,205847
-United States of America,"Offals, Edible",2002,312030
-United States of America,"Offals, Edible",2003,301317.67
-United States of America,"Offals, Edible",2004,385807
-United States of America,"Offals, Edible",2005,367096
-United States of America,"Offals, Edible",2006,363137
-United States of America,"Offals, Edible",2007,351015
-United States of America,"Offals, Edible",2008,212342
-United States of America,"Offals, Edible",2009,196752
-United States of America,"Offals, Edible",2010,153738
-United States of America,"Offals, Edible",2011,102018
-United States of America,"Offals, Edible",2012,137838.67
-United States of America,"Offals, Edible",2013,142194
+United States of America,Offals- Edible,1961,375789
+United States of America,Offals- Edible,1962,380988
+United States of America,Offals- Edible,1963,390257
+United States of America,Offals- Edible,1964,391148
+United States of America,Offals- Edible,1965,397080
+United States of America,Offals- Edible,1966,405488
+United States of America,Offals- Edible,1967,425481
+United States of America,Offals- Edible,1968,438919
+United States of America,Offals- Edible,1969,433465
+United States of America,Offals- Edible,1970,448242
+United States of America,Offals- Edible,1971,452671
+United States of America,Offals- Edible,1972,442004
+United States of America,Offals- Edible,1973,406416
+United States of America,Offals- Edible,1974,452235
+United States of America,Offals- Edible,1975,434714
+United States of America,Offals- Edible,1976,436224
+United States of America,Offals- Edible,1977,438843
+United States of America,Offals- Edible,1978,410791
+United States of America,Offals- Edible,1979,414042
+United States of America,Offals- Edible,1980,401696
+United States of America,Offals- Edible,1981,391594
+United States of America,Offals- Edible,1982,352606
+United States of America,Offals- Edible,1983,388481
+United States of America,Offals- Edible,1984,384919
+United States of America,Offals- Edible,1985,367950
+United States of America,Offals- Edible,1986,350935
+United States of America,Offals- Edible,1987,358800
+United States of America,Offals- Edible,1988,303804
+United States of America,Offals- Edible,1989,360393
+United States of America,Offals- Edible,1990,357656
+United States of America,Offals- Edible,1991,320062
+United States of America,Offals- Edible,1992,328175
+United States of America,Offals- Edible,1993,310096
+United States of America,Offals- Edible,1994,304630
+United States of America,Offals- Edible,1995,240874
+United States of America,Offals- Edible,1996,222824.67
+United States of America,Offals- Edible,1997,273256
+United States of America,Offals- Edible,1998,284662.67
+United States of America,Offals- Edible,1999,278179
+United States of America,Offals- Edible,2000,171158
+United States of America,Offals- Edible,2001,205847
+United States of America,Offals- Edible,2002,312030
+United States of America,Offals- Edible,2003,301317.67
+United States of America,Offals- Edible,2004,385807
+United States of America,Offals- Edible,2005,367096
+United States of America,Offals- Edible,2006,363137
+United States of America,Offals- Edible,2007,351015
+United States of America,Offals- Edible,2008,212342
+United States of America,Offals- Edible,2009,196752
+United States of America,Offals- Edible,2010,153738
+United States of America,Offals- Edible,2011,102018
+United States of America,Offals- Edible,2012,137838.67
+United States of America,Offals- Edible,2013,142194
 United States of America,Pelagic Fish,1961,474782.25
 United States of America,Pelagic Fish,1962,550589
 United States of America,Pelagic Fish,1963,505271.1
