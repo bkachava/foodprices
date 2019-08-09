@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food Prices</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" media="screen">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
+	<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
+</head>
+<body>
+ <div class="wrapper">
+   <div class="header">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">  
+          <a class="navbar-brand" href="index.html"> &nbsp;&nbsp;d5-1&nbsp;&nbsp;</a>  
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item"><a class="nav-link" href="index.html">Home</a</li>
+              <li class="nav-item"><a class="nav-link" href="salad.html">Salad</a></li>			  
+              <li class="nav-item"><a class="nav-link" href="farm.html">Farm</a></li>			 
+              <li class="nav-item dropdown d-flex align-items-center"> &nbsp;&nbsp;
+                <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Price Prediction
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="arima.html">ARIMA</a>
+                  <a class="dropdown-item" href="lstm.html">LSTM</a>
+              </li>
+
+            </ul>
+            
+          </div>
+        </nav>
+
+      </div>
+    </div>
+    <div class="content">
+	 <div class="row">  
+     <div class="col-md"></div>
+	  <div class="col-md-10 text-center">
+        <p></p><p></p>  
+        <h3 class="text-center">Long Short-Term Memory (LSTM)</h3>
+        <hr class="my-6">
+        <p class="text-info text-justify font-weight-bold">Background</p>
+        <p class="text-muted text-justify font-weight-bold">Based on past prices, we would like to predict whether 
+            prices will be going up or going down. In this project, we chose the prices of Tomatoes reported by 
+            Mexico to the FAO from 1991 to 2017. Since we only had 27 observations, other algorithms rather than 
+            ARIMA had to be explored.</p>
+        <p class="text-muted text-justify font-weight-bold">We found that Recurrent neural networks (RNNs), one 
+            of the deep learning techniques implemented in TensorFlow, are a powerful and robust type of neural 
+            network that have an internal memory or state, able to remember important things about the input received 
+            and are thus able to predict upcoming events, and that are used for sequential data like time series or 
+            autocompletion of sentences. An extension of RNNs are Long Short-Term Memory (LSTM) networks, which are 
+            well suited to learn from important experiences that have very long-time lags in between. They are 
+            explicitly designed to avoid the long-term dependency problem.</p>
+        
+        </div>
+        <div class="col-md"></div>
+	 </div>
+	 <div class="row">  
+        <div class="col-md"></div>
+        <div class="col-md-10"><p></p><p></p>
+        <p class="text-info text-justify font-weight-bold">LSTM explained</p>
+        <p class="text-muted text-justify font-weight-bold">LSTM networks include memory states that determine what
+             information should be propagated further at each timestep. The LSTM cell looks as follows:</p>
+        <p class="text-center"><img src="./Images/lstm.png" width="50%" height="50%"</></p>
+        <p class="text-muted text-justify font-weight-bold">Here is what happens at every given timestep, t:</p>
+        <p class="text-muted text-justify font-weight-bold">
+           <img src="./Images/ot.png"  width="20px" height="20px" /> is the <span class="text-info">output gate</span>, 
+           which determines what exactly is important for the current prediction and what information should be 
+           kept around for the future.</p>
+        <p class="text-muted text-justify font-weight-bold">           
+           <img src="./Images/it.png" width="20px" height="20px" /> is called the <span class="text-info">input gate</span> 
+           and determines how much we concern ourselves about the current vector (cell).</p>
+        <p class="text-muted text-justify font-weight-bold">
+           <img src="./Images/tildect.png"  width="20px" height="20px" /> is the <span class="text-info">value for the 
+               new memory cell.</span></p>
+        <p class="text-muted text-justify font-weight-bold">               
+           <img src="./Images/ft.png" width="20px" height="20px" /> is the <span class="text-info">forget gate</span>, 
+           which determines how much to forget from the current vector (if the forget gate is 0, we are entirely forgetting the past). 
+        </p>     
+        <p class="text-muted text-justify font-weight-bold">
+            All four have the same equation insight (with its corresponding weights), but <img src="./Images/tildect.png"  width="20px" height="20px" />
+            uses tanh and the others use sigmoid. 
+            Finally, we have the final memory cell <img src="./Images/ct.png"  width="20px" height="20px" /> and 
+            final hidden state <img src="./Images/ht.png"  width="20px" height="20px" /> . 
+        </p>     
+        <p class="text-muted text-justify font-weight-bold">
+            The final memory cell  separates the input and forget gate, and decides how much of the 
+            previous output <img src="./Images/ct_1.png"  width="40px" height="20px" /> 
+            should be kept and how much of the current output   should be propagated forward (in simple 
+            terms, this means: forget the past or not, take the input or not). The final hidden state 
+            decides whether to expose the content of the cell at this particular timestep. 
+        </p>     
+        <p class="text-muted text-justify font-weight-bold">
+            Since some of the information <img src="./Images/ct.png"  width="20px" height="20px" /> from the current 
+            cell may be omitted in <img src="./Images/ht.png"  width="20px" height="20px" />, we are passing <img src="./Images/ct.png"  width="20px" height="20px" /> 
+            forward to be used in the next timesteps.
+        </p>     
+        <p class="text-muted text-justify font-weight-bold">
+            This same system is repeated multiple times through the neural network. Often, it is the case 
+            that several LSTM cells are stacked together and use shared weights and biases. 
+        </p>   
+        </div>   
+        <div class="col-md"></div>
+     </div>
+     <div class="row">  
+            <div class="col-md"></div>
+            <div class="col-md-10"><p></p><p></p>
+            <p class="text-info text-justify font-weight-bold">Implementation</p>
+            <p class="text-muted text-justify font-weight-bold">The dataset was divided into training (90%) and testing (10%). 
+                    For the training dataset, X[0] was formed by a sequence of five prices, from 1991 to 1995, and Y 
+                    was the price in the sixth position (1996), X[1] was formed by a sequence of five prices, from 1992 
+                    to 1996, and Y was the price in the seventh position and so on, until the 90% of the original sequence 
+                    (27 prices of tomatoes reported by Mexico to the FAO from 1991 to 2017) was processed. 
+                    For the testing dataset, X[0] was formed by a sequence of five prices, from 2008 to 2012, and Y was 
+                    the price in the eighteenth position (2013), X[1] was formed by a sequence of five prices, from 2009 
+                    to 2013, and Y was the price in the nineteenth position and so on, until the last 10% of the original 
+                    sequence was processed. 
+                    </p>
+            <p class="text-center"><img src="./Images/dataset.png" width="50%" height="50%"/></p>
+            <p class="text-muted text-justify font-weight-bold">We tried different options of LSTM models using Keras Deep 
+                Learning Models with Scikit-Learn in Python: A simple model (Vanilla) with the Keras regressor, a Hyper 
+                tuned model using GridSearchCV, a simple Bidirectional model, a Bidirectional model with more layers 
+                and the Keras regressor, and a Hyper tuned Bidirectional model using GridSearchCV.</p>
+                <p class="text-muted text-justify font-weight-bold">Because of the way in which the original sequence was
+                        treated, we had predicted values from 1996 to 2017.</p>
+            </div>   
+            <div class="col-md"></div>
+         </div>
+         <div class="row">  
+                <div class="col-md"></div>
+                <div class="col-md-10"><p></p><p></p>
+                <p class="text-info text-justify font-weight-bold">Results</p>
+                <p class="text-muted text-justify font-weight-bold">The performance of all the models was very similar, 
+                    <span class="text-danger">on average the Hyper tuned Bidirectional model using GridSearchCV was 
+                        better</span>, because the difference between the actual and
+                        the predicted values was smaller. In the following images, we can see the main differences:</p><p></p>
+                <p class="text-muted text-justify font-weight-bold">
+                    <ul>
+                        <li class="text-primary font-weight-bold">Simple model (Vanilla) with the Keras regressor.</li>
+                        <p class="text-primary text-justify">2000 and 2007 were the years in which the model predictions were closer to the actual values.</p>
+                        <p class="text-primary text-justify">2002 and 2004 were the years in which the model predictions were further from the actual values.</p>
+                        <p></p>
+                        <p class="text-center"><img src="./Images/lstm_van.png"  width="80%" height="80%" /></p>
+                        <li class="text-primary font-weight-bold">Hyper tuned model using GridSearchCV</li>
+                        <p class="text-primary text-justify">Although the predictions between the simple and the Hyper tuned model are very similar for 
+                                most of the years, in 2008 and 2010 the Hyper tuned model predictions were closer to the actual values.</p>
+                        <p class="text-primary text-justify">Again, 2002 and 2004 were the years in which the model predictions were further 
+                            from the actual values. We can see that 2004 was the year with the highest price and 2002 is one of the years with 
+                            lower prices.</p>                        
+                        <p></p>
+
+                        <p class="text-center"><img src="./Images/lstm_van_gs.png"  width="80%" height="80%" /></p>                        
+                        <li class="text-primary font-weight-bold">Simple Bidirectional model</li>
+                        <p class="text-primary text-justify">In this type of model, where the sequence is analyzed in both directions,
+                            the predicted value for the year 2000 remained closer to the actual value, but we saw a change in the years
+                            were the predicted values were further from the actual values (2004 and 2012).</p>
+                        <p class="text-center"><img src="./Images/lstm_bi.png"  width="80%" height="80%" /></p>                        
+                        <li class="text-primary font-weight-bold">Bidirectional model with more layers and the Keras regressor</li>
+                        <p class="text-primary text-justify">On average, adding more layers had the unwanted effect of
+                            incremeting the differences between the actual and the predicted values.</p>
+                        <p class="text-center"><img src="./Images/lstm_bi_lay.png"  width="80%" height="80%" /></p>
+                        <li class="text-primary font-weight-bold">Hyper tuned Bidirectional model using GridSearchCV</li>
+                        <p class="text-primary text-justify">However after the hyper tuning, the Bidirectional model with 
+                            more layers performed better than the previous models, on average.</p>
+                        <p class="text-primary text-justify">In ten years (2001, 2002, 2009, 2011-2017), the predicted 
+                            values were closer to the actual values. </p>
+                                    
+                        <p class="text-center"><img src="./Images/lstm_bi_gs.png"  width="80%" height="80%" /></p>                        
+                    </ul>    
+                </p>
+                </div>   
+                <div class="col-md"></div>
+             </div>
+             <div class="row">  
+                <div class="col-md-2"></div>
+                <div class="col-md-10 text-center"><p></p><p></p>
+                    <p class="text-info text-justify font-weight-bold ">Explore the results</p><p></p>
+                     <div class='tableauPlaceholder' id='viz1565329749135' style='position: relative'>
+                        <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LS&#47;LSTM&#47;LSTM&#47;1_rss.png' style='border: none' /></a>
+                        </noscript>
+                        <object class='tableauViz'  style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                        <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+                        <param name='name' value='LSTM&#47;LSTM' />
+                        <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+                        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LS&#47;LSTM&#47;LSTM&#47;1.png' /> 
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='filter' value='publish=yes' />
+                        </object>
+                     </div>                
+                     <script type='text/javascript'>                    
+                        var divElement = document.getElementById('viz1565329749135');
+                        var vizElement = divElement.getElementsByTagName('object')[0];
+                        vizElement.style.width='90%';vizElement.style.height=(divElement.offsetWidth*0.6)+'px';
+                        var scriptElement = document.createElement('script');
+                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+                        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+                     </script>
+                </div>
+
+            </div>
+            <div class="row">  
+                <div class="col-md"></div>
+                <div class="col-md-10"><p></p><p></p>
+                   <p class="text-info text-justify font-weight-bold">Further analysis</p>
+                   <p class="text-muted text-justify font-weight-bold">See the code >>
+                       <a href="https://github.com/bkachava/foodprices/blob/master/Notebook/lstm_prices.ipynb" target="blank">here</a>
+                   </p>
+                   <p class="text-muted text-justify font-weight-bold">The models can be changed to predict more than one value, 
+                        in order to used them for price forecasting. You will need to modify the code for the Y values to send more 
+                        than one output value to the model and specify, in the layer Dense, the corresponding number of output values. 
+                   </p>
+                </div>   
+                <div class="col-md"></div>
+             </div>
+             <div class="row">  
+                <div class="col-md"></div>
+                <div class="col-md-10">
+                  <p class="text-info text-justify font-weight-bold">References</p>
+                  <p class="text-muted text-justify font-weight-bold">Mastering Python for Finance - Second Edition, 
+                      by James Ma Weiming, Publisher: Packt Publishing, Release Date: April 2019, ISBN: 9781789346466.</p>
+                  <p class="text-muted text-justify font-weight-bold">Recurrent Neural Networks with Python Quick Start 
+                      Guide, by Simeon Kostadinov, Publisher: Packt Publishing, Release Date: November 2018, 
+                      ISBN: 9781789132335.</p>
+                  <p class="text-muted text-justify font-weight-bold">Hands-On Deep Learning with TensorFlow 2.0, 
+                      by Akshat Gupta, Ekta Saraogi, Published by Packt Publishing 2019.</p>
+                </div>   
+                <div class="col-md"></div>
+             </div>             
+	</div>
+</div>	
+</body>
+</html>
