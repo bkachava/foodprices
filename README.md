@@ -2,7 +2,17 @@
 
 ## Background
 
-...
+By the year 2050, the world population is expected to grow to 9.7 billion, and
+México will have 148 million of inhabitants.
+
+As populations rise, urbanization increases and incomes grow, the agricultural
+sector will be under mounting pressure to meet the demand for safe and nutritious
+food.
+
+Through this analysis, we will try to answer what is the participation of Mexico in 
+the production of food, how Mexico compares in food prices with other countries and
+how the production in Mexico has changed over the years.
+
 
 ## Data Analysis Process
 
