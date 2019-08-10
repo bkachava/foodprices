@@ -66,7 +66,173 @@
     <div class="content">
 	 <div class="row">  
 	    <div class="col-md-12">
-		<p></p><p></p>
+          <div class="col-md-10 text-center">
+    <p></p><p></p>
+    
+
+    
+    <h3 class="text-center">Auto Regressive Integrated Moving Average (ARIMA)</h3>
+    <hr class="my-6">
+
+<!---------------->
+
+    <p class="text-info text-justify font-weight-bold">Background</p>
+    <p class="text-muted text-justify font-weight-bold">The purpose of this analysis is to predict the price of 
+      tomato (saladette, the red one..) in Mexico City, which is one of the most consumed products 
+      locally and is also exported overseas. 
+      The model used for this time series prediction is ARIMA since the data we have is a time series.
+
+      This dataset contains the monthly average prices of basic food products for Mexico from 
+      january 2011 to july 2018, gathered by INEGI from publishments on the Official Federation 
+      Journal. Total observations are 91, this is important since ARIMA model, according to Box and Jenkins, 
+      requires a minimum of 50.
+    </p>
+    </div>
+
+    <div class="col-md"></div>
+</div>
+<!-------------------->
+
+ <div class="row">  
+        <div class="col-md"></div>
+        <div class="col-md-10"><p></p><p></p>
+        <p class="text-info text-justify font-weight-bold">Implementation</p>
+        <p class="text-primary text-justify">Since for time series it is better to consider
+          full periods, in this case a full year, the months for 2018 were excluded since we only have till
+          july. The rest of the dataset comprising january-2011 to december-2017 was split in a 70%-30%
+          proportion.
+
+        </p>
+
+          <ul>
+              <li class= "text-primary text-justify">Train-dataset: 2011 to 2015 (60 months)</li>
+              <li class= "text-primary text-justify">Test-dataset: 2016 and 2017 (24 months)</li>
+              <li class= "text-primary text-justify">Dickey Fuller test was performed to the training-dataset in order to verify stationality</li>
+              <li class= "text-primary text-justify">In order reduce variability, the series was differentiated by 1 interval</li>
+              <li class= "text-primary text-justify">In order to determine ARIMA parameters, Autocorrelation and 
+                Partial Autocorrelation plots were used.</li>
+                <p class= "text-primary text-justify">As per the plots below, autocorrelation is significant at the 1st and 3rd lag as 
+                  per partial correlation is significant at the 1st and 3rd lags and also at the 11th and close to the 36th and 37th lag. </p>
+          </ul>
+
+        <p class="text-center"><img src="./Images/ACF_PACF_diff.png" width="60%" height="60%"/></p>
+
+        <ul>
+          <li class= "text-primary text-justify">Since data was differentiated by one interval, the value of parameter "d" is 1</li>
+        </ul>
+
+        <p class="text-primary text-justify"> After trying several models, the best one turned to be ARIMA (3,1,1)
+          with a MSE (Mean Squared Error) of 17.79 equivalent to +-4.22MXN per kg.</p>
+        </div>  
+  
+        <div class="col-md"></div>
+     </div>
+<!-- -------------------------->
+
+     <div class="row">  
+            <div class="col-md"></div>
+            <div class="col-md-10"><p></p><p></p>
+            <p class="text-info text-justify font-weight-bold">Results</p>
+            <p class="text-primary text-justify">The plotted real and predicted values look as follows.</p>
+          </p>       
+                    <p></p>
+                  
+                    <div class="row">  
+                        <div class="col-md"></div>
+                        <div class="col-md-10">
+                               
+                        
+                    <!-- Tableau graph -->
+                  
+                    <div class='tableauPlaceholder' id='viz1565409257803' style='position: relative'>
+                      <noscript><a href='#'>
+                        <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TomatoPricePrediction&#47;ARIMA-TomatoPricePredictionCDMX&#47;1_rss.png' style='border: none' />
+                      </a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                        <param name='embed_code_version' value='3' /> 
+                        <param name='site_root' value='' />
+                        <param name='name' value='TomatoPricePrediction&#47;ARIMA-TomatoPricePredictionCDMX' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TomatoPricePrediction&#47;ARIMA-TomatoPricePredictionCDMX&#47;1.png' /> 
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='filter' value='publish=yes' /></object>
+                      </div>
+                      <script type='text/javascript'>
+                      var divElement = document.getElementById('viz1565409257803');                    
+                      var vizElement = divElement.getElementsByTagName('object')[0];                    
+                      vizElement.style.width='95%';
+                      vizElement.style.height=(divElement.offsetWidth*0.70)+'px';                    
+                      var scriptElement = document.createElement('script');                   
+                       scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+                       vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+                       </script>
+                   
+                  </div>
+                  <div class="col-md"></div>
+             
+          </div>
+
+                   <p></p>
+
+            <p class="text-primary text-justify">The plot looks fairly good in the first part as it follows the changes
+               in price in a similar way but with a delay of one period. The predictions made outside the 
+               iterations and retrainment with the test-dataset are trying to follow the upward trend however they 
+               are failing to catch the ups and downs.</p>              
+           
+            </div>   
+            <div class="col-md"></div>
+         </div>
+
+<!------------------------>
+
+<div class="row">  
+            <div class="col-md"></div>
+            <div class="col-md-10">
+              <p class="text-info text-justify font-weight-bold">So, what is tomato's price today?</p>
+              <p class="text-primary text-justify">According to SNIMM 
+                (Sistema Nacional de Información e Integración de Mercados) the wholesale price is the following. </p>
+              
+              <p class="text-center"><img src="./Images/SNIIM_jitomate_09082019.jpg" width="60%" height="60%"/></p>
+
+              <p class="text-primary text-justify">Meaning, <p>
+
+              <p class="text-center"><img src="./Images/SNIIM_jitomate_09082019_1kg.jpg" width="40%" height="40%"/></p>
+
+              <p class="text-primary text-justify">The 
+                  <a class="text-muted text-justify font-weight-bold" href="https://www.google.com/search?biw=1280&bih=578&tbm=shop&ei=zFNOXeMFmdK1BomUi5gE&q=precio+jitomate+saladette+kg&oq=precio+jitomate+saladette+kg&gs_l=psy-ab.3...397697.399696.0.399962.7.5.2.0.0.0.139.544.2j3.5.0....0...1.1.64.psy-ab..0.0.0....0.yvCsa_HfUi8" target="blank"> retail price</a>
+             is usually higher and may vary from store.
+                </p>
+
+            </div>   
+            <div class="col-md"></div>
+</div>
+
+
+<!-- -------------------------- -->
+
+        <div class="row">  
+            <div class="col-md"></div>
+            <div class="col-md-10"><p></p><p></p>
+               <p class="text-info text-justify font-weight-bold">Further analysis</p>
+               <p class="text-muted text-justify font-weight-bold">See the code >>
+                   <a href="https://github.com/bkachava/foodprices/blob/master/Notebook/Tomato%20(Saladette)%20ARIMA%20prediction.ipynb" target="blank">here</a>
+               </p>
+               
+            </div>   
+            <div class="col-md"></div>
+         </div>
+
+
+
+
+
+
+
+
 		</div>
 	 </div>
 	</div>
