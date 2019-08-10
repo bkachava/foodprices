@@ -73,6 +73,8 @@ more than once to refine the analysis.
 
 * Publish datasets in `AWS Athena` to use them as data sources in `Tableau`.
 
+![aws](/Dashboard/Images/aws.png)
+
 * Design individual visualizations in Tableau and combine them in Tableau dashboards.
 
 * Publish visualizations in Tableau Public to make them available for the final dashboard.
@@ -89,5 +91,7 @@ more than once to refine the analysis.
 * Link the documentation with the Machine Learning results.
 
 See the [dashboard](https://bkachava.github.io/foodprices/Dashboard/index.html).
+
+![dash](/Dashboard/Images/dashboard.png)
 
 
