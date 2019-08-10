@@ -54,23 +54,15 @@
                   <a class="dropdown-item" href="lstm.html">LSTM</a>
               </li>		 
             </ul>
-
-
-            </ul>
-            
           </div>
         </nav>
-
       </div>
     </div>
     <div class="content">
 	 <div class="row">  
-	    <div class="col-md-12">
-          <div class="col-md-10 text-center">
-    <p></p><p></p>
-    
-
-    
+	    <div class="col-md"></div>
+      <div class="col-md-10 text-center">
+      <p></p><p></p>
     <h3 class="text-center">Auto Regressive Integrated Moving Average (ARIMA)</h3>
     <hr class="my-6">
 
@@ -97,7 +89,7 @@
         <div class="col-md"></div>
         <div class="col-md-10"><p></p><p></p>
         <p class="text-info text-justify font-weight-bold">Implementation</p>
-        <p class="text-primary text-justify">Since for time series it is better to consider
+        <p class="text-muted text-justify font-weight-bold">Since for time series it is better to consider
           full periods, in this case a full year, the months for 2018 were excluded since we only have till
           july. The rest of the dataset comprising january-2011 to december-2017 was split in a 70%-30%
           proportion.
@@ -121,7 +113,7 @@
           <li class= "text-primary text-justify">Since data was differentiated by one interval, the value of parameter "d" is 1</li>
         </ul>
 
-        <p class="text-primary text-justify"> After trying several models, the best one turned to be ARIMA (3,1,1)
+        <p class="text-muted text-justify font-weight-bold"> After trying several models, the best one turned to be ARIMA (3,1,1)
           with a MSE (Mean Squared Error) of 17.79 equivalent to +-4.22MXN per kg.</p>
         </div>  
   
@@ -133,13 +125,13 @@
             <div class="col-md"></div>
             <div class="col-md-10"><p></p><p></p>
             <p class="text-info text-justify font-weight-bold">Results</p>
-            <p class="text-primary text-justify">The plotted real and predicted values look as follows.</p>
+            <p class="text-muted text-justify">The plotted real and predicted values look as follows.</p>
           </p>       
                     <p></p>
                   
                     <div class="row">  
                         <div class="col-md"></div>
-                        <div class="col-md-10">
+                        <div class="col-md-10 text-center">
                                
                         
                     <!-- Tableau graph -->
@@ -178,7 +170,7 @@
 
                    <p></p>
 
-            <p class="text-primary text-justify">The plot looks fairly good in the first part as it follows the changes
+            <p class="text-muted text-justify font-weight-bold">The plot looks fairly good in the first part as it follows the changes
                in price in a similar way but with a delay of one period. The predictions made outside the 
                iterations and retrainment with the test-dataset are trying to follow the upward trend however they 
                are failing to catch the ups and downs.</p>              
@@ -193,16 +185,16 @@
             <div class="col-md"></div>
             <div class="col-md-10">
               <p class="text-info text-justify font-weight-bold">So, what is tomato's price today?</p>
-              <p class="text-primary text-justify">According to SNIMM 
+              <p class="text-muted text-justify font-weight-bold">According to SNIIM 
                 (Sistema Nacional de Información e Integración de Mercados) the wholesale price is the following. </p>
               
               <p class="text-center"><img src="./Images/SNIIM_jitomate_09082019.jpg" width="60%" height="60%"/></p>
 
-              <p class="text-primary text-justify">Meaning, <p>
+              <p class="text-muted text-justify font-weight-bold">Meaning, <p>
 
               <p class="text-center"><img src="./Images/SNIIM_jitomate_09082019_1kg.jpg" width="40%" height="40%"/></p>
 
-              <p class="text-primary text-justify">The 
+              <p class="text-muted text-justify font-weight-bold">The 
                   <a class="text-muted text-justify font-weight-bold" href="https://www.google.com/search?biw=1280&bih=578&tbm=shop&ei=zFNOXeMFmdK1BomUi5gE&q=precio+jitomate+saladette+kg&oq=precio+jitomate+saladette+kg&gs_l=psy-ab.3...397697.399696.0.399962.7.5.2.0.0.0.139.544.2j3.5.0....0...1.1.64.psy-ab..0.0.0....0.yvCsa_HfUi8" target="blank"> retail price</a>
              is usually higher and may vary from store.
                 </p>
@@ -225,14 +217,6 @@
             </div>   
             <div class="col-md"></div>
          </div>
-
-
-
-
-
-
-
-
 		</div>
 	 </div>
 	</div>
